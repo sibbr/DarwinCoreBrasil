@@ -1,3 +1,3 @@
 # DarwinCoreBrasil
-Discussão termos darwin core e boas práticas
+https://dwc.tdwg.org/terms/
 ## Justificativa
