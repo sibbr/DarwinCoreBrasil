@@ -2,6 +2,7 @@
 Termos DarwinCore para compartilhamento de dados e informações em biodiversidade com o objetivo identificar termos com vocabulário controlado e definir um conjunto de boas práticas no uso do padrão no Brasil junto com todas as instituições e organizações que produzem dados. 
 https://dwc.tdwg.org/terms/
 ## Justificativa
+O uso do padrão DarwinCore para compartilhamento de dados em biobiversidade tem aumentado no Brasil sendo que quase todas as instituições, organizações, fundações, programas e projetos que trabalham com dados tem publicado em alguma plataforma seja nacional ou internacional. Devido a grande heterogeneidade de tipos de dados, coleções e grupos existem dúvidas nos preenchimentos de cada campo. A discussão dos termos e melhores práticas vai contribuir a organizar os dados corretamente no Brasil, tendo em consideração todas as instituições e suas respetivas demandas e termos a serem considerados e compartilhados. 
 ## Termos DarwinCore
 
 |Termo                          |Classe         |Definição                                                                                                                                                                                                                                                                                  |Discussão |
