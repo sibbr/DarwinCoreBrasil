@@ -10,6 +10,24 @@ O uso do padrão DarwinCore para compartilhamento de dados em biobiversidade tem
 
 ### Record-level
 
+> :warning:  Considerem este formato ao invés da tabela, pois ele pode crescer sem problemas.
+
+|[datasetName](https://github.com/sibbr/DarwinCoreBrasil/issues/1)||
+|--|--|
+| Identificador| http://rs.tdwg.org/dwc/terms/datasetName |
+| Definição | O nome que identifica o conjunto de dados do qual o registro foi derivado. |
+| Domínio | n.a. |
+| Exemplos | Abelhas de Itatiaia | 
+---
+|[type](https://github.com/sibbr/DarwinCoreBrasil/issues/2)||
+|--|--|
+| Identificador | http://purl.org/dc/elements/1.1/type |
+| Definição | A natureza ou gênero do recurso. |
+| Domínio | StillImage, MovingImage, Sound, PhysicalObject, Event, Text |
+| Exemplos |  | 
+---
+---
+
 | Termo | Definição | Domínio |
 | :--- | :--- | :--- |
 |[datasetName](https://github.com/sibbr/DarwinCoreBrasil/issues/1)|O nome que identifica o conjunto de dados do qual o registro foi derivado.| |
