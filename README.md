@@ -162,7 +162,8 @@ O uso do padrão DarwinCore para compartilhamento de dados em biobiversidade tem
       <td style="text-align: left">Exemplos</td>
       <td style="text-align: left">
         <ul>
-          <li>2022-04-23 | 2023-07-06</li>
+          <li>2023-07-06</li>
+          <li>2022-04-23</li>
         </ul>
       </td>
     </tr>
