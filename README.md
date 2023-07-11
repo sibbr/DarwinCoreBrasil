@@ -45,11 +45,16 @@ O uso do padrão DarwinCore para compartilhamento de dados em biobiversidade tem
       <td style="text-align: left">
         <ul>
           <li>
-            Coleções:
+            Coleções de Zoologia:
             <a
               href="https://collectory.sibbr.gov.br/collectory/public/show/co97"
               >Coleção de Mamíferos do MNRJ</a
-            >
+          </li>
+          <li>
+            Herbários:
+            <a
+              href="https://collectory.sibbr.gov.br/collectory/public/show/dr839"
+              >Rio de Janeiro Botanical Garden Herbarium Collection</a
           </li>
           <li>
             Subcoleções: <a href="https://collectory.sibbr.gov.br/collectory/public/showDataResource/dr895">Coleção/Subcoleção de Odonata da Coleção de
