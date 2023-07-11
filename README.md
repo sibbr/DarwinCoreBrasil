@@ -6000,7 +6000,7 @@ O uso do padrão DarwinCore para compartilhamento de dados em biobiversidade tem
     <tr>
       <td style="text-align: left">Domínio</td>
       <td style="text-align: left">
-        SOBRENOME, Inicial nome) | Sobrenome, Inicial nome
+        SOBRENOME, Inicial nome | Sobrenome, Inicial nome
       </td>
     </tr>
     <tr>
@@ -7826,7 +7826,7 @@ O uso do padrão DarwinCore para compartilhamento de dados em biobiversidade tem
           <li>
             <a
               href="https://ala-hub.sibbr.gov.br/ala-hub/occurrences/c7703576-ada5-460e-938a-996dea3a9277"
-              >ICMBio</a
+              >Coleções de zoologia</a
             >
           </li>
         </ul>
