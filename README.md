@@ -52,9 +52,8 @@ O uso do padrão DarwinCore para compartilhamento de dados em biobiversidade tem
             >
           </li>
           <li>
-            Subcoleções: [Coleção/Subcoleção de Odonata da Coleção de
-            Entomologia do MNRJ
-            (https://collectory.sibbr.gov.br/collectory/public/showDataResource/dr895)
+            Subcoleções: <a href="https://collectory.sibbr.gov.br/collectory/public/showDataResource/dr895">Coleção/Subcoleção de Odonata da Coleção de
+            Entomologia do MNRJ</a>
           </li>
           <li>
             Programa PELD:
@@ -66,9 +65,8 @@ O uso do padrão DarwinCore para compartilhamento de dados em biobiversidade tem
             >
           </li>
           <li>
-            Programa PPBio: [PPBioMA | PPBio: Morcegos no Parque Nacional da
-            Chapada dos Guimarães
-            (https://collectory.sibbr.gov.br/collectory/public/show/dr651)
+            Programa PPBio: <a href="https://collectory.sibbr.gov.br/collectory/public/show/dr651">PPBioMA | PPBio: Morcegos no Parque Nacional da
+            Chapada dos Guimarães</a>
           </li>
           <li>
             Projeto de pesquisa: PREVIR:
