@@ -47,7 +47,7 @@ O uso do padrão DarwinCore para compartilhamento de dados em biobiversidade tem
           <li>
             Coleções de Zoologia:
             <a
-              href="https://collectory.sibbr.gov.br/collectory/public/show/co97"
+              href="https://collectory.sibbr.gov.br/collectory/public/show/dr797"
               >Coleção de Mamíferos do MNRJ</a
           </li>
           <li>
