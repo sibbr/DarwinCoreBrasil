@@ -1,8 +1,10 @@
 # DarwinCoreBrasil
 Termos DarwinCore para compartilhamento de dados e informações em biodiversidade com o objetivo identificar termos com vocabulário controlado e definir um conjunto de boas práticas no uso do padrão no Brasil junto com todas as instituições e organizações que produzem dados. 
 https://dwc.tdwg.org/terms/
+
 ## Justificativa
 O uso do padrão DarwinCore para compartilhamento de dados em biobiversidade tem aumentado no Brasil sendo que quase todas as instituições, organizações, fundações, programas e projetos que trabalham com dados tem publicado em alguma plataforma seja nacional ou internacional. Devido a grande heterogeneidade de tipos de dados, coleções e grupos existem dúvidas nos preenchimentos de cada campo. A discussão dos termos e melhores práticas vai contribuir a organizar os dados corretamente no Brasil, tendo em consideração todas as instituições e suas respetivas demandas e termos a serem considerados e compartilhados. 
+
 ## Classes e Termos DarwinCore
 
 | [Record-level](https://github.com/sibbr/DarwinCoreBrasil#record-level) | [Ocurrence](https://github.com/sibbr/DarwinCoreBrasil#occurrence) | [Organism](https://github.com/sibbr/DarwinCoreBrasil#organism) | [MaterialSample](https://github.com/sibbr/DarwinCoreBrasil#materialsample)| [Event](https://github.com/sibbr/DarwinCoreBrasil#event) | [Location](https://github.com/sibbr/DarwinCoreBrasil#location) | [GeologicalContext](https://github.com/sibbr/DarwinCoreBrasil#geologicalcontext) | [Identification](https://github.com/sibbr/DarwinCoreBrasil#identification) | [Taxon](https://github.com/sibbr/DarwinCoreBrasil#taxon) | [MeasurementOrFact](https://github.com/sibbr/DarwinCoreBrasil#measurementorfact)
@@ -238,9 +240,8 @@ O uso do padrão DarwinCore para compartilhamento de dados em biobiversidade tem
       <td style="text-align: left">
         <ul>
           <li>
-            [Termo de uso SiBBr](<a
-              href="https://sibbr.gov.br/page/termo-de-uso-de-dados.html"
-              >https://sibbr.gov.br/page/termo-de-uso-de-dados.html</a
+            <a href="https://sibbr.gov.br/page/termo-de-uso-de-dados.html"
+              >Termo de uso SiBBr</a
             >
           </li>
           <li>
@@ -300,12 +301,12 @@ O uso do padrão DarwinCore para compartilhamento de dados em biobiversidade tem
       <td style="text-align: left">Exemplos</td>
       <td style="text-align: left">
         <ul>
-          <li>
-            Universidade do Vale do Taquari | Fundação Renova | Programa de
-            Pesquisas em Biodiversidade | Museu de Pesquisas da Amazônia |
-            Instituto Profauna | Conselho Nacional de Desenvolvimento Científico
-            e Tecnológico
-          </li>
+          <li>Universidade do Vale do Taquari</li>
+          <li>Fundação Renova</li>
+          <li>Programa de Pesquisas em Biodiversidade</li>
+          <li>Museu de Pesquisas da Amazônia</li>
+          <li>Instituto Profauna</li>
+          <li>Conselho Nacional de Desenvolvimento Científico e Tecnológico</li>
         </ul>
       </td>
     </tr>
@@ -401,7 +402,7 @@ O uso do padrão DarwinCore para compartilhamento de dados em biobiversidade tem
       <td style="text-align: left">Exemplos</td>
       <td style="text-align: left">
         <ul>
-          <li>NA</li>
+          <!-- <li>NA</li> -->
         </ul>
       </td>
     </tr>
@@ -442,47 +443,22 @@ O uso do padrão DarwinCore para compartilhamento de dados em biobiversidade tem
       <td style="text-align: left">Exemplos</td>
       <td style="text-align: left">
         <ul>
-          <li>[Flora] (Shimizu, G.H.</li>
-          <li>Souza, L.F.</li>
-          <li>Gonçalves, D.J.P.</li>
-          <li>
-            França, F. Vochysiaceae in Flora e Funga do Brasil. Jardim Botânico
-            do Rio de Janeiro. Disponível em:
-            <a href="https://floradobrasil.jbrj.gov.br/FB15294"
-              >https://floradobrasil.jbrj.gov.br/FB15294</a
-            >. Acesso em: 07 jul. 2023 )
-          </li>
-          <li>
-            [Fauna](Abreu-Júnior EF,Casali D 2023. Myrmecophagidae in Catálogo
-            Taxonômico da Fauna do Brasil. PNUD. Disponível em:
-            <a href="http://fauna.jbrj.gov.br/fauna/faunadobrasil/40390"
-              >http://fauna.jbrj.gov.br/fauna/faunadobrasil/40390</a
-            >. Acesso em: 07 Jul. 2023)
-          </li>
-          <li>
-            [Fungo CoL]( Kirk, P. (2023). Species Fungorum Plus. In O. Bánki, Y.
-            Roskov, M. Döring, G. Ower, D. R. Hernández Robles, C. A. Plata
-            Corredor, T. Stjernegaard Jeppesen, A. Örn, L. Vandepitte, D.
-            Hobern, P. Schalk, R. E. DeWalt, M. Keping, J. Miller, T. Orrell, R.
-            Aalbu, J. Abbott, R. Adlard, E. M. Adriaenssens, et al., Catalogue
-            of Life Checklist (Jan 2023). Royal Botanic Gardens, Kew.
-            <a href="https://doi.org/10.48580/dfsr-4hj"
-              >https://doi.org/10.48580/dfsr-4hj</a
-            >)
-          </li>
-          <li>
-            [Bactéria GBIF](da Silva Soares Souto A, Rocha C (2022).
-            Fiocruz/CCBH - Coleção de Culturas de Bactérias de Origem
-            Hospitalar. Version 1.1576. FIOCRUZ - Oswaldo Cruz Foundation.
-            Occurrence dataset
-            <a href="https://doi.org/10.15468/jb9tx8"
-              >https://doi.org/10.15468/jb9tx8</a
-            >
-            accessed via GBIF.org on 2023-07-07.
-            <a href="https://www.gbif.org/occurrence/1413024965"
-              >https://www.gbif.org/occurrence/1413024965</a
-            >)
-          </li>
+        <li>
+        Shimizu, G.H.; Souza, L.F.; Gonçalves, D.J.P.; França, F. Vochysiaceae in Flora e Funga do Brasil. Jardim Botânico do Rio de Janeiro. Disponível em: <a href="https://floradobrasil.jbrj.gov.br/FB15294">https://floradobrasil.jbrj.gov.br/FB15294</a>. Acesso em: 07 jul. 2023
+        </li>
+
+        <li>
+        Abreu-Júnior EF,Casali D 2023. Myrmecophagidae in Catálogo Taxonômico da Fauna do Brasil. PNUD. Disponível em: <a href="http://fauna.jbrj.gov.br/fauna/faunadobrasil/40390" >http://fauna.jbrj.gov.br/fauna/faunadobrasil/40390</a >. Acesso em: 07 Jul. 2023
+        </li>
+
+        <li>
+        Kirk, P. (2023). Species Fungorum Plus. In O. Bánki, Y. Roskov, M. Döring, G. Ower, D. R. Hernández Robles, C. A. Plata Corredor, T. Stjernegaard Jeppesen, A. Örn, L. Vandepitte, D. Hobern, P. Schalk, R. E. DeWalt, M. Keping, J. Miller, T. Orrell, R. Aalbu, J. Abbott, R. Adlard, E. M. Adriaenssens, et al., Catalogue of Life Checklist (Jan 2023). Royal Botanic Gardens, Kew. <a href="https://doi.org/10.48580/dfsr-4hj" >https://doi.org/10.48580/dfsr-4hj</a>
+        </li>
+
+        <li>
+        da Silva Soares Souto A, Rocha C (2022). Fiocruz/CCBH - Coleção de Culturas de Bactérias de Origem Hospitalar. Version 1.1576. FIOCRUZ - Oswaldo Cruz Foundation. Occurrence dataset <a href="https://doi.org/10.15468/jb9tx8" >https://doi.org/10.15468/jb9tx8</a > accessed via GBIF.org on 2023-07-07. <a href="https://www.gbif.org/occurrence/1413024965" >https://www.gbif.org/occurrence/1413024965</a >
+        </li>
+
         </ul>
       </td>
     </tr>
@@ -523,7 +499,7 @@ O uso do padrão DarwinCore para compartilhamento de dados em biobiversidade tem
       <td style="text-align: left">Exemplos</td>
       <td style="text-align: left">
         <ul>
-          <li>NA</li>
+          <!-- <li>NA</li> -->
         </ul>
       </td>
     </tr>
@@ -564,7 +540,7 @@ O uso do padrão DarwinCore para compartilhamento de dados em biobiversidade tem
       <td style="text-align: left">Exemplos</td>
       <td style="text-align: left">
         <ul>
-          <li>NA</li>
+          <!-- <li>NA</li> -->
         </ul>
       </td>
     </tr>
@@ -737,7 +713,7 @@ O uso do padrão DarwinCore para compartilhamento de dados em biobiversidade tem
       <td style="text-align: left">Exemplos</td>
       <td style="text-align: left">
         <ul>
-          <li>NA</li>
+          <!-- <li>NA</li> -->
         </ul>
       </td>
     </tr>
@@ -824,7 +800,7 @@ O uso do padrão DarwinCore para compartilhamento de dados em biobiversidade tem
       <td style="text-align: left">Domínio</td>
       <td style="text-align: left">
         Coordenadas exatas disponíveis | Identificação até nivel de espécie
-        disponível e não publicado |
+        disponível e não publicado
       </td>
     </tr>
     <tr>
@@ -932,7 +908,9 @@ O uso do padrão DarwinCore para compartilhamento de dados em biobiversidade tem
   </tbody>
 </table>
 
---- ### Occurrence
+--- 
+
+### Occurrence
 
 <table>
   <tr class="table-secondary">
@@ -964,19 +942,19 @@ O uso do padrão DarwinCore para compartilhamento de dados em biobiversidade tem
     <tr>
       <td style="text-align: left">Domínio</td>
       <td style="text-align: left">
-        Coleção: [BR]:[InstitutionCode]:[CollectionCode]:[CatalogNumber]; Evento
-        amostragem: [EventID]_[id] | [EventID]_[Placa árvore ou anel captura];
+        <ul>
+        <li>Coleção: [BR]:[InstitutionCode]:[CollectionCode]:[CatalogNumber]</li>
+        <li>Evento amostragem: [EventID]_[id] | [EventID]_[Placa árvore ou anel captura]</li>
+        </ul>
       </td>
     </tr>
     <tr>
       <td style="text-align: left">Exemplos</td>
       <td style="text-align: left">
         <ul>
-          <li>
-            BR:UFPR:Palotina:CESP010027 |
-            br:ppbio:comcerrado:PNCG_Cidade_de_Pedra_TA_3000:1 |
-            BRAZIL:PREVIR:21MT1A00001:MOUTH_SWAB
-          </li>
+          <li>BR:UFPR:Palotina:CESP010027</li>
+          <li>br:ppbio:comcerrado:PNCG_Cidade_de_Pedra_TA_3000:1</li>
+          <li>BRAZIL:PREVIR:21MT1A00001:MOUTH_SWAB</li>
         </ul>
       </td>
     </tr>
@@ -1017,7 +995,10 @@ O uso do padrão DarwinCore para compartilhamento de dados em biobiversidade tem
       <td style="text-align: left">Exemplos</td>
       <td style="text-align: left">
         <ul>
-          <li>RB_23493 | ACAM_354.1 | CESP010027 | INPA-ACA 000009</li>
+          <li>RB_23493</li>
+          <li>ACAM_354.1</li>
+          <li>CESP010027</li>
+          <li>INPA-ACA 000009</li>
         </ul>
       </td>
     </tr>
@@ -1172,7 +1153,7 @@ O uso do padrão DarwinCore para compartilhamento de dados em biobiversidade tem
       <td style="text-align: left">Exemplos</td>
       <td style="text-align: left">
         <ul>
-          <li>NA</li>
+          <!-- <li>NA</li> -->
         </ul>
       </td>
     </tr>
@@ -1458,7 +1439,7 @@ O uso do padrão DarwinCore para compartilhamento de dados em biobiversidade tem
       <td style="text-align: left">Exemplos</td>
       <td style="text-align: left">
         <ul>
-          <li>NA</li>
+          <!-- <li>NA</li> -->
         </ul>
       </td>
     </tr>
@@ -1502,7 +1483,7 @@ O uso do padrão DarwinCore para compartilhamento de dados em biobiversidade tem
       <td style="text-align: left">Exemplos</td>
       <td style="text-align: left">
         <ul>
-          <li>NA</li>
+          <!-- <li>NA</li> -->
         </ul>
       </td>
     </tr>
@@ -1547,7 +1528,8 @@ O uso do padrão DarwinCore para compartilhamento de dados em biobiversidade tem
       <td style="text-align: left">Exemplos</td>
       <td style="text-align: left">
         <ul>
-          <li>Exemplo no SiBBr | Dados ICMBio</li>
+          <li>Exemplo no SiBBr</li>
+          <li>Dados ICMBio</li>
         </ul>
       </td>
     </tr>
@@ -1593,12 +1575,11 @@ O uso do padrão DarwinCore para compartilhamento de dados em biobiversidade tem
       <td style="text-align: left">
         <ul>
           <li>
-            [Lista de Flora e Funga do Brasil](<a
-              href="http://floradobrasil.jbrj.gov.br/reflora/listaBrasil/PrincipalUC/PrincipalUC.do"
-              >http://floradobrasil.jbrj.gov.br/reflora/listaBrasil/PrincipalUC/PrincipalUC.do</a
+            <a
+              href="http://floradobrasil.jbrj.gov.br/reflora/listaBrasil/PrincipalUC/PrincipalUC.do;jsessionid=9E1CFFE3946CC896F95E9BAFC4601A7E#CondicaoTaxonCP"
+              >Lista de Flora e Funga do Brasil</a
             >
           </li>
-          <li>jsessionid=9E1CFFE3946CC896F95E9BAFC4601A7E#CondicaoTaxonCP)</li>
           <li>
             <a href="https://www.marinespecies.org/aphia.php?p=checklist"
               >WoRMS</a
@@ -1648,7 +1629,9 @@ O uso do padrão DarwinCore para compartilhamento de dados em biobiversidade tem
       <td style="text-align: left">Exemplos</td>
       <td style="text-align: left">
         <ul>
-          <li>Liberado para uso | Transporte contaminante | Corredor</li>
+          <li>Liberado para uso</li>
+          <li>Transporte contaminante</li>
+          <li>Corredor</li>
         </ul>
       </td>
     </tr>
@@ -1693,7 +1676,7 @@ O uso do padrão DarwinCore para compartilhamento de dados em biobiversidade tem
       <td style="text-align: left">Exemplos</td>
       <td style="text-align: left">
         <ul>
-          <li>NA</li>
+          <!-- <li>NA</li> -->
         </ul>
       </td>
     </tr>
@@ -1734,9 +1717,9 @@ O uso do padrão DarwinCore para compartilhamento de dados em biobiversidade tem
       <td style="text-align: left">
         <ul>
           <li>
-            [Coleções de zoologia](<a
+            <a
               href="https://ala-hub.sibbr.gov.br/ala-hub/occurrences/76a8b7c1-f4c9-4e79-809f-8631daa79eb3"
-              >https://ala-hub.sibbr.gov.br/ala-hub/occurrences/76a8b7c1-f4c9-4e79-809f-8631daa79eb3</a
+              >Coleções de zoologia</a
             >
           </li>
           <li>
@@ -2027,7 +2010,7 @@ O uso do padrão DarwinCore para compartilhamento de dados em biobiversidade tem
       <td style="text-align: left">Exemplos</td>
       <td style="text-align: left">
         <ul>
-          <li>NA</li>
+          <!-- <li>NA</li> -->
         </ul>
       </td>
     </tr>
@@ -2154,14 +2137,18 @@ O uso do padrão DarwinCore para compartilhamento de dados em biobiversidade tem
       <td style="text-align: left">Exemplos</td>
       <td style="text-align: left">
         <ul>
-          <li>Encontrado morto | Atropelado | Hora da coleta</li>
+          <li>Encontrado morto</li>
+          <li>Atropelado</li>
+          <li>Hora da coleta</li>
         </ul>
       </td>
     </tr>
   </tbody>
 </table>
 
---- ### Organism
+--- 
+
+### Organism
 
 <table>
   <tr class="table-secondary">
@@ -2285,7 +2272,7 @@ O uso do padrão DarwinCore para compartilhamento de dados em biobiversidade tem
       <td style="text-align: left">Exemplos</td>
       <td style="text-align: left">
         <ul>
-          <li>NA</li>
+          <!-- <li>NA</li> -->
         </ul>
       </td>
     </tr>
@@ -2373,8 +2360,9 @@ O uso do padrão DarwinCore para compartilhamento de dados em biobiversidade tem
       <td style="text-align: left">
         <ul>
           <li>
-            Anthus sp., identificado em campo por G. Iglesias | Anthus
-            correndera, identificação especializada por C. Cicero em 12/02/2009
+            Anthus sp., identificado em campo por G. Iglesias</li>
+          <li>
+            Anthus correndera, identificação especializada por C. Cicero em 12/02/2009
             com base em morfologia.
           </li>
         </ul>
@@ -2423,7 +2411,9 @@ O uso do padrão DarwinCore para compartilhamento de dados em biobiversidade tem
   </tbody>
 </table>
 
---- ### MaterialSample
+--- 
+
+### MaterialSample
 
 <table>
   <tr class="table-secondary">
@@ -2458,14 +2448,16 @@ O uso do padrão DarwinCore para compartilhamento de dados em biobiversidade tem
       <td style="text-align: left">Exemplos</td>
       <td style="text-align: left">
         <ul>
-          <li>NA</li>
+          <!-- <li>NA</li> -->
         </ul>
       </td>
     </tr>
   </tbody>
 </table>
 
---- ### Event
+--- 
+
+### Event
 
 <table>
   <tr class="table-secondary">
@@ -2545,7 +2537,7 @@ O uso do padrão DarwinCore para compartilhamento de dados em biobiversidade tem
       <td style="text-align: left">Exemplos</td>
       <td style="text-align: left">
         <ul>
-          <li>NA</li>
+          <!-- <li>NA</li> -->
         </ul>
       </td>
     </tr>
@@ -2588,10 +2580,15 @@ O uso do padrão DarwinCore para compartilhamento de dados em biobiversidade tem
       <td style="text-align: left">
         <ul>
           <li>
-            Data com ano: AAAA Data com ano e mês: AAAA - MM Data completa: AAAA
-            Intervalo de coleta: AAAA - MM - DD / AAAA - MM - DD | AAAA - MM /
-            AAAA - MM | AAAA / AAAA
+            Data com ano: AAAA 
           </li>
+          <li>
+            Data com ano e mês: AAAA-MM
+            </li>
+          <li>
+            Data completa: AAAA
+          </li>
+          <li>Intervalo de coleta: AAAA-MM-DD/AAAA-MM-DD | AAAA-MM/AAAA-MM | AAAA/AAAA</li>
         </ul>
       </td>
     </tr>
@@ -2677,7 +2674,7 @@ O uso do padrão DarwinCore para compartilhamento de dados em biobiversidade tem
       <td style="text-align: left">Exemplos</td>
       <td style="text-align: left">
         <ul>
-          <li>Não encontrei</li>
+          <!-- <li>Não encontrei</li> -->
         </ul>
       </td>
     </tr>
@@ -2719,7 +2716,7 @@ O uso do padrão DarwinCore para compartilhamento de dados em biobiversidade tem
       <td style="text-align: left">Exemplos</td>
       <td style="text-align: left">
         <ul>
-          <li>Não encontrei</li>
+          <!-- <li>Não encontrei</li> -->
         </ul>
       </td>
     </tr>
@@ -2873,7 +2870,7 @@ O uso do padrão DarwinCore para compartilhamento de dados em biobiversidade tem
       <td style="text-align: left">Exemplos</td>
       <td style="text-align: left">
         <ul>
-          <li>NA</li>
+          <!-- <li>NA</li> -->
         </ul>
       </td>
     </tr>
@@ -2911,7 +2908,10 @@ O uso do padrão DarwinCore para compartilhamento de dados em biobiversidade tem
       <td style="text-align: left">Exemplos</td>
       <td style="text-align: left">
         <ul>
-          <li>Mata Atlântica | Cerrado | Pantanal | Arquipélagos</li>
+          <li>Mata Atlântica</li>
+          <li>Cerrado</li>
+          <li>Pantanal</li>
+          <li>Arquipélagos</li>
         </ul>
       </td>
     </tr>
@@ -3015,7 +3015,8 @@ O uso do padrão DarwinCore para compartilhamento de dados em biobiversidade tem
               href="https://ala-hub.sibbr.gov.br/ala-hub/occurrences/f1481be4-5f9a-4707-878a-43e9651058d3"
               >Coleções de zoologia</a
             >
-            |
+            </li>
+            <li>
             <a
               href="https://ala-hub.sibbr.gov.br/ala-hub/occurrences/b2729b5d-a4f1-41d1-8c0a-ca78e9371f45"
               >Coleções de zoologia</a
@@ -3218,14 +3219,18 @@ O uso do padrão DarwinCore para compartilhamento de dados em biobiversidade tem
       <td style="text-align: left">Exemplos</td>
       <td style="text-align: left">
         <ul>
-          <li>Época chuvosa | Época seca | Tempo pós queimada</li>
+          <li>Época chuvosa</li>
+          <li>Época seca</li>
+          <li>Tempo pós queimada</li>
         </ul>
       </td>
     </tr>
   </tbody>
 </table>
 
---- ### Location
+--- 
+
+### Location
 
 <table>
   <tr class="table-secondary">
@@ -3260,7 +3265,7 @@ O uso do padrão DarwinCore para compartilhamento de dados em biobiversidade tem
       <td style="text-align: left">Exemplos</td>
       <td style="text-align: left">
         <ul>
-          <li>NA</li>
+          <!-- <li>NA</li> -->
         </ul>
       </td>
     </tr>
@@ -3301,7 +3306,9 @@ O uso do padrão DarwinCore para compartilhamento de dados em biobiversidade tem
       <td style="text-align: left">Exemplos</td>
       <td style="text-align: left">
         <ul>
-          <li>Oceano Atlântico Norte | Argentina | América do Sul</li>
+          <li>Oceano Atlântico Norte</li>
+          <li>Argentina</li>
+          <li>América do Sul</li>
         </ul>
       </td>
     </tr>
@@ -3345,7 +3352,7 @@ O uso do padrão DarwinCore para compartilhamento de dados em biobiversidade tem
       <td style="text-align: left">Exemplos</td>
       <td style="text-align: left">
         <ul>
-          <li>NA</li>
+          <!-- <li>NA</li> -->
         </ul>
       </td>
     </tr>
@@ -3385,7 +3392,7 @@ O uso do padrão DarwinCore para compartilhamento de dados em biobiversidade tem
       <td style="text-align: left">Exemplos</td>
       <td style="text-align: left">
         <ul>
-          <li>NA</li>
+          <!-- <li>NA</li> -->
         </ul>
       </td>
     </tr>
@@ -3463,7 +3470,7 @@ O uso do padrão DarwinCore para compartilhamento de dados em biobiversidade tem
       <td style="text-align: left">Exemplos</td>
       <td style="text-align: left">
         <ul>
-          <li>NA</li>
+          <!-- <li>NA</li> -->
         </ul>
       </td>
     </tr>
@@ -3502,7 +3509,7 @@ O uso do padrão DarwinCore para compartilhamento de dados em biobiversidade tem
       <td style="text-align: left">Exemplos</td>
       <td style="text-align: left">
         <ul>
-          <li>NA</li>
+          <!-- <li>NA</li> -->
         </ul>
       </td>
     </tr>
@@ -3722,7 +3729,7 @@ O uso do padrão DarwinCore para compartilhamento de dados em biobiversidade tem
       <td style="text-align: left">Exemplos</td>
       <td style="text-align: left">
         <ul>
-          <li>NA</li>
+          <!-- <li>NA</li> -->
         </ul>
       </td>
     </tr>
@@ -3845,7 +3852,7 @@ O uso do padrão DarwinCore para compartilhamento de dados em biobiversidade tem
       <td style="text-align: left">Exemplos</td>
       <td style="text-align: left">
         <ul>
-          <li>10 - 100m</li>
+          <li>10-100m</li>
         </ul>
       </td>
     </tr>
@@ -3886,7 +3893,9 @@ O uso do padrão DarwinCore para compartilhamento de dados em biobiversidade tem
       <td style="text-align: left">Exemplos</td>
       <td style="text-align: left">
         <ul>
-          <li>EGM84 | EGM96 | EGM2008</li>
+          <li>EGM84</li>
+          <li>EGM96</li>
+          <li>EGM2008</li>
         </ul>
       </td>
     </tr>
@@ -4008,7 +4017,7 @@ O uso do padrão DarwinCore para compartilhamento de dados em biobiversidade tem
       <td style="text-align: left">Exemplos</td>
       <td style="text-align: left">
         <ul>
-          <li>100 - 200m</li>
+          <li>100-200m</li>
         </ul>
       </td>
     </tr>
@@ -4054,11 +4063,8 @@ O uso do padrão DarwinCore para compartilhamento de dados em biobiversidade tem
       <td style="text-align: left">Exemplos</td>
       <td style="text-align: left">
         <ul>
-          <li>
-            <ul>
-              <li>1.5 (abaixo da superfície) | 4.2 (acima da superfície)</li>
-            </ul>
-          </li>
+              <li>1.5 (abaixo da superfície)</li>
+              <li>4.2 (acima da superfície)</li>
         </ul>
       </td>
     </tr>
@@ -4104,11 +4110,8 @@ O uso do padrão DarwinCore para compartilhamento de dados em biobiversidade tem
       <td style="text-align: left">Exemplos</td>
       <td style="text-align: left">
         <ul>
-          <li>
-            <ul>
-              <li>1.5 (abaixo da superfície) | 4.2 (acima da superfície)</li>
-            </ul>
-          </li>
+              <li>1.5 (abaixo da superfície)</li>
+              <li>4.2 (acima da superfície)</li>
         </ul>
       </td>
     </tr>
@@ -4149,7 +4152,7 @@ O uso do padrão DarwinCore para compartilhamento de dados em biobiversidade tem
       <td style="text-align: left">Exemplos</td>
       <td style="text-align: left">
         <ul>
-          <li>GADM</li>
+          <li><a href="https://gadm.org/">GADM</a></li>
         </ul>
       </td>
     </tr>
@@ -4348,7 +4351,8 @@ O uso do padrão DarwinCore para compartilhamento de dados em biobiversidade tem
               href="https://ala-hub.sibbr.gov.br/ala-hub/occurrences/ea1bdcbe-d6a8-41df-9d7f-e3cbab5ff8e1"
               >https://ala-hub.sibbr.gov.br/ala-hub/occurrences/ea1bdcbe-d6a8-41df-9d7f-e3cbab5ff8e1</a
             >
-            e
+            </li>
+            <li>
             <a
               href="https://ala-hub.sibbr.gov.br/ala-hub/occurrences/14119ff6-6826-48c4-ae85-fb6122c8097d"
               >https://ala-hub.sibbr.gov.br/ala-hub/occurrences/14119ff6-6826-48c4-ae85-fb6122c8097d</a
@@ -4442,9 +4446,16 @@ O uso do padrão DarwinCore para compartilhamento de dados em biobiversidade tem
       <td style="text-align: left">
         <ul>
           <li>
-            0.0001 (limite normal de GPS para graus decimais) | 0.000278
-            (segundo mais próximo) | 0.01667 (minuto mais próximo) | 1.0 (grau
-            mais próximo)
+            0.0001 (limite normal de GPS para graus decimais)</li>
+
+          <li>
+            0.000278 (segundo mais próximo)</li>
+
+          <li>
+            0.01667 (minuto mais próximo)</li>
+
+          <li>
+            1.0 (grau mais próximo)
           </li>
         </ul>
       </td>
@@ -4495,7 +4506,9 @@ O uso do padrão DarwinCore para compartilhamento de dados em biobiversidade tem
       <td style="text-align: left">Exemplos</td>
       <td style="text-align: left">
         <ul>
-          <li>0 | 1 | 1.5708</li>
+          <li>0</li>
+          <li>1</li>
+          <li>1.5708</li>
         </ul>
       </td>
     </tr>
@@ -4669,7 +4682,7 @@ O uso do padrão DarwinCore para compartilhamento de dados em biobiversidade tem
       <td style="text-align: left">Exemplos</td>
       <td style="text-align: left">
         <ul>
-          <li>NA</li>
+          <!-- <li>NA</li> -->
         </ul>
       </td>
     </tr>
@@ -4711,7 +4724,7 @@ O uso do padrão DarwinCore para compartilhamento de dados em biobiversidade tem
       <td style="text-align: left">Exemplos</td>
       <td style="text-align: left">
         <ul>
-          <li>NA</li>
+          <!-- <li>NA</li> -->
         </ul>
       </td>
     </tr>
@@ -4758,7 +4771,7 @@ O uso do padrão DarwinCore para compartilhamento de dados em biobiversidade tem
       <td style="text-align: left">Exemplos</td>
       <td style="text-align: left">
         <ul>
-          <li>NA</li>
+          <!-- <li>NA</li> -->
         </ul>
       </td>
     </tr>
@@ -4799,7 +4812,7 @@ O uso do padrão DarwinCore para compartilhamento de dados em biobiversidade tem
       <td style="text-align: left">Exemplos</td>
       <td style="text-align: left">
         <ul>
-          <li>NA</li>
+          <!-- <li>NA</li> -->
         </ul>
       </td>
     </tr>
@@ -4848,7 +4861,7 @@ O uso do padrão DarwinCore para compartilhamento de dados em biobiversidade tem
       <td style="text-align: left">Exemplos</td>
       <td style="text-align: left">
         <ul>
-          <li>NA</li>
+          <!-- <li>NA</li> -->
         </ul>
       </td>
     </tr>
@@ -4890,7 +4903,7 @@ O uso do padrão DarwinCore para compartilhamento de dados em biobiversidade tem
       <td style="text-align: left">Exemplos</td>
       <td style="text-align: left">
         <ul>
-          <li>Pedir Ruan</li>
+          <!-- <li>NA</li> -->
         </ul>
       </td>
     </tr>
@@ -4971,7 +4984,7 @@ O uso do padrão DarwinCore para compartilhamento de dados em biobiversidade tem
       <td style="text-align: left">Exemplos</td>
       <td style="text-align: left">
         <ul>
-          <li>NA</li>
+          <!-- <li>NA</li> -->
         </ul>
       </td>
     </tr>
@@ -5063,7 +5076,9 @@ O uso do padrão DarwinCore para compartilhamento de dados em biobiversidade tem
   </tbody>
 </table>
 
---- ### GeologicalContext
+--- 
+
+### GeologicalContext
 
 <table>
   <tr class="table-secondary">
@@ -5097,7 +5112,7 @@ O uso do padrão DarwinCore para compartilhamento de dados em biobiversidade tem
       <td style="text-align: left">Exemplos</td>
       <td style="text-align: left">
         <ul>
-          <li>NA</li>
+          <!-- <li>NA</li> -->
         </ul>
       </td>
     </tr>
@@ -5140,7 +5155,8 @@ O uso do padrão DarwinCore para compartilhamento de dados em biobiversidade tem
       <td style="text-align: left">Exemplos</td>
       <td style="text-align: left">
         <ul>
-          <li>Fanerozoico | Proterozoico</li>
+          <li>Fanerozoico</li>
+          <li>Proterozoico</li>
         </ul>
       </td>
     </tr>
@@ -5183,7 +5199,8 @@ O uso do padrão DarwinCore para compartilhamento de dados em biobiversidade tem
       <td style="text-align: left">Exemplos</td>
       <td style="text-align: left">
         <ul>
-          <li>Fanerozoico | Proterozoico</li>
+          <li>Fanerozoico</li>
+          <li>Proterozoico</li>
         </ul>
       </td>
     </tr>
@@ -5225,7 +5242,8 @@ O uso do padrão DarwinCore para compartilhamento de dados em biobiversidade tem
       <td style="text-align: left">Exemplos</td>
       <td style="text-align: left">
         <ul>
-          <li>Cenozoico | Mezosoico</li>
+          <li>Cenozoico</li>
+          <li>Mezosoico</li>
         </ul>
       </td>
     </tr>
@@ -5267,7 +5285,8 @@ O uso do padrão DarwinCore para compartilhamento de dados em biobiversidade tem
       <td style="text-align: left">Exemplos</td>
       <td style="text-align: left">
         <ul>
-          <li>Cenozoico | Mezosoico</li>
+          <li>Cenozoico</li>
+          <li>Mezosoico</li>
         </ul>
       </td>
     </tr>
@@ -5309,7 +5328,9 @@ O uso do padrão DarwinCore para compartilhamento de dados em biobiversidade tem
       <td style="text-align: left">Exemplos</td>
       <td style="text-align: left">
         <ul>
-          <li>Neogene | Terciário | Quartenário</li>
+          <li>Neogene</li>
+          <li>Terciário</li>
+          <li>Quartenário</li>
         </ul>
       </td>
     </tr>
@@ -5351,7 +5372,8 @@ O uso do padrão DarwinCore para compartilhamento de dados em biobiversidade tem
       <td style="text-align: left">Exemplos</td>
       <td style="text-align: left">
         <ul>
-          <li>Holoceno | Plestoceno</li>
+          <li>Holoceno</li>
+          <li>Plestoceno</li>
         </ul>
       </td>
     </tr>
@@ -5393,7 +5415,8 @@ O uso do padrão DarwinCore para compartilhamento de dados em biobiversidade tem
       <td style="text-align: left">Exemplos</td>
       <td style="text-align: left">
         <ul>
-          <li>Holoceno | Plestoceno</li>
+          <li>Holoceno</li>
+          <li>Plestoceno</li>
         </ul>
       </td>
     </tr>
@@ -5435,7 +5458,8 @@ O uso do padrão DarwinCore para compartilhamento de dados em biobiversidade tem
       <td style="text-align: left">Exemplos</td>
       <td style="text-align: left">
         <ul>
-          <li>Atlântico | Boreal</li>
+          <li>Atlântico</li>
+          <li>Boreal</li>
         </ul>
       </td>
     </tr>
@@ -5477,7 +5501,8 @@ O uso do padrão DarwinCore para compartilhamento de dados em biobiversidade tem
       <td style="text-align: left">Exemplos</td>
       <td style="text-align: left">
         <ul>
-          <li>Atlântico | Boreal</li>
+          <li>Atlântico</li>
+          <li>Boreal</li>
         </ul>
       </td>
     </tr>
@@ -5639,7 +5664,8 @@ O uso do padrão DarwinCore para compartilhamento de dados em biobiversidade tem
       <td style="text-align: left">Exemplos</td>
       <td style="text-align: left">
         <ul>
-          <li>Grupo Paranoá | Grupo Bambui</li>
+          <li>Grupo Paranoá</li>
+          <li>Grupo Bambui</li>
         </ul>
       </td>
     </tr>
@@ -5680,7 +5706,8 @@ O uso do padrão DarwinCore para compartilhamento de dados em biobiversidade tem
       <td style="text-align: left">Exemplos</td>
       <td style="text-align: left">
         <ul>
-          <li>Serra do Mar | Serra da Mantiqueira</li>
+          <li>Serra do Mar</li>
+          <li>Serra da Mantiqueira</li>
         </ul>
       </td>
     </tr>
@@ -5719,7 +5746,7 @@ O uso do padrão DarwinCore para compartilhamento de dados em biobiversidade tem
       <td style="text-align: left">Exemplos</td>
       <td style="text-align: left">
         <ul>
-          <li>NA</li>
+          <!-- <li>NA</li> -->
         </ul>
       </td>
     </tr>
@@ -5758,14 +5785,17 @@ O uso do padrão DarwinCore para compartilhamento de dados em biobiversidade tem
       <td style="text-align: left">Exemplos</td>
       <td style="text-align: left">
         <ul>
-          <li>Fm. Ribeirão do Torto | Fm. Ribeirão São Miguel</li>
+          <li>Fm. Ribeirão do Torto</li>
+          <li>Fm. Ribeirão São Miguel</li>
         </ul>
       </td>
     </tr>
   </tbody>
 </table>
 
---- ### Identification
+--- 
+
+### Identification
 
 <table>
   <tr class="table-secondary">
@@ -5845,7 +5875,7 @@ O uso do padrão DarwinCore para compartilhamento de dados em biobiversidade tem
       <td style="text-align: left">Exemplos</td>
       <td style="text-align: left">
         <ul>
-          <li>NA</li>
+          <!-- <li>NA</li> -->
         </ul>
       </td>
     </tr>
@@ -5996,10 +6026,10 @@ O uso do padrão DarwinCore para compartilhamento de dados em biobiversidade tem
             >
           </li>
           <li>
-            [Coleções de zoologia] (<a
+            <a
               href="https://ala-hub.sibbr.gov.br/ala-hub/occurrences/982e6bec-de01-4bfb-addd-6e55187215c4?lang=en_GB"
-              >https://ala-hub.sibbr.gov.br/ala-hub/occurrences/982e6bec-de01-4bfb-addd-6e55187215c4?lang=en_GB</a
-            >)
+              >Coleções de zoologia</a
+            >
           </li>
         </ul>
       </td>
@@ -6042,7 +6072,7 @@ O uso do padrão DarwinCore para compartilhamento de dados em biobiversidade tem
       <td style="text-align: left">Exemplos</td>
       <td style="text-align: left">
         <ul>
-          <li>NA</li>
+          <!-- <li>NA</li> -->
         </ul>
       </td>
     </tr>
@@ -6082,7 +6112,7 @@ O uso do padrão DarwinCore para compartilhamento de dados em biobiversidade tem
       <td style="text-align: left">Exemplos</td>
       <td style="text-align: left">
         <ul>
-          <li>NA</li>
+          <!-- <li>NA</li> -->
         </ul>
       </td>
     </tr>
@@ -6123,7 +6153,7 @@ O uso do padrão DarwinCore para compartilhamento de dados em biobiversidade tem
       <td style="text-align: left">Exemplos</td>
       <td style="text-align: left">
         <ul>
-          <li>NA</li>
+          <!-- <li>NA</li> -->
         </ul>
       </td>
     </tr>
@@ -6164,7 +6194,7 @@ O uso do padrão DarwinCore para compartilhamento de dados em biobiversidade tem
       <td style="text-align: left">Exemplos</td>
       <td style="text-align: left">
         <ul>
-          <li>NA</li>
+          <!-- <li>NA</li> -->
         </ul>
       </td>
     </tr>
@@ -6204,14 +6234,16 @@ O uso do padrão DarwinCore para compartilhamento de dados em biobiversidade tem
       <td style="text-align: left">Exemplos</td>
       <td style="text-align: left">
         <ul>
-          <li>Colocar exemplos SiBBr</li>
+          <!-- <li>NA</li> -->
         </ul>
       </td>
     </tr>
   </tbody>
 </table>
 
---- ### Taxon
+--- 
+
+### Taxon
 
 <table>
   <tr class="table-secondary">
@@ -6285,7 +6317,7 @@ O uso do padrão DarwinCore para compartilhamento de dados em biobiversidade tem
       <td style="text-align: left">Exemplos</td>
       <td style="text-align: left">
         <ul>
-          <li>NA</li>
+          <!-- <li>NA</li> -->
         </ul>
       </td>
     </tr>
@@ -6327,7 +6359,8 @@ O uso do padrão DarwinCore para compartilhamento de dados em biobiversidade tem
       <td style="text-align: left">Exemplos</td>
       <td style="text-align: left">
         <ul>
-          <li>6W3C4 (COL) | 2704179 (GBIF)</li>
+          <li>6W3C4 (COL)</li>
+          <li>2704179 (GBIF)</li>
         </ul>
       </td>
     </tr>
@@ -6370,7 +6403,8 @@ O uso do padrão DarwinCore para compartilhamento de dados em biobiversidade tem
       <td style="text-align: left">Exemplos</td>
       <td style="text-align: left">
         <ul>
-          <li>6T8N (COL) | 2704173 (GBIF)</li>
+          <li>6T8N (COL)</li>
+          <li>2704173 (GBIF)</li>
         </ul>
       </td>
     </tr>
@@ -6415,7 +6449,8 @@ O uso do padrão DarwinCore para compartilhamento de dados em biobiversidade tem
       <td style="text-align: left">Exemplos</td>
       <td style="text-align: left">
         <ul>
-          <li>6W3C4 (COL) | 2704179 (GBIF)</li>
+          <li>6W3C4 (COL)</li>
+          <li>2704179 (GBIF)</li>
         </ul>
       </td>
     </tr>
@@ -6456,7 +6491,7 @@ O uso do padrão DarwinCore para compartilhamento de dados em biobiversidade tem
       <td style="text-align: left">Exemplos</td>
       <td style="text-align: left">
         <ul>
-          <li>NA</li>
+          <!-- <li>NA</li> -->
         </ul>
       </td>
     </tr>
@@ -6498,7 +6533,7 @@ O uso do padrão DarwinCore para compartilhamento de dados em biobiversidade tem
       <td style="text-align: left">Exemplos</td>
       <td style="text-align: left">
         <ul>
-          <li>NA</li>
+          <!-- <li>NA</li> -->
         </ul>
       </td>
     </tr>
@@ -6539,7 +6574,7 @@ O uso do padrão DarwinCore para compartilhamento de dados em biobiversidade tem
       <td style="text-align: left">Exemplos</td>
       <td style="text-align: left">
         <ul>
-          <li>NA</li>
+          <!-- <li>NA</li> -->
         </ul>
       </td>
     </tr>
@@ -6583,10 +6618,11 @@ O uso do padrão DarwinCore para compartilhamento de dados em biobiversidade tem
       <td style="text-align: left">Exemplos</td>
       <td style="text-align: left">
         <ul>
-          <li>
-            Ceiba speciosa | Eugenia uniflora | Chrysocyon brachyurus | Fabaceae
-            | Canidae
-          </li>
+          <li>Ceiba speciosa</li>
+          <li>Eugenia uniflora</li>
+          <li>Chrysocyon brachyurus</li>
+          <li>Fabaceae</li>
+          <li>Canidae</li>
         </ul>
       </td>
     </tr>
@@ -6628,7 +6664,8 @@ O uso do padrão DarwinCore para compartilhamento de dados em biobiversidade tem
       <td style="text-align: left">
         <ul>
           <li>
-            Schwartzia adamantium (nome válido para Norantea adamantium) |
+            Schwartzia adamantium (nome válido para Norantea adamantium)</li>
+          <li>
             Arapaima gigas (nome válido para Arapaima arapaima)
           </li>
         </ul>
@@ -6672,7 +6709,7 @@ O uso do padrão DarwinCore para compartilhamento de dados em biobiversidade tem
       <td style="text-align: left">Exemplos</td>
       <td style="text-align: left">
         <ul>
-          <li>NA</li>
+          <!-- <li>NA</li> -->
         </ul>
       </td>
     </tr>
@@ -6820,7 +6857,7 @@ O uso do padrão DarwinCore para compartilhamento de dados em biobiversidade tem
       <td style="text-align: left">Exemplos</td>
       <td style="text-align: left">
         <ul>
-          <li>NA</li>
+          <!-- <li>NA</li> -->
         </ul>
       </td>
     </tr>
@@ -6860,7 +6897,8 @@ O uso do padrão DarwinCore para compartilhamento de dados em biobiversidade tem
       <td style="text-align: left">Exemplos</td>
       <td style="text-align: left">
         <ul>
-          <li>1915 | 2008</li>
+          <li>1915</li>
+          <li>2008</li>
         </ul>
       </td>
     </tr>
@@ -6901,11 +6939,7 @@ O uso do padrão DarwinCore para compartilhamento de dados em biobiversidade tem
       <td style="text-align: left">Exemplos</td>
       <td style="text-align: left">
         <ul>
-          <li>
-            Animalia | Chordata | Vertebrata | Mammalia | Theria | Eutheria |
-            Rodentia | Hystricognatha | Hystricognathi | Ctenomyidae |
-            Ctenomyini | Ctenomys
-          </li>
+          <li>Animalia | Chordata | Vertebrata | Mammalia | Theria | Eutheria | Rodentia | Hystricognatha | Hystricognathi | Ctenomyidae | Ctenomyini | Ctenomys</li>
         </ul>
       </td>
     </tr>
@@ -6946,7 +6980,7 @@ O uso do padrão DarwinCore para compartilhamento de dados em biobiversidade tem
       <td style="text-align: left">Exemplos</td>
       <td style="text-align: left">
         <ul>
-          <li>NA</li>
+          <!-- <li>NA</li> -->
         </ul>
       </td>
     </tr>
@@ -6985,7 +7019,7 @@ O uso do padrão DarwinCore para compartilhamento de dados em biobiversidade tem
       <td style="text-align: left">Exemplos</td>
       <td style="text-align: left">
         <ul>
-          <li>NA</li>
+          <!-- <li>NA</li> -->
         </ul>
       </td>
     </tr>
@@ -7023,7 +7057,7 @@ O uso do padrão DarwinCore para compartilhamento de dados em biobiversidade tem
       <td style="text-align: left">Exemplos</td>
       <td style="text-align: left">
         <ul>
-          <li>NA</li>
+          <!-- <li>NA</li> -->
         </ul>
       </td>
     </tr>
@@ -7061,7 +7095,7 @@ O uso do padrão DarwinCore para compartilhamento de dados em biobiversidade tem
       <td style="text-align: left">Exemplos</td>
       <td style="text-align: left">
         <ul>
-          <li>NA</li>
+          <!-- <li>NA</li> -->
         </ul>
       </td>
     </tr>
@@ -7099,7 +7133,7 @@ O uso do padrão DarwinCore para compartilhamento de dados em biobiversidade tem
       <td style="text-align: left">Exemplos</td>
       <td style="text-align: left">
         <ul>
-          <li>NA</li>
+          <!-- <li>NA</li> -->
         </ul>
       </td>
     </tr>
@@ -7140,7 +7174,7 @@ O uso do padrão DarwinCore para compartilhamento de dados em biobiversidade tem
       <td style="text-align: left">Exemplos</td>
       <td style="text-align: left">
         <ul>
-          <li>NA</li>
+          <!-- <li>NA</li> -->
         </ul>
       </td>
     </tr>
@@ -7178,7 +7212,7 @@ O uso do padrão DarwinCore para compartilhamento de dados em biobiversidade tem
       <td style="text-align: left">Exemplos</td>
       <td style="text-align: left">
         <ul>
-          <li>NA</li>
+          <!-- <li>NA</li> -->
         </ul>
       </td>
     </tr>
@@ -7218,7 +7252,10 @@ O uso do padrão DarwinCore para compartilhamento de dados em biobiversidade tem
       <td style="text-align: left">Exemplos</td>
       <td style="text-align: left">
         <ul>
-          <li>Panthera | Felis | Canis |Rosa</li>
+          <li>Panthera</li>
+          <li>Felis</li>
+          <li>Canis</li>
+          <li>Rosa</li>
         </ul>
       </td>
     </tr>
@@ -7260,7 +7297,8 @@ O uso do padrão DarwinCore para compartilhamento de dados em biobiversidade tem
       <td style="text-align: left">Exemplos</td>
       <td style="text-align: left">
         <ul>
-          <li>Amerigo | Symphyomyrtus</li>
+          <li>Amerigo</li>
+          <li>Symphyomyrtus</li>
         </ul>
       </td>
     </tr>
@@ -7303,8 +7341,10 @@ O uso do padrão DarwinCore para compartilhamento de dados em biobiversidade tem
         <ul>
           <li>
             Triplinervia para o scientificName Alchornea triplinervia var.
-            parvifolia | Tigrinus para o scientificName Leopardus tigrinus
-            guttulus
+            parvifolia
+            </li>
+          <li>
+            Tigrinus para o scientificName Leopardus tigrinus guttulus
           </li>
         </ul>
       </td>
@@ -7516,7 +7556,7 @@ O uso do padrão DarwinCore para compartilhamento de dados em biobiversidade tem
       <td style="text-align: left">Exemplos</td>
       <td style="text-align: left">
         <ul>
-          <li>NA</li>
+          <!-- <li>NA</li> -->
         </ul>
       </td>
     </tr>
@@ -7609,7 +7649,10 @@ O uso do padrão DarwinCore para compartilhamento de dados em biobiversidade tem
       <td style="text-align: left">Exemplos</td>
       <td style="text-align: left">
         <ul>
-          <li>Lobo Guará | Ipê-roxo | Seringueira | Arara</li>
+          <li>Lobo Guará</li>
+          <li>Ipê-roxo</li>
+          <li>Seringueira</li>
+          <li>Arara</li>
         </ul>
       </td>
     </tr>
@@ -7703,7 +7746,7 @@ O uso do padrão DarwinCore para compartilhamento de dados em biobiversidade tem
       <td style="text-align: left">Exemplos</td>
       <td style="text-align: left">
         <ul>
-          <li>NA</li>
+          <!-- <li>NA</li> -->
         </ul>
       </td>
     </tr>
@@ -7746,7 +7789,7 @@ O uso do padrão DarwinCore para compartilhamento de dados em biobiversidade tem
       <td style="text-align: left">Exemplos</td>
       <td style="text-align: left">
         <ul>
-          <li>NA</li>
+          <!-- <li>NA</li> -->
         </ul>
       </td>
     </tr>
@@ -7798,7 +7841,9 @@ O uso do padrão DarwinCore para compartilhamento de dados em biobiversidade tem
   </tbody>
 </table>
 
---- ### MeasurementOrFact
+--- 
+
+### MeasurementOrFact
 
 <table>
   <tr class="table-secondary">
@@ -7834,7 +7879,7 @@ O uso do padrão DarwinCore para compartilhamento de dados em biobiversidade tem
       <td style="text-align: left">Exemplos</td>
       <td style="text-align: left">
         <ul>
-          <li>NA</li>
+          <!-- <li>NA</li> -->
         </ul>
       </td>
     </tr>
@@ -7876,7 +7921,7 @@ O uso do padrão DarwinCore para compartilhamento de dados em biobiversidade tem
       <td style="text-align: left">Exemplos</td>
       <td style="text-align: left">
         <ul>
-          <li>NA</li>
+          <!-- <li>NA</li> -->
         </ul>
       </td>
     </tr>
@@ -7956,7 +8001,7 @@ O uso do padrão DarwinCore para compartilhamento de dados em biobiversidade tem
       <td style="text-align: left">Exemplos</td>
       <td style="text-align: left">
         <ul>
-          <li>NA</li>
+          <!-- <li>NA</li> -->
         </ul>
       </td>
     </tr>
@@ -7996,7 +8041,7 @@ O uso do padrão DarwinCore para compartilhamento de dados em biobiversidade tem
       <td style="text-align: left">Exemplos</td>
       <td style="text-align: left">
         <ul>
-          <li>NA</li>
+          <!-- <li>NA</li> -->
         </ul>
       </td>
     </tr>
@@ -8037,7 +8082,7 @@ O uso do padrão DarwinCore para compartilhamento de dados em biobiversidade tem
       <td style="text-align: left">Exemplos</td>
       <td style="text-align: left">
         <ul>
-          <li>NA</li>
+          <!-- <li>NA</li> -->
         </ul>
       </td>
     </tr>
@@ -8079,7 +8124,7 @@ O uso do padrão DarwinCore para compartilhamento de dados em biobiversidade tem
       <td style="text-align: left">Exemplos</td>
       <td style="text-align: left">
         <ul>
-          <li>NA</li>
+          <!-- <li>NA</li> -->
         </ul>
       </td>
     </tr>
@@ -8120,7 +8165,7 @@ O uso do padrão DarwinCore para compartilhamento de dados em biobiversidade tem
       <td style="text-align: left">Exemplos</td>
       <td style="text-align: left">
         <ul>
-          <li>NA</li>
+          <!-- <li>NA</li> -->
         </ul>
       </td>
     </tr>
@@ -8160,7 +8205,7 @@ O uso do padrão DarwinCore para compartilhamento de dados em biobiversidade tem
       <td style="text-align: left">Exemplos</td>
       <td style="text-align: left">
         <ul>
-          <li>NA</li>
+          <!-- <li>NA</li> -->
         </ul>
       </td>
     </tr>
