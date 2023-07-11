@@ -1523,8 +1523,7 @@ O uso do padrão DarwinCore para compartilhamento de dados em biobiversidade tem
       <td style="text-align: left">Exemplos</td>
       <td style="text-align: left">
         <ul>
-          <li>Exemplo no SiBBr</li>
-          <li>Dados ICMBio</li>
+          <!-- <li>NA</li> -->
         </ul>
       </td>
     </tr>
