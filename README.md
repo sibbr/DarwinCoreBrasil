@@ -50,6 +50,11 @@ O uso do padrão DarwinCore para compartilhamento de dados em biobiversidade tem
             >
           </li>
           <li>
+            Subcoleções: [Coleção/Subcoleção de Odonata da Coleção de
+            Entomologia do MNRJ
+            (https://collectory.sibbr.gov.br/collectory/public/showDataResource/dr895)
+          </li>
+          <li>
             Programa PELD:
             <a
               href="https://collectory.sibbr.gov.br/collectory/public/show/dr506"
@@ -70,11 +75,6 @@ O uso do padrão DarwinCore para compartilhamento de dados em biobiversidade tem
               >Monitoramento de Fauna do Projeto Rede de Vigilância de Vírus
               (Previr). Observatório Pantanal AVES MT-2</a
             >
-          </li>
-          <li>
-            Subcoleções: [Coleção/Subcoleção de Odonata da Coleção de
-            Entomologia do MNRJ
-            (https://collectory.sibbr.gov.br/collectory/public/showDataResource/dr895)
           </li>
         </ul>
       </td>
@@ -113,7 +113,6 @@ O uso do padrão DarwinCore para compartilhamento de dados em biobiversidade tem
       <td style="text-align: left">Exemplos</td>
       <td style="text-align: left">
         <ul>
-          <li>Event: dados de ocorrência ou evento de amostragem sem coleta</li>
           <li>
             PhysicalObject: exsicata ou espécime preservado (pode ter imagem)
           </li>
@@ -123,6 +122,7 @@ O uso do padrão DarwinCore para compartilhamento de dados em biobiversidade tem
           </li>
           <li>StillImage: imagem da exsicata ou espéciem sem a amostra</li>
           <li>Text: dados obtidos da literatura</li>
+          <li>Event: dados de ocorrência ou evento de amostragem sem coleta</li>
         </ul>
       </td>
     </tr>
@@ -196,9 +196,9 @@ O uso do padrão DarwinCore para compartilhamento de dados em biobiversidade tem
       <td style="text-align: left">Exemplos</td>
       <td style="text-align: left">
         <ul>
+          <li>pt: Português</li>
           <li>en: Inglês</li>
           <li>es: Espanhol</li>
-          <li>pt: Português</li>
         </ul>
       </td>
     </tr>
@@ -244,9 +244,7 @@ O uso do padrão DarwinCore para compartilhamento de dados em biobiversidade tem
             >
           </li>
           <li>
-            <a href="https://sibbr.gov.br/page/licenca-uso.html"
-              >Licença CC BY - NC</a
-            >
+            <a href="https://sibbr.gov.br/page/licenca-uso.html">Licença CC0</a>
           </li>
           <li>
             <a href="https://sibbr.gov.br/page/licenca-uso.html"
@@ -254,7 +252,9 @@ O uso do padrão DarwinCore para compartilhamento de dados em biobiversidade tem
             >
           </li>
           <li>
-            <a href="https://sibbr.gov.br/page/licenca-uso.html">Licença CC0</a>
+            <a href="https://sibbr.gov.br/page/licenca-uso.html"
+              >Licença CC BY - NC</a
+            >
           </li>
           <li><a href="https://www.gbif.org/pt/terms">Creative Commons</a></li>
         </ul>
@@ -442,6 +442,34 @@ O uso do padrão DarwinCore para compartilhamento de dados em biobiversidade tem
       <td style="text-align: left">Exemplos</td>
       <td style="text-align: left">
         <ul>
+          <li>[Flora] (Shimizu, G.H.</li>
+          <li>Souza, L.F.</li>
+          <li>Gonçalves, D.J.P.</li>
+          <li>
+            França, F. Vochysiaceae in Flora e Funga do Brasil. Jardim Botânico
+            do Rio de Janeiro. Disponível em:
+            <a href="https://floradobrasil.jbrj.gov.br/FB15294"
+              >https://floradobrasil.jbrj.gov.br/FB15294</a
+            >. Acesso em: 07 jul. 2023 )
+          </li>
+          <li>
+            [Fauna](Abreu-Júnior EF,Casali D 2023. Myrmecophagidae in Catálogo
+            Taxonômico da Fauna do Brasil. PNUD. Disponível em:
+            <a href="http://fauna.jbrj.gov.br/fauna/faunadobrasil/40390"
+              >http://fauna.jbrj.gov.br/fauna/faunadobrasil/40390</a
+            >. Acesso em: 07 Jul. 2023)
+          </li>
+          <li>
+            [Fungo CoL]( Kirk, P. (2023). Species Fungorum Plus. In O. Bánki, Y.
+            Roskov, M. Döring, G. Ower, D. R. Hernández Robles, C. A. Plata
+            Corredor, T. Stjernegaard Jeppesen, A. Örn, L. Vandepitte, D.
+            Hobern, P. Schalk, R. E. DeWalt, M. Keping, J. Miller, T. Orrell, R.
+            Aalbu, J. Abbott, R. Adlard, E. M. Adriaenssens, et al., Catalogue
+            of Life Checklist (Jan 2023). Royal Botanic Gardens, Kew.
+            <a href="https://doi.org/10.48580/dfsr-4hj"
+              >https://doi.org/10.48580/dfsr-4hj</a
+            >)
+          </li>
           <li>
             [Bactéria GBIF](da Silva Soares Souto A, Rocha C (2022).
             Fiocruz/CCBH - Coleção de Culturas de Bactérias de Origem
@@ -455,34 +483,6 @@ O uso do padrão DarwinCore para compartilhamento de dados em biobiversidade tem
               >https://www.gbif.org/occurrence/1413024965</a
             >)
           </li>
-          <li>
-            [Fauna](Abreu-Júnior EF,Casali D 2023. Myrmecophagidae in Catálogo
-            Taxonômico da Fauna do Brasil. PNUD. Disponível em:
-            <a href="http://fauna.jbrj.gov.br/fauna/faunadobrasil/40390"
-              >http://fauna.jbrj.gov.br/fauna/faunadobrasil/40390</a
-            >. Acesso em: 07 Jul. 2023)
-          </li>
-          <li>[Flora] (Shimizu, G.H.</li>
-          <li>
-            [Fungo CoL]( Kirk, P. (2023). Species Fungorum Plus. In O. Bánki, Y.
-            Roskov, M. Döring, G. Ower, D. R. Hernández Robles, C. A. Plata
-            Corredor, T. Stjernegaard Jeppesen, A. Örn, L. Vandepitte, D.
-            Hobern, P. Schalk, R. E. DeWalt, M. Keping, J. Miller, T. Orrell, R.
-            Aalbu, J. Abbott, R. Adlard, E. M. Adriaenssens, et al., Catalogue
-            of Life Checklist (Jan 2023). Royal Botanic Gardens, Kew.
-            <a href="https://doi.org/10.48580/dfsr-4hj"
-              >https://doi.org/10.48580/dfsr-4hj</a
-            >)
-          </li>
-          <li>
-            França, F. Vochysiaceae in Flora e Funga do Brasil. Jardim Botânico
-            do Rio de Janeiro. Disponível em:
-            <a href="https://floradobrasil.jbrj.gov.br/FB15294"
-              >https://floradobrasil.jbrj.gov.br/FB15294</a
-            >. Acesso em: 07 jul. 2023 )
-          </li>
-          <li>Gonçalves, D.J.P.</li>
-          <li>Souza, L.F.</li>
         </ul>
       </td>
     </tr>
@@ -605,9 +605,9 @@ O uso do padrão DarwinCore para compartilhamento de dados em biobiversidade tem
       <td style="text-align: left">Exemplos</td>
       <td style="text-align: left">
         <ul>
+          <li>RENOVA: RENOVA:PMBA:P164</li>
           <li>ICMBio: ICMBIO:SALVE:37463</li>
           <li>ICMBIO:SISBIO:XXXXX</li>
-          <li>RENOVA: RENOVA:PMBA:P164</li>
         </ul>
       </td>
     </tr>
@@ -648,10 +648,10 @@ O uso do padrão DarwinCore para compartilhamento de dados em biobiversidade tem
       <td style="text-align: left">Exemplos</td>
       <td style="text-align: left">
         <ul>
+          <li>Universidade Federal do Paraná: UFPR</li>
+          <li>Museu de Zoologia da USP: MZUSP</li>
           <li>Empresa Brasileira de Pesquisa Agropecuária: EMBRAPA</li>
           <li>Instituto de Pesquisas da Amazônia: INPA</li>
-          <li>Museu de Zoologia da USP: MZUSP</li>
-          <li>Universidade Federal do Paraná: UFPR</li>
         </ul>
       </td>
     </tr>
@@ -692,11 +692,11 @@ O uso do padrão DarwinCore para compartilhamento de dados em biobiversidade tem
       <td style="text-align: left">Exemplos</td>
       <td style="text-align: left">
         <ul>
+          <li>Herbário R Museu Nacional do Rio de Janeiro: R- Herbário</li>
+          <li>Coleção Zoológica da UNICAMP: ZUEC-MAM</li>
           <li>
             Coleção de Bactérias da Amazônia da Fundação Oswaldo Cruz: CBAM
           </li>
-          <li>Coleção Zoológica da UNICAMP: ZUEC-MAM</li>
-          <li>Herbário R Museu Nacional do Rio de Janeiro: R- Herbário</li>
         </ul>
       </td>
     </tr>
@@ -780,14 +780,14 @@ O uso do padrão DarwinCore para compartilhamento de dados em biobiversidade tem
       <td style="text-align: left">Exemplos</td>
       <td style="text-align: left">
         <ul>
+          <li>PreservedSpecimen: exsicata, espécime, cultivo</li>
+          <li>MaterialSample: tecido, sangue, fêmur</li>
           <li>
             HumanObservation: inventário, evento de amostragem, ocorrência
             ciência cidadã
           </li>
-          <li>LivingSpecimen: Zoológico ou Jardim Botânico</li>
           <li>MachineObservation: fotografia, camera trap</li>
-          <li>MaterialSample: tecido, sangue, fêmur</li>
-          <li>PreservedSpecimen: exsicata, espécime, cultivo</li>
+          <li>LivingSpecimen: Zoológico ou Jardim Botânico</li>
         </ul>
       </td>
     </tr>
@@ -932,9 +932,7 @@ O uso do padrão DarwinCore para compartilhamento de dados em biobiversidade tem
   </tbody>
 </table>
 
---- 
-
-### Occurrence
+--- ### Occurrence
 
 <table>
   <tr class="table-secondary">
@@ -1063,14 +1061,14 @@ O uso do padrão DarwinCore para compartilhamento de dados em biobiversidade tem
         <ul>
           <li>
             <a
-              href="https://ala-hub.sibbr.gov.br/ala-hub/occurrences/28542092-5804-4de0-a9bb-9991cfc1786d"
-              >Coleções de zoologia</a
+              href="https://ala-hub.sibbr.gov.br/ala-hub/occurrences/bc8b4528-9a08-48ca-b3e4-da16ffd03ff2"
+              >Herbários JABOT</a
             >
           </li>
           <li>
             <a
-              href="https://ala-hub.sibbr.gov.br/ala-hub/occurrences/bc8b4528-9a08-48ca-b3e4-da16ffd03ff2"
-              >Herbários JABOT</a
+              href="https://ala-hub.sibbr.gov.br/ala-hub/occurrences/28542092-5804-4de0-a9bb-9991cfc1786d"
+              >Coleções de zoologia</a
             >
           </li>
           <li>
@@ -1123,14 +1121,14 @@ O uso do padrão DarwinCore para compartilhamento de dados em biobiversidade tem
         <ul>
           <li>
             <a
-              href="https://ala-hub.sibbr.gov.br/ala-hub/occurrences/4cc24396-7858-4bc0-b0d6-5a9849633e72"
-              >Coleções de zoologia</a
+              href="https://ala-hub.sibbr.gov.br/ala-hub/occurrences/86b9fb12-c2b9-4695-ade6-b0b00ba4e0a5"
+              >Herbário</a
             >
           </li>
           <li>
             <a
-              href="https://ala-hub.sibbr.gov.br/ala-hub/occurrences/86b9fb12-c2b9-4695-ade6-b0b00ba4e0a5"
-              >Herbário</a
+              href="https://ala-hub.sibbr.gov.br/ala-hub/occurrences/4cc24396-7858-4bc0-b0d6-5a9849633e72"
+              >Coleções de zoologia</a
             >
           </li>
         </ul>
@@ -1410,13 +1408,13 @@ O uso do padrão DarwinCore para compartilhamento de dados em biobiversidade tem
       <td style="text-align: left">
         <ul>
           <li>
+            <a href="https://www.gbif.org/occurrence/2236082236">Herbário</a>
+          </li>
+          <li>
             <a
               href="https://ala-hub.sibbr.gov.br/ala-hub/occurrences/b1e323db-e480-489e-ac14-f13a02d2f0ca"
               >Coleções de zoologia</a
             >
-          </li>
-          <li>
-            <a href="https://www.gbif.org/occurrence/2236082236">Herbário</a>
           </li>
         </ul>
       </td>
@@ -1600,18 +1598,18 @@ O uso do padrão DarwinCore para compartilhamento de dados em biobiversidade tem
               >http://floradobrasil.jbrj.gov.br/reflora/listaBrasil/PrincipalUC/PrincipalUC.do</a
             >
           </li>
+          <li>jsessionid=9E1CFFE3946CC896F95E9BAFC4601A7E#CondicaoTaxonCP)</li>
+          <li>
+            <a href="https://www.marinespecies.org/aphia.php?p=checklist"
+              >WoRMS</a
+            >
+          </li>
           <li>
             <a
               href="http://fauna.jbrj.gov.br/fauna/listaBrasil/ConsultaPublicaUC/ConsultaPublicaUC.do"
               >Catálogo Taxônomico da Fauna do Brasil</a
             >
           </li>
-          <li>
-            <a href="https://www.marinespecies.org/aphia.php?p=checklist"
-              >WoRMS</a
-            >
-          </li>
-          <li>jsessionid=9E1CFFE3946CC896F95E9BAFC4601A7E#CondicaoTaxonCP)</li>
         </ul>
       </td>
     </tr>
@@ -1840,14 +1838,14 @@ O uso do padrão DarwinCore para compartilhamento de dados em biobiversidade tem
         <ul>
           <li>
             <a
-              href="https://ala-hub.sibbr.gov.br/ala-hub/occurrences/6e4bb585-df36-4058-97a4-3238ec56bb3b"
-              >Coleções de zoologia</a
+              href="https://ala-hub.sibbr.gov.br/ala-hub/occurrences/d1bff69a-7e87-4fac-bb8d-4935b8fc1277"
+              >Herbário</a
             >
           </li>
           <li>
             <a
-              href="https://ala-hub.sibbr.gov.br/ala-hub/occurrences/d1bff69a-7e87-4fac-bb8d-4935b8fc1277"
-              >Herbário</a
+              href="https://ala-hub.sibbr.gov.br/ala-hub/occurrences/6e4bb585-df36-4058-97a4-3238ec56bb3b"
+              >Coleções de zoologia</a
             >
           </li>
         </ul>
@@ -2163,9 +2161,7 @@ O uso do padrão DarwinCore para compartilhamento de dados em biobiversidade tem
   </tbody>
 </table>
 
---- 
-
-### Organism
+--- ### Organism
 
 <table>
   <tr class="table-secondary">
@@ -2427,9 +2423,7 @@ O uso do padrão DarwinCore para compartilhamento de dados em biobiversidade tem
   </tbody>
 </table>
 
---- 
-
-### MaterialSample
+--- ### MaterialSample
 
 <table>
   <tr class="table-secondary">
@@ -2471,9 +2465,7 @@ O uso do padrão DarwinCore para compartilhamento de dados em biobiversidade tem
   </tbody>
 </table>
 
---- 
-
-### Event
+--- ### Event
 
 <table>
   <tr class="table-secondary">
@@ -2962,8 +2954,8 @@ O uso do padrão DarwinCore para compartilhamento de dados em biobiversidade tem
         <ul>
           <li>
             <a
-              href="https://ala-hub.sibbr.gov.br/ala-hub/occurrences/0fbb4244-a111-42d9-b52a-269c92529d31"
-              >Coleções de zoologia</a
+              href="https://ala-hub.sibbr.gov.br/ala-hub/occurrences/ddb66fc8-dc83-4d14-8270-25a7a814dfbc"
+              >Coleções de herbário</a
             >
           </li>
           <li>
@@ -2974,8 +2966,8 @@ O uso do padrão DarwinCore para compartilhamento de dados em biobiversidade tem
           </li>
           <li>
             <a
-              href="https://ala-hub.sibbr.gov.br/ala-hub/occurrences/ddb66fc8-dc83-4d14-8270-25a7a814dfbc"
-              >Coleções de herbário</a
+              href="https://ala-hub.sibbr.gov.br/ala-hub/occurrences/0fbb4244-a111-42d9-b52a-269c92529d31"
+              >Coleções de zoologia</a
             >
           </li>
         </ul>
@@ -3073,13 +3065,13 @@ O uso do padrão DarwinCore para compartilhamento de dados em biobiversidade tem
         <ul>
           <li>
             <a
-              href="https://ala-hub.sibbr.gov.br/ala-hub/occurrences/b2729b5d-a4f1-41d1-8c0a-ca78e9371f45"
+              href="https://ala-hub.sibbr.gov.br/ala-hub/occurrences/f1481be4-5f9a-4707-878a-43e9651058d3"
               >Coleções de zoologia</a
             >
           </li>
           <li>
             <a
-              href="https://ala-hub.sibbr.gov.br/ala-hub/occurrences/f1481be4-5f9a-4707-878a-43e9651058d3"
+              href="https://ala-hub.sibbr.gov.br/ala-hub/occurrences/b2729b5d-a4f1-41d1-8c0a-ca78e9371f45"
               >Coleções de zoologia</a
             >
           </li>
@@ -3127,13 +3119,13 @@ O uso do padrão DarwinCore para compartilhamento de dados em biobiversidade tem
         <ul>
           <li>
             <a
-              href="https://ala-hub.sibbr.gov.br/ala-hub/occurrences/38464ecc-bb48-4df9-94b2-cad29389fa85"
+              href="https://ala-hub.sibbr.gov.br/ala-hub/occurrences/49d1073b-d9ff-458c-9817-6dc93b837702"
               >Coleções de zoologia</a
             >
           </li>
           <li>
             <a
-              href="https://ala-hub.sibbr.gov.br/ala-hub/occurrences/49d1073b-d9ff-458c-9817-6dc93b837702"
+              href="https://ala-hub.sibbr.gov.br/ala-hub/occurrences/38464ecc-bb48-4df9-94b2-cad29389fa85"
               >Coleções de zoologia</a
             >
           </li>
@@ -3233,9 +3225,7 @@ O uso do padrão DarwinCore para compartilhamento de dados em biobiversidade tem
   </tbody>
 </table>
 
---- 
-
-### Location
+--- ### Location
 
 <table>
   <tr class="table-secondary">
@@ -4198,9 +4188,8 @@ O uso do padrão DarwinCore para compartilhamento de dados em biobiversidade tem
       <td style="text-align: left">
         <ul>
           <li>
-            <a
-              href="https://ala-hub.sibbr.gov.br/ala-hub/occurrences/0fbb4244-a111-42d9-b52a-269c92529d31"
-              >Herbário</a
+            <a href="https://ipt.sibbr.gov.br/sibbr/resource?r=zufmsamp"
+              >Coleções de zoologia</a
             >
           </li>
           <li>
@@ -4210,8 +4199,9 @@ O uso do padrão DarwinCore para compartilhamento de dados em biobiversidade tem
             >
           </li>
           <li>
-            <a href="https://ipt.sibbr.gov.br/sibbr/resource?r=zufmsamp"
-              >Coleções de zoologia</a
+            <a
+              href="https://ala-hub.sibbr.gov.br/ala-hub/occurrences/0fbb4244-a111-42d9-b52a-269c92529d31"
+              >Herbário</a
             >
           </li>
         </ul>
@@ -5073,9 +5063,7 @@ O uso do padrão DarwinCore para compartilhamento de dados em biobiversidade tem
   </tbody>
 </table>
 
---- 
-
-### GeologicalContext
+--- ### GeologicalContext
 
 <table>
   <tr class="table-secondary">
@@ -5777,9 +5765,7 @@ O uso do padrão DarwinCore para compartilhamento de dados em biobiversidade tem
   </tbody>
 </table>
 
---- 
-
-### Identification
+--- ### Identification
 
 <table>
   <tr class="table-secondary">
@@ -5998,12 +5984,6 @@ O uso do padrão DarwinCore para compartilhamento de dados em biobiversidade tem
       <td style="text-align: left">
         <ul>
           <li>
-            [Coleções de zoologia] (<a
-              href="https://ala-hub.sibbr.gov.br/ala-hub/occurrences/982e6bec-de01-4bfb-addd-6e55187215c4?lang=en_GB"
-              >https://ala-hub.sibbr.gov.br/ala-hub/occurrences/982e6bec-de01-4bfb-addd-6e55187215c4?lang=en_GB</a
-            >)
-          </li>
-          <li>
             <a
               href="https://ala-hub.sibbr.gov.br/ala-hub/occurrences/03ba3a3e-5bfd-4e4a-a4e4-e1248e510a12"
               >Herbário</a
@@ -6014,6 +5994,12 @@ O uso do padrão DarwinCore para compartilhamento de dados em biobiversidade tem
               href="https://ala-hub.sibbr.gov.br/ala-hub/occurrences/c7318d47-ca86-4041-8ba8-2a09dfd0b30c"
               >Herbário</a
             >
+          </li>
+          <li>
+            [Coleções de zoologia] (<a
+              href="https://ala-hub.sibbr.gov.br/ala-hub/occurrences/982e6bec-de01-4bfb-addd-6e55187215c4?lang=en_GB"
+              >https://ala-hub.sibbr.gov.br/ala-hub/occurrences/982e6bec-de01-4bfb-addd-6e55187215c4?lang=en_GB</a
+            >)
           </li>
         </ul>
       </td>
@@ -6225,9 +6211,7 @@ O uso do padrão DarwinCore para compartilhamento de dados em biobiversidade tem
   </tbody>
 </table>
 
---- 
-
-### Taxon
+--- ### Taxon
 
 <table>
   <tr class="table-secondary">
@@ -6780,14 +6764,6 @@ O uso do padrão DarwinCore para compartilhamento de dados em biobiversidade tem
       <td style="text-align: left">
         <ul>
           <li>
-            Cardona-Duque (2013) em Perelleschus splendida sec. Franz &amp;amp
-          </li>
-          <li>Cardona-Duque (2013))</li>
-          <li>
-            Cardona-Duque, 2013. Syst Biodivers. 11: 209-236. (como a citação
-            completa de Franz &amp;amp
-          </li>
-          <li>
             Franz NM, Cardona-Duque J (2013) Descrição de duas novas espécies e
             reavaliação filogenética de Perelleschus Wibmer &amp;amp
           </li>
@@ -6795,6 +6771,14 @@ O uso do padrão DarwinCore para compartilhamento de dados em biobiversidade tem
             O’Brien, 1986 (Coleoptera: Curculionidae), com um histórico completo
             do conceito taxonômico de Perelleschus sec. Franz &amp;amp
           </li>
+          <li>
+            Cardona-Duque, 2013. Syst Biodivers. 11: 209-236. (como a citação
+            completa de Franz &amp;amp
+          </li>
+          <li>
+            Cardona-Duque (2013) em Perelleschus splendida sec. Franz &amp;amp
+          </li>
+          <li>Cardona-Duque (2013))</li>
         </ul>
       </td>
     </tr>
@@ -7666,12 +7650,12 @@ O uso do padrão DarwinCore para compartilhamento de dados em biobiversidade tem
       <td style="text-align: left">
         <ul>
           <li>
+            <a href="https://www.iapt-taxon.org/nomen/main.php">Herbário</a>
+          </li>
+          <li>
             <a href="https://code.iczn.org/?frame=1">Coleções de zoologia</a>
           </li>
           <li><a href="https://ictv.global/">Virus</a></li>
-          <li>
-            <a href="https://www.iapt-taxon.org/nomen/main.php">Herbário</a>
-          </li>
           <li>
             <a href="https://www.ncbi.nlm.nih.gov/books/NBK8817/">Bactérias</a>
           </li>
@@ -7814,9 +7798,7 @@ O uso do padrão DarwinCore para compartilhamento de dados em biobiversidade tem
   </tbody>
 </table>
 
---- 
-
-### MeasurementOrFact
+--- ### MeasurementOrFact
 
 <table>
   <tr class="table-secondary">
@@ -8184,4 +8166,3 @@ O uso do padrão DarwinCore para compartilhamento de dados em biobiversidade tem
     </tr>
   </tbody>
 </table>
-
