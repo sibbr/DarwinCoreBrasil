@@ -7906,13 +7906,12 @@ O uso do padrão DarwinCore para compartilhamento de dados em biobiversidade tem
     </tr>
     <tr>
       <td style="text-align: left">Domínio</td>
-      <td style="text-align: left">
-        Temperatura | Comprimento da cauda | DAP |
-      </td>
+      <td style="text-align: left"></td>
     </tr>
     <tr>
       <td style="text-align: left">Exemplos</td>
       <td style="text-align: left">
+        <li> Temperatura | Comprimento da cauda | DAP 
         <ul>
           <!-- <li>NA</li> -->
         </ul>
@@ -7988,11 +7987,12 @@ O uso do padrão DarwinCore para compartilhamento de dados em biobiversidade tem
     </tr>
     <tr>
       <td style="text-align: left">Domínio</td>
-      <td style="text-align: left">0.01</td>
+      <td style="text-align: left"></td>
     </tr>
     <tr>
       <td style="text-align: left">Exemplos</td>
       <td style="text-align: left">
+        <li> 0.01
         <ul>
           <!-- <li>NA</li> -->
         </ul>
@@ -8028,11 +8028,12 @@ O uso do padrão DarwinCore para compartilhamento de dados em biobiversidade tem
     </tr>
     <tr>
       <td style="text-align: left">Domínio</td>
-      <td style="text-align: left">m | g | l |°C | mm | km² | m/s</td>
+      <td style="text-align: left"></td>
     </tr>
     <tr>
       <td style="text-align: left">Exemplos</td>
       <td style="text-align: left">
+        <li> m | g | l |°C | mm | km² | m/s
         <ul>
           <!-- <li>NA</li> -->
         </ul>
@@ -8109,13 +8110,12 @@ O uso do padrão DarwinCore para compartilhamento de dados em biobiversidade tem
     </tr>
     <tr>
       <td style="text-align: left">Domínio</td>
-      <td style="text-align: left">
-        2018-08-29T15:19 (15:19 horário local no dia 29 de Agosto de 2018)
-      </td>
+      <td style="text-align: left"></td>
     </tr>
     <tr>
       <td style="text-align: left">Exemplos</td>
       <td style="text-align: left">
+        <li> 2018-08-29T15:19 (15:19 horário local no dia 29 de Agosto de 2018)
         <ul>
           <!-- <li>NA</li> -->
         </ul>
@@ -8152,11 +8152,12 @@ O uso do padrão DarwinCore para compartilhamento de dados em biobiversidade tem
     </tr>
     <tr>
       <td style="text-align: left">Domínio</td>
-      <td style="text-align: left">Altímetro barométrico</td>
+      <td style="text-align: left"></td>
     </tr>
     <tr>
       <td style="text-align: left">Exemplos</td>
       <td style="text-align: left">
+        <li> Altímetro barométrico
         <ul>
           <!-- <li>NA</li> -->
         </ul>
