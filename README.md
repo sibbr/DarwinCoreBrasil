@@ -4446,13 +4446,10 @@ O uso do padrão DarwinCore para compartilhamento de dados em biobiversidade tem
         <ul>
           <li>
             0.0001 (limite normal de GPS para graus decimais)</li>
-
           <li>
             0.000278 (segundo mais próximo)</li>
-
           <li>
             0.01667 (minuto mais próximo)</li>
-
           <li>
             1.0 (grau mais próximo)
           </li>
