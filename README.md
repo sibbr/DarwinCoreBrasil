@@ -2530,9 +2530,10 @@ O uso do padrão DarwinCore para compartilhamento de dados em biobiversidade tem
       <td style="text-align: left">
         <ul>
           <li>
+            Projeto PELD:
             <a
               href="https://ala-hub.sibbr.gov.br/ala-hub/occurrences/f8bd0b2d-39be-471f-b299-d4d3184c5963"
-              >Coleções de zoologia</a
+              >PELD - ELPA | Programa Pesquisa Ecológica de Longa Duração no Estuário da Lagoa dos Patos e Costa Marinha Adjacente</a
             >
           </li>
         </ul>
@@ -2667,8 +2668,9 @@ O uso do padrão DarwinCore para compartilhamento de dados em biobiversidade tem
       <td style="text-align: left">
         <ul>
           <li>
+            Projeto iNaturalist:
             <a href="https://www.gbif.org/occurrence/4028756291"
-              >Coleção de zoologia</a
+              >iNaturalist</a
             >
           </li>
         </ul>
@@ -2984,28 +2986,25 @@ O uso do padrão DarwinCore para compartilhamento de dados em biobiversidade tem
     </tr>
     <tr>
       <td style="text-align: left">Domínio</td>
-      <td style="text-align: left">RAPELD| Parcelas | TSBF | Transectos</td>
+      <td style="text-align: left">RAPELD | Parcelas | TSBF | Transectos</td>
     </tr>
     <tr>
       <td style="text-align: left">Exemplos</td>
       <td style="text-align: left">
         <ul>
           <li>
+            Projeto Conexão Mata Atlântica:
             <a
               href="https://ala-hub.sibbr.gov.br/ala-hub/occurrences/ddb66fc8-dc83-4d14-8270-25a7a814dfbc"
-              >Coleções de herbário</a
+              >Projeto Recuperação de Serviços de Clima e Biodiversidade no Corredor Sudeste da Mata Atlântica Brasileira - Monitoramento Ecossistêmico</a
             >
           </li>
           <li>
+            Projeto PELD:
             <a
               href="https://ala-hub.sibbr.gov.br/ala-hub/occurrences/8dac4377-385c-4244-850a-74f122b353e4"
-              >Coleções de zoologia</a
-            >
-          </li>
-          <li>
-            <a
-              href="https://ala-hub.sibbr.gov.br/ala-hub/occurrences/0fbb4244-a111-42d9-b52a-269c92529d31"
-              >Coleções de zoologia</a
+              >PELD - AGCV | Monitoramento de borboletas no Jardim Botânico de Brasília</a
+                  
             >
           </li>
         </ul>
@@ -3049,15 +3048,17 @@ O uso do padrão DarwinCore para compartilhamento de dados em biobiversidade tem
       <td style="text-align: left">
         <ul>
           <li>
+            Projeto PELD:
             <a
               href="https://ala-hub.sibbr.gov.br/ala-hub/occurrences/f1481be4-5f9a-4707-878a-43e9651058d3"
-              >Coleções de zoologia</a
+              >	PELD - ELPA | Programa Pesquisa Ecológica de Longa Duração no Estuário da Lagoa dos Patos e Costa Marinha Adjacente</a
             >
             </li>
             <li>
+              Projeto:
             <a
               href="https://ala-hub.sibbr.gov.br/ala-hub/occurrences/b2729b5d-a4f1-41d1-8c0a-ca78e9371f45"
-              >Coleções de zoologia</a
+              >	Soil macrofauna communities in an organic grain production system under conventional and no-tillage system</a
             >
           </li>
         </ul>
@@ -3103,15 +3104,17 @@ O uso do padrão DarwinCore para compartilhamento de dados em biobiversidade tem
       <td style="text-align: left">
         <ul>
           <li>
+            Projeto PELD:
             <a
               href="https://ala-hub.sibbr.gov.br/ala-hub/occurrences/f1481be4-5f9a-4707-878a-43e9651058d3"
-              >Coleções de zoologia</a
+              >	PELD - ELPA | Programa Pesquisa Ecológica de Longa Duração no Estuário da Lagoa dos Patos e Costa Marinha Adjacente</a
             >
           </li>
           <li>
+            Projeto:
             <a
               href="https://ala-hub.sibbr.gov.br/ala-hub/occurrences/b2729b5d-a4f1-41d1-8c0a-ca78e9371f45"
-              >Coleções de zoologia</a
+              >	Soil macrofauna communities in an organic grain production system under conventional and no-tillage system</a
             >
           </li>
         </ul>
@@ -3157,21 +3160,24 @@ O uso do padrão DarwinCore para compartilhamento de dados em biobiversidade tem
       <td style="text-align: left">
         <ul>
           <li>
+            Projeto PELD:
             <a
               href="https://ala-hub.sibbr.gov.br/ala-hub/occurrences/49d1073b-d9ff-458c-9817-6dc93b837702"
-              >Coleções de zoologia</a
+              >PELD - AGCV | Pequenos mamíferos terrestres em fragmentos de cerradão no Distrito Federal</a
             >
           </li>
           <li>
+            Projeto PELD:
             <a
               href="https://ala-hub.sibbr.gov.br/ala-hub/occurrences/38464ecc-bb48-4df9-94b2-cad29389fa85"
-              >Coleções de zoologia</a
+              >PELD - ABRS | Avaliação e monitoramento dos recifes de Abrolhos</a
             >
           </li>
           <li>
+            Projeto Conexão Mata Atlântica:
             <a
               href="https://ala-hub.sibbr.gov.br/ala-hub/occurrences/bdc0b643-66f3-4b3e-8579-b77376cf90f4"
-              >Botânica</a
+              >	Projeto Recuperação de Serviços de Clima e Biodiversidade no Corredor Sudeste da Mata Atlântica Brasileira - Monitoramento Ecossistêmico</a
             >
           </li>
         </ul>
@@ -3215,9 +3221,10 @@ O uso do padrão DarwinCore para compartilhamento de dados em biobiversidade tem
       <td style="text-align: left">
         <ul>
           <li>
+            Herbário:
             <a
               href="https://ala-hub.sibbr.gov.br/ala-hub/occurrences/0e541351-f7b1-4098-b479-d3ac559c36f4"
-              >Herbário</a
+              >	Rio de Janeiro Botanical Garden Herbarium Collection</a
             >
           </li>
         </ul>
@@ -3684,7 +3691,7 @@ O uso do padrão DarwinCore para compartilhamento de dados em biobiversidade tem
           <li>
             <a
               href="https://ala-hub.sibbr.gov.br/ala-hub/occurrences/cc66804e-8327-45a4-8690-b61061452736"
-              >https://ala-hub.sibbr.gov.br/ala-hub/occurrences/cc66804e-8327-45a4-8690-b61061452736</a
+              >Projeto Conexão Mata Atlântica</a
             >
           </li>
         </ul>
@@ -3725,7 +3732,7 @@ O uso do padrão DarwinCore para compartilhamento de dados em biobiversidade tem
           <li>
             <a
               href="https://ala-hub.sibbr.gov.br/ala-hub/occurrences/38464ecc-bb48-4df9-94b2-cad29389fa85"
-              >https://ala-hub.sibbr.gov.br/ala-hub/occurrences/38464ecc-bb48-4df9-94b2-cad29389fa85</a
+              >PELD - ABRS | Avaliação e monitoramento dos recifes de Abrolhos</a
             >
           </li>
         </ul>
@@ -4228,20 +4235,16 @@ O uso do padrão DarwinCore para compartilhamento de dados em biobiversidade tem
       <td style="text-align: left">
         <ul>
           <li>
-            <a href="https://ipt.sibbr.gov.br/sibbr/resource?r=zufmsamp"
-              >Coleções de zoologia</a
+              Coleção de zoologia:
+            <a href="https://ala-hub.sibbr.gov.br/ala-hub/occurrences/ea8ec403-27ad-4b6a-a633-ab1b92a21ce4"
+              >	Coleção de Mamíferos da Universidade Federal de Mato Grosso (UFMT)</a
             >
-          </li>
+            </li>
           <li>
-            <a
-              href="https://ala-hub.sibbr.gov.br/ala-hub/occurrences/ea8ec403-27ad-4b6a-a633-ab1b92a21ce4"
-              >Coleções de zoologia</a
-            >
-          </li>
-          <li>
+            Projeto Conexão Mata Atlântica:
             <a
               href="https://ala-hub.sibbr.gov.br/ala-hub/occurrences/0fbb4244-a111-42d9-b52a-269c92529d31"
-              >Herbário</a
+              >Projeto Recuperação de Serviços de Clima e Biodiversidade no Corredor Sudeste da Mata Atlântica Brasileira - Monitoramento Ecossistêmico</a
             >
           </li>
         </ul>
@@ -4290,7 +4293,7 @@ O uso do padrão DarwinCore para compartilhamento de dados em biobiversidade tem
           <li>
             <a
               href="https://ala-hub.sibbr.gov.br/ala-hub/occurrences/ea1bdcbe-d6a8-41df-9d7f-e3cbab5ff8e1"
-              >https://ala-hub.sibbr.gov.br/ala-hub/occurrences/ea1bdcbe-d6a8-41df-9d7f-e3cbab5ff8e1</a
+              >	PELD - PNCA | Programa de Pesquisa de Longa Duração do Parque Nacional do Catimbau</a
             >
           </li>
         </ul>
@@ -4339,7 +4342,7 @@ O uso do padrão DarwinCore para compartilhamento de dados em biobiversidade tem
           <li>
             <a
               href="https://ala-hub.sibbr.gov.br/ala-hub/occurrences/ea1bdcbe-d6a8-41df-9d7f-e3cbab5ff8e1"
-              >https://ala-hub.sibbr.gov.br/ala-hub/occurrences/ea1bdcbe-d6a8-41df-9d7f-e3cbab5ff8e1</a
+              >	PELD - PNCA | Programa de Pesquisa de Longa Duração do Parque Nacional do Catimbau</a
             >
           </li>
         </ul>
@@ -4386,13 +4389,13 @@ O uso do padrão DarwinCore para compartilhamento de dados em biobiversidade tem
           <li>
             <a
               href="https://ala-hub.sibbr.gov.br/ala-hub/occurrences/ea1bdcbe-d6a8-41df-9d7f-e3cbab5ff8e1"
-              >https://ala-hub.sibbr.gov.br/ala-hub/occurrences/ea1bdcbe-d6a8-41df-9d7f-e3cbab5ff8e1</a
+              >PELD - PNCA | Programa de Pesquisa de Longa Duração do Parque Nacional do Catimbau</a
             >
             </li>
             <li>
             <a
               href="https://ala-hub.sibbr.gov.br/ala-hub/occurrences/14119ff6-6826-48c4-ae85-fb6122c8097d"
-              >https://ala-hub.sibbr.gov.br/ala-hub/occurrences/14119ff6-6826-48c4-ae85-fb6122c8097d</a
+              >	Projeto Recuperação de Serviços de Clima e Biodiversidade no Corredor Sudeste da Mata Atlântica Brasileira - Monitoramento Ecossistêmico</a
             >
           </li>
         </ul>
