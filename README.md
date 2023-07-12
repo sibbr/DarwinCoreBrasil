@@ -1117,6 +1117,13 @@ O uso do padrão DarwinCore para compartilhamento de dados em biobiversidade tem
               >PELD - AGCV | Pequenos mamíferos terrestres em fragmentos de cerradão no Distrito Federal</a
             >
           </li>
+          <li>
+            Coleções de zoologia:
+            <a
+              href="https://ala-hub.sibbr.gov.br/ala-hub/occurrences/34c20a2b-f1b3-4db3-adcd-f6fddbf534b1"
+              >Coleção Entomológica do Instituto Oswaldo Cruz</a
+            <
+            </li>
         </ul>
       </td>
     </tr>
