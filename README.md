@@ -1736,17 +1736,25 @@ O uso do padrão DarwinCore para compartilhamento de dados em biobiversidade tem
       <td style="text-align: left">
         <ul>
           <li>
+            Coleção de zoologia:
             <a
-              href="https://ala-hub.sibbr.gov.br/ala-hub/occurrences/76a8b7c1-f4c9-4e79-809f-8631daa79eb3"
-              >Coleções de zoologia</a
+              href="https://ala-hub.sibbr.gov.br/ala-hub/occurrences/e2463fb0-0ae8-4bf9-89d6-741c7506da0b"
+              >	Coleção Entomológica do Instituto Oswaldo Cruz</a
             >
           </li>
           <li>
+            Projeto PELD:
             <a
               href="https://ala-hub.sibbr.gov.br/ala-hub/occurrences/f1481be4-5f9a-4707-878a-43e9651058d3"
-              >Coleções de zoologia</a
-            >
-          </li>
+              >	PELD - ELPA | Programa Pesquisa Ecológica de Longa Duração no Estuário da Lagoa dos Patos e Costa Marinha Adjacente</a
+            </li>
+            <li>
+              Herbários:
+            <a
+              href="https://ala-hub.sibbr.gov.br/ala-hub/occurrences/9896807a-a038-4eeb-9af9-c772ba3a01c5"
+              > Herbário RADAMBRASIL</a
+              >
+            </li>
         </ul>
       </td>
     </tr>
