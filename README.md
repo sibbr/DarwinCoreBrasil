@@ -15,7 +15,7 @@ O uso do padrão DarwinCore para compartilhamento de dados em biobiversidade tem
 <table>
   <tr class="table-secondary">
     <th colspan="2">
-      <a target="_blank" rel="noopener noreferrer" href="https://github.com/sibbr/DarwinCoreBrasil/issues/1"
+      <a href="https://github.com/sibbr/DarwinCoreBrasil/issues/1" target="_blank" rel="noopener noreferrer"
         >datasetName</a
       >
     </th>
