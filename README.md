@@ -3003,9 +3003,7 @@ O uso do padrão DarwinCore para compartilhamento de dados em biobiversidade tem
             Projeto PELD:
             <a
               href="https://ala-hub.sibbr.gov.br/ala-hub/occurrences/8dac4377-385c-4244-850a-74f122b353e4"
-              >PELD - AGCV | Monitoramento de borboletas no Jardim Botânico de Brasília</a
-                  
-            >
+              >PELD - AGCV | Monitoramento de borboletas no Jardim Botânico de Brasília</a>
           </li>
         </ul>
       </td>
