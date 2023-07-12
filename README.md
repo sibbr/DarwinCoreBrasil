@@ -668,10 +668,10 @@ O uso do padrão DarwinCore para compartilhamento de dados em biobiversidade tem
       <td style="text-align: left">Exemplos</td>
       <td style="text-align: left">
         <ul>
-          <li>Herbário R Museu Nacional do Rio de Janeiro: R- Herbário</li>
-          <li>Coleção Zoológica da UNICAMP: ZUEC-MAM</li>
+          <li>RB</li>
+          <li>ZUEC-MAM</li>
           <li>
-            Coleção de Bactérias da Amazônia da Fundação Oswaldo Cruz: CBAM
+            CBAM
           </li>
         </ul>
       </td>
