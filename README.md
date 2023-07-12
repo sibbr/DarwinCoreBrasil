@@ -624,10 +624,10 @@ O uso do padrão DarwinCore para compartilhamento de dados em biobiversidade tem
       <td style="text-align: left">Exemplos</td>
       <td style="text-align: left">
         <ul>
-          <li>Universidade Federal do Paraná: UFPR</li>
-          <li>Museu de Zoologia da USP: MZUSP</li>
-          <li>Empresa Brasileira de Pesquisa Agropecuária: EMBRAPA</li>
-          <li>Instituto de Pesquisas da Amazônia: INPA</li>
+          <li>UFPR</li>
+          <li>MZUSP</li>
+          <li>EMBRAPA</li>
+          <li>INPA</li>
         </ul>
       </td>
     </tr>
