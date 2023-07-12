@@ -3719,14 +3719,13 @@ O uso do padrão DarwinCore para compartilhamento de dados em biobiversidade tem
     </tr>
     <tr>
       <td style="text-align: left">Domínio</td>
-      <td style="text-align: left">
-        Km 3 da estrada BR-193 | Ponto 2 do Rio Doce
-      </td>
+      <td style="text-align: left"></td>
     </tr>
     <tr>
       <td style="text-align: left">Exemplos</td>
       <td style="text-align: left">
         <ul>
+          <li> Km 3 da estrada BR-193 | Ponto 2 do Rio Doce
           <!-- <li>NA</li> -->
         </ul>
       </td>
@@ -4756,15 +4755,14 @@ O uso do padrão DarwinCore para compartilhamento de dados em biobiversidade tem
     </tr>
     <tr>
       <td style="text-align: left">Domínio</td>
-      <td style="text-align: left">
-        POLÍGONO (10 20, 11 20, 11 21, 10 21, 10 20) (a caixa delimitadora de um
-        grau com cantos opostos em longitude=10, latitude=20 e longitude=11,
-        latitude=21)
-      </td>
+      <td style="text-align: left"></td>
     </tr>
     <tr>
       <td style="text-align: left">Exemplos</td>
       <td style="text-align: left">
+        <li> POLÍGONO (10 20, 11 20, 11 21, 10 21, 10 20) (a caixa delimitadora de um
+        grau com cantos opostos em longitude=10, latitude=20 e longitude=11,
+        latitude=21)
         <ul>
           <!-- <li>NA</li> -->
         </ul>
@@ -5861,14 +5859,13 @@ O uso do padrão DarwinCore para compartilhamento de dados em biobiversidade tem
     </tr>
     <tr>
       <td style="text-align: left">Domínio</td>
-      <td style="text-align: left">
-        Micrurus corallinus x Erythrolamprus aesculapii| Fabaceae? | Byrsonima
-        coccolobifolia x B. verbascifolia
-      </td>
+      <td style="text-align: left"></td>
     </tr>
     <tr>
       <td style="text-align: left">Exemplos</td>
       <td style="text-align: left">
+        <li> Micrurus corallinus x Erythrolamprus aesculapii| Fabaceae? | Byrsonima
+        coccolobifolia x B. verbascifolia
         <ul>
           <!-- <li>NA</li> -->
         </ul>
@@ -6698,11 +6695,12 @@ O uso do padrão DarwinCore para compartilhamento de dados em biobiversidade tem
     </tr>
     <tr>
       <td style="text-align: left">Domínio</td>
-      <td style="text-align: left">Saprinus</td>
+      <td style="text-align: left"></td>
     </tr>
     <tr>
       <td style="text-align: left">Exemplos</td>
       <td style="text-align: left">
+        <li> Saprinus
         <ul>
           <!-- <li>NA</li> -->
         </ul>
