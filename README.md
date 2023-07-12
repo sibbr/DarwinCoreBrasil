@@ -759,8 +759,7 @@ O uso do padrão DarwinCore para compartilhamento de dados em biobiversidade tem
           <li>PreservedSpecimen: exsicata, espécime, cultivo</li>
           <li>MaterialSample: tecido, sangue, fêmur</li>
           <li>
-            HumanObservation: inventário, evento de amostragem, ocorrência
-            ciência cidadã
+            HumanObservation: inventário, evento de amostragem, ocorrência de projetos de ciência cidadã
           </li>
           <li>MachineObservation: fotografia, camera trap</li>
           <li>LivingSpecimen: Zoológico ou Jardim Botânico</li>
