@@ -896,9 +896,10 @@ O uso do padrão DarwinCore para compartilhamento de dados em biobiversidade tem
       <td style="text-align: left">
         <ul>
           <li>
+            Coleções de zoologia:
             <a
               href="https://ala-hub.sibbr.gov.br/ala-hub/occurrences/1dc6ebe2-f43f-4e74-8b5d-bbd3e8a40147"
-              >Coleções de zoologia</a
+              >Coleção de Aves da Unisinos</a
             >
           </li>
         </ul>
@@ -1040,21 +1041,24 @@ O uso do padrão DarwinCore para compartilhamento de dados em biobiversidade tem
       <td style="text-align: left">
         <ul>
           <li>
+            Herbário:
             <a
               href="https://ala-hub.sibbr.gov.br/ala-hub/occurrences/bc8b4528-9a08-48ca-b3e4-da16ffd03ff2"
-              >Herbários JABOT</a
+              >Herbário da Universidade Federal do Mato Grosso do Sul</a
             >
           </li>
           <li>
+            Coleções de zoologia:
             <a
               href="https://ala-hub.sibbr.gov.br/ala-hub/occurrences/28542092-5804-4de0-a9bb-9991cfc1786d"
-              >Coleções de zoologia</a
+              >Coleção de Répteis do Museu Nacional (MNRJ)</a
             >
           </li>
           <li>
+            Coleções de zoologia:
             <a
               href="https://ala-hub.sibbr.gov.br/ala-hub/occurrences/c0292efd-b25a-4c21-9c2d-3e2b0801c5a6"
-              >Coleções de zoologia</a
+              >Coleção de Mamíferos da Universidade do Mato Grosso (UFMT)</a
             >
           </li>
         </ul>
@@ -1100,15 +1104,17 @@ O uso do padrão DarwinCore para compartilhamento de dados em biobiversidade tem
       <td style="text-align: left">
         <ul>
           <li>
+            Herbário:
             <a
               href="https://ala-hub.sibbr.gov.br/ala-hub/occurrences/86b9fb12-c2b9-4695-ade6-b0b00ba4e0a5"
-              >Herbário</a
+              >Herbário IBGE</a
             >
           </li>
           <li>
+            Projeto PELD:
             <a
               href="https://ala-hub.sibbr.gov.br/ala-hub/occurrences/4cc24396-7858-4bc0-b0d6-5a9849633e72"
-              >Coleções de zoologia</a
+              >PELD - AGCV | Pequenos mamíferos terrestres em fragmentos de cerradão no Distrito Federal</a
             >
           </li>
         </ul>
@@ -1193,9 +1199,17 @@ O uso do padrão DarwinCore para compartilhamento de dados em biobiversidade tem
       <td style="text-align: left">
         <ul>
           <li>
+            Projeto:
             <a
               href="https://ala-hub.sibbr.gov.br/ala-hub/occurrences/76a8b7c1-f4c9-4e79-809f-8631daa79eb3"
-              >Coleções de zoologia</a
+              >Soil Macrofauna communities Atlantic Rainforest</a
+            >
+          </li>
+          <li>
+            Coleções de zoologia:
+            <a
+              href="https://ala-hub.sibbr.gov.br/ala-hub/occurrences/d53bd6f5-5da0-4d68-99c4-d0c0297dcf13"
+              > ICMBio: Sisbio-Dibio</a
             >
           </li>
         </ul>
