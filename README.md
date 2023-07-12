@@ -1261,9 +1261,10 @@ O uso do padrão DarwinCore para compartilhamento de dados em biobiversidade tem
       <td style="text-align: left">
         <ul>
           <li>
+            Projeto PELD:
             <a
               href="https://ala-hub.sibbr.gov.br/ala-hub/occurrences/38464ecc-bb48-4df9-94b2-cad29389fa85"
-              >Coleções de zoologia</a
+              >	PELD - ABRS | Avaliação e monitoramento dos recifes de Abrolhos</a
             >
           </li>
         </ul>
@@ -1309,9 +1310,10 @@ O uso do padrão DarwinCore para compartilhamento de dados em biobiversidade tem
       <td style="text-align: left">
         <ul>
           <li>
+            Projeto PELD:
             <a
               href="https://ala-hub.sibbr.gov.br/ala-hub/occurrences/38464ecc-bb48-4df9-94b2-cad29389fa85"
-              >Coleções de zoologia</a
+              >PELD - ABRS | Avaliação e monitoramento dos recifes de Abrolhos</a
             >
           </li>
         </ul>
@@ -1354,15 +1356,17 @@ O uso do padrão DarwinCore para compartilhamento de dados em biobiversidade tem
       <td style="text-align: left">
         <ul>
           <li>
+            Coleções de zoologia:
             <a
               href="https://ala-hub.sibbr.gov.br/ala-hub/occurrences/c0292efd-b25a-4c21-9c2d-3e2b0801c5a6"
-              >Coleções de zoologia</a
+              >Coleção de Mamíferos da Universidade Federal de Mato Grosso (UFMT)</a
             >
           </li>
           <li>
+            Coleções de zoologia:
             <a
               href="https://ala-hub.sibbr.gov.br/ala-hub/occurrences/e07710e5-66dc-47b3-9a75-23bf2ef54534"
-              >Coleções de zoologia</a
+              >Coleção de Mamíferos da PUCRS (MCP)</a
             >
           </li>
         </ul>
@@ -1409,12 +1413,14 @@ O uso do padrão DarwinCore para compartilhamento de dados em biobiversidade tem
       <td style="text-align: left">
         <ul>
           <li>
-            <a href="https://www.gbif.org/occurrence/2236082236">Herbário</a>
+            Herbário:
+            <a href="https://www.gbif.org/occurrence/2236082236">NMNH Extant Specimen Records (USNM, US)</a>
           </li>
           <li>
+            Projeto:
             <a
               href="https://ala-hub.sibbr.gov.br/ala-hub/occurrences/b1e323db-e480-489e-ac14-f13a02d2f0ca"
-              >Coleções de zoologia</a
+              >Soil macrofauna biodiversity across land use systems in neotropical biomes</a
             >
           </li>
         </ul>
@@ -1749,7 +1755,7 @@ O uso do padrão DarwinCore para compartilhamento de dados em biobiversidade tem
               >	PELD - ELPA | Programa Pesquisa Ecológica de Longa Duração no Estuário da Lagoa dos Patos e Costa Marinha Adjacente</a
             </li>
             <li>
-              Herbários:
+              Herbário:
             <a
               href="https://ala-hub.sibbr.gov.br/ala-hub/occurrences/9896807a-a038-4eeb-9af9-c772ba3a01c5"
               > Herbário RADAMBRASIL</a
@@ -1798,9 +1804,10 @@ O uso do padrão DarwinCore para compartilhamento de dados em biobiversidade tem
       <td style="text-align: left">
         <ul>
           <li>
+            Coleção de zoologia:
             <a
               href="https://ala-hub.sibbr.gov.br/ala-hub/occurrences/1dc6ebe2-f43f-4e74-8b5d-bbd3e8a40147"
-              >Coleções de zoologia</a
+              >Coleção de Aves da Unisinos</a
             >
           </li>
         </ul>
@@ -1847,15 +1854,17 @@ O uso do padrão DarwinCore para compartilhamento de dados em biobiversidade tem
       <td style="text-align: left">
         <ul>
           <li>
+            Herbário:
             <a
               href="https://ala-hub.sibbr.gov.br/ala-hub/occurrences/d1bff69a-7e87-4fac-bb8d-4935b8fc1277"
-              >Herbário</a
+              >Rio de Janeiro Botanical Garden DNA Collection - GGBN</a
             >
           </li>
           <li>
+            Coleção de zoologia:
             <a
               href="https://ala-hub.sibbr.gov.br/ala-hub/occurrences/6e4bb585-df36-4058-97a4-3238ec56bb3b"
-              >Coleções de zoologia</a
+              >ICMBio: Sisbio-Dibio</a
             >
           </li>
         </ul>
@@ -2122,9 +2131,10 @@ O uso do padrão DarwinCore para compartilhamento de dados em biobiversidade tem
       <td style="text-align: left">
         <ul>
           <li>
+            Herbário:
             <a
               href="https://ala-hub.sibbr.gov.br/ala-hub/occurrences/65416160-a3cc-4411-8472-8ed9f6f64020"
-              >Herbário</a
+              >Rio de Janeiro Botanical Garden Herbarium Collection</a
             >
           </li>
         </ul>
@@ -2212,8 +2222,9 @@ O uso do padrão DarwinCore para compartilhamento de dados em biobiversidade tem
       <td style="text-align: left">
         <ul>
           <li>
+            Coleção de zoologia:
             <a href="https://www.gbif.org/occurrence/4089783173"
-              >Coleção de zoologia</a
+              >Birda - Global Observation Dataset</a
             >
           </li>
         </ul>
