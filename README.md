@@ -624,10 +624,10 @@ O uso do padrão DarwinCore para compartilhamento de dados em biobiversidade tem
       <td style="text-align: left">Exemplos</td>
       <td style="text-align: left">
         <ul>
-          <li>Universidade Federal do Paraná: UFPR</li>
-          <li>Museu de Zoologia da USP: MZUSP</li>
-          <li>Empresa Brasileira de Pesquisa Agropecuária: EMBRAPA</li>
-          <li>Instituto de Pesquisas da Amazônia: INPA</li>
+          <li>UFPR</li>
+          <li>MZUSP</li>
+          <li>EMBRAPA</li>
+          <li>INPA</li>
         </ul>
       </td>
     </tr>
@@ -668,10 +668,10 @@ O uso do padrão DarwinCore para compartilhamento de dados em biobiversidade tem
       <td style="text-align: left">Exemplos</td>
       <td style="text-align: left">
         <ul>
-          <li>Herbário R Museu Nacional do Rio de Janeiro: R- Herbário</li>
-          <li>Coleção Zoológica da UNICAMP: ZUEC-MAM</li>
+          <li>RB</li>
+          <li>ZUEC-MAM</li>
           <li>
-            Coleção de Bactérias da Amazônia da Fundação Oswaldo Cruz: CBAM
+            CBAM
           </li>
         </ul>
       </td>
@@ -759,8 +759,7 @@ O uso do padrão DarwinCore para compartilhamento de dados em biobiversidade tem
           <li>PreservedSpecimen: exsicata, espécime, cultivo</li>
           <li>MaterialSample: tecido, sangue, fêmur</li>
           <li>
-            HumanObservation: inventário, evento de amostragem, ocorrência
-            ciência cidadã
+            HumanObservation: inventário, evento de amostragem, ocorrência de projetos de ciência cidadã
           </li>
           <li>MachineObservation: fotografia, camera trap</li>
           <li>LivingSpecimen: Zoológico ou Jardim Botânico</li>
