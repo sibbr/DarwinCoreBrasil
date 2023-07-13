@@ -1505,7 +1505,7 @@ O uso do padrão DarwinCore para compartilhamento de dados em biobiversidade tem
         Pelágico | Bentônico | Nectônicos | Planctônico | Árvore | Arbusto |
         Lianas | Subarbusto | Erva | Palmeira | Parasita | Liquenizado |
         Micorrízico | Bambu | Herbívoro | Polinizador | Predador | Ectoparasito
-        | Ectoparasitoide |Séssil | Endoparasito | Endoparasitoide
+        | Ectoparasitoide | Séssil | Endoparasito | Endoparasitoide
       </td>
     </tr>
     <tr>
