@@ -572,8 +572,7 @@ O uso do padrão DarwinCore para compartilhamento de dados em biobiversidade tem
     <tr>
       <td style="text-align: left">Definição</td>
       <td style="text-align: left">
-        Um identificador para a coleção ou conjunto de dados do qual o registro
-        foi derivado.
+        O identificador de um conjunto de dados.
       </td>
     </tr>
     <tr>
@@ -584,8 +583,8 @@ O uso do padrão DarwinCore para compartilhamento de dados em biobiversidade tem
       <td style="text-align: left">Exemplos</td>
       <td style="text-align: left">
         <ul>
-          <li>RENOVA: RENOVA:PMBA:P164</li>
-          <li>ICMBio: ICMBIO:SALVE:37463</li>
+          <li>RENOVA:RENOVA:PMBA:P164</li>
+          <li>ICMBio:ICMBIO:SALVE:37463</li>
           <li>ICMBIO:SISBIO:XXXXX</li>
         </ul>
       </td>
@@ -615,7 +614,7 @@ O uso do padrão DarwinCore para compartilhamento de dados em biobiversidade tem
     <tr>
       <td style="text-align: left">Definição</td>
       <td style="text-align: left">
-        O nome (ou sigla) em uso pela instituição que detém a guarda do(s)
+        Acrônimo (ou sigla) em uso pela instituição que detém a guarda do(s)
         objeto(s) ou das informações referidas no registro.
       </td>
     </tr>
@@ -660,7 +659,7 @@ O uso do padrão DarwinCore para compartilhamento de dados em biobiversidade tem
     <tr>
       <td style="text-align: left">Definição</td>
       <td style="text-align: left">
-        O nome, acrônimo ou código que identifica a coleção ou o conjunto de
+        Acrônimo ou código que identifica a coleção ou o conjunto de
         dados do qual o registro foi derivado.
       </td>
     </tr>
