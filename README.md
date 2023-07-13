@@ -448,7 +448,7 @@ O uso do padrão DarwinCore para compartilhamento de dados em biobiversidade tem
     <tr>
       <td style="text-align: left">Exemplos</td>
       <td style="text-align: left">
-        Tipo Táxon:
+        Referenciar um táxon
         <ul>
         <li>
         Flora e Funga do Brasil:Shimizu, G.H.; Souza, L.F.; Gonçalves, D.J.P.; França, F. Vochysiaceae in Flora e Funga do Brasil. Jardim Botânico do Rio de Janeiro. Disponível em: <a href="https://floradobrasil.jbrj.gov.br/FB15294">https://floradobrasil.jbrj.gov.br/FB15294</a>. Acesso em: 07 jul. 2023
