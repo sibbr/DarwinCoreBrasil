@@ -295,8 +295,7 @@ O uso do padrão DarwinCore para compartilhamento de dados em biobiversidade tem
     <tr>
       <td style="text-align: left">Domínio</td>
       <td style="text-align: left">
-        Nome completo escrito em extenso da instituição, fundação ou órgão com
-        os direitos de propriedade do registro
+        [Nome completo instituição]
       </td>
     </tr>
     <tr>
@@ -343,7 +342,7 @@ O uso do padrão DarwinCore para compartilhamento de dados em biobiversidade tem
     <tr>
       <td style="text-align: left">Domínio</td>
       <td style="text-align: left">
-        Link para a política de dados e acesso da instituição
+        [Link de acesso]
       </td>
     </tr>
     <tr>
@@ -353,19 +352,19 @@ O uso do padrão DarwinCore para compartilhamento de dados em biobiversidade tem
           <li>
             <a
               href="https://cidacs.bahia.fiocruz.br/plataformazika/wp-content/uploads/2022/04/POLITICA-DE-DADO-DA-FIOCRUZ.pdf"
-              >Política de dados da Fiocruz</a
+              >Política de dados Fiocruz</a
             >
           </li>
           <li>
             <a
               href="https://ppbio.inpa.gov.br/sites/default/files/politica_dou.pdf"
-              >Política de dados do PPBio</a
+              >Política de dados PPBio</a
             >
           </li>
           <li>
             <a
               href="https://dspace.jbrj.gov.br/jspui/bitstream/doc/125/1/Plano_de_Dados_Abertos_JBRJ_2021_2022_Versao_1.1.pdf"
-              > Política de dados do JBRJ</a
+              > Política de dados JBRJ</a
             >
           </li>
         </ul>
