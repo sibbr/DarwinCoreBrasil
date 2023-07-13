@@ -503,6 +503,7 @@ O uso do padrão DarwinCore para compartilhamento de dados em biobiversidade tem
       <td style="text-align: left">
         <ul>
           <li> Fiocruz: 33.781.055/0001-35
+          <li> Universidade Federal do Rio de Janeiro: 33.663.683/0029-17
           <!-- <li>NA</li> -->
         </ul>
       </td>
