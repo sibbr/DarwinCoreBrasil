@@ -289,8 +289,7 @@ O uso do padrão DarwinCore para compartilhamento de dados em biobiversidade tem
     <tr>
       <td style="text-align: left">Definição</td>
       <td style="text-align: left">
-        Uma pessoa ou organização que possui ou gerencia direitos sobre o
-        recurso.
+        Organização detentora dos direitos autorais do registro.
       </td>
     </tr>
     <tr>
@@ -440,8 +439,7 @@ O uso do padrão DarwinCore para compartilhamento de dados em biobiversidade tem
     <tr>
       <td style="text-align: left">Definição</td>
       <td style="text-align: left">
-        Um recurso relacionado que é referenciado, citado ou apontado de outra
-        forma pelo recurso descrito.
+        A referência ou citação oficial utilizada para descrever e/ou completar as informações do registro.
       </td>
     </tr>
     <tr>
