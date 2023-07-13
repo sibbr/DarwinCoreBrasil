@@ -450,10 +450,10 @@ O uso do padrão DarwinCore para compartilhamento de dados em biobiversidade tem
         Referenciar um táxon:
         <ul>
         <li>
-        Flora e Funga do Brasil: <a href="https://floradobrasil.jbrj.gov.br/FB15294">https://floradobrasil.jbrj.gov.br/FB15294</a>. 
+        Flora e Funga do Brasil: <a href="https://floradobrasil.jbrj.gov.br/FB15294">https://floradobrasil.jbrj.gov.br/FB15294</a>
         </li>
         <li>
-        Catálogo Taxonômico da Fauna do Brasil: <a href="http://fauna.jbrj.gov.br/fauna/faunadobrasil/40390" >http://fauna.jbrj.gov.br/fauna/faunadobrasil/40390</a >. 
+        Catálogo Taxonômico da Fauna do Brasil: <a href="http://fauna.jbrj.gov.br/fauna/faunadobrasil/40390" >http://fauna.jbrj.gov.br/fauna/faunadobrasil/40390</a >
         </li>
         <li>
         Catalogue of Life (CoL): <a href="https://www.catalogueoflife.org/data/taxon/3DR25"> https://www.catalogueoflife.org/data/taxon/3DR25 </a>
