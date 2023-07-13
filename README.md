@@ -449,18 +449,19 @@ O uso do padrão DarwinCore para compartilhamento de dados em biobiversidade tem
     <tr>
       <td style="text-align: left">Exemplos</td>
       <td style="text-align: left">
+        Tipo Táxon:
         <ul>
         <li>
-        Shimizu, G.H.; Souza, L.F.; Gonçalves, D.J.P.; França, F. Vochysiaceae in Flora e Funga do Brasil. Jardim Botânico do Rio de Janeiro. Disponível em: <a href="https://floradobrasil.jbrj.gov.br/FB15294">https://floradobrasil.jbrj.gov.br/FB15294</a>. Acesso em: 07 jul. 2023
+        Flora e Funga do Brasil:Shimizu, G.H.; Souza, L.F.; Gonçalves, D.J.P.; França, F. Vochysiaceae in Flora e Funga do Brasil. Jardim Botânico do Rio de Janeiro. Disponível em: <a href="https://floradobrasil.jbrj.gov.br/FB15294">https://floradobrasil.jbrj.gov.br/FB15294</a>. Acesso em: 07 jul. 2023
         </li>
         <li>
-        Abreu-Júnior EF,Casali D 2023. Myrmecophagidae in Catálogo Taxonômico da Fauna do Brasil. PNUD. Disponível em: <a href="http://fauna.jbrj.gov.br/fauna/faunadobrasil/40390" >http://fauna.jbrj.gov.br/fauna/faunadobrasil/40390</a >. Acesso em: 07 Jul. 2023
+        Catálogo Taxonômico da Fauna do Brasil: Abreu-Júnior EF,Casali D 2023. Myrmecophagidae in Catálogo Taxonômico da Fauna do Brasil. PNUD. Disponível em: <a href="http://fauna.jbrj.gov.br/fauna/faunadobrasil/40390" >http://fauna.jbrj.gov.br/fauna/faunadobrasil/40390</a >. Acesso em: 07 Jul. 2023
         </li>
         <li>
-        Kirk, P. (2023). Species Fungorum Plus. In O. Bánki, Y. Roskov, M. Döring, G. Ower, D. R. Hernández Robles, C. A. Plata Corredor, T. Stjernegaard Jeppesen, A. Örn, L. Vandepitte, D. Hobern, P. Schalk, R. E. DeWalt, M. Keping, J. Miller, T. Orrell, R. Aalbu, J. Abbott, R. Adlard, E. M. Adriaenssens, et al., Catalogue of Life Checklist (Jan 2023). Royal Botanic Gardens, Kew. <a href="https://doi.org/10.48580/dfsr-4hj" >https://doi.org/10.48580/dfsr-4hj</a>
+        Catalogue of Life (CoL): <a href="https://www.catalogueoflife.org/data/taxon/3DR25"> https://www.catalogueoflife.org/data/taxon/3DR25 </a>
         </li>
         <li>
-        da Silva Soares Souto A, Rocha C (2022). Fiocruz/CCBH - Coleção de Culturas de Bactérias de Origem Hospitalar. Version 1.1576. FIOCRUZ - Oswaldo Cruz Foundation. Occurrence dataset <a href="https://doi.org/10.15468/jb9tx8" >https://doi.org/10.15468/jb9tx8</a > accessed via GBIF.org on 2023-07-07. <a href="https://www.gbif.org/occurrence/1413024965" >https://www.gbif.org/occurrence/1413024965</a >
+        WoRMS: Froese, R. and D. Pauly. Editors. (2023). FishBase. Rhincodon typus Smith, 1828. Accessed through: World Register of Marine Species at: <a href="https://www.marinespecies.org/aphia.php?p=taxdetails&id=105847"> https://www.marinespecies.org/aphia.php?p=taxdetails&id=105847 </a> on 2023-07-13</a >
         </li>
         </ul>
       </td>
@@ -631,6 +632,7 @@ O uso do padrão DarwinCore para compartilhamento de dados em biobiversidade tem
           <li>MZUSP</li>
           <li>EMBRAPA</li>
           <li>INPA</li>
+          <li>MPEG</li>
         </ul>
       </td>
     </tr>
@@ -762,9 +764,9 @@ O uso do padrão DarwinCore para compartilhamento de dados em biobiversidade tem
           <li>PreservedSpecimen: exsicata, espécime, cultivo</li>
           <li>MaterialSample: tecido, sangue, fêmur</li>
           <li>
-            HumanObservation: inventário, evento de amostragem, ocorrência de projetos de ciência cidadã
+            HumanObservation: inventário, evento de amostragem, ocorrência (ciência cidadã)
           </li>
-          <li>MachineObservation: fotografia, camera trap</li>
+          <li>MachineObservation: fotografia, câmera trap</li>
           <li>LivingSpecimen: Zoológico ou Jardim Botânico</li>
         </ul>
       </td>
@@ -839,8 +841,7 @@ O uso do padrão DarwinCore para compartilhamento de dados em biobiversidade tem
     <tr>
       <td style="text-align: left">Definição</td>
       <td style="text-align: left">
-        Informações adicionais que existem, mas que não foram compartilhadas no
-        registro fornecido.
+       	Ações tomadas para tornar os dados compartilhados menos específicos ou completos do que em sua forma original. Sugere que dados alternativos de maior qualidade podem estar disponíveis mediante solicitação.
       </td>
     </tr>
     <tr>
