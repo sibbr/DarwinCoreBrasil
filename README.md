@@ -704,18 +704,20 @@ O uso do padrão DarwinCore para compartilhamento de dados em biobiversidade tem
     <tr>
       <td style="text-align: left">Definição</td>
       <td style="text-align: left">
-        O nome (ou sigla) utilizado pela instituição proprietária do(s)
+        O nome utilizado pela instituição proprietária do(s)
         objeto(s) ou das informações referidas no registro.
       </td>
     </tr>
     <tr>
       <td style="text-align: left">Domínio</td>
-      <td style="text-align: left"></td>
+      <td style="text-align: left"> [Nome completo da instituição]</td>
     </tr>
     <tr>
       <td style="text-align: left">Exemplos</td>
       <td style="text-align: left">
         <ul>
+          <li> Universidade Federal de Minas Gerais </li>
+          <li> Universidade Federal do Espirito Santo </li>
           <!-- <li>NA</li> -->
         </ul>
       </td>
