@@ -891,7 +891,7 @@ O uso do padrão DarwinCore para compartilhamento de dados em biobiversidade tem
     <tr>
       <td style="text-align: left">Domínio</td>
       <td style="text-align: left">
-        [Formato JSON](https://www.json.org/json-pt.html)
+        <a href="https://www.json.org/json-pt.html">Formato JSON</a>
       </td>
     </tr>
     <tr>
