@@ -5950,9 +5950,10 @@ O uso do padrão DarwinCore para compartilhamento de dados em biobiversidade tem
       <td style="text-align: left">
         <ul>
           <li>
+            Coleção de zoologia:
             <a
               href="https://ala-hub.sibbr.gov.br/ala-hub/occurrences/58811f37-1138-4db4-beeb-dd253798718e"
-              >Coleções de zoologia</a
+              >Coleção de Anfíbios do Museu Nacional (MNRJ)</a
             >
           </li>
         </ul>
@@ -5999,9 +6000,10 @@ O uso do padrão DarwinCore para compartilhamento de dados em biobiversidade tem
       <td style="text-align: left">
         <ul>
           <li>
+            Coleção de zoologia:
             <a
               href="https://ala-hub.sibbr.gov.br/ala-hub/occurrences/58811f37-1138-4db4-beeb-dd253798718e"
-              >Coleções de zoologia</a
+              >Coleção de Anfíbios do Museu Nacional (MNRJ)</a
             >
           </li>
         </ul>
@@ -6047,21 +6049,24 @@ O uso do padrão DarwinCore para compartilhamento de dados em biobiversidade tem
       <td style="text-align: left">
         <ul>
           <li>
+            Herbário:
             <a
               href="https://ala-hub.sibbr.gov.br/ala-hub/occurrences/03ba3a3e-5bfd-4e4a-a4e4-e1248e510a12"
-              >Herbário</a
+              >Coleção de Briófitas do Herbário da Universidade Federal de Minas Gerais</a
             >
           </li>
           <li>
+            Herbário:
             <a
               href="https://ala-hub.sibbr.gov.br/ala-hub/occurrences/c7318d47-ca86-4041-8ba8-2a09dfd0b30c"
-              >Herbário</a
+              >	Base de dados de Algae do Herbário R do Museu Nacional</a
             >
           </li>
           <li>
+            Coleção de zoologia:
             <a
               href="https://ala-hub.sibbr.gov.br/ala-hub/occurrences/982e6bec-de01-4bfb-addd-6e55187215c4?lang=en_GB"
-              >Coleções de zoologia</a
+              >	Base de dados de Mamíferos da Coleção Zoológica MBML do INMA</a
             >
           </li>
         </ul>
