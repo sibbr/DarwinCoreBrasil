@@ -584,8 +584,8 @@ O uso do padrão DarwinCore para compartilhamento de dados em biobiversidade tem
       <td style="text-align: left">
         <ul>
           <li>RENOVA:RENOVA:PMBA:P164</li>
-          <li>ICMBio:ICMBIO:SALVE:37463</li>
-          <li>ICMBIO:SISBIO:XXXXX</li>
+          <li>ICMBio:ICMBio:SALVE:37463</li>
+          <li>ICMBio:Sisbio:XXXXX</li>
         </ul>
       </td>
     </tr>
@@ -797,14 +797,12 @@ O uso do padrão DarwinCore para compartilhamento de dados em biobiversidade tem
       <td style="text-align: left">Definição</td>
       <td style="text-align: left">
         Informações adicionais que existem, mas que não foram compartilhadas no
-        registro fornecido.
+        registro fornecido. Sugere que dados alternativos de maior qualidade podem estar disponíveis mediante solicitação.
       </td>
     </tr>
     <tr>
       <td style="text-align: left">Domínio</td>
-      <td style="text-align: left">
-        Coordenadas exatas disponíveis | Identificação até nivel de espécie
-        disponível e não publicado
+      <td style="text-align: left"> [Informações não compartilhadas]
       </td>
     </tr>
     <tr>
