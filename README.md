@@ -231,8 +231,7 @@ O uso do padrão DarwinCore para compartilhamento de dados em biobiversidade tem
     <tr>
       <td style="text-align: left">Definição</td>
       <td style="text-align: left">
-        Um documento legal dando permissão oficial para fazer algo com o
-        recurso.
+        A licença de uso do registro ou dado de pesquisa estabelecida para a utilização por outros usuários.
       </td>
     </tr>
     <tr>
