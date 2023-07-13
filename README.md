@@ -451,10 +451,10 @@ O uso do padrão DarwinCore para compartilhamento de dados em biobiversidade tem
         Referenciar um táxon:
         <ul>
         <li>
-        Flora e Funga do Brasil: <a href="https://floradobrasil.jbrj.gov.br/FB15294">https://floradobrasil.jbrj.gov.br/FB15294</a>. Acesso em: 07 jul. 2023
+        Flora e Funga do Brasil: <a href="https://floradobrasil.jbrj.gov.br/FB15294">https://floradobrasil.jbrj.gov.br/FB15294</a>. 
         </li>
         <li>
-        Catálogo Taxonômico da Fauna do Brasil: <a href="http://fauna.jbrj.gov.br/fauna/faunadobrasil/40390" >http://fauna.jbrj.gov.br/fauna/faunadobrasil/40390</a >. Acesso em: 07 Jul. 2023
+        Catálogo Taxonômico da Fauna do Brasil: <a href="http://fauna.jbrj.gov.br/fauna/faunadobrasil/40390" >http://fauna.jbrj.gov.br/fauna/faunadobrasil/40390</a >. 
         </li>
         <li>
         Catalogue of Life (CoL): <a href="https://www.catalogueoflife.org/data/taxon/3DR25"> https://www.catalogueoflife.org/data/taxon/3DR25 </a>
@@ -496,12 +496,13 @@ O uso do padrão DarwinCore para compartilhamento de dados em biobiversidade tem
     </tr>
     <tr>
       <td style="text-align: left">Domínio</td>
-      <td style="text-align: left"></td>
+      <td style="text-align: left"> [CNPJ da instituição] </td>
     </tr>
     <tr>
       <td style="text-align: left">Exemplos</td>
       <td style="text-align: left">
         <ul>
+          <li> Fiocruz: 33.781.055/0001-35
           <!-- <li>NA</li> -->
         </ul>
       </td>
