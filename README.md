@@ -119,14 +119,14 @@ O uso do padrão DarwinCore para compartilhamento de dados em biobiversidade tem
       <td style="text-align: left">
         <ul>
           <li>
-            PhysicalObject: exsicata ou espécime preservado (pode ter imagem)
+            PhysicalObject: exsicata ou espécime preservado
           </li>
           <li>
-            Sound: arquivo com som | Colocar a url de acesso ao arquivo no termo
+            Sound: arquivo com som. Colocar a url de acesso ao arquivo no termo
             associatedMedia
           </li>
           <li>StillImage: imagem da exsicata ou espéciem sem a amostra</li>
-          <li>Text: dados obtidos da literatura</li>
+          <li>Text: registros obtidos da literatura</li>
           <li>Event: dados de ocorrência ou evento de amostragem sem coleta</li>
         </ul>
       </td>
@@ -337,8 +337,7 @@ O uso do padrão DarwinCore para compartilhamento de dados em biobiversidade tem
     <tr>
       <td style="text-align: left">Definição</td>
       <td style="text-align: left">
-        Informações sobre quem pode acessar o recurso ou uma indicação de seu
-        status de segurança.
+        Informações sobre quem pode acessar ao registro.
       </td>
     </tr>
     <tr>
