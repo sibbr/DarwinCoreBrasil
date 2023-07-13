@@ -448,13 +448,13 @@ O uso do padrão DarwinCore para compartilhamento de dados em biobiversidade tem
     <tr>
       <td style="text-align: left">Exemplos</td>
       <td style="text-align: left">
-        Referenciar um táxon
+        Referenciar um táxon:
         <ul>
         <li>
-        Flora e Funga do Brasil:Shimizu, G.H.; Souza, L.F.; Gonçalves, D.J.P.; França, F. Vochysiaceae in Flora e Funga do Brasil. Jardim Botânico do Rio de Janeiro. Disponível em: <a href="https://floradobrasil.jbrj.gov.br/FB15294">https://floradobrasil.jbrj.gov.br/FB15294</a>. Acesso em: 07 jul. 2023
+        Flora e Funga do Brasil: <a href="https://floradobrasil.jbrj.gov.br/FB15294">https://floradobrasil.jbrj.gov.br/FB15294</a>. Acesso em: 07 jul. 2023
         </li>
         <li>
-        Catálogo Taxonômico da Fauna do Brasil: Abreu-Júnior EF,Casali D 2023. Myrmecophagidae in Catálogo Taxonômico da Fauna do Brasil. PNUD. Disponível em: <a href="http://fauna.jbrj.gov.br/fauna/faunadobrasil/40390" >http://fauna.jbrj.gov.br/fauna/faunadobrasil/40390</a >. Acesso em: 07 Jul. 2023
+        Catálogo Taxonômico da Fauna do Brasil: <a href="http://fauna.jbrj.gov.br/fauna/faunadobrasil/40390" >http://fauna.jbrj.gov.br/fauna/faunadobrasil/40390</a >. Acesso em: 07 Jul. 2023
         </li>
         <li>
         Catalogue of Life (CoL): <a href="https://www.catalogueoflife.org/data/taxon/3DR25"> https://www.catalogueoflife.org/data/taxon/3DR25 </a>
