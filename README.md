@@ -1107,24 +1107,21 @@ O uso do padrão DarwinCore para compartilhamento de dados em biobiversidade tem
       <td style="text-align: left">
         <ul>
           <li>
-            Herbário:
-            <a
+              <a
               href="https://ala-hub.sibbr.gov.br/ala-hub/occurrences/86b9fb12-c2b9-4695-ade6-b0b00ba4e0a5"
-              >Herbário IBGE</a
+              >Marquete, R</a
             >
           </li>
           <li>
-            Projeto PELD:
             <a
               href="https://ala-hub.sibbr.gov.br/ala-hub/occurrences/4cc24396-7858-4bc0-b0d6-5a9849633e72"
-              >PELD - AGCV | Pequenos mamíferos terrestres em fragmentos de cerradão no Distrito Federal</a
+              >	Ribeiro, F. Juliana | Vieira, E. Emerson</a
             >
           </li>
           <li>
-            Coleções de zoologia:
-            <a
+              <a
               href="https://ala-hub.sibbr.gov.br/ala-hub/occurrences/34c20a2b-f1b3-4db3-adcd-f6fddbf534b1"
-              >Coleção Entomológica do Instituto Oswaldo Cruz</a
+              >Zikan, J.F.</a
             <
             </li>
         </ul>
@@ -1209,17 +1206,15 @@ O uso do padrão DarwinCore para compartilhamento de dados em biobiversidade tem
       <td style="text-align: left">
         <ul>
           <li>
-            Projeto:
-            <a
+              <a
               href="https://ala-hub.sibbr.gov.br/ala-hub/occurrences/76a8b7c1-f4c9-4e79-809f-8631daa79eb3"
-              >Soil Macrofauna communities Atlantic Rainforest</a
+              >2</a
             >
           </li>
           <li>
-            Coleções de zoologia:
-            <a
+          <a
               href="https://ala-hub.sibbr.gov.br/ala-hub/occurrences/d53bd6f5-5da0-4d68-99c4-d0c0297dcf13"
-              > ICMBio: Sisbio-Dibio</a
+              >48</a
             >
           </li>
         </ul>
@@ -1264,10 +1259,9 @@ O uso do padrão DarwinCore para compartilhamento de dados em biobiversidade tem
       <td style="text-align: left">
         <ul>
           <li>
-            Projeto PELD:
-            <a
+           <a
               href="https://ala-hub.sibbr.gov.br/ala-hub/occurrences/38464ecc-bb48-4df9-94b2-cad29389fa85"
-              >	PELD - ABRS | Avaliação e monitoramento dos recifes de Abrolhos</a
+              >0.486325086</a
             >
           </li>
         </ul>
@@ -1313,10 +1307,9 @@ O uso do padrão DarwinCore para compartilhamento de dados em biobiversidade tem
       <td style="text-align: left">
         <ul>
           <li>
-            Projeto PELD:
-            <a
+             <a
               href="https://ala-hub.sibbr.gov.br/ala-hub/occurrences/38464ecc-bb48-4df9-94b2-cad29389fa85"
-              >PELD - ABRS | Avaliação e monitoramento dos recifes de Abrolhos</a
+              >	% per meter square</a
             >
           </li>
         </ul>
@@ -1414,16 +1407,16 @@ O uso do padrão DarwinCore para compartilhamento de dados em biobiversidade tem
     <tr>
       <td style="text-align: left">Exemplos</td>
       <td style="text-align: left">
-        <ul>
+           <ul>
+             Planta:
           <li>
-            Herbário:
-            <a href="https://www.gbif.org/occurrence/2236082236">NMNH Extant Specimen Records (USNM, US)</a>
+             <a href="https://www.gbif.org/occurrence/2236082236"> Frutificação e floração</a>
           </li>
           <li>
-            Projeto:
+            Animal:
             <a
               href="https://ala-hub.sibbr.gov.br/ala-hub/occurrences/b1e323db-e480-489e-ac14-f13a02d2f0ca"
-              >Soil macrofauna biodiversity across land use systems in neotropical biomes</a
+              >Larva</a
             >
           </li>
         </ul>
@@ -1467,6 +1460,7 @@ O uso do padrão DarwinCore para compartilhamento de dados em biobiversidade tem
     <tr>
       <td style="text-align: left">Exemplos</td>
       <td style="text-align: left">
+        Planta:
         <ul>
         <li> Frutificação:
           <a
@@ -1516,6 +1510,7 @@ O uso do padrão DarwinCore para compartilhamento de dados em biobiversidade tem
     <tr>
       <td style="text-align: left">Exemplos</td>
       <td style="text-align: left">
+        Planta:
         <ul>
         <li> 
           Arbusto: 
@@ -1618,7 +1613,7 @@ O uso do padrão DarwinCore para compartilhamento de dados em biobiversidade tem
     <tr>
       <td style="text-align: left">Domínio</td>
       <td style="text-align: left">
-        Cultivada | Nativa |Invasora | Naturalizada |Introduzida | Domesticada |
+        Cultivada | Nativa | Invasora | Naturalizada | Introduzida | Domesticada |
         Criptogênico | Nativa - endêmica | Nativa - não endêmica | Origem
         incerta | Origem não conhecida
       </td>
@@ -1770,23 +1765,20 @@ O uso do padrão DarwinCore para compartilhamento de dados em biobiversidade tem
       <td style="text-align: left">
         <ul>
           <li>
-            Coleção de zoologia:
-            <a
+           <a
               href="https://ala-hub.sibbr.gov.br/ala-hub/occurrences/e2463fb0-0ae8-4bf9-89d6-741c7506da0b"
-              >	Coleção Entomológica do Instituto Oswaldo Cruz</a
+              >present</a
             >
           </li>
           <li>
-            Projeto PELD:
-            <a
+              <a
               href="https://ala-hub.sibbr.gov.br/ala-hub/occurrences/f1481be4-5f9a-4707-878a-43e9651058d3"
-              >	PELD - ELPA | Programa Pesquisa Ecológica de Longa Duração no Estuário da Lagoa dos Patos e Costa Marinha Adjacente</a
+              >absent</a
             </li>
             <li>
-              Herbário:
-            <a
+              <a
               href="https://ala-hub.sibbr.gov.br/ala-hub/occurrences/9896807a-a038-4eeb-9af9-c772ba3a01c5"
-              > Herbário RADAMBRASIL</a
+              >present</a
               >
             </li>
         </ul>
@@ -1832,10 +1824,9 @@ O uso do padrão DarwinCore para compartilhamento de dados em biobiversidade tem
       <td style="text-align: left">
         <ul>
           <li>
-            Coleção de zoologia:
-            <a
+              <a
               href="https://ala-hub.sibbr.gov.br/ala-hub/occurrences/1dc6ebe2-f43f-4e74-8b5d-bbd3e8a40147"
-              >Coleção de Aves da Unisinos</a
+              >Pele taxidermizada | Preparação: Taxidermização | Tecido Poluentes: NÃO | Tecido DNA: SIM</a
             >
           </li>
         </ul>
