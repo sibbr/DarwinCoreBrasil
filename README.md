@@ -459,7 +459,10 @@ O uso do padrão DarwinCore para compartilhamento de dados em biobiversidade tem
         Catalogue of Life (CoL): <a href="https://www.catalogueoflife.org/data/taxon/3DR25"> https://www.catalogueoflife.org/data/taxon/3DR25 </a>
         </li>
         <li>
-        WoRMS: Froese, R. and D. Pauly. Editors. (2023). FishBase. Rhincodon typus Smith, 1828. Accessed through: World Register of Marine Species at: <a href="https://www.marinespecies.org/aphia.php?p=taxdetails&id=105847"> https://www.marinespecies.org/aphia.php?p=taxdetails&id=105847 </a> on 2023-07-13</a >
+        WoRMS: Froese, R. and D. Pauly. Editors. (2023). FishBase. Rhincodon typus Smith, 1828. Accessed through: World Register of Marine Species at: <a href="https://www.marinespecies.org/aphia.php?p=taxdetails&id=105847"> https://www.marinespecies.org/aphia.php?p=taxdetails&id=105847 </a> 
+        </li>
+        <li>
+        Vírus: <a href="https://www.ncbi.nlm.nih.gov/labs/virus/vssi/#/"> https://www.ncbi.nlm.nih.gov/labs/virus/vssi/#/ </a>
         </li>
         </ul>
       </td>
