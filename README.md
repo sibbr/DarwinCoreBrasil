@@ -1359,17 +1359,17 @@ O uso do padrão DarwinCore para compartilhamento de dados em biobiversidade tem
       <td style="text-align: left">
         <ul>
           <li>
-            Coleções de zoologia:
+            Macho:
             <a
-              href="https://ala-hub.sibbr.gov.br/ala-hub/occurrences/c0292efd-b25a-4c21-9c2d-3e2b0801c5a6"
-              >Coleção de Mamíferos da Universidade Federal de Mato Grosso (UFMT)</a
+              href="https://ala-hub.sibbr.gov.br/ala-hub/occurrences/013b8c62-05b2-47f0-85f7-9cd3be752193"
+              >BR:UENF:UENFMZ:00156</a
             >
           </li>
           <li>
-            Coleções de zoologia:
+            Fêmea:
             <a
-              href="https://ala-hub.sibbr.gov.br/ala-hub/occurrences/e07710e5-66dc-47b3-9a75-23bf2ef54534"
-              >Coleção de Mamíferos da PUCRS (MCP)</a
+              href="https://ala-hub.sibbr.gov.br/ala-hub/occurrences/000c722d-8c18-44e1-a8d7-e42694fbfb87"
+              >	br:ppbio:comcerrado:854</a
             >
           </li>
         </ul>
@@ -7643,16 +7643,25 @@ O uso do padrão DarwinCore para compartilhamento de dados em biobiversidade tem
       <td style="text-align: left">
         <ul>
           <li>
+            Herbário:
             <a
               href="https://ala-hub.sibbr.gov.br/ala-hub/occurrences/83c1d78e-9eb5-4492-b4bf-34941867a88e"
-              >Herbário</a
+              >Rio de Janeiro Botanical Garden Herbarium Collection</a
             >
           </li>
           <li>
+            Projeto:
             <a
               href="https://ala-hub.sibbr.gov.br/ala-hub/occurrences/f1481be4-5f9a-4707-878a-43e9651058d3"
-              >Coleções de zoologia</a
+              >PELD - ELPA | Continuous monitoring of the micro and mesozooplankton of the Patos Lagoon estuary and adjacent coastal area</a
             >
+          </li>
+          <li>
+            Coleção de zoologia:
+            <a
+              href="https://ala-hub.sibbr.gov.br/ala-hub/occurrences/c6ac569e-d8e5-458b-9743-ca91384baa2a"
+              >Coleção Entomológica do Instituto Oswaldo Cruz</a
+              >
           </li>
         </ul>
       </td>
@@ -7872,9 +7881,10 @@ O uso do padrão DarwinCore para compartilhamento de dados em biobiversidade tem
       <td style="text-align: left">
         <ul>
           <li>
+            Coleção de zoologia:
             <a
               href="https://ala-hub.sibbr.gov.br/ala-hub/occurrences/c7703576-ada5-460e-938a-996dea3a9277"
-              >Coleções de zoologia</a
+              >ICMBio: Sisbio-Dibio</a
             >
           </li>
         </ul>
