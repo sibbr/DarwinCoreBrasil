@@ -1520,7 +1520,21 @@ O uso do padrão DarwinCore para compartilhamento de dados em biobiversidade tem
       <td style="text-align: left">Exemplos</td>
       <td style="text-align: left">
         <ul>
-          <!-- <li>NA</li> -->
+        <li> 
+          Arbusto: 
+          <a
+            href= "https://ala-hub.sibbr.gov.br/ala-hub/occurrences/65416160-a3cc-4411-8472-8ed9f6f64020"
+           >urn:catalog:JBRJ:RB:205040</a
+           >
+        </li>
+        <li>
+          Erva:
+          <a
+            href="https://ala-hub.sibbr.gov.br/ala-hub/occurrences/b5d12b61-ee40-4ab8-9a5c-bbc9ce275ca5"
+            >urn:catalog:JBRJ:RB:205057</a
+          >
+        </li>
+        <!-- <li>NA</li> -->
         </ul>
       </td>
     </tr>
