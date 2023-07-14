@@ -1408,8 +1408,8 @@ O uso do padrão DarwinCore para compartilhamento de dados em biobiversidade tem
       <td style="text-align: left">Exemplos</td>
       <td style="text-align: left">
            <ul>
+           <li>
              Planta:
-          <li>
              <a href="https://www.gbif.org/occurrence/2236082236"> Frutificação e floração</a>
           </li>
           <li>
