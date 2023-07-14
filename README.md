@@ -1534,6 +1534,12 @@ O uso do padrão DarwinCore para compartilhamento de dados em biobiversidade tem
             >urn:catalog:JBRJ:RB:205057</a
           >
         </li>
+        <li>
+          Parasita:
+          <a
+            href="https://ala-hub.sibbr.gov.br/ala-hub/occurrences/933c33fb-424c-4cbc-b949-c9ed469ed8db"
+            >	urn:catalog:JBRJ:RB:205238</a
+            >
         <!-- <li>NA</li> -->
         </ul>
       </td>
