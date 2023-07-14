@@ -7749,7 +7749,7 @@ O uso do padrão DarwinCore para compartilhamento de dados em biobiversidade tem
           <li>
             <a href="https://code.iczn.org/?frame=1">Coleções de zoologia</a>
           </li>
-          <li><a href="https://ictv.global/">Virus</a></li>
+          <li><a href="https://ictv.global/">Vírus</a></li>
           <li>
             <a href="https://www.ncbi.nlm.nih.gov/books/NBK8817/">Bactérias</a>
           </li>
