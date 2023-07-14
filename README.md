@@ -48,7 +48,7 @@ O uso do padrão DarwinCore para compartilhamento de dados em biobiversidade tem
             Coleções de Zoologia:
             <a
               href="https://collectory.sibbr.gov.br/collectory/public/show/dr797"
-              >Coleção de Mamíferos do MNRJ</a
+              >Coleção de Mamíferos do Museu Nacional / UFRJ</a
           </li>
           <li>
             Herbários:
@@ -1053,26 +1053,17 @@ O uso do padrão DarwinCore para compartilhamento de dados em biobiversidade tem
       <td style="text-align: left">
         <ul>
           <li>
-            Herbário:
             <a
               href="https://ala-hub.sibbr.gov.br/ala-hub/occurrences/bc8b4528-9a08-48ca-b3e4-da16ffd03ff2"
-              >Herbário da Universidade Federal do Mato Grosso do Sul</a
+              >34</a
             >
           </li>
           <li>
-            Coleções de zoologia:
-            <a
+              <a
               href="https://ala-hub.sibbr.gov.br/ala-hub/occurrences/28542092-5804-4de0-a9bb-9991cfc1786d"
-              >Coleção de Répteis do Museu Nacional (MNRJ)</a
-            >
-          </li>
-          <li>
-            Coleções de zoologia:
-            <a
-              href="https://ala-hub.sibbr.gov.br/ala-hub/occurrences/c0292efd-b25a-4c21-9c2d-3e2b0801c5a6"
-              >Coleção de Mamíferos da Universidade do Mato Grosso (UFMT)</a
-            >
-          </li>
+              >21469</a
+            >          
+            </li>
         </ul>
       </td>
     </tr>
