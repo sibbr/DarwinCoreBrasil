@@ -459,7 +459,7 @@ O uso do padrão DarwinCore para compartilhamento de dados em biobiversidade tem
         Catalogue of Life (CoL): <a href="https://www.catalogueoflife.org/data/taxon/3DR25"> https://www.catalogueoflife.org/data/taxon/3DR25 </a>
         </li>
         <li>
-        WoRMS: Froese, R. and D. Pauly. Editors. (2023). FishBase. Rhincodon typus Smith, 1828. Accessed through: World Register of Marine Species at: <a href="https://www.marinespecies.org/aphia.php?p=taxdetails&id=105847"> https://www.marinespecies.org/aphia.php?p=taxdetails&id=105847 </a> 
+        WoRMS: <a href="https://www.marinespecies.org/aphia.php?p=taxdetails&id=105847"> https://www.marinespecies.org/aphia.php?p=taxdetails&id=105847 </a> 
         </li>
         <li>
         Vírus: <a href="https://www.ncbi.nlm.nih.gov/labs/virus/vssi/#/"> https://www.ncbi.nlm.nih.gov/labs/virus/vssi/#/ </a>
@@ -957,13 +957,17 @@ O uso do padrão DarwinCore para compartilhamento de dados em biobiversidade tem
       <td style="text-align: left">Exemplos</td>
       <td style="text-align: left">
         <ul>
+          <li>
           <a
               href="https://ala-hub.sibbr.gov.br/ala-hub/occurrences/afb3750d-ccbd-4f4f-b895-a7ffd35636e8"
-              >BR:UFPR:Palotina:CESP010043</a
-            >
-          <li>br:ppbio:comcerrado:PNCG_Cidade_de_Pedra_TA_3000:1</li>
-          <li>BRAZIL:PREVIR:21MT1A00001:MOUTH_SWAB</li>
-        </ul>
+              >BR:UFPR:Palotina:CESP010043</a>
+          </li>
+          <li>
+            <a
+              href="https://ala-hub.sibbr.gov.br/ala-hub/occurrences/3d43197d-709b-4ae9-b339-d601c8484aa1"
+          <li>br:ppbio:comcerrado:PNCG_CidadeDePedra_TA_0000:aves/2015-03:1345
+            </li>
+          </ul>
       </td>
     </tr>
   </tbody>
