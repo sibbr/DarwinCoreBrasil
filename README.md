@@ -902,10 +902,9 @@ O uso do padrão DarwinCore para compartilhamento de dados em biobiversidade tem
       <td style="text-align: left">
         <ul>
           <li>
-            Coleções de zoologia:
             <a
-              href="https://ala-hub.sibbr.gov.br/ala-hub/occurrences/1dc6ebe2-f43f-4e74-8b5d-bbd3e8a40147"
-              >Coleção de Aves da Unisinos</a
+              href="https://ala-hub.sibbr.gov.br/ala-hub/occurrences/a9de20cb-0803-4f7c-bcf8-6cab6a27a959"
+              >{"barcode": "ALCB020180"}</a
             >
           </li>
         </ul>
@@ -958,7 +957,10 @@ O uso do padrão DarwinCore para compartilhamento de dados em biobiversidade tem
       <td style="text-align: left">Exemplos</td>
       <td style="text-align: left">
         <ul>
-          <li>BR:UFPR:Palotina:CESP010027</li>
+          <a
+              href="https://ala-hub.sibbr.gov.br/ala-hub/occurrences/afb3750d-ccbd-4f4f-b895-a7ffd35636e8"
+              >BR:UFPR:Palotina:CESP010043</a
+            >
           <li>br:ppbio:comcerrado:PNCG_Cidade_de_Pedra_TA_3000:1</li>
           <li>BRAZIL:PREVIR:21MT1A00001:MOUTH_SWAB</li>
         </ul>
