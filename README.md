@@ -7645,24 +7645,21 @@ O uso do padrão DarwinCore para compartilhamento de dados em biodiversidade tem
       <td style="text-align: left">
         <ul>
           <li>
-            Herbário:
             <a
               href="https://ala-hub.sibbr.gov.br/ala-hub/occurrences/83c1d78e-9eb5-4492-b4bf-34941867a88e"
-              >Rio de Janeiro Botanical Garden Herbarium Collection</a
+              >Spreng.</a
             >
           </li>
           <li>
-            Projeto:
-            <a
+           <a
               href="https://ala-hub.sibbr.gov.br/ala-hub/occurrences/f1481be4-5f9a-4707-878a-43e9651058d3"
-              >PELD - ELPA | Continuous monitoring of the micro and mesozooplankton of the Patos Lagoon estuary and adjacent coastal area</a
+              >Lilljeborg, 1853</a
             >
           </li>
           <li>
-            Coleção de zoologia:
             <a
-              href="https://ala-hub.sibbr.gov.br/ala-hub/occurrences/c6ac569e-d8e5-458b-9743-ca91384baa2a"
-              >Coleção Entomológica do Instituto Oswaldo Cruz</a
+              href="https://ala-hub.sibbr.gov.br/ala-hub/occurrences/fbea70ed-13e0-4d06-8355-4d6d11fa60bd"
+              >Koch, 1844</a
               >
           </li>
         </ul>
@@ -7883,10 +7880,9 @@ O uso do padrão DarwinCore para compartilhamento de dados em biodiversidade tem
       <td style="text-align: left">
         <ul>
           <li>
-            Coleção de zoologia:
-            <a
+          <a
               href="https://ala-hub.sibbr.gov.br/ala-hub/occurrences/c7703576-ada5-460e-938a-996dea3a9277"
-              >ICMBio: Sisbio-Dibio</a
+              >Espécie não Sensível</a
             >
           </li>
         </ul>
