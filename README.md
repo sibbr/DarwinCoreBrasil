@@ -3719,7 +3719,7 @@ O uso do padrão DarwinCore para compartilhamento de dados em biodiversidade tem
     </tr>
     <tr>
       <td style="text-align: left">Domínio</td>
-      <td style="text-align: left">Parque Nacional Marinho dos Abrolhos</td>
+      <td style="text-align: left">
     </tr>
     <tr>
       <td style="text-align: left">Exemplos</td>
@@ -3728,7 +3728,7 @@ O uso do padrão DarwinCore para compartilhamento de dados em biodiversidade tem
           <li>
             <a
               href="https://ala-hub.sibbr.gov.br/ala-hub/occurrences/38464ecc-bb48-4df9-94b2-cad29389fa85"
-              >PELD - ABRS | Avaliação e monitoramento dos recifes de Abrolhos</a
+              >Abrolhos Marine National Park</a
             >
           </li>
         </ul>
@@ -4230,17 +4230,11 @@ O uso do padrão DarwinCore para compartilhamento de dados em biodiversidade tem
       <td style="text-align: left">Exemplos</td>
       <td style="text-align: left">
         <ul>
+          </li>
           <li>
-              Coleção de zoologia:
-            <a href="https://ala-hub.sibbr.gov.br/ala-hub/occurrences/ea8ec403-27ad-4b6a-a633-ab1b92a21ce4"
-              >	Coleção de Mamíferos da Universidade Federal de Mato Grosso (UFMT)</a
-            >
-            </li>
-          <li>
-            Projeto Conexão Mata Atlântica:
-            <a
+           <a
               href="https://ala-hub.sibbr.gov.br/ala-hub/occurrences/0fbb4244-a111-42d9-b52a-269c92529d31"
-              >Projeto Recuperação de Serviços de Clima e Biodiversidade no Corredor Sudeste da Mata Atlântica Brasileira - Monitoramento Ecossistêmico</a
+              >MIG FLORA FME 1</a
             >
           </li>
         </ul>
@@ -4289,7 +4283,7 @@ O uso do padrão DarwinCore para compartilhamento de dados em biodiversidade tem
           <li>
             <a
               href="https://ala-hub.sibbr.gov.br/ala-hub/occurrences/ea1bdcbe-d6a8-41df-9d7f-e3cbab5ff8e1"
-              >	PELD - PNCA | Programa de Pesquisa de Longa Duração do Parque Nacional do Catimbau</a
+              >-8.460854</a
             >
           </li>
         </ul>
@@ -4338,7 +4332,7 @@ O uso do padrão DarwinCore para compartilhamento de dados em biodiversidade tem
           <li>
             <a
               href="https://ala-hub.sibbr.gov.br/ala-hub/occurrences/ea1bdcbe-d6a8-41df-9d7f-e3cbab5ff8e1"
-              >	PELD - PNCA | Programa de Pesquisa de Longa Duração do Parque Nacional do Catimbau</a
+              >	-37.305917</a
             >
           </li>
         </ul>
@@ -4385,13 +4379,13 @@ O uso do padrão DarwinCore para compartilhamento de dados em biodiversidade tem
           <li>
             <a
               href="https://ala-hub.sibbr.gov.br/ala-hub/occurrences/ea1bdcbe-d6a8-41df-9d7f-e3cbab5ff8e1"
-              >PELD - PNCA | Programa de Pesquisa de Longa Duração do Parque Nacional do Catimbau</a
+              >EPSG:4326</a
             >
             </li>
             <li>
             <a
               href="https://ala-hub.sibbr.gov.br/ala-hub/occurrences/14119ff6-6826-48c4-ae85-fb6122c8097d"
-              >	Projeto Recuperação de Serviços de Clima e Biodiversidade no Corredor Sudeste da Mata Atlântica Brasileira - Monitoramento Ecossistêmico</a
+              >WGS84</a
             >
           </li>
         </ul>
@@ -5948,10 +5942,9 @@ O uso do padrão DarwinCore para compartilhamento de dados em biodiversidade tem
       <td style="text-align: left">
         <ul>
           <li>
-            Coleção de zoologia:
-            <a
+           <a
               href="https://ala-hub.sibbr.gov.br/ala-hub/occurrences/58811f37-1138-4db4-beeb-dd253798718e"
-              >Coleção de Anfíbios do Museu Nacional (MNRJ)</a
+              >	sp.</a
             >
           </li>
         </ul>
@@ -5998,10 +5991,9 @@ O uso do padrão DarwinCore para compartilhamento de dados em biodiversidade tem
       <td style="text-align: left">
         <ul>
           <li>
-            Coleção de zoologia:
-            <a
+           <a
               href="https://ala-hub.sibbr.gov.br/ala-hub/occurrences/58811f37-1138-4db4-beeb-dd253798718e"
-              >Coleção de Anfíbios do Museu Nacional (MNRJ)</a
+              >Parátipo</a
             >
           </li>
         </ul>
@@ -6047,24 +6039,21 @@ O uso do padrão DarwinCore para compartilhamento de dados em biodiversidade tem
       <td style="text-align: left">
         <ul>
           <li>
-            Herbário:
-            <a
+           <a
               href="https://ala-hub.sibbr.gov.br/ala-hub/occurrences/03ba3a3e-5bfd-4e4a-a4e4-e1248e510a12"
-              >Coleção de Briófitas do Herbário da Universidade Federal de Minas Gerais</a
+              >	Costa, DP</a
             >
           </li>
           <li>
-            Herbário:
             <a
               href="https://ala-hub.sibbr.gov.br/ala-hub/occurrences/c7318d47-ca86-4041-8ba8-2a09dfd0b30c"
-              >	Base de dados de Algae do Herbário R do Museu Nacional</a
+              >Barbosa, S.O.</a
             >
           </li>
           <li>
-            Coleção de zoologia:
-            <a
+           <a
               href="https://ala-hub.sibbr.gov.br/ala-hub/occurrences/982e6bec-de01-4bfb-addd-6e55187215c4?lang=en_GB"
-              >	Base de dados de Mamíferos da Coleção Zoológica MBML do INMA</a
+              >A.C. Loss</a
             >
           </li>
         </ul>
@@ -7009,8 +6998,7 @@ O uso do padrão DarwinCore para compartilhamento de dados em biodiversidade tem
     <tr>
       <td style="text-align: left">Domínio</td>
       <td style="text-align: left">
-        Animalia | Plantae | Fungi | Archaea | Chromista | Protozoa | Viruses
-        |Bacteria
+        Animalia | Plantae | Fungi | Archaea | Chromista | Protozoa | Viruses| Bacteria
       </td>
     </tr>
     <tr>
