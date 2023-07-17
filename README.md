@@ -1007,10 +1007,20 @@ O uso do padrão DarwinCore para compartilhamento de dados em biodiversidade tem
       <td style="text-align: left">Exemplos</td>
       <td style="text-align: left">
         <ul>
-          <li>RB_23493</li>
-          <li>ACAM_354.1</li>
-          <li>CESP010027</li>
-          <li>INPA-ACA 000009</li>
+          <li>
+          <a
+            href= "https://ala-hub.sibbr.gov.br/ala-hub/occurrences/03dc670a-1149-48f3-a6fb-8229d9fe644b"
+            >RB00269158</a>
+          </li>
+          <li>
+            <a
+              href= "https://ala-hub.sibbr.gov.br/ala-hub/occurrences/69e4d584-6f19-4879-9f44-85c9f6ecba2b"
+              >ACAM00000011</a>
+              </li>
+          <li>
+           <a
+          href="https://ala-hub.sibbr.gov.br/ala-hub/occurrences/4e22d9bb-fab9-4d69-ab65-6c789f7175c8"
+          >INPA-AMB 000038</a>       
         </ul>
       </td>
     </tr>
