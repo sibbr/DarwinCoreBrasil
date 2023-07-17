@@ -1836,6 +1836,10 @@ O uso do padrão DarwinCore para compartilhamento de dados em biodiversidade tem
               >Pele taxidermizada | Preparação: Taxidermização | Tecido Poluentes: NÃO | Tecido DNA: SIM</a
             >
           </li>
+          <li>
+            <a
+              href="https://ala-hub.sibbr.gov.br/ala-hub/occurrences/ea8ec403-27ad-4b6a-a633-ab1b92a21ce4"
+              >Crânio | Pele</a>
         </ul>
       </td>
     </tr>
