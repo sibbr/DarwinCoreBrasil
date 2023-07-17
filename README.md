@@ -7,7 +7,7 @@ O uso do padrão DarwinCore para compartilhamento de dados em biodiversidade tem
 
 ## Classes e Termos DarwinCore
 
-| [Record-level](https://github.com/sibbr/DarwinCoreBrasil#record-level) | [Ocurrence](https://github.com/sibbr/DarwinCoreBrasil#occurrence) | [Organism](https://github.com/sibbr/DarwinCoreBrasil#organism) | [MaterialSample](https://github.com/sibbr/DarwinCoreBrasil#materialsample)| [Event](https://github.com/sibbr/DarwinCoreBrasil#event) | [Location](https://github.com/sibbr/DarwinCoreBrasil#location) | [GeologicalContext](https://github.com/sibbr/DarwinCoreBrasil#geologicalcontext) | [Identification](https://github.com/sibbr/DarwinCoreBrasil#identification) | [Taxon](https://github.com/sibbr/DarwinCoreBrasil#taxon) | [MeasurementOrFact](https://github.com/sibbr/DarwinCoreBrasil#measurementorfact)
+| [Record-level](https://github.com/sibbr/DarwinCoreBrasil#record-level) | [Occurrence](https://github.com/sibbr/DarwinCoreBrasil#occurrence) | [Organism](https://github.com/sibbr/DarwinCoreBrasil#organism) | [MaterialSample](https://github.com/sibbr/DarwinCoreBrasil#materialsample)| [Event](https://github.com/sibbr/DarwinCoreBrasil#event) | [Location](https://github.com/sibbr/DarwinCoreBrasil#location) | [GeologicalContext](https://github.com/sibbr/DarwinCoreBrasil#geologicalcontext) | [Identification](https://github.com/sibbr/DarwinCoreBrasil#identification) | [Taxon](https://github.com/sibbr/DarwinCoreBrasil#taxon) | [MeasurementOrFact](https://github.com/sibbr/DarwinCoreBrasil#measurementorfact)
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 
 ### Record-level
@@ -1577,6 +1577,13 @@ O uso do padrão DarwinCore para compartilhamento de dados em biodiversidade tem
       <td style="text-align: left">Exemplos</td>
       <td style="text-align: left">
         <ul>
+        <li> Introduzida: espécies que foram introduzidas em um local do qual não fazem parte originalmente.
+        </li>
+        <li> Nativa: espécies que são originárias de um determinado local ocorrendo de forma natural, sem intervenção humana.
+        </li>
+        <li> Nativa reintroduzida: espécies que foram soltas intencionalmente em um local do qual já faziam parte mas que desapareceram por razões antrópicas ou naturais.
+        </li>
+        <li> Introduzida por colonização assistida: espécies que foram reintroduzidas em um local com o objetivo de restabelecer as populações que estão ameaçadas de extinção ou já extintas.
           <!-- <li>NA</li> -->
         </ul>
       </td>
