@@ -1774,18 +1774,18 @@ O uso do padrão DarwinCore para compartilhamento de dados em biodiversidade tem
           <li>
            <a
               href="https://ala-hub.sibbr.gov.br/ala-hub/occurrences/e2463fb0-0ae8-4bf9-89d6-741c7506da0b"
-              >present</a
+              >Present</a
             >
           </li>
           <li>
               <a
               href="https://ala-hub.sibbr.gov.br/ala-hub/occurrences/f1481be4-5f9a-4707-878a-43e9651058d3"
-              >absent</a
+              >Absent</a
             </li>
             <li>
               <a
               href="https://ala-hub.sibbr.gov.br/ala-hub/occurrences/9896807a-a038-4eeb-9af9-c772ba3a01c5"
-              >present</a
+              >Present</a
               >
             </li>
         </ul>
