@@ -3047,6 +3047,11 @@ O uso do padrão DarwinCore para compartilhamento de dados em biodiversidade tem
       <td style="text-align: left">
         <ul>
           <li>
+            <a
+              href="https://ala-hub.sibbr.gov.br/ala-hub/occurrences/4f1b0520-c115-4e78-8cfa-2a053afa5250"
+              >TSBF</a>
+          </li>
+          <li>
           <a
               href="https://ala-hub.sibbr.gov.br/ala-hub/occurrences/ddb66fc8-dc83-4d14-8270-25a7a814dfbc"
               >Parcela</a
@@ -3268,9 +3273,19 @@ O uso do padrão DarwinCore para compartilhamento de dados em biodiversidade tem
         <ul>
           <li>
            <a
-              href="https://ala-hub.sibbr.gov.br/ala-hub/occurrences/0e541351-f7b1-4098-b479-d3ac559c36f4"
-              >GALLERY FOREST ON WHITE SAND WHIT ADJACENT CLIFF BASES AND STEEP SLOPES</a
+              href="https://ala-hub.sibbr.gov.br/ala-hub/occurrences/dfbb5364-d414-4d7e-a18c-852fd598fdf4"
+              >Solo argiloso/arenoso; relevo plano; campo queimado recentemente.</a
             >
+          </li>
+            <li>
+              <a
+                href="https://ala-hub.sibbr.gov.br/ala-hub/occurrences/5912bcf9-8048-494a-b758-20b1379bc49e"
+                >Solo com textura argiloso amarelado pedregoso. Morro. Relevo inclinado.</a>              
+          </li>
+          <li>
+            <a
+              href="https://ala-hub.sibbr.gov.br/ala-hub/occurrences/0b6eb83a-2abd-4c16-94c3-2f9ad8a42918"
+              >Campo úmido/ vereda, relevo suave ondulado, solo arenoso.</a>
           </li>
         </ul>
       </td>
@@ -3309,9 +3324,21 @@ O uso do padrão DarwinCore para compartilhamento de dados em biodiversidade tem
       <td style="text-align: left">Exemplos</td>
       <td style="text-align: left">
         <ul>
-          <li>Época chuvosa</li>
-          <li>Época seca</li>
-          <li>Tempo pós queimada</li>
+          <li>
+            <a
+              href= "https://ala-hub.sibbr.gov.br/ala-hub/occurrences/4f1b0520-c115-4e78-8cfa-2a053afa5250"
+              >Época chuvosa<a/>
+            </li>
+          <li>
+            <a
+              href= "https://ala-hub.sibbr.gov.br/ala-hub/occurrences/509bb1eb-3430-495e-aba3-a455eda2c9db"
+              >Época seca<a/>
+            </li>
+          <li>
+            <a
+              href= "https://ala-hub.sibbr.gov.br/ala-hub/occurrences/fecf7aed-3ed8-446c-8069-ecc59f2246f1"
+              >Tempo pós queimada<a/>
+            </li>
         </ul>
       </td>
     </tr>
