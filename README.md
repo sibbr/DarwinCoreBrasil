@@ -57,8 +57,7 @@ O uso do padrão DarwinCore para compartilhamento de dados em biodiversidade tem
               >Rio de Janeiro Botanical Garden Herbarium Collection</a
           </li>
           <li>
-            Subcoleções: <a href="https://collectory.sibbr.gov.br/collectory/public/showDataResource/dr895">Coleção/Subcoleção de Odonata da Coleção de
-            Entomologia do MNRJ</a>
+            Subcoleções: <a href="https://collectory.sibbr.gov.br/collectory/public/showDataResource/dr895">Coleção Entomológica do MNRJ - Odonata</a>
           </li>
           <li>
             Programa PELD:
@@ -1420,7 +1419,7 @@ O uso do padrão DarwinCore para compartilhamento de dados em biodiversidade tem
            <ul>
            <li>
              Planta:
-             <a href="https://www.gbif.org/occurrence/2236082236"> Frutificação e floração</a>
+             <a href=" href="https://ala-hub.sibbr.gov.br/ala-hub/occurrences/66c41f5d-0943-4e92-a402-c852f20e6700"> Frutificação</a>
           </li>
           <li>
             Animal:
@@ -1641,19 +1640,19 @@ O uso do padrão DarwinCore para compartilhamento de dados em biodiversidade tem
         <ul>
           <li>
             <a
-              href="http://floradobrasil.jbrj.gov.br/reflora/listaBrasil/PrincipalUC/PrincipalUC.do;jsessionid=9E1CFFE3946CC896F95E9BAFC4601A7E#CondicaoTaxonCP"
-              >Lista de Flora e Funga do Brasil</a
+              href="http://floradobrasil.jbrj.gov.br/reflora/listaBrasil/ConsultaPublicaUC/BemVindoConsultaPublicaConsultar.do?invalidatePageControlCounter=1&idsFilhosAlgas=%5B2%5D&idsFilhosFungos=%5B1%2C11%2C10%5D&lingua=&grupo=6&familia=null&genero=&especie=&autor=&nomeVernaculo=&nomeCompleto=&formaVida=null&substrato=null&ocorreBrasil=QUALQUER&ocorrencia=OCORRE&endemismo=TODOS&origem=CULTIVADA&regiao=QUALQUER&estado=QUALQUER&ilhaOceanica=32767&domFitogeograficos=CERRADO&bacia=QUALQUER&vegetacao=TODOS&mostrarAte=SUBESP_VAR&opcoesBusca=TODOS_OS_NOMES&loginUsuario=Visitante&senhaUsuario=&contexto=consulta-publica"
+              >Cultivada</a
             >
           </li>
           <li>
-            <a href="https://www.marinespecies.org/aphia.php?p=checklist"
-              >WoRMS</a
+            <a href="https://www.marinespecies.org/aphia.php?p=taxdetails&id=189953#distributions"
+              >Nativa</a
             >
           </li>
           <li>
             <a
-              href="http://fauna.jbrj.gov.br/fauna/listaBrasil/ConsultaPublicaUC/ConsultaPublicaUC.do"
-              >Catálogo Taxônomico da Fauna do Brasil</a
+              href="http://fauna.jbrj.gov.br/fauna/listaBrasil/ConsultaPublicaUC/BemVindoConsultaPublicaConsultar.do?invalidatePageControlCounter=1&lingua=&jsonRank=&rankTaxon=32767&nomeTaxon=&autor=&nomeVernaculo=&nomeCompleto=&formaVida=QUALQUER&substrato=QUALQUER&ocorrencia=OCORRE&regiao=CENTRO_OESTE&estado=QUALQUER&endemismo=TODOS&origem=INTRODUZIDA&mostrarAte=SUB_ESPECIE&opcoesBusca=NOME_ACEITO"
+              >Introduzida</a
             >
           </li>
         </ul>
@@ -1797,6 +1796,11 @@ O uso do padrão DarwinCore para compartilhamento de dados em biodiversidade tem
               href="https://ala-hub.sibbr.gov.br/ala-hub/occurrences/9896807a-a038-4eeb-9af9-c772ba3a01c5"
               >Present</a
               >
+            </li>
+            <li>
+              <a
+                href="https://ala-hub.sibbr.gov.br/ala-hub/occurrences/e5c11e7c-da92-45d9-8fd8-6d204481049a"
+                >Present</a>
             </li>
         </ul>
       </td>
@@ -2708,8 +2712,8 @@ O uso do padrão DarwinCore para compartilhamento de dados em biodiversidade tem
       <td style="text-align: left">
         <ul>
           <li>
-            <a href="https://www.gbif.org/occurrence/4028756291"
-              >10:48:19-03:00</a
+            <a href="https://ala-hub.sibbr.gov.br/ala-hub/occurrences/37f4360a-4d71-4e81-aff8-2f012627a381"
+              >18:15:24-03:00</a
             >
           </li>
         </ul>
@@ -2987,11 +2991,22 @@ O uso do padrão DarwinCore para compartilhamento de dados em biodiversidade tem
       <td style="text-align: left">Exemplos</td>
       <td style="text-align: left">
         <ul>
-          <li>Mata Atlântica</li>
-          <li>Cerrado</li>
-          <li>Pantanal</li>
-          <li>Arquipélagos</li>
-        </ul>
+          <li>
+            <a
+              href= "https://ala-hub.sibbr.gov.br/ala-hub/occurrences/2b8fd447-6db2-4ac8-a0c4-4622bb1ed2b0"
+              >Mata Atlântica</a>
+            </li>
+          <li>
+              <a
+              href= "https://ala-hub.sibbr.gov.br/ala-hub/occurrences/fecf7aed-3ed8-446c-8069-ecc59f2246f1"
+              >Cerrado</a>
+            </li>
+          <li>
+            <a
+              href="https://ala-hub.sibbr.gov.br/ala-hub/occurrences/bf050988-7ed3-4768-a699-b351767ca030"
+              >Arquipélagos</a>
+            </li>
+          </ul>
       </td>
     </tr>
   </tbody>
@@ -3025,7 +3040,7 @@ O uso do padrão DarwinCore para compartilhamento de dados em biodiversidade tem
     </tr>
     <tr>
       <td style="text-align: left">Domínio</td>
-      <td style="text-align: left">RAPELD | Parcelas | TSBF | Transectos</td>
+      <td style="text-align: left">RAPELD | Parcelas | TSBF | Transectos | Grades de amostragem | Pitfall | Busca ativa | Armadilha fotográfica | Encontros ocasionais | Registro Auditivo em Transectos</td>
     </tr>
     <tr>
       <td style="text-align: left">Exemplos</td>
@@ -3041,6 +3056,11 @@ O uso do padrão DarwinCore para compartilhamento de dados em biodiversidade tem
            <a
               href="https://ala-hub.sibbr.gov.br/ala-hub/occurrences/caab551d-3f85-40b8-9fde-b9df12fd113d"
               >RAPELD</a>
+          </li>
+          <li>
+            <a
+              href="https://ala-hub.sibbr.gov.br/ala-hub/occurrences/952cdda2-477a-4018-9576-1caf33cfe05b"
+              >Busca ativa</a>
           </li>
         </ul>
       </td>
@@ -3182,8 +3202,7 @@ O uso do padrão DarwinCore para compartilhamento de dados em biodiversidade tem
     <tr>
       <td style="text-align: left">Domínio</td>
       <td style="text-align: left">
-        Grades de amostragem | Pitfall | 50x50m | Busca ativa | Armadilha
-        fotográfica | Encontros ocasionais | Registro Auditivo em Transectos
+       50x50m | 13 redes de 10 metros com piquetes | 10 photo-quadrats | 150 generated images
       </td>
     </tr>
     <tr>
@@ -3195,6 +3214,11 @@ O uso do padrão DarwinCore para compartilhamento de dados em biodiversidade tem
               href="https://ala-hub.sibbr.gov.br/ala-hub/occurrences/38464ecc-bb48-4df9-94b2-cad29389fa85"
               >10 photo-quadrats | 150 generated images</a
             >
+          </li>
+          <li>
+          <a
+            href="https://ala-hub.sibbr.gov.br/ala-hub/occurrences/caab551d-3f85-40b8-9fde-b9df12fd113d"
+            >13 redes de 10 metros com piquetes</a>
           </li>
           <li>
           <a
