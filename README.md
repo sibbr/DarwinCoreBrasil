@@ -2837,7 +2837,11 @@ O uso do padrão DarwinCore para compartilhamento de dados em biodiversidade tem
       <td style="text-align: left">Exemplos</td>
       <td style="text-align: left">
         <ul>
-          <li>AAAA (termo darwin core para ano de coleta)</li>
+          <li>
+            <a 
+              href ="https://ala-hub.sibbr.gov.br/ala-hub/occurrences/bf050988-7ed3-4768-a699-b351767ca030"
+              >2006</a>
+            </li>
         </ul>
       </td>
     </tr>
@@ -2873,7 +2877,11 @@ O uso do padrão DarwinCore para compartilhamento de dados em biodiversidade tem
       <td style="text-align: left">Exemplos</td>
       <td style="text-align: left">
         <ul>
-          <li>MM (termo darwin core para mês de coleta)</li>
+          <li>
+            <a 
+              href ="https://ala-hub.sibbr.gov.br/ala-hub/occurrences/bf050988-7ed3-4768-a699-b351767ca030"
+            >04 <a/>
+            </li>
         </ul>
       </td>
     </tr>
@@ -2909,7 +2917,11 @@ O uso do padrão DarwinCore para compartilhamento de dados em biodiversidade tem
       <td style="text-align: left">Exemplos</td>
       <td style="text-align: left">
         <ul>
-          <li>DD (termo darwin core para dia de coleta)</li>
+          <li>
+            <a 
+              href ="https://ala-hub.sibbr.gov.br/ala-hub/occurrences/bf050988-7ed3-4768-a699-b351767ca030"
+          >01</a>
+            </li>
         </ul>
       </td>
     </tr>
@@ -3461,7 +3473,7 @@ O uso do padrão DarwinCore para compartilhamento de dados em biodiversidade tem
       <td style="text-align: left">Domínio</td>
       <td style="text-align: left">
         África | Antártica | Europa | América do Norte | Oceania | América do
-        Sul |Africa | Antartica | Asia | Europe | North America | Oceania |
+        Sul | Africa | Antartica | Asia | Europe | North America | Oceania |
         South America
       </td>
     </tr>
@@ -3469,6 +3481,10 @@ O uso do padrão DarwinCore para compartilhamento de dados em biodiversidade tem
       <td style="text-align: left">Exemplos</td>
       <td style="text-align: left">
         <ul>
+        <li>
+          <a
+            href ="https://ala-hub.sibbr.gov.br/ala-hub/occurrences/bf050988-7ed3-4768-a699-b351767ca030"
+            >South America</a>
           <!-- <li>NA</li> -->
         </ul>
       </td>
@@ -3503,12 +3519,16 @@ O uso do padrão DarwinCore para compartilhamento de dados em biodiversidade tem
     </tr>
     <tr>
       <td style="text-align: left">Domínio</td>
-      <td style="text-align: left">Oceano | Rio | Lago | Mar</td>
+      <td style="text-align: left">Oceano Atlântico | Oceano Pacífico | Oceano Índico | Oceano Antártico | Rio Doce | Rio Amazonas | Rio São Francisco | Lagoa dos Patos | Lagoa Mirim | Mar Mediterrâneo </td>
     </tr>
     <tr>
       <td style="text-align: left">Exemplos</td>
       <td style="text-align: left">
         <ul>
+          <li>
+            <a
+            href= "https://ala-hub.sibbr.gov.br/ala-hub/occurrences/bf050988-7ed3-4768-a699-b351767ca030"
+              >Oceano Atlântico<a/>
           <!-- <li>NA</li> -->
         </ul>
       </td>
