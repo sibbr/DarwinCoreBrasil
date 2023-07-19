@@ -2129,7 +2129,7 @@ O uso do padrão DarwinCore para compartilhamento de dados em biodiversidade tem
       <td style="text-align: left">Exemplos</td>
       <td style="text-align: left">
         <ul>
-          <li>Predador de:“Apis mellifera”</li>
+          <li>Predador de: “Apis mellifera”</li>
         </ul>
       </td>
     </tr>
