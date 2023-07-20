@@ -1586,13 +1586,13 @@ O uso do padrão DarwinCore para compartilhamento de dados em biodiversidade tem
       <td style="text-align: left">Exemplos</td>
       <td style="text-align: left">
         <ul>
-        <li> Introduzida: espécies que foram introduzidas em um local do qual não fazem parte originalmente.
+        <li> Introduzida: espécies que foram introduzidas em um local do qual não fazem parte originalmente. (EMBRAPA)
         </li>
-        <li> Nativa: espécies que são originárias de um determinado local ocorrendo de forma natural, sem intervenção humana.
+        <li> Nativa: espécies que ocorrem naturalmente em determinada região ou bioma. (SEDEST)
         </li>
         <li> Nativa reintroduzida: espécies que foram soltas intencionalmente em um local do qual já faziam parte mas que desapareceram por razões antrópicas ou naturais.
         </li>
-        <li> Introduzida por colonização assistida: espécies que foram reintroduzidas em um local com o objetivo de restabelecer as populações que estão ameaçadas de extinção ou já extintas.
+        <li> Introduzida por colonização assistida: espécies que foram reintroduzidas em um local com o objetivo de restabelecer as populações que estão ameaçadas de extinção ou já extintas. (IUCN)
           <!-- <li>NA</li> -->
         </ul>
       </td>
