@@ -3650,7 +3650,11 @@ O uso do padrão DarwinCore para compartilhamento de dados em biodiversidade tem
       <td style="text-align: left">Exemplos</td>
       <td style="text-align: left">
         <ul>
-          <li>Conjunto de ilhas</li>
+          <li>
+            <a
+              href="https://ala-hub.sibbr.gov.br/ala-hub/occurrences/bf050988-7ed3-4768-a699-b351767ca030"
+              >Abrolhos Archipelago </a>
+          </li>
         </ul>
       </td>
     </tr>
@@ -3682,7 +3686,7 @@ O uso do padrão DarwinCore para compartilhamento de dados em biodiversidade tem
     </tr>
     <tr>
       <td style="text-align: left">Domínio</td>
-      <td style="text-align: left">Ilha</td>
+      <td style="text-align: left"> Fernando de Noronha | Ilha de Marajó | Ilha de Boipeba | Ilha de Itamaracá | Ilha Grande</td>
     </tr>
     <tr>
       <td style="text-align: left">Exemplos</td>
