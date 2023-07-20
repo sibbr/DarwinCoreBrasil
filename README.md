@@ -2752,7 +2752,7 @@ O uso do padrão DarwinCore para compartilhamento de dados em biodiversidade tem
           <li>
             <a
               href="https://ala-hub.sibbr.gov.br/ala-hub/occurrences/39d9fa40-8619-4963-b5d3-84dd15b27977"
-              > Intervalo de coleta: 2004-05| 2005-04</li>
+              > Intervalo de coleta: 2004-05 | 2005-04</li>
         </ul>
       </td>
     </tr>
