@@ -1911,6 +1911,12 @@ O uso do padrão DarwinCore para compartilhamento de dados em biodiversidade tem
             <a
               href="https://ala-hub.sibbr.gov.br/ala-hub/occurrences/ea8ec403-27ad-4b6a-a633-ab1b92a21ce4"
               >Crânio | Pele</a>
+          </li>
+          <li>
+            <a
+              href="https://ala-hub.sibbr.gov.br/ala-hub/occurrences/8e833695-fb63-49be-af06-7371ec353990"
+              >DNA</a>
+          </li>
         </ul>
       </td>
     </tr>
@@ -1966,6 +1972,10 @@ O uso do padrão DarwinCore para compartilhamento de dados em biodiversidade tem
               >	Depositado em coleção/museu</a
             >
           </li>
+          <li>
+            <a
+              href="https://ala-hub.sibbr.gov.br/ala-hub/occurrences/8e833695-fb63-49be-af06-7371ec353990"
+              >Em coleção</a>
         </ul>
       </td>
     </tr>
@@ -2239,6 +2249,11 @@ O uso do padrão DarwinCore para compartilhamento de dados em biodiversidade tem
             <a
               href="https://ala-hub.sibbr.gov.br/ala-hub/occurrences/69e4d584-6f19-4879-9f44-85c9f6ecba2b"
               >ACAM 11</a>
+          </li>
+          <li>
+            <a
+              href="https://ala-hub.sibbr.gov.br/ala-hub/occurrences/8e833695-fb63-49be-af06-7371ec353990"
+              >OP150146</a>
           </li>
         </ul>
       </td>
