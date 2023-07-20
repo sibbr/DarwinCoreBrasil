@@ -2721,8 +2721,8 @@ O uso do padrão DarwinCore para compartilhamento de dados em biodiversidade tem
     <tr>
       <td style="text-align: left">Definição</td>
       <td style="text-align: left">
-        A data-hora ou o intervalo durante o qual um evento ocorreu. Para
-        ocorrências, essa é a data-hora em que o evento foi registrado. Não
+        A data ou o intervalo durante o qual um evento ocorreu. Para
+        ocorrências, essa é a data em que o evento foi registrado. Não
         adequado para um tempo em um contexto geológico.
       </td>
     </tr>
