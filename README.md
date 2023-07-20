@@ -2663,15 +2663,24 @@ O uso do padrão DarwinCore para compartilhamento de dados em biodiversidade tem
       <td style="text-align: left">
         <ul>
           <li>
-            Data com ano: AAAA 
+            <a
+              href ="https://ala-hub.sibbr.gov.br/ala-hub/occurrences/e9c03e9b-1c42-4bc3-97c5-b6eec03867c4"
+              >Data com ano: 1890 </a>
           </li>
           <li>
-            Data com ano e mês: AAAA-MM
+            <a
+              href="https://ala-hub.sibbr.gov.br/ala-hub/occurrences/bf050988-7ed3-4768-a699-b351767ca030"
+              > Data com ano e mês: 2006-04 </a>
             </li>
           <li>
-            Data completa: AAAA
+            <a 
+              href="https://ala-hub.sibbr.gov.br/ala-hub/occurrences/4da67201-14cb-4e13-8fe0-e891e20abb1f"
+            >Data completa: 2022-04-21</a>
           </li>
-          <li>Intervalo de coleta: AAAA-MM-DD/AAAA-MM-DD | AAAA-MM/AAAA-MM | AAAA/AAAA</li>
+          <li>
+            <a
+              href="https://ala-hub.sibbr.gov.br/ala-hub/occurrences/39d9fa40-8619-4963-b5d3-84dd15b27977"
+              > Intervalo de coleta: 2004-05| 2005-04</li>
         </ul>
       </td>
     </tr>
@@ -2839,8 +2848,8 @@ O uso do padrão DarwinCore para compartilhamento de dados em biodiversidade tem
         <ul>
           <li>
             <a 
-              href ="https://ala-hub.sibbr.gov.br/ala-hub/occurrences/bf050988-7ed3-4768-a699-b351767ca030"
-              >2006</a>
+              href ="https://ala-hub.sibbr.gov.br/ala-hub/occurrences/4da67201-14cb-4e13-8fe0-e891e20abb1f"
+              >2022</a>
             </li>
         </ul>
       </td>
@@ -2879,7 +2888,7 @@ O uso do padrão DarwinCore para compartilhamento de dados em biodiversidade tem
         <ul>
           <li>
             <a 
-              href ="https://ala-hub.sibbr.gov.br/ala-hub/occurrences/bf050988-7ed3-4768-a699-b351767ca030"
+              href ="https://ala-hub.sibbr.gov.br/ala-hub/occurrences/4da67201-14cb-4e13-8fe0-e891e20abb1f"
             >04 <a/>
             </li>
         </ul>
@@ -2919,8 +2928,8 @@ O uso do padrão DarwinCore para compartilhamento de dados em biodiversidade tem
         <ul>
           <li>
             <a 
-              href ="https://ala-hub.sibbr.gov.br/ala-hub/occurrences/bf050988-7ed3-4768-a699-b351767ca030"
-          >01</a>
+              href ="https://ala-hub.sibbr.gov.br/ala-hub/occurrences/4da67201-14cb-4e13-8fe0-e891e20abb1f"
+          >21</a>
             </li>
         </ul>
       </td>
@@ -3640,12 +3649,21 @@ O uso do padrão DarwinCore para compartilhamento de dados em biodiversidade tem
     </tr>
     <tr>
       <td style="text-align: left">Domínio</td>
-      <td style="text-align: left">Brasil | Argentina | Colômbia</td>
+      <td style="text-align: left">Brasil | Argentina | Venezuela</td>
     </tr>
     <tr>
       <td style="text-align: left">Exemplos</td>
       <td style="text-align: left">
         <ul>
+          <li>
+            <a
+              href="https://ala-hub.sibbr.gov.br/ala-hub/occurrences/0d6ec5db-a9a2-4f6a-8ca5-0553d86ccdf5"
+              >Brasil<a/>
+              </li>
+                <li>
+                  <a
+                    href="https://ala-hub.sibbr.gov.br/ala-hub/occurrences/65416160-a3cc-4411-8472-8ed9f6f64020"
+                    >Venezuela <a/>
           <!-- <li>NA</li> -->
         </ul>
       </td>
