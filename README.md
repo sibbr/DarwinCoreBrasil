@@ -1410,24 +1410,46 @@ O uso do padrão DarwinCore para compartilhamento de dados em biodiversidade tem
       <td style="text-align: left">Domínio</td>
       <td style="text-align: left">
         Zigoto | Ovos | Larva | Pupa | Juvenil | Adulto | Semente | Muda |
-        Frutificação | Floração | Semente
+        Frutificação | Floração
       </td>
     </tr>
     <tr>
       <td style="text-align: left">Exemplos</td>
       <td style="text-align: left">
+        Planta:
            <ul>
            <li>
-             Planta:
-             <a href=" href="https://ala-hub.sibbr.gov.br/ala-hub/occurrences/66c41f5d-0943-4e92-a402-c852f20e6700"> Frutificação</a>
+             <a href="https://ala-hub.sibbr.gov.br/ala-hub/occurrences/66c41f5d-0943-4e92-a402-c852f20e6700"> Frutificação</a>
           </li>
           <li>
-            Animal:
-            <a
+          Semente
+          </li>
+          <li>
+          Muda
+          </li>
+          <li>
+          Floração
+          </li>
+           </ul>
+           Animal:
+           <ul>
+           <li>
+           <a
               href="https://ala-hub.sibbr.gov.br/ala-hub/occurrences/b1e323db-e480-489e-ac14-f13a02d2f0ca"
               >Larva</a
             >
           </li>
+          <li>
+            Zigoto
+            </li>
+          <li>
+            Adulto
+            </li>
+          <li>
+            Ovos
+            </li>
+          <li>
+            Pupa
         </ul>
       </td>
     </tr>
@@ -1541,6 +1563,39 @@ O uso do padrão DarwinCore para compartilhamento de dados em biodiversidade tem
             href="https://ala-hub.sibbr.gov.br/ala-hub/occurrences/933c33fb-424c-4cbc-b949-c9ed469ed8db"
             >	urn:catalog:JBRJ:RB:205238</a
             >
+          </li>
+        <li>
+          Liana
+        </li>
+        </ul>
+          Animal:
+        <ul>
+        <li>
+          Pelágico
+        </li>
+        <li>
+          Bentônico
+        </li>
+        <li>
+          Predador
+          </li>
+        <li>
+          Polinizador
+        </li>
+        </ul>
+        Parasita:
+        <ul>
+        <li> 
+          Ectoparasito
+        </li>
+        <li>
+          Endoparasito
+        </li>
+        <li>
+          Endoparasitoide
+        </li>
+        <li>
+        Ectopasitoide          
               <!-- <li>NA</li> -->
         </ul>
       </td>
