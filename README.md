@@ -1586,14 +1586,16 @@ O uso do padrão DarwinCore para compartilhamento de dados em biodiversidade tem
       <td style="text-align: left">Exemplos</td>
       <td style="text-align: left">
         <ul>
-        <li> Introduzida: espécies que foram introduzidas em um local do qual não fazem parte originalmente. (EMBRAPA)
+        <li> 
+          <a
+            href="http://fauna.jbrj.gov.br/fauna/listaBrasil/ConsultaPublicaUC/BemVindoConsultaPublicaConsultar.do?invalidatePageControlCounter=1&lingua=&jsonRank=&rankTaxon=32767&nomeTaxon=&autor=&nomeVernaculo=&nomeCompleto=&formaVida=QUALQUER&substrato=QUALQUER&ocorrencia=OCORRE&regiao=CENTRO_OESTE&estado=QUALQUER&endemismo=TODOS&origem=INTRODUZIDA&mostrarAte=SUB_ESPECIE&opcoesBusca=NOME_ACEITO"
+            > Introduzida </a>
         </li>
-        <li> Nativa: espécies que ocorrem naturalmente em determinada região ou bioma. (SEDEST)
-        </li>
-        <li> Nativa reintroduzida: espécies que foram soltas intencionalmente em um local do qual já faziam parte mas que desapareceram por razões antrópicas ou naturais.
-        </li>
-        <li> Introduzida por colonização assistida: espécies que foram reintroduzidas em um local com o objetivo de restabelecer as populações que estão ameaçadas de extinção ou já extintas. (IUCN)
-          <!-- <li>NA</li> -->
+        <li> 
+          <a
+            href= "http://floradobrasil.jbrj.gov.br/reflora/listaBrasil/ConsultaPublicaUC/BemVindoConsultaPublicaConsultar.do?invalidatePageControlCounter=5&idsFilhosAlgas=%5B2%5D&idsFilhosFungos=%5B1%2C11%2C10%5D&lingua=&grupo=6&familia=null&genero=&especie=&autor=&nomeVernaculo=&nomeCompleto=&formaVida=null&substrato=null&ocorreBrasil=QUALQUER&ocorrencia=OCORRE&endemismo=TODOS&origem=NATIVA&regiao=NORTE&estado=QUALQUER&ilhaOceanica=32767&domFitogeograficos=QUALQUER&bacia=QUALQUER&vegetacao=TODOS&mostrarAte=SUBESP_VAR&opcoesBusca=TODOS_OS_NOMES&loginUsuario=Visitante&senhaUsuario=&contexto=consulta-publica"
+            > Nativa </a>
+        <!-- <li>NA</li> -->
         </ul>
       </td>
     </tr>
