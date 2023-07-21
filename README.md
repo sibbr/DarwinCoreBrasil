@@ -3141,24 +3141,29 @@ O uso do padrão DarwinCore para compartilhamento de dados em biodiversidade tem
         <ul>
           <li>
             <a
-              href="https://ala-hub.sibbr.gov.br/ala-hub/occurrences/4f1b0520-c115-4e78-8cfa-2a053afa5250"
-              >TSBF</a>
+              href="https://ainfo.cnptia.embrapa.br/digital/bitstream/item/66834/1/2012-George-FERTBIO-Avaliacao.pdf"
+              >Métodos TSBF para coleta no solo</a>
           </li>
           <li>
           <a
-              href="https://ala-hub.sibbr.gov.br/ala-hub/occurrences/ddb66fc8-dc83-4d14-8270-25a7a814dfbc"
-              >Parcela</a
+              href="https://www.researchgate.net/publication/267833419_MANUAL_PARA_O_MONITORAMENTO_DE_PARCELAS_PERMANENTES_NOS_BIOMAS_CERRADO_E_PANTANAL"
+              >Amostragem da vegetação por Parcelas Permanentes</a
             >
           </li>
           <li>
            <a
-              href="https://ala-hub.sibbr.gov.br/ala-hub/occurrences/caab551d-3f85-40b8-9fde-b9df12fd113d"
-              >RAPELD</a>
+              href="https://ppbio.inpa.gov.br/metodos/rapeld"
+              >Método RAPELD</a>
           </li>
           <li>
             <a
-              href="https://ala-hub.sibbr.gov.br/ala-hub/occurrences/952cdda2-477a-4018-9576-1caf33cfe05b"
-              >Busca ativa</a>
+              href="https://www.gov.br/icmbio/pt-br/assuntos/monitoramento/gestao-da-informacao/biblioteca/programas-de-monitoramento-de-ambientes-continentais/protocolo_mamiferos-caatinga.pdf"
+              > Método de Armadilha Fotográfica e Transectos</a>
+            </li>
+          <li>
+            <a
+              href="http://ppbio.museu-goeldi.br/?q=pt-br/protocolo-10-herpetofauna"
+              > Método de Busca Ativa e Pitfall</a>
           </li>
         </ul>
       </td>
