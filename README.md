@@ -3571,6 +3571,12 @@ O uso do padrão DarwinCore para compartilhamento de dados em biodiversidade tem
           <a
             href ="https://ala-hub.sibbr.gov.br/ala-hub/occurrences/bf050988-7ed3-4768-a699-b351767ca030"
             >South America</a>
+        </li>
+          <li>
+            <a
+              href="https://ala-hub.sibbr.gov.br/ala-hub/occurrences/611f05f5-fb75-4020-8865-b24e3caef0dc"
+              >América do Sul</a>
+          </li>
           <!-- <li>NA</li> -->
         </ul>
       </td>
