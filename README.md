@@ -5193,8 +5193,7 @@ O uso do padrão DarwinCore para compartilhamento de dados em biodiversidade tem
     <tr>
       <td style="text-align: left">Definição</td>
       <td style="text-align: left">
-        Uma descrição ou referência aos métodos usados para determinar a pegada
-        espacial, coordenadas e incertezas.
+        Uma descrição ou referência aos métodos usados para determinar a georeferência.
       </td>
     </tr>
     <tr>
@@ -5277,9 +5276,7 @@ O uso do padrão DarwinCore para compartilhamento de dados em biodiversidade tem
     <tr>
       <td style="text-align: left">Definição</td>
       <td style="text-align: left">
-        Notas ou comentários sobre a determinação da descrição espacial,
-        explicitando pressupostos assumidos em adição ou oposição aos
-        formalizados no método referido no protocolo georreferenciado.
+        Coordenadas generalizadas a partir do centroide de uma malha de 15 km.
       </td>
     </tr>
     <tr>
