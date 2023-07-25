@@ -905,6 +905,12 @@ O uso do padrão DarwinCore para compartilhamento de dados em biodiversidade tem
               href="https://ala-hub.sibbr.gov.br/ala-hub/occurrences/a9de20cb-0803-4f7c-bcf8-6cab6a27a959"
               >{"barcode": "ALCB020180"}</a
             >
+            <li>
+            {"DAP (cm)": 30, "Altura (m)": 2.5}
+            </li>
+            <li>
+            {"Cor da flor": "amarela"}
+            </li>
           </li>
         </ul>
       </td>
@@ -8147,9 +8153,29 @@ O uso do padrão DarwinCore para compartilhamento de dados em biodiversidade tem
     <tr>
       <td style="text-align: left">Exemplos</td>
       <td style="text-align: left">
-        <li> Temperatura | Comprimento da cauda | DAP 
+        Medidas associadas ao evento de amostragem (eventID): 
+      <ul>
+      <li>
+        Temperatura
+      </li>
+      <li>
+        Salinidade
+      </li>
+      <li>
+        Condutividade da água
+      </li>
+      </ul>
+        Medidas associadas à ocorrência (occurrenceID): 
         <ul>
-          <!-- <li>NA</li> -->
+      <li>
+      Comprimento da cauda
+      </li>
+      <li>
+        DAP 
+      </li>
+      <li>
+        Concentração de mercúrio 
+      </li>
         </ul>
       </td>
     </tr>
@@ -8183,13 +8209,197 @@ O uso do padrão DarwinCore para compartilhamento de dados em biodiversidade tem
     </tr>
     <tr>
       <td style="text-align: left">Domínio</td>
-      <td style="text-align: left">45 | 20 | 1 |</td>
+      <td style="text-align: left"></td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Exemplos</td>
+      <td style="text-align: left">
+        Medidas associadas ao evento de amostragem (eventID): 
+      <ul>
+      <li>
+        30
+      </li>
+      <li>
+       36.56
+      </li>
+      <li>
+       52.329
+      </li>
+      </ul>
+        Medidas associadas à ocorrência (occurrenceID): 
+        <ul>
+      <li>
+      20
+      </li>
+      <li>
+      30
+      </li>
+      <li>
+      0.7
+      </li>
+        </ul>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+---
+
+<table>
+  <tr class="table-secondary">
+    <th colspan="2">
+      <a href="https://github.com/sibbr/DarwinCoreBrasil/issues/184"
+        >measurementUnit</a
+      >
+    </th>
+  </tr>
+  <tr>
+    <td style="text-align: left">Identificador</td>
+    <td style="text-align: left">
+      <a href="https://dwc.tdwg.org/terms/#dwc:measurementUnit"
+        >https://dwc.tdwg.org/terms/#dwc:measurementUnit</a
+      >
+    </td>
+  </tr>
+  <tbody>
+    <tr>
+      <td style="text-align: left">Definição</td>
+      <td style="text-align: left">
+        As unidades associadas ao measurementvalue.
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Domínio</td>
+      <td style="text-align: left"></td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Exemplos</td>
+      <td style="text-align: left">
+        Medidas associadas ao evento de amostragem (eventID): 
+      <ul>
+      <li>
+      °C        
+      </li>
+      <li>
+       ppm
+      </li>
+      <li>
+       mS/cm
+      </li>
+      </ul>
+        Medidas associadas à ocorrência (occurrenceID): 
+        <ul>
+      <li>
+      cm
+      </li>
+      <li>
+      cm
+      </li>
+      <li>
+      %
+      </li>
+        </ul>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+---
+
+<table>
+  <tr class="table-secondary">
+    <th colspan="2">
+      <a href="https://github.com/sibbr/DarwinCoreBrasil/issues/187"
+        >measurementMethod</a
+      >
+    </th>
+  </tr>
+  <tr>
+    <td style="text-align: left">Identificador</td>
+    <td style="text-align: left">
+      <a href="https://dwc.tdwg.org/terms/#dwc:measurementMethod"
+        >https://dwc.tdwg.org/terms/#dwc:measurementMethod</a
+      >
+    </td>
+  </tr>
+  <tbody>
+    <tr>
+      <td style="text-align: left">Definição</td>
+      <td style="text-align: left">
+        Uma descrição ou referência a (publicação, url) o método ou protocolo
+        usado para determinar a medida, fato, característica ou asserção.
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Domínio</td>
+      <td style="text-align: left"></td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Exemplos</td>
+      <td style="text-align: left">
+        Medidas associadas ao evento de amostragem (eventID): 
+      <ul>
+      <li>
+      Termômetro
+      </li>
+      <li>
+      Refractômetro
+      </li>
+      <li>
+      Condutivímetro
+      </li>
+      </ul>
+        Medidas associadas à ocorrência (occurrenceID): 
+      <ul>
+      <li>
+      Trena 
+      </li>
+      <li>
+      Fita métrica
+      </li>
+      <li>
+      Teste de toxicidade
+      </li>
+        </ul>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+---
+
+<table>
+  <tr class="table-secondary">
+    <th colspan="2">
+      <a href="https://github.com/sibbr/DarwinCoreBrasil/issues/188"
+        >measurementRemarks</a
+      >
+    </th>
+  </tr>
+  <tr>
+    <td style="text-align: left">Identificador</td>
+    <td style="text-align: left">
+      <a href="https://dwc.tdwg.org/terms/#dwc:measurementRemarks"
+        >https://dwc.tdwg.org/terms/#dwc:measurementRemarks</a
+      >
+    </td>
+  </tr>
+  <tbody>
+    <tr>
+      <td style="text-align: left">Definição</td>
+      <td style="text-align: left">
+        Comentários ou notas que acompanham o measurementorfact.
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Domínio</td>
+      <td style="text-align: left"></td>
     </tr>
     <tr>
       <td style="text-align: left">Exemplos</td>
       <td style="text-align: left">
         <ul>
-          <li>Pode ser qualitativo ou quantitativo</li>
+          <!-- <li>NA</li> -->
         </ul>
       </td>
     </tr>
@@ -8237,46 +8447,6 @@ O uso do padrão DarwinCore para compartilhamento de dados em biodiversidade tem
   </tbody>
 </table>
 
----
-
-<table>
-  <tr class="table-secondary">
-    <th colspan="2">
-      <a href="https://github.com/sibbr/DarwinCoreBrasil/issues/184"
-        >measurementUnit</a
-      >
-    </th>
-  </tr>
-  <tr>
-    <td style="text-align: left">Identificador</td>
-    <td style="text-align: left">
-      <a href="https://dwc.tdwg.org/terms/#dwc:measurementUnit"
-        >https://dwc.tdwg.org/terms/#dwc:measurementUnit</a
-      >
-    </td>
-  </tr>
-  <tbody>
-    <tr>
-      <td style="text-align: left">Definição</td>
-      <td style="text-align: left">
-        As unidades associadas ao measurementvalue.
-      </td>
-    </tr>
-    <tr>
-      <td style="text-align: left">Domínio</td>
-      <td style="text-align: left"></td>
-    </tr>
-    <tr>
-      <td style="text-align: left">Exemplos</td>
-      <td style="text-align: left">
-        <li> m | g | l |°C | mm | km² | m/s
-        <ul>
-          <!-- <li>NA</li> -->
-        </ul>
-      </td>
-    </tr>
-  </tbody>
-</table>
 
 ---
 
@@ -8300,8 +8470,8 @@ O uso do padrão DarwinCore para compartilhamento de dados em biodiversidade tem
     <tr>
       <td style="text-align: left">Definição</td>
       <td style="text-align: left">
-        Uma lista (concatenada e separada) de nomes de pessoas, grupos ou
-        organizações que determinaram o valor do measurementorfact.
+        Uma lista (concatenada e separada) de nomes de pessoas, grupos,
+        organizações ou <i>software</i> que determinaram o valor do measurement.
       </td>
     </tr>
     <tr>
@@ -8311,9 +8481,24 @@ O uso do padrão DarwinCore para compartilhamento de dados em biodiversidade tem
     <tr>
       <td style="text-align: left">Exemplos</td>
       <td style="text-align: left">
-        <ul>
-          <!-- <li>NA</li> -->
-        </ul>
+        Medidas associadas ao evento de amostragem (eventID): 
+      <ul>
+      <li>
+      Laboratório de análise ambiental X
+      </li>
+      <li>
+      INMET
+      </li>
+      <li>
+      Moonphase 3.3
+      </li>
+      </ul>
+        Medidas associadas à ocorrência (occurrenceID): 
+      <ul>
+      <li>
+      Yohana Ditzel | Clara Fonseca
+      </li>
+      </ul>
       </td>
     </tr>
   </tbody>
@@ -8360,84 +8545,3 @@ O uso do padrão DarwinCore para compartilhamento de dados em biodiversidade tem
   </tbody>
 </table>
 
----
-
-<table>
-  <tr class="table-secondary">
-    <th colspan="2">
-      <a href="https://github.com/sibbr/DarwinCoreBrasil/issues/187"
-        >measurementMethod</a
-      >
-    </th>
-  </tr>
-  <tr>
-    <td style="text-align: left">Identificador</td>
-    <td style="text-align: left">
-      <a href="https://dwc.tdwg.org/terms/#dwc:measurementMethod"
-        >https://dwc.tdwg.org/terms/#dwc:measurementMethod</a
-      >
-    </td>
-  </tr>
-  <tbody>
-    <tr>
-      <td style="text-align: left">Definição</td>
-      <td style="text-align: left">
-        Uma descrição ou referência a (publicação, url) o método ou protocolo
-        usado para determinar a medida, fato, característica ou asserção.
-      </td>
-    </tr>
-    <tr>
-      <td style="text-align: left">Domínio</td>
-      <td style="text-align: left"></td>
-    </tr>
-    <tr>
-      <td style="text-align: left">Exemplos</td>
-      <td style="text-align: left">
-        <li> Altímetro barométrico
-        <ul>
-          <!-- <li>NA</li> -->
-        </ul>
-      </td>
-    </tr>
-  </tbody>
-</table>
-
----
-
-<table>
-  <tr class="table-secondary">
-    <th colspan="2">
-      <a href="https://github.com/sibbr/DarwinCoreBrasil/issues/188"
-        >measurementRemarks</a
-      >
-    </th>
-  </tr>
-  <tr>
-    <td style="text-align: left">Identificador</td>
-    <td style="text-align: left">
-      <a href="https://dwc.tdwg.org/terms/#dwc:measurementRemarks"
-        >https://dwc.tdwg.org/terms/#dwc:measurementRemarks</a
-      >
-    </td>
-  </tr>
-  <tbody>
-    <tr>
-      <td style="text-align: left">Definição</td>
-      <td style="text-align: left">
-        Comentários ou notas que acompanham o measurementorfact.
-      </td>
-    </tr>
-    <tr>
-      <td style="text-align: left">Domínio</td>
-      <td style="text-align: left"></td>
-    </tr>
-    <tr>
-      <td style="text-align: left">Exemplos</td>
-      <td style="text-align: left">
-        <ul>
-          <!-- <li>NA</li> -->
-        </ul>
-      </td>
-    </tr>
-  </tbody>
-</table>
