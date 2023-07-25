@@ -1353,7 +1353,7 @@ O uso do padrão DarwinCore para compartilhamento de dados em biodiversidade tem
     <tr>
       <td style="text-align: left">Domínio</td>
       <td style="text-align: left">
-        Macho | Fêmea | Hermafrodita | Male | Female | Hermaphrodite
+        Macho | Fêmea | Hermafrodita
       </td>
     </tr>
     <tr>
@@ -1952,8 +1952,7 @@ O uso do padrão DarwinCore para compartilhamento de dados em biodiversidade tem
     <tr>
       <td style="text-align: left">Domínio</td>
       <td style="text-align: left">
-        Em coleção | Ausente | In collection | Missing | Voucher em outro local
-        | Duplicatas em outro local | Voucher elsewhere | Duplicates elsewhere
+        Em coleção | Ausente | Voucher em outro local | Duplicatas em outro local
       </td>
     </tr>
     <tr>
@@ -3999,7 +3998,7 @@ O uso do padrão DarwinCore para compartilhamento de dados em biodiversidade tem
     </tr>
     <tr>
       <td style="text-align: left">Domínio</td>
-      <td style="text-align: left"></td>
+      <td style="text-align: left">[Valor númerico mínimo de elevação]</td>
     </tr>
     <tr>
       <td style="text-align: left">Exemplos</td>
@@ -4040,7 +4039,7 @@ O uso do padrão DarwinCore para compartilhamento de dados em biodiversidade tem
     </tr>
     <tr>
       <td style="text-align: left">Domínio</td>
-      <td style="text-align: left"></td>
+      <td style="text-align: left">[Valor númerico máximo de elevação]</td>
     </tr>
     <tr>
       <td style="text-align: left">Exemplos</td>
@@ -4165,7 +4164,7 @@ O uso do padrão DarwinCore para compartilhamento de dados em biodiversidade tem
     </tr>
     <tr>
       <td style="text-align: left">Domínio</td>
-      <td style="text-align: left"></td>
+      <td style="text-align: left">[Valor númerico mínimo da profundidade]</td>
     </tr>
     <tr>
       <td style="text-align: left">Exemplos</td>
@@ -4206,7 +4205,7 @@ O uso do padrão DarwinCore para compartilhamento de dados em biodiversidade tem
     </tr>
     <tr>
       <td style="text-align: left">Domínio</td>
-      <td style="text-align: left"></td>
+      <td style="text-align: left">[Valor númerico máximo da profundidade]</td>
     </tr>
     <tr>
       <td style="text-align: left">Exemplos</td>
