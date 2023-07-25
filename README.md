@@ -6173,7 +6173,7 @@ O uso do padrão DarwinCore para compartilhamento de dados em biodiversidade tem
     <tr>
       <td style="text-align: left">Domínio</td>
       <td style="text-align: left">
-        Holótipo [originalNameUsage} | Isótipo | Síntipo | Léctotipo | Parátipo
+        Holótipo [originalNameUsage] | Isótipo | Síntipo | Léctotipo | Parátipo
         | Neótipo | Cótipo
       </td>
     </tr>
@@ -6222,8 +6222,11 @@ O uso do padrão DarwinCore para compartilhamento de dados em biodiversidade tem
     <tr>
       <td style="text-align: left">Domínio</td>
       <td style="text-align: left">
-        SOBRENOME, Inicial nome | Sobrenome, Inicial nome
-      </td>
+        [SOBRENONE, inicial nome] <br>
+        [Sobrenome, inicial nome] <br>
+        [Sobrenome, inicial nome | Sobrenome, inicial nome] <br>
+        [SOBRENOME, inicial nome | SOBRENOME, inicial nome] <br>
+       </td>
     </tr>
     <tr>
       <td style="text-align: left">Exemplos</td>
