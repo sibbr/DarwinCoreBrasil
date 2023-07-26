@@ -1111,7 +1111,7 @@ Para iniciar uma discussão sobre algum termo, clique no título das tabelas aba
     <tr>
       <td style="text-align: left">Definição</td>
       <td style="text-align: left">
-        Uma lista (concatenada e separada) de nomes de pessoas, grupos ou
+        Uma lista (concatenada e separada por barra vertical "|") de nomes de pessoas, grupos ou
         organizações responsáveis pelo registro da ocorrência original. O
         coletor ou observador primário, especialmente aquele que aplica um
         identificador pessoal (recordnumber), deve ser listado primeiro.
