@@ -1870,9 +1870,9 @@ Para iniciar uma discussão sobre algum termo, clique no título das tabelas aba
       <td style="text-align: left">
         <ul>
           <li>
-            Coleção:
+           Projeto de pesquisa:
            <a
-              href="https://ala-hub.sibbr.gov.br/ala-hub/occurrences/e2463fb0-0ae8-4bf9-89d6-741c7506da0b"
+              href="https://ala-hub.sibbr.gov.br/ala-hub/occurrences/e5c11e7c-da92-45d9-8fd8-6d204481049a"
               >Present</a
             >
           </li>
@@ -1890,9 +1890,9 @@ Para iniciar uma discussão sobre algum termo, clique no título das tabelas aba
               >
             </li>
             <li>
-              Projeto de pesquisa:
+              Coleção:
               <a
-                href="https://ala-hub.sibbr.gov.br/ala-hub/occurrences/e5c11e7c-da92-45d9-8fd8-6d204481049a"
+                href="https://ala-hub.sibbr.gov.br/ala-hub/occurrences/e2463fb0-0ae8-4bf9-89d6-741c7506da0b"
                 >Present</a>
             </li>
         </ul>
