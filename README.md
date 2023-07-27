@@ -1441,7 +1441,7 @@ Para iniciar uma discussão sobre algum termo, clique no título das tabelas aba
           Floração
           </li>
            </ul>
-           Animal:
+        Animal:
            <ul>
            <li>
            <a
@@ -1510,7 +1510,16 @@ Para iniciar uma discussão sobre algum termo, clique no título das tabelas aba
           <a
             href="https://ala-hub.sibbr.gov.br/ala-hub/occurrences/66c41f5d-0943-4e92-a402-c852f20e6700"
             >urn:catalog:JBRJ:RB:205066</a
-            >                            
+            >           
+        <li> Em flor:
+          <a
+            >   
+             </ul>
+       Animal:
+        <ul>
+        <li> Grávida:
+          <a
+            >           
           <!-- <li>NA</li> -->
         </ul>
       </td>
