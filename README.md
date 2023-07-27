@@ -5,7 +5,7 @@ https://dwc.tdwg.org/terms/
 ## Justificativa
 O uso do padrão DarwinCore para compartilhamento de dados e informações em biodiversidade tem aumentado no Brasil, sendo que as instituições, organizações, fundações, programas e projetos de pesquisa em biodiversidade, cada vez mais, publicam seus dados em alguma plataforma digital, nacional ou internacional. Devido a grande heterogeneidade de tipos de dados, coleções e grupos taxonômicos, existem dúvidas relativas ao preenchimento de cada campo da planilha de dados. A discussão do significado dos termos com a adoção de melhores práticas contribuirá para a padronização dos dados corretamente no Brasil, considerando o conjunto de instituições, suas respectivas demandas e diversidade de termos utilizados. 
 
-## Como discutir algum termo
+## Como discutir um termo
 
 Para iniciar uma discussão sobre algum termo, clique no título das tabelas abaixo. Assim, você será direcionado para a página específica de discussão do termo escolhido.
 
