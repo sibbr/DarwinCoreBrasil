@@ -907,13 +907,13 @@ Para iniciar uma discussão sobre algum termo, clique no título das tabelas aba
           <li>
             <a
               href="https://ala-hub.sibbr.gov.br/ala-hub/occurrences/a9de20cb-0803-4f7c-bcf8-6cab6a27a959"
-              >{"barcode": "ALCB020180"}</a
+              >{"barcode":"ALCB020180"}</a
             >
             <li>
-            {"DAP (cm)": 30, "Altura (m)": 2.5}
+            {"DAP (cm)":30, "Altura (m)":2.5}
             </li>
             <li>
-            {"Cor da flor": "amarela"}
+            {"Cor da flor":"amarela"}
             </li>
           </li>
         </ul>
