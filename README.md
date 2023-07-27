@@ -312,7 +312,16 @@ Para iniciar uma discussão sobre algum termo, clique no título das tabelas aba
         <li>
         Museu de Pesquisas da Amazônia
         </li>
+        </ul>
+        Para projetos de pesquisa:
+        <ul>
         <li>
+        Nome do pesquisador
+        </li>
+        <li>
+        Instituto Brasileiro do Meio Ambiente e dos Recursos Naturais
+        </li>
+        </ul>
       </td>
     </tr>
   </tbody>
