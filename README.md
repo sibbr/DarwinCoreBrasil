@@ -8164,7 +8164,7 @@ Para iniciar uma discussão sobre algum termo, clique no título das tabelas aba
     </tr>
     <tr>
       <td style="text-align: left">Domínio</td>
-      <td style="text-align: left"></td>
+      <td style="text-align: left">[Medida realizada]</td>
     </tr>
     <tr>
       <td style="text-align: left">Exemplos</td>
@@ -8225,7 +8225,7 @@ Para iniciar uma discussão sobre algum termo, clique no título das tabelas aba
     </tr>
     <tr>
       <td style="text-align: left">Domínio</td>
-      <td style="text-align: left"></td>
+      <td style="text-align: left">[Valor da medida]</td>
     </tr>
     <tr>
       <td style="text-align: left">Exemplos</td>
@@ -8286,7 +8286,7 @@ Para iniciar uma discussão sobre algum termo, clique no título das tabelas aba
     </tr>
     <tr>
       <td style="text-align: left">Domínio</td>
-      <td style="text-align: left"></td>
+      <td style="text-align: left">[Unidade da medida]</td>
     </tr>
     <tr>
       <td style="text-align: left">Exemplos</td>
@@ -8348,7 +8348,7 @@ Para iniciar uma discussão sobre algum termo, clique no título das tabelas aba
     </tr>
     <tr>
       <td style="text-align: left">Domínio</td>
-      <td style="text-align: left"></td>
+      <td style="text-align: left">[Método utilizado]</td>
     </tr>
     <tr>
       <td style="text-align: left">Exemplos</td>
