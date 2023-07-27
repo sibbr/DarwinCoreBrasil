@@ -130,7 +130,7 @@ Para iniciar uma discussão sobre algum termo, clique no título das tabelas aba
           </li>
           <li>StillImage: imagem da exsicata ou espécime sem a amostra</li>
           <li>Text: registros obtidos da literatura</li>
-          <li>Event: dados de ocorrência ou evento de amostragem sem coleta</li>
+          <li>Event: dados de ocorrência sem coleta (observação) e/ou evento de amostragem sem coleta</li>
         </ul>
       </td>
     </tr>
