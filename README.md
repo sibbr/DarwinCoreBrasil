@@ -128,7 +128,7 @@ Para iniciar uma discussão sobre algum termo, clique no título das tabelas aba
             Sound: arquivo com som. Colocar a url de acesso ao arquivo no termo
             associatedMedia
           </li>
-          <li>StillImage: imagem da exsicata ou espéciem sem a amostra</li>
+          <li>StillImage: imagem da exsicata ou espécime sem a amostra</li>
           <li>Text: registros obtidos da literatura</li>
           <li>Event: dados de ocorrência ou evento de amostragem sem coleta</li>
         </ul>
