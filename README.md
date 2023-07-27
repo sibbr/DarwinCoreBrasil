@@ -292,26 +292,27 @@ Para iniciar uma discussão sobre algum termo, clique no título das tabelas aba
     <tr>
       <td style="text-align: left">Definição</td>
       <td style="text-align: left">
-        Organização detentora dos direitos autorais do registro.
+        Nome do pesquisador e/ou organização detentora dos direitos autorais do registro.
       </td>
     </tr>
     <tr>
       <td style="text-align: left">Domínio</td>
       <td style="text-align: left">
-        [Nome completo instituição]
+        [Nome completo do pesquisador ou instituição]
       </td>
     </tr>
     <tr>
       <td style="text-align: left">Exemplos</td>
       <td style="text-align: left">
+        Para coleções:
         <ul>
-          <li>Universidade do Vale do Taquari</li>
-          <li>Fundação Renova</li>
-          <li>Programa de Pesquisas em Biodiversidade</li>
-          <li>Museu de Pesquisas da Amazônia</li>
-          <li>Instituto Profauna</li>
-          <li>Conselho Nacional de Desenvolvimento Científico e Tecnológico</li>
-        </ul>
+        <li>
+        Universidade do Vale do Taquari
+        </li>
+        <li>
+        Museu de Pesquisas da Amazônia
+        </li>
+        <li>
       </td>
     </tr>
   </tbody>
