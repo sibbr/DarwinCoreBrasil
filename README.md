@@ -415,12 +415,14 @@ Para iniciar uma discussão sobre algum termo, clique no título das tabelas aba
     </tr>
     <tr>
       <td style="text-align: left">Domínio</td>
-      <td style="text-align: left">[Link de acesso]</td>
+      <td style="text-align: left">[Referência bibliográfica]</td>
     </tr>
     <tr>
       <td style="text-align: left">Exemplos</td>
       <td style="text-align: left">
         <ul>
+        <li>
+          Rand, K.M., Logerwell, E.A. The first demersal trawl survey of benthic fish and invertebrates in the Beaufort Sea since the late 1970s. Polar Biol 34, 475–488 (2011). https://doi.org/10.1007/s00300-010-0900-2 
           <!-- <li>NA</li> -->
         </ul>
       </td>
