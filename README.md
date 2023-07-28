@@ -3817,7 +3817,7 @@ Para iniciar uma discussão sobre algum termo, clique no título das tabelas aba
     <tr>
       <td style="text-align: left">Definição</td>
       <td style="text-align: left">
-        O código padrão para o país em que o local ocorre (2 dígitos - ISO 3166).
+        Código do país com dois dígitos (ISO 3166) em que o registro ocorreu.
       </td>
     </tr>
     <tr>
