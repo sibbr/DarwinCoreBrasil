@@ -816,7 +816,7 @@ Para iniciar uma discussão sobre algum termo, clique no título das tabelas aba
       <td style="text-align: left">Definição</td>
       <td style="text-align: left">
         Informações adicionais que existem, mas que não foram compartilhadas no
-        registro fornecido. Sugere que dados alternativos de maior qualidade podem estar disponíveis mediante solicitação.
+        registro fornecido. Sugere que existem dados que poderão ser disponibilizados mediante solicitação.
       </td>
     </tr>
     <tr>
@@ -828,8 +828,8 @@ Para iniciar uma discussão sobre algum termo, clique no título das tabelas aba
       <td style="text-align: left">Exemplos</td>
       <td style="text-align: left">
         <ul>
-          <li>Coordenadas exatas disponíveis</li>
-          <li>Identificação até nivel de espécie e não publicado</li>
+          <li>Localização não disponibilizada para espécies ameaçadas.</li>
+          <li>Informações pessoais do identificador.</li>
         </ul>
       </td>
     </tr>
