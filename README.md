@@ -3817,12 +3817,12 @@ Para iniciar uma discussão sobre algum termo, clique no título das tabelas aba
     <tr>
       <td style="text-align: left">Definição</td>
       <td style="text-align: left">
-        O código padrão para o país em que o local ocorre.
+        O código padrão para o país em que o local ocorre (2 dígitos - ISO 3166).
       </td>
     </tr>
     <tr>
       <td style="text-align: left">Domínio</td>
-      <td style="text-align: left">BR | AUS | EUA | FRA</td>
+      <td style="text-align: left">BR | AU | US | FR</td>
     </tr>
     <tr>
       <td style="text-align: left">Exemplos</td>
