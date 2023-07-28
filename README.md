@@ -1375,7 +1375,7 @@ Para iniciar uma discussão sobre algum termo, clique no título das tabelas aba
     <tr>
       <td style="text-align: left">Domínio</td>
       <td style="text-align: left">
-        Macho | Fêmea | Hermafrodita
+        Macho | Fêmea | Hermafrodita | Indeterminado
       </td>
     </tr>
     <tr>
@@ -1772,7 +1772,7 @@ Para iniciar uma discussão sobre algum termo, clique no título das tabelas aba
     <tr>
       <td style="text-align: left">Definição</td>
       <td style="text-align: left">
-        O processo pelo qual um organismo veio a estar em um determinado lugar
+        O processo pelo qual um organismo chegou em um determinado lugar
         em um determinado tempo
       </td>
     </tr>
@@ -1787,6 +1787,7 @@ Para iniciar uma discussão sobre algum termo, clique no título das tabelas aba
           <li>Liberado para uso</li>
           <li>Transporte contaminante</li>
           <li>Corredor</li>
+          <li>Fuga de criatório</li>
         </ul>
       </td>
     </tr>
