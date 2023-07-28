@@ -783,7 +783,7 @@ Para iniciar uma discussão sobre algum termo, clique no título das tabelas aba
           <li>PreservedSpecimen: exsicata, espécime, cultivo</li>
           <li>MaterialSample: tecido, sangue, fêmur</li>
           <li>
-            HumanObservation: inventário, evento de amostragem, ocorrência (ciência cidadã)
+            HumanObservation: inventário, evento de amostragem, ocorrência (observação, captura/recaptura), ciência cidadã.
           </li>
           <li>MachineObservation: fotografia, câmera trap</li>
           <li>LivingSpecimen: Zoológico ou Jardim Botânico</li>
@@ -858,7 +858,7 @@ Para iniciar uma discussão sobre algum termo, clique no título das tabelas aba
     <tr>
       <td style="text-align: left">Definição</td>
       <td style="text-align: left">
-       	Ações tomadas para tornar os dados compartilhados menos específicos ou completos do que em sua forma original. Sugere que dados alternativos de maior qualidade podem estar disponíveis mediante solicitação.
+       	Ações tomadas para tornar os dados compartilhados menos específicos ou completos do que em sua forma original. Sugere que dados alternativos de maior qualidade estão disponíveis mediante solicitação.
       </td>
     </tr>
     <tr>
@@ -901,7 +901,7 @@ Para iniciar uma discussão sobre algum termo, clique no título das tabelas aba
     <tr>
       <td style="text-align: left">Definição</td>
       <td style="text-align: left">
-        Uma lista de medidas, fatos, características ou afirmações adicionais
+        Uma lista de medidas, fatos, características ou informações adicionais
         sobre o registro. Destinado a fornecer um mecanismo para conteúdo
         estruturado.
       </td>
