@@ -1566,71 +1566,15 @@ Para iniciar uma discussão sobre algum termo, clique no título das tabelas aba
     <tr>
       <td style="text-align: left">Domínio</td>
       <td style="text-align: left">
-        Pelágico | Bentônico | Nectônicos | Planctônico | Árvore | Arbusto |
-        Lianas | Subarbusto | Erva | Palmeira | Parasita | Liquenizado |
-        Micorrízico | Bambu | Herbívoro | Polinizador | Predador | Ectoparasito
-        | Ectoparasitoide | Séssil | Endoparasito | Endoparasitoide
-      </td>
+        </td>
     </tr>
     <tr>
       <td style="text-align: left">Exemplos</td>
       <td style="text-align: left">
-        Planta:
         <ul>
         <li> 
-          Arbusto: 
-          <a
-            href= "https://ala-hub.sibbr.gov.br/ala-hub/occurrences/65416160-a3cc-4411-8472-8ed9f6f64020"
-           >urn:catalog:JBRJ:RB:205040</a
-           >
-        </li>
-        <li>
-          Erva:
-          <a
-            href="https://ala-hub.sibbr.gov.br/ala-hub/occurrences/b5d12b61-ee40-4ab8-9a5c-bbc9ce275ca5"
-            >urn:catalog:JBRJ:RB:205057</a
-          >
-        </li>
-        <li>
-          Parasita:
-          <a
-            href="https://ala-hub.sibbr.gov.br/ala-hub/occurrences/933c33fb-424c-4cbc-b949-c9ed469ed8db"
-            >	urn:catalog:JBRJ:RB:205238</a
-            >
-          </li>
-        <li>
-          Liana
-        </li>
-        </ul>
-          Animal:
-        <ul>
-        <li>
-          Pelágico
-        </li>
-        <li>
-          Bentônico
-        </li>
-        <li>
-          Predador
-          </li>
-        <li>
-          Polinizador
-        </li>
-        </ul>
-        Parasita:
-        <ul>
-        <li> 
-          Ectoparasito
-        </li>
-        <li>
-          Endoparasito
-        </li>
-        <li>
-          Endoparasitoide
-        </li>
-        <li>
-        Ectopasitoide          
-              <!-- <li>NA</li> -->
+         Forrageando, correndo, descansando 
+             <!-- <li>NA</li> -->
         </ul>
       </td>
     </tr>
