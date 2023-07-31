@@ -1282,8 +1282,7 @@ Para iniciar uma discussão sobre algum termo, clique no título das tabelas aba
     <tr>
       <td style="text-align: left">Domínio</td>
       <td style="text-align: left">
-        27 (organismQuantity) com indíviduos (organismQuantityType)
-      </td>
+        </td>
     </tr>
     <tr>
       <td style="text-align: left">Exemplos</td>
@@ -1294,7 +1293,7 @@ Para iniciar uma discussão sobre algum termo, clique no título das tabelas aba
               href="https://ala-hub.sibbr.gov.br/ala-hub/occurrences/38464ecc-bb48-4df9-94b2-cad29389fa85"
               >0.486325086</a
             >
-          </li>
+            <li>12.5</li>
         </ul>
       </td>
     </tr>
@@ -1330,8 +1329,7 @@ Para iniciar uma discussão sobre algum termo, clique no título das tabelas aba
     <tr>
       <td style="text-align: left">Domínio</td>
       <td style="text-align: left">
-        27 (organismQuantity) com indíviduos (organismQuantityType)
-      </td>
+        </td>
     </tr>
     <tr>
       <td style="text-align: left">Exemplos</td>
@@ -1342,7 +1340,7 @@ Para iniciar uma discussão sobre algum termo, clique no título das tabelas aba
               href="https://ala-hub.sibbr.gov.br/ala-hub/occurrences/38464ecc-bb48-4df9-94b2-cad29389fa85"
               >	% per meter square</a
             >
-          </li>
+            <li> % de biomassa </li>
         </ul>
       </td>
     </tr>
