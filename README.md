@@ -1523,13 +1523,13 @@ Para iniciar uma discussão sobre algum termo, clique no título das tabelas aba
             href="https://ala-hub.sibbr.gov.br/ala-hub/occurrences/66c41f5d-0943-4e92-a402-c852f20e6700"
             >urn:catalog:JBRJ:RB:205066</a
             >           
-        <li> Em flor:
+        <li> Em flor
           <a
             >   
              </ul>
        Animal:
         <ul>
-        <li> Grávida:
+        <li> Grávida
           <a
             >           
           <!-- <li>NA</li> -->
@@ -6071,7 +6071,7 @@ Para iniciar uma discussão sobre algum termo, clique no título das tabelas aba
     <tr>
       <td style="text-align: left">Exemplos</td>
       <td style="text-align: left">
-        <li> Micrurus corallinus x Erythrolamprus aesculapii| Fabaceae? | Byrsonima
+        <li> Micrurus corallinus x Erythrolamprus aesculapii | Fabaceae? | Byrsonima
         coccolobifolia x B. verbascifolia
         <ul>
           <!-- <li>NA</li> -->
