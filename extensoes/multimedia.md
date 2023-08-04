@@ -1,4 +1,4 @@
-# Multimedia
+# Multimídia
 
 Extensão que informa metadados sobre recursos de multimídia, em particular links para arquivos de imagem, vídeo e áudio.
 
