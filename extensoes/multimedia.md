@@ -5,7 +5,7 @@ Extensão que informa metadados sobre recursos de multimídia, em particular lin
 <table>
  <thead>
   <tr>
-   <th style="text-align:left;"> Propiedades </th>
+   <th style="text-align:left;"> Propriedades </th>
    <th style="text-align:left;"> Descrição </th>
    <th style="text-align:left;"> Domínio </th>
    <th style="text-align:left;"> Exemplo </th>
