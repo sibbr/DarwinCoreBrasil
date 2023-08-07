@@ -68,7 +68,7 @@ Extensão que informa metadados sobre recursos de multimídia, em particular lin
    <td style="text-align:left;"> created </td>
    <td style="text-align:left;"> A data em que a mídia foi tirada. </td>
    <td style="text-align:left;"> [AAAA-MM-DD] </td>
-   <td style="text-align:left;"> [2018-04-23] </td>
+   <td style="text-align:left;"> 2018-04-23 </td>
    <td style="text-align:left;"> http://purl.org/dc/terms/created </td>
   </tr>
   <tr>
