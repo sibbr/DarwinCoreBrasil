@@ -24,7 +24,7 @@ Extensão que informa metadados sobre recursos de multimídia, em particular lin
   <tr>
    <td style="text-align:left;"> identifier </td>
    <td style="text-align:left;"> A URL pública que identifica e localiza o arquivo de mídia diretamente, não a página html na qual ele pode ser mostrado. </td>
-   <td style="text-align:left;"> [url de acesso a imagem] </td>
+   <td style="text-align:left;"> [URL de acesso a imagem] </td>
    <td style="text-align:left;"> https://image-server-ala.s3.amazonaws.com/Refauna/type_Coleoptera_Histeridae/type_Histeridae_Acritus%20acinus/type_Histeridae_Acritus%20acinus_05.tif </td>
    <td style="text-align:left;"> http://purl.org/dc/terms/identifier </td>
   </tr>
@@ -68,7 +68,7 @@ Extensão que informa metadados sobre recursos de multimídia, em particular lin
    <td style="text-align:left;"> created </td>
    <td style="text-align:left;"> A data em que a mídia foi tirada. </td>
    <td style="text-align:left;"> [AAAA-MM-DD] </td>
-   <td style="text-align:left;"> [2018-04-23 </td>
+   <td style="text-align:left;"> [2018-04-23] </td>
    <td style="text-align:left;"> http://purl.org/dc/terms/created </td>
   </tr>
   <tr>
