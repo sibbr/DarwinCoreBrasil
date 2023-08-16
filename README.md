@@ -6233,6 +6233,11 @@ Para iniciar uma discussão sobre algum termo, clique no título das tabelas aba
               >A.C. Loss</a
             >
           </li>
+           <li>
+            <a
+              href="https://ala-hub.sibbr.gov.br/ala-hub/occurrences/448e335c-ce5e-49a0-a92e-ca9ae01e7212"
+              >Rezende, S. Sg | Justo, A. Ag | Souza, J. Jec</a>
+           </li>
         </ul>
       </td>
     </tr>
