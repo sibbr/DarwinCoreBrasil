@@ -6071,8 +6071,12 @@ Para iniciar uma discussão sobre algum termo, clique no título das tabelas aba
     <tr>
       <td style="text-align: left">Exemplos</td>
       <td style="text-align: left">
-        <li> Micrurus corallinus x Erythrolamprus aesculapii | Fabaceae? | Byrsonima
-        coccolobifolia x B. verbascifolia
+        <li> Micrurus corallinus x Erythrolamprus aesculapii 
+        </li>
+        <li> Fabaceae?          
+        </li>
+        <li> Byrsonima coccolobifolia x B. verbascifolia
+        </li>
         <ul>
           <!-- <li>NA</li> -->
         </ul>
@@ -7757,7 +7761,7 @@ Para iniciar uma discussão sobre algum termo, clique no título das tabelas aba
     </tr>
     <tr>
       <td style="text-align: left">Domínio</td>
-      <td style="text-align: left">sp. |subsp. | var.</td>
+      <td style="text-align: left">sp. | subsp. | var.</td>
     </tr>
     <tr>
       <td style="text-align: left">Exemplos</td>
