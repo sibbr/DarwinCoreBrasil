@@ -3419,6 +3419,14 @@ Para iniciar uma discussão sobre algum termo, clique no título das tabelas aba
               href= "https://ala-hub.sibbr.gov.br/ala-hub/occurrences/fecf7aed-3ed8-446c-8069-ecc59f2246f1"
               >Tempo pós queimada<a/>
             </li>
+                <li>
+            <a
+              href= "https://ala-hub.sibbr.gov.br/ala-hub/occurrences/509bb1eb-3430-495e-aba3-a455eda2c9db"
+              >Época seca<a/>
+            </li>
+          <li>
+              Estação A12 | Campo 1 <a/>
+            </li>
         </ul>
       </td>
     </tr>
