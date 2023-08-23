@@ -936,6 +936,50 @@ Para iniciar uma discussão sobre algum termo, clique no título das tabelas aba
 
 --- 
 
+<table>
+  <tr class="table-secondary">
+    <th colspan="2">
+      <a href="https://github.com/sibbr/DarwinCoreBrasil/issues/191"
+        >fieldNumber</a
+      >
+    </th>
+  </tr>
+  <tr>
+    <td style="text-align: left">Identificador</td>
+    <td style="text-align: left">
+      <a href="https://dwc.tdwg.org/terms/#dwc:fieldNumber"
+        >https://dwc.tdwg.org/terms/#dwc:fieldNumber</a
+      >
+    </td>
+  </tr>
+  <tbody>
+    <tr>
+      <td style="text-align: left">Definição</td>
+      <td style="text-align: left">
+      Um identificador dado ao evento no campo. Frequentemente, serve como um link entre as Notas de Campo e o evento. Por ser utilizado também como o identificador das parcelas alocadas a campo.
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Domínio</td>
+      <td style="text-align: left">
+        <!-- NA -->
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Exemplos</td>
+      <td style="text-align: left">
+        <ul>
+          <li>
+          Parcela_01
+          </li>
+        </ul>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+---
+
 ### Occurrence
 
 <table>
@@ -2284,6 +2328,103 @@ Para iniciar uma discussão sobre algum termo, clique no título das tabelas aba
 </table>
 
 --- 
+
+<table>
+  <tr class="table-secondary">
+    <th colspan="2">
+      <a href="https://github.com/sibbr/DarwinCoreBrasil/issues/192"
+        >caste</a
+      >
+    </th>
+  </tr>
+  <tr>
+    <td style="text-align: left">Identificador</td>
+    <td style="text-align: left">
+      <a href="https://dwc.tdwg.org/terms/#dwc:caste"
+        >https://dwc.tdwg.org/terms/#dwc:caste</a
+      >
+    </td>
+  </tr>
+  <tbody>
+    <tr>
+      <td style="text-align: left">Definição</td>
+      <td style="text-align: left">
+      Categorização de indivíduos para espécies eussociais (incluindo alguns mamíferos e artrópodes).
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Domínio</td>
+      <td style="text-align: left">
+        <!-- NA -->
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Exemplos</td>
+      <td style="text-align: left">
+        <ul>
+          <li>
+          Rainha
+          </li>
+          <li>
+          Soldado
+          </li>
+        </ul>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+---
+
+<table>
+  <tr class="table-secondary">
+    <th colspan="2">
+      <a href="https://github.com/sibbr/DarwinCoreBrasil/issues/193"
+        >vitality</a
+      >
+    </th>
+  </tr>
+  <tr>
+    <td style="text-align: left">Identificador</td>
+    <td style="text-align: left">
+      <a href="https://dwc.tdwg.org/terms/#dwc:vitality"
+        >https://dwc.tdwg.org/terms/#dwc:vitality</a
+      >
+    </td>
+  </tr>
+  <tbody>
+    <tr>
+      <td style="text-align: left">Definição</td>
+      <td style="text-align: left">
+      Uma indicação se um organismo estava vivo ou morto no momento da coleta ou observação.
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Domínio</td>
+      <td style="text-align: left">
+        <!-- NA -->
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Exemplos</td>
+      <td style="text-align: left">
+        <ul>
+          <li>
+          Vivo
+          </li>
+          <li>
+          Morto
+          </li>
+          <li>
+          Incerto
+          </li>
+        </ul>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+---
 
 ### Organism
 
