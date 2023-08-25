@@ -3232,6 +3232,14 @@ Para iniciar uma discussão sobre algum termo, clique no título das tabelas aba
           </li>
           <li> Área inundável
           </li>
+          <li> Floresta Ombrófila            
+          </li>
+          <li> Pastagem            
+          </li>
+          <li> Manguezal            
+          </li>
+          <li> Floresta decidual            
+          </li>
           </ul>
       </td>
     </tr>
@@ -3266,7 +3274,7 @@ Para iniciar uma discussão sobre algum termo, clique no título das tabelas aba
     </tr>
     <tr>
       <td style="text-align: left">Domínio</td>
-      <td style="text-align: left">RAPELD | Parcelas | TSBF | Transectos | Grades de amostragem | Pitfall | Busca ativa | Armadilha fotográfica | Encontros ocasionais | Registro Auditivo em Transectos</td>
+      <td style="text-align: left">RAPELD | Parcelas | TSBF | Transectos lineares | Grades de amostragem | Pitfall | Busca ativa | Armadilha fotográfica | Encontros ocasionais | Registro Auditivo em Transectos | Observação interativa em ponto amostral | Armadilha de captura </td>
     </tr>
     <tr>
       <td style="text-align: left">Exemplos</td>
