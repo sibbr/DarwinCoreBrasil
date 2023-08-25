@@ -3222,6 +3222,16 @@ Para iniciar uma discussão sobre algum termo, clique no título das tabelas aba
               href="https://ala-hub.sibbr.gov.br/ala-hub/occurrences/bf050988-7ed3-4768-a699-b351767ca030"
               >Arquipélagos</a>
             </li>
+          <li> Sub-bosque            
+          </li>
+          <li> Solo
+          </li>
+          <li> Serrapilheira/folhiço
+          </li>
+          <li> Dossel
+          </li>
+          <li> Área inundável
+          </li>
           </ul>
       </td>
     </tr>
