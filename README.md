@@ -423,7 +423,11 @@ Para iniciar uma discussão sobre algum termo, clique no título das tabelas aba
         <ul>
         <li>
           Rand, K.M., Logerwell, E.A. The first demersal trawl survey of benthic fish and invertebrates in the Beaufort Sea since the late 1970s. Polar Biol 34, 475–488 (2011). https://doi.org/10.1007/s00300-010-0900-2 
-          <!-- <li>NA</li> -->
+        </li>
+          <li>
+            <a
+              href= "https://ala-hub.sibbr.gov.br/ala-hub/occurrences/02712d2c-69c6-4a4b-899f-da3cf945922c"
+              >http://www.tropicos.org/Specimen/3184430</a>
         </ul>
       </td>
     </tr>
