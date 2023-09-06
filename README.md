@@ -93,7 +93,7 @@ Para iniciar uma discussão sobre algum termo, clique no título das tabelas aba
 ---
 
 <table>
-  <tr class="table-secondary">
+  <tr ="table-secondary">
     <th colspan="2">
       <a href="https://github.com/sibbr/DarwinCoreBrasil/issues/2">type</a>
     </th>
@@ -140,7 +140,7 @@ Para iniciar uma discussão sobre algum termo, clique no título das tabelas aba
 ---
 
 <table>
-  <tr class="table-secondary">
+  <tr ="table-secondary">
     <th colspan="2">
       <a href="https://github.com/sibbr/DarwinCoreBrasil/issues/3">modified</a>
     </th>
@@ -179,7 +179,7 @@ Para iniciar uma discussão sobre algum termo, clique no título das tabelas aba
 ---
 
 <table>
-  <tr class="table-secondary">
+  <tr ="table-secondary">
     <th colspan="2">
       <a href="https://github.com/sibbr/DarwinCoreBrasil/issues/4">language</a>
     </th>
@@ -217,7 +217,7 @@ Para iniciar uma discussão sobre algum termo, clique no título das tabelas aba
 ---
 
 <table>
-  <tr class="table-secondary">
+  <tr ="table-secondary">
     <th colspan="2">
       <a href="https://github.com/sibbr/DarwinCoreBrasil/issues/5">license</a>
     </th>
@@ -273,7 +273,7 @@ Para iniciar uma discussão sobre algum termo, clique no título das tabelas aba
 ---
 
 <table>
-  <tr class="table-secondary">
+  <tr ="table-secondary">
     <th colspan="2">
       <a href="https://github.com/sibbr/DarwinCoreBrasil/issues/6"
         >rightsHolder</a
@@ -330,7 +330,7 @@ Para iniciar uma discussão sobre algum termo, clique no título das tabelas aba
 ---
 
 <table>
-  <tr class="table-secondary">
+  <tr ="table-secondary">
     <th colspan="2">
       <a href="https://github.com/sibbr/DarwinCoreBrasil/issues/7"
         >accessRights</a
@@ -389,7 +389,7 @@ Para iniciar uma discussão sobre algum termo, clique no título das tabelas aba
 ---
 
 <table>
-  <tr class="table-secondary">
+  <tr ="table-secondary">
     <th colspan="2">
       <a href="https://github.com/sibbr/DarwinCoreBrasil/issues/8"
         >bibliographicCitation</a
@@ -437,7 +437,7 @@ Para iniciar uma discussão sobre algum termo, clique no título das tabelas aba
 ---
 
 <table>
-  <tr class="table-secondary">
+  <tr ="table-secondary">
     <th colspan="2">
       <a href="https://github.com/sibbr/DarwinCoreBrasil/issues/9"
         >references</a
@@ -492,7 +492,7 @@ Para iniciar uma discussão sobre algum termo, clique no título das tabelas aba
 ---
 
 <table>
-  <tr class="table-secondary">
+  <tr ="table-secondary">
     <th colspan="2">
       <a href="https://github.com/sibbr/DarwinCoreBrasil/issues/10"
         >institutionID</a
@@ -535,7 +535,7 @@ Para iniciar uma discussão sobre algum termo, clique no título das tabelas aba
 ---
 
 <table>
-  <tr class="table-secondary">
+  <tr ="table-secondary">
     <th colspan="2">
       <a href="https://github.com/sibbr/DarwinCoreBrasil/issues/11"
         >collectionID</a
@@ -576,7 +576,7 @@ Para iniciar uma discussão sobre algum termo, clique no título das tabelas aba
 ---
 
 <table>
-  <tr class="table-secondary">
+  <tr ="table-secondary">
     <th colspan="2">
       <a href="https://github.com/sibbr/DarwinCoreBrasil/issues/12"
         >datasetID</a
@@ -618,7 +618,7 @@ Para iniciar uma discussão sobre algum termo, clique no título das tabelas aba
 ---
 
 <table>
-  <tr class="table-secondary">
+  <tr ="table-secondary">
     <th colspan="2">
       <a href="https://github.com/sibbr/DarwinCoreBrasil/issues/13"
         >institutionCode</a
@@ -663,7 +663,7 @@ Para iniciar uma discussão sobre algum termo, clique no título das tabelas aba
 ---
 
 <table>
-  <tr class="table-secondary">
+  <tr ="table-secondary">
     <th colspan="2">
       <a href="https://github.com/sibbr/DarwinCoreBrasil/issues/14"
         >collectionCode</a
@@ -708,7 +708,7 @@ Para iniciar uma discussão sobre algum termo, clique no título das tabelas aba
 ---
 
 <table>
-  <tr class="table-secondary">
+  <tr ="table-secondary">
     <th colspan="2">
       <a href="https://github.com/sibbr/DarwinCoreBrasil/issues/15"
         >ownerInstitutionCode</a
@@ -751,7 +751,7 @@ Para iniciar uma discussão sobre algum termo, clique no título das tabelas aba
 ---
 
 <table>
-  <tr class="table-secondary">
+  <tr ="table-secondary">
     <th colspan="2">
       <a href="https://github.com/sibbr/DarwinCoreBrasil/issues/16"
         >basisOfRecord</a
@@ -800,7 +800,7 @@ Para iniciar uma discussão sobre algum termo, clique no título das tabelas aba
 ---
 
 <table>
-  <tr class="table-secondary">
+  <tr ="table-secondary">
     <th colspan="2">
       <a href="https://github.com/sibbr/DarwinCoreBrasil/issues/17"
         >informationWithheld</a
@@ -843,7 +843,7 @@ Para iniciar uma discussão sobre algum termo, clique no título das tabelas aba
 ---
 
 <table>
-  <tr class="table-secondary">
+  <tr ="table-secondary">
     <th colspan="2">
       <a href="https://github.com/sibbr/DarwinCoreBrasil/issues/18"
         >dataGeneralizations</a
@@ -886,7 +886,7 @@ Para iniciar uma discussão sobre algum termo, clique no título das tabelas aba
 ---
 
 <table>
-  <tr class="table-secondary">
+  <tr ="table-secondary">
     <th colspan="2">
       <a href="https://github.com/sibbr/DarwinCoreBrasil/issues/19"
         >dynamicProperties</a
@@ -941,7 +941,7 @@ Para iniciar uma discussão sobre algum termo, clique no título das tabelas aba
 --- 
 
 <table>
-  <tr class="table-secondary">
+  <tr ="table-secondary">
     <th colspan="2">
       <a href="https://github.com/sibbr/DarwinCoreBrasil/issues/191"
         >fieldNumber</a
@@ -987,7 +987,7 @@ Para iniciar uma discussão sobre algum termo, clique no título das tabelas aba
 ### Occurrence
 
 <table>
-  <tr class="table-secondary">
+  <tr ="table-secondary">
     <th colspan="2">
       <a href="https://github.com/sibbr/DarwinCoreBrasil/issues/20"
         >occurrenceID</a
@@ -1045,7 +1045,7 @@ Para iniciar uma discussão sobre algum termo, clique no título das tabelas aba
 ---
 
 <table>
-  <tr class="table-secondary">
+  <tr ="table-secondary">
     <th colspan="2">
       <a href="https://github.com/sibbr/DarwinCoreBrasil/issues/21"
         >catalogNumber</a
@@ -1099,7 +1099,7 @@ Para iniciar uma discussão sobre algum termo, clique no título das tabelas aba
 ---
 
 <table>
-  <tr class="table-secondary">
+  <tr ="table-secondary">
     <th colspan="2">
       <a href="https://github.com/sibbr/DarwinCoreBrasil/issues/22"
         >recordNumber</a
@@ -1152,7 +1152,7 @@ Para iniciar uma discussão sobre algum termo, clique no título das tabelas aba
 ---
 
 <table>
-  <tr class="table-secondary">
+  <tr ="table-secondary">
     <th colspan="2">
       <a href="https://github.com/sibbr/DarwinCoreBrasil/issues/23"
         >recordedBy</a
@@ -1212,7 +1212,7 @@ Para iniciar uma discussão sobre algum termo, clique no título das tabelas aba
 ---
 
 <table>
-  <tr class="table-secondary">
+  <tr ="table-secondary">
     <th colspan="2">
       <a href="https://github.com/sibbr/DarwinCoreBrasil/issues/24"
         >recordedByID</a
@@ -1254,7 +1254,7 @@ Para iniciar uma discussão sobre algum termo, clique no título das tabelas aba
 ---
 
 <table>
-  <tr class="table-secondary">
+  <tr ="table-secondary">
     <th colspan="2">
       <a href="https://github.com/sibbr/DarwinCoreBrasil/issues/25"
         >individualCount</a
@@ -7397,7 +7397,7 @@ Para iniciar uma discussão sobre algum termo, clique no título das tabelas aba
     </tr>
     <tr>
       <td style="text-align: left">Domínio</td>
-      <td style="text-align: left">Filo</td>
+      <td style="text-align: left">[Filo]</td>
     </tr>
     <tr>
       <td style="text-align: left">Exemplos</td>
@@ -7435,7 +7435,7 @@ Para iniciar uma discussão sobre algum termo, clique no título das tabelas aba
     </tr>
     <tr>
       <td style="text-align: left">Domínio</td>
-      <td style="text-align: left">Classe</td>
+      <td style="text-align: left">[Classe]</td>
     </tr>
     <tr>
       <td style="text-align: left">Exemplos</td>
@@ -7473,7 +7473,7 @@ Para iniciar uma discussão sobre algum termo, clique no título das tabelas aba
     </tr>
     <tr>
       <td style="text-align: left">Domínio</td>
-      <td style="text-align: left">Ordem</td>
+      <td style="text-align: left">[Ordem]</td>
     </tr>
     <tr>
       <td style="text-align: left">Exemplos</td>
@@ -7511,7 +7511,7 @@ Para iniciar uma discussão sobre algum termo, clique no título das tabelas aba
     </tr>
     <tr>
       <td style="text-align: left">Domínio</td>
-      <td style="text-align: left">Família</td>
+      <td style="text-align: left">[Família]</td>
     </tr>
     <tr>
       <td style="text-align: left">Exemplos</td>
@@ -7552,7 +7552,7 @@ Para iniciar uma discussão sobre algum termo, clique no título das tabelas aba
     </tr>
     <tr>
       <td style="text-align: left">Domínio</td>
-      <td style="text-align: left">Subfamília</td>
+      <td style="text-align: left">[Subfamília]</td>
     </tr>
     <tr>
       <td style="text-align: left">Exemplos</td>
@@ -7590,7 +7590,7 @@ Para iniciar uma discussão sobre algum termo, clique no título das tabelas aba
     </tr>
     <tr>
       <td style="text-align: left">Domínio</td>
-      <td style="text-align: left">Gênero</td>
+      <td style="text-align: left">[Gênero]</td>
     </tr>
     <tr>
       <td style="text-align: left">Exemplos</td>
