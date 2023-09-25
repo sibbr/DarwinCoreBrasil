@@ -2881,8 +2881,9 @@ Para iniciar uma discussão sobre algum termo, clique no título das tabelas aba
           <li>
             <a
               href="https://ala-hub.sibbr.gov.br/ala-hub/occurrences/39d9fa40-8619-4963-b5d3-84dd15b27977"
-              > Intervalo de coleta: 2004-05/2005-04</li>
-        </ul>
+              > Intervalo de coleta: 2004-05/2005-04 | AAAA-MM-DD/AAAA-MM-DD | AAAA-MM/AAAA-MM | AAAA/AAAA</a>
+            </li>
+               </ul>
       </td>
     </tr>
   </tbody>
