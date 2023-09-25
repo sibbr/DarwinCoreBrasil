@@ -3853,11 +3853,14 @@ Para iniciar uma discussão sobre algum termo, clique no título das tabelas aba
     </tr>
     <tr>
       <td style="text-align: left">Domínio</td>
-      <td style="text-align: left"> Fernando de Noronha | Ilha de Marajó | Ilha de Boipeba | Ilha de Itamaracá | Ilha Grande</td>
+      <td style="text-align: left"></td>
     </tr>
     <tr>
       <td style="text-align: left">Exemplos</td>
       <td style="text-align: left">
+      <li>
+        Fernando de Noronha | Ilha de Marajó | Ilha de Boipeba | Ilha de Itamaracá | Ilha Grande
+      </li>        
         <ul>
           <!-- <li>NA</li> -->
         </ul>
@@ -3941,11 +3944,14 @@ Para iniciar uma discussão sobre algum termo, clique no título das tabelas aba
     </tr>
     <tr>
       <td style="text-align: left">Domínio</td>
-      <td style="text-align: left">BR | AU | US | FR</td>
+      <td style="text-align: left"></td>
     </tr>
     <tr>
       <td style="text-align: left">Exemplos</td>
       <td style="text-align: left">
+        <li>
+          BR | AU | US | FR
+        </li>
         <ul>
           <li>
             <a
@@ -4035,11 +4041,14 @@ Para iniciar uma discussão sobre algum termo, clique no título das tabelas aba
     </tr>
     <tr>
       <td style="text-align: left">Domínio</td>
-      <td style="text-align: left">Guiricema | Macaé | Itabuna | Ilhéus</td>
+      <td style="text-align: left"></td>
     </tr>
     <tr>
       <td style="text-align: left">Exemplos</td>
       <td style="text-align: left">
+        <li>
+          Guiricema | Macaé | Itabuna | Ilhéus
+        </li>
         <ul>
         </ul>
       </td>
