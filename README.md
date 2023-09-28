@@ -7114,7 +7114,7 @@ Para iniciar uma discussão sobre algum termo, clique no título das tabelas aba
 </table>
 
 ---
-#### riginalNameUsage
+#### OriginalNameUsage
 <table>
   <tr class="table-secondary">
     <th colspan="2">
