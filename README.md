@@ -2435,7 +2435,7 @@ Para iniciar uma discussão sobre algum termo, clique no título das tabelas aba
 ---
 
 ### Organism
-#### organismoID
+#### organismID
 <table>
   <tr class="table-secondary">
     <th colspan="2">
