@@ -1152,7 +1152,7 @@ Para iniciar uma discussão sobre algum termo, clique no título das tabelas aba
 </table>
 
 ---
-#### recordedBy
+#### 
 <table>
   <tr ="table-secondary">
     <th colspan="2">
@@ -1212,7 +1212,7 @@ Para iniciar uma discussão sobre algum termo, clique no título das tabelas aba
 </table>
 
 ---
-#### recordedByI
+#### recordedByID
 <table>
   <tr ="table-secondary">
     <th colspan="2">
