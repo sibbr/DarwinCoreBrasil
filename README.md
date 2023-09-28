@@ -800,7 +800,7 @@ Para iniciar uma discussão sobre algum termo, clique no título das tabelas aba
 </table>
 
 ---
-
+#### informationWithheld
 <table>
   <tr ="table-secondary">
     <th colspan="2">
@@ -843,7 +843,7 @@ Para iniciar uma discussão sobre algum termo, clique no título das tabelas aba
 </table>
 
 ---
-
+#### dataGeneralizations
 <table>
   <tr ="table-secondary">
     <th colspan="2">
@@ -886,7 +886,7 @@ Para iniciar uma discussão sobre algum termo, clique no título das tabelas aba
 </table>
 
 ---
-
+#### dynamicProperties
 <table>
   <tr ="table-secondary">
     <th colspan="2">
@@ -941,7 +941,7 @@ Para iniciar uma discussão sobre algum termo, clique no título das tabelas aba
 </table>
 
 --- 
-
+#### fieldNumber
 <table>
   <tr ="table-secondary">
     <th colspan="2">
@@ -987,7 +987,7 @@ Para iniciar uma discussão sobre algum termo, clique no título das tabelas aba
 ---
 
 ### Occurrence
-
+#### occurrenceID
 <table>
   <tr ="table-secondary">
     <th colspan="2">
@@ -1045,7 +1045,7 @@ Para iniciar uma discussão sobre algum termo, clique no título das tabelas aba
 </table>
 
 ---
-
+#### catalogNumber
 <table>
   <tr ="table-secondary">
     <th colspan="2">
@@ -1099,7 +1099,7 @@ Para iniciar uma discussão sobre algum termo, clique no título das tabelas aba
 </table>
 
 ---
-
+#### recordNumber
 <table>
   <tr ="table-secondary">
     <th colspan="2">
@@ -1152,7 +1152,7 @@ Para iniciar uma discussão sobre algum termo, clique no título das tabelas aba
 </table>
 
 ---
-
+#### recordedBy
 <table>
   <tr ="table-secondary">
     <th colspan="2">
