@@ -2107,7 +2107,7 @@ Para iniciar uma discussão sobre algum termo, clique no título das tabelas aba
 </table>
 
 ---
-
+#### associatedReferences
 <table>
   <tr class="table-secondary">
     <th colspan="2">
@@ -2153,7 +2153,7 @@ Para iniciar uma discussão sobre algum termo, clique no título das tabelas aba
 </table>
 
 ---
-
+#### associatedSequences
 <table>
   <tr class="table-secondary">
     <th colspan="2">
@@ -2195,7 +2195,7 @@ Para iniciar uma discussão sobre algum termo, clique no título das tabelas aba
 </table>
 
 ---
-
+#### associatedTaxa
 <table>
   <tr class="table-secondary">
     <th colspan="2">
@@ -2236,7 +2236,7 @@ Para iniciar uma discussão sobre algum termo, clique no título das tabelas aba
 </table>
 
 ---
-
+#### otherCatalogNumbers
 <table>
   <tr class="table-secondary">
     <th colspan="2">
@@ -2296,7 +2296,7 @@ Para iniciar uma discussão sobre algum termo, clique no título das tabelas aba
 </table>
 
 ---
-
+#### occurrenceRemarks
 <table>
   <tr class="table-secondary">
     <th colspan="2">
@@ -2336,7 +2336,7 @@ Para iniciar uma discussão sobre algum termo, clique no título das tabelas aba
 </table>
 
 --- 
-
+#### caste
 <table>
   <tr class="table-secondary">
     <th colspan="2">
@@ -2383,7 +2383,7 @@ Para iniciar uma discussão sobre algum termo, clique no título das tabelas aba
 </table>
 
 ---
-
+#### vitality
 <table>
   <tr class="table-secondary">
     <th colspan="2">
@@ -2435,7 +2435,7 @@ Para iniciar uma discussão sobre algum termo, clique no título das tabelas aba
 ---
 
 ### Organism
-
+#### organismoID
 <table>
   <tr class="table-secondary">
     <th colspan="2">
@@ -2482,7 +2482,7 @@ Para iniciar uma discussão sobre algum termo, clique no título das tabelas aba
 </table>
 
 ---
-
+#### organismName
 <table>
   <tr class="table-secondary">
     <th colspan="2">
@@ -2522,7 +2522,7 @@ Para iniciar uma discussão sobre algum termo, clique no título das tabelas aba
 </table>
 
 ---
-
+#### organismScope
 <table>
   <tr class="table-secondary">
     <th colspan="2">
@@ -2566,7 +2566,7 @@ Para iniciar uma discussão sobre algum termo, clique no título das tabelas aba
 </table>
 
 ---
-
+#### associatedOrganisms
 <table>
   <tr class="table-secondary">
     <th colspan="2">
@@ -2612,7 +2612,7 @@ Para iniciar uma discussão sobre algum termo, clique no título das tabelas aba
 </table>
 
 ---
-
+#### previousIdentifications
 <table>
   <tr class="table-secondary">
     <th colspan="2">
@@ -2658,7 +2658,7 @@ Para iniciar uma discussão sobre algum termo, clique no título das tabelas aba
 </table>
 
 ---
-
+#### organismRemarks
 <table>
   <tr class="table-secondary">
     <th colspan="2">
@@ -2700,7 +2700,7 @@ Para iniciar uma discussão sobre algum termo, clique no título das tabelas aba
 --- 
 
 ### MaterialSample
-
+#### MaterialSampleID
 <table>
   <tr class="table-secondary">
     <th colspan="2">
@@ -2744,7 +2744,7 @@ Para iniciar uma discussão sobre algum termo, clique no título das tabelas aba
 --- 
 
 ### Event
-
+#### eventID
 <table>
   <tr class="table-secondary">
     <th colspan="2">
@@ -2790,7 +2790,7 @@ Para iniciar uma discussão sobre algum termo, clique no título das tabelas aba
 </table>
 
 ---
-
+#### parentEventID
 <table>
   <tr class="table-secondary">
     <th colspan="2">
@@ -2831,7 +2831,7 @@ Para iniciar uma discussão sobre algum termo, clique no título das tabelas aba
 </table>
 
 ---
-
+#### eventDate
 <table>
   <tr class="table-secondary">
     <th colspan="2">
@@ -2892,7 +2892,7 @@ Para iniciar uma discussão sobre algum termo, clique no título das tabelas aba
 </table>
 
 ---
-
+#### eventTime
 <table>
   <tr class="table-secondary">
     <th colspan="2">
@@ -2936,7 +2936,7 @@ Para iniciar uma discussão sobre algum termo, clique no título das tabelas aba
 </table>
 
 ---
-
+#### startDayOfYear
 <table>
   <tr class="table-secondary">
     <th colspan="2">
@@ -2978,7 +2978,7 @@ Para iniciar uma discussão sobre algum termo, clique no título das tabelas aba
 </table>
 
 ---
-
+#### endDayOfYear
 <table>
   <tr class="table-secondary">
     <th colspan="2">
@@ -3020,7 +3020,7 @@ Para iniciar uma discussão sobre algum termo, clique no título das tabelas aba
 </table>
 
 ---
-
+#### year
 <table>
   <tr class="table-secondary">
     <th colspan="2">
@@ -3062,7 +3062,7 @@ Para iniciar uma discussão sobre algum termo, clique no título das tabelas aba
 </table>
 
 ---
-
+#### month
 <table>
   <tr class="table-secondary">
     <th colspan="2">
@@ -3102,7 +3102,7 @@ Para iniciar uma discussão sobre algum termo, clique no título das tabelas aba
 </table>
 
 ---
-
+#### day
 <table>
   <tr class="table-secondary">
     <th colspan="2">
@@ -3142,7 +3142,7 @@ Para iniciar uma discussão sobre algum termo, clique no título das tabelas aba
 </table>
 
 ---
-
+#### verbatimEventDate
 <table>
   <tr class="table-secondary">
     <th colspan="2">
@@ -3186,7 +3186,7 @@ Para iniciar uma discussão sobre algum termo, clique no título das tabelas aba
 </table>
 
 ---
-
+#### habitat
 <table>
   <tr class="table-secondary">
     <th colspan="2">
@@ -3256,7 +3256,7 @@ Para iniciar uma discussão sobre algum termo, clique no título das tabelas aba
 </table>
 
 ---
-
+#### samplingProtocol
 <table>
   <tr class="table-secondary">
     <th colspan="2">
@@ -3322,7 +3322,7 @@ Para iniciar uma discussão sobre algum termo, clique no título das tabelas aba
 </table>
 
 ---
-
+#### sampleSizeValue
 <table>
   <tr class="table-secondary">
     <th colspan="2">
@@ -3374,7 +3374,7 @@ Para iniciar uma discussão sobre algum termo, clique no título das tabelas aba
 </table>
 
 ---
-
+#### sampleSizeUnit
 <table>
   <tr class="table-secondary">
     <th colspan="2">
@@ -3428,7 +3428,7 @@ Para iniciar uma discussão sobre algum termo, clique no título das tabelas aba
 </table>
 
 ---
-
+#### samplingEffort
 <table>
   <tr class="table-secondary">
     <th colspan="2">
@@ -3486,7 +3486,7 @@ Para iniciar uma discussão sobre algum termo, clique no título das tabelas aba
 </table>
 
 ---
-
+#### fieldNotes
 <table>
   <tr class="table-secondary">
     <th colspan="2">
@@ -3542,7 +3542,7 @@ Para iniciar uma discussão sobre algum termo, clique no título das tabelas aba
 </table>
 
 ---
-
+#### eventRemarks
 <table>
   <tr class="table-secondary">
     <th colspan="2">
@@ -3604,7 +3604,7 @@ Para iniciar uma discussão sobre algum termo, clique no título das tabelas aba
 --- 
 
 ### Location
-
+#### locationID
 <table>
   <tr class="table-secondary">
     <th colspan="2">
@@ -3646,7 +3646,7 @@ Para iniciar uma discussão sobre algum termo, clique no título das tabelas aba
 </table>
 
 ---
-
+#### higherGeography
 <table>
   <tr class="table-secondary">
     <th colspan="2">
@@ -3689,7 +3689,7 @@ Para iniciar uma discussão sobre algum termo, clique no título das tabelas aba
 </table>
 
 ---
-
+#### continent
 <table>
   <tr class="table-secondary">
     <th colspan="2">
@@ -3743,7 +3743,7 @@ Para iniciar uma discussão sobre algum termo, clique no título das tabelas aba
 </table>
 
 ---
-
+#### waterBody
 <table>
   <tr class="table-secondary">
     <th colspan="2">
@@ -3787,7 +3787,7 @@ Para iniciar uma discussão sobre algum termo, clique no título das tabelas aba
 </table>
 
 ---
-
+#### islandGroup
 <table>
   <tr class="table-secondary">
     <th colspan="2">
@@ -3831,7 +3831,7 @@ Para iniciar uma discussão sobre algum termo, clique no título das tabelas aba
 </table>
 
 ---
-
+#### island
 <table>
   <tr class="table-secondary">
     <th colspan="2">
@@ -3872,7 +3872,7 @@ Para iniciar uma discussão sobre algum termo, clique no título das tabelas aba
 </table>
 
 ---
-
+#### country
 <table>
   <tr class="table-secondary">
     <th colspan="2">
@@ -3920,7 +3920,7 @@ Para iniciar uma discussão sobre algum termo, clique no título das tabelas aba
 </table>
 
 ---
-
+#### countryCode
 <table>
   <tr class="table-secondary">
     <th colspan="2">
@@ -3968,7 +3968,7 @@ Para iniciar uma discussão sobre algum termo, clique no título das tabelas aba
 </table>
 
 ---
-
+#### stateProvince
 <table>
   <tr class="table-secondary">
     <th colspan="2">
@@ -4017,7 +4017,7 @@ Para iniciar uma discussão sobre algum termo, clique no título das tabelas aba
 </table>
 
 ---
-
+#### county
 <table>
   <tr class="table-secondary">
     <th colspan="2">
@@ -4059,7 +4059,7 @@ Para iniciar uma discussão sobre algum termo, clique no título das tabelas aba
 </table>
 
 ---
-
+#### locality
 <table>
   <tr class="table-secondary">
     <th colspan="2">
@@ -4100,7 +4100,7 @@ Para iniciar uma discussão sobre algum termo, clique no título das tabelas aba
 </table>
 
 ---
-
+#### verbatimLocality
 <table>
   <tr class="table-secondary">
     <th colspan="2">
@@ -4139,7 +4139,7 @@ Para iniciar uma discussão sobre algum termo, clique no título das tabelas aba
 </table>
 
 ---
-
+#### minimumElevationInMeters
 <table>
   <tr class="table-secondary">
     <th colspan="2">
@@ -4180,7 +4180,7 @@ Para iniciar uma discussão sobre algum termo, clique no título das tabelas aba
 </table>
 
 ---
-
+#### maximumElevationInMeters
 <table>
   <tr class="table-secondary">
     <th colspan="2">
@@ -4221,7 +4221,7 @@ Para iniciar uma discussão sobre algum termo, clique no título das tabelas aba
 </table>
 
 ---
-
+#### verbatimElevation
 <table>
   <tr class="table-secondary">
     <th colspan="2">
@@ -4262,7 +4262,7 @@ Para iniciar uma discussão sobre algum termo, clique no título das tabelas aba
 </table>
 
 ---
-
+#### verticalDatum
 <table>
   <tr class="table-secondary">
     <th colspan="2">
@@ -4305,7 +4305,7 @@ Para iniciar uma discussão sobre algum termo, clique no título das tabelas aba
 </table>
 
 ---
-
+#### minimumDepthInMeters
 <table>
   <tr class="table-secondary">
     <th colspan="2">
@@ -4346,7 +4346,7 @@ Para iniciar uma discussão sobre algum termo, clique no título das tabelas aba
 </table>
 
 ---
-
+#### maximumDepthInMeters
 <table>
   <tr class="table-secondary">
     <th colspan="2">
@@ -4387,7 +4387,7 @@ Para iniciar uma discussão sobre algum termo, clique no título das tabelas aba
 </table>
 
 ---
-
+#### verbatimDepth
 <table>
   <tr class="table-secondary">
     <th colspan="2">
@@ -4427,7 +4427,7 @@ Para iniciar uma discussão sobre algum termo, clique no título das tabelas aba
 </table>
 
 ---
-
+#### minimumDistanceAboveSurfaceInMeters
 <table>
   <tr class="table-secondary">
     <th colspan="2">
@@ -4474,7 +4474,7 @@ Para iniciar uma discussão sobre algum termo, clique no título das tabelas aba
 </table>
 
 ---
-
+#### maximumDistanceAboveSurfaceInMeters
 <table>
   <tr class="table-secondary">
     <th colspan="2">
@@ -4521,7 +4521,7 @@ Para iniciar uma discussão sobre algum termo, clique no título das tabelas aba
 </table>
 
 ---
-
+#### locationAccordingTo
 <table>
   <tr class="table-secondary">
     <th colspan="2">
@@ -4562,7 +4562,7 @@ Para iniciar uma discussão sobre algum termo, clique no título das tabelas aba
 </table>
 
 ---
-
+#### locationRemarks
 <table>
   <tr class="table-secondary">
     <th colspan="2">
@@ -4606,7 +4606,7 @@ Para iniciar uma discussão sobre algum termo, clique no título das tabelas aba
 </table>
 
 ---
-
+#### decimalLatitude
 <table>
   <tr class="table-secondary">
     <th colspan="2">
@@ -4655,7 +4655,7 @@ Para iniciar uma discussão sobre algum termo, clique no título das tabelas aba
 </table>
 
 ---
-
+#### decimalLongitude
 <table>
   <tr class="table-secondary">
     <th colspan="2">
@@ -4704,7 +4704,7 @@ Para iniciar uma discussão sobre algum termo, clique no título das tabelas aba
 </table>
 
 ---
-
+#### geodeticDatum
 <table>
   <tr class="table-secondary">
     <th colspan="2">
@@ -4757,7 +4757,7 @@ Para iniciar uma discussão sobre algum termo, clique no título das tabelas aba
 </table>
 
 ---
-
+#### coordinateUncertaintyInMeters
 <table>
   <tr class="table-secondary">
     <th colspan="2">
@@ -4804,7 +4804,7 @@ Para iniciar uma discussão sobre algum termo, clique no título das tabelas aba
 </table>
 
 ---
-
+#### coordinatePrecision
 <table>
   <tr class="table-secondary">
     <th colspan="2">
@@ -4853,7 +4853,7 @@ Para iniciar uma discussão sobre algum termo, clique no título das tabelas aba
 </table>
 
 ---
-
+#### pointRadiusSpatialFit
 <table>
   <tr class="table-secondary">
     <th colspan="2">
@@ -4905,7 +4905,7 @@ Para iniciar uma discussão sobre algum termo, clique no título das tabelas aba
 </table>
 
 ---
-
+#### verbatimCoordinates
 <table>
   <tr class="table-secondary">
     <th colspan="2">
@@ -4950,7 +4950,7 @@ Para iniciar uma discussão sobre algum termo, clique no título das tabelas aba
 </table>
 
 ---
-
+#### verbatimLatitude
 <table>
   <tr class="table-secondary">
     <th colspan="2">
@@ -4993,7 +4993,7 @@ Para iniciar uma discussão sobre algum termo, clique no título das tabelas aba
 </table>
 
 ---
-
+#### verbatimLongitude
 <table>
   <tr class="table-secondary">
     <th colspan="2">
@@ -5036,7 +5036,7 @@ Para iniciar uma discussão sobre algum termo, clique no título das tabelas aba
 </table>
 
 ---
-
+#### verbatimCoordinateSystem
 <table>
   <tr class="table-secondary">
     <th colspan="2">
@@ -5079,7 +5079,7 @@ Para iniciar uma discussão sobre algum termo, clique no título das tabelas aba
 </table>
 
 ---
-
+#### verbatimSRS
 <table>
   <tr class="table-secondary">
     <th colspan="2">
@@ -5121,7 +5121,7 @@ Para iniciar uma discussão sobre algum termo, clique no título das tabelas aba
 </table>
 
 ---
-
+#### footprintWKT
 <table>
   <tr class="table-secondary">
     <th colspan="2">
@@ -5167,7 +5167,7 @@ Para iniciar uma discussão sobre algum termo, clique no título das tabelas aba
 </table>
 
 ---
-
+#### footprintSRS
 <table>
   <tr class="table-secondary">
     <th colspan="2">
@@ -5208,7 +5208,7 @@ Para iniciar uma discussão sobre algum termo, clique no título das tabelas aba
 </table>
 
 ---
-
+#### footprintSpatialFit
 <table>
   <tr class="table-secondary">
     <th colspan="2">
@@ -5257,7 +5257,7 @@ Para iniciar uma discussão sobre algum termo, clique no título das tabelas aba
 </table>
 
 ---
-
+#### georeferencedBy
 <table>
   <tr class="table-secondary">
     <th colspan="2">
@@ -5299,7 +5299,7 @@ Para iniciar uma discussão sobre algum termo, clique no título das tabelas aba
 </table>
 
 ---
-
+#### georeferencedDate
 <table>
   <tr class="table-secondary">
     <th colspan="2">
@@ -5339,7 +5339,7 @@ Para iniciar uma discussão sobre algum termo, clique no título das tabelas aba
 </table>
 
 ---
-
+#### georeferenceProtocol
 <table>
   <tr class="table-secondary">
     <th colspan="2">
@@ -5379,7 +5379,7 @@ Para iniciar uma discussão sobre algum termo, clique no título das tabelas aba
 </table>
 
 ---
-
+#### georeferenceSources
 <table>
   <tr class="table-secondary">
     <th colspan="2">
@@ -5422,7 +5422,7 @@ Para iniciar uma discussão sobre algum termo, clique no título das tabelas aba
 </table>
 
 ---
-
+#### georeferenceRemarks
 <table>
   <tr class="table-secondary">
     <th colspan="2">
@@ -5464,7 +5464,7 @@ Para iniciar uma discussão sobre algum termo, clique no título das tabelas aba
 --- 
 
 ### GeologicalContext
-
+#### geologicalContextID
 <table>
   <tr class="table-secondary">
     <th colspan="2">
@@ -5505,7 +5505,7 @@ Para iniciar uma discussão sobre algum termo, clique no título das tabelas aba
 </table>
 
 ---
-
+#### earliestEonOrLowestEonothem
 <table>
   <tr class="table-secondary">
     <th colspan="2">
@@ -5549,7 +5549,7 @@ Para iniciar uma discussão sobre algum termo, clique no título das tabelas aba
 </table>
 
 ---
-
+#### latestEonOrHighestEonothem
 <table>
   <tr class="table-secondary">
     <th colspan="2">
@@ -5593,7 +5593,7 @@ Para iniciar uma discussão sobre algum termo, clique no título das tabelas aba
 </table>
 
 ---
-
+#### earliestEraOrLowestErathem
 <table>
   <tr class="table-secondary">
     <th colspan="2">
@@ -5636,7 +5636,7 @@ Para iniciar uma discussão sobre algum termo, clique no título das tabelas aba
 </table>
 
 ---
-
+#### latestEraOrHighestErathem
 <table>
   <tr class="table-secondary">
     <th colspan="2">
@@ -5679,7 +5679,7 @@ Para iniciar uma discussão sobre algum termo, clique no título das tabelas aba
 </table>
 
 ---
-
+#### earliestPeriodOrLowestSystem
 <table>
   <tr class="table-secondary">
     <th colspan="2">
@@ -5723,7 +5723,7 @@ Para iniciar uma discussão sobre algum termo, clique no título das tabelas aba
 </table>
 
 ---
-
+#### earliestEpochOrLowestSeries
 <table>
   <tr class="table-secondary">
     <th colspan="2">
@@ -5766,7 +5766,7 @@ Para iniciar uma discussão sobre algum termo, clique no título das tabelas aba
 </table>
 
 ---
-
+#### latestEpochOrHighestSeries
 <table>
   <tr class="table-secondary">
     <th colspan="2">
@@ -5809,7 +5809,7 @@ Para iniciar uma discussão sobre algum termo, clique no título das tabelas aba
 </table>
 
 ---
-
+#### earliestAgeOrLowestStage
 <table>
   <tr class="table-secondary">
     <th colspan="2">
@@ -5852,7 +5852,7 @@ Para iniciar uma discussão sobre algum termo, clique no título das tabelas aba
 </table>
 
 ---
-
+#### latestAgeOrHighestStage
 <table>
   <tr class="table-secondary">
     <th colspan="2">
@@ -5895,7 +5895,7 @@ Para iniciar uma discussão sobre algum termo, clique no título das tabelas aba
 </table>
 
 ---
-
+#### lowestBiostratigraphicZone
 <table>
   <tr class="table-secondary">
     <th colspan="2">
@@ -5936,7 +5936,7 @@ Para iniciar uma discussão sobre algum termo, clique no título das tabelas aba
 </table>
 
 ---
-
+#### highestBiostratigraphicZone
 <table>
   <tr class="table-secondary">
     <th colspan="2">
@@ -5977,7 +5977,7 @@ Para iniciar uma discussão sobre algum termo, clique no título das tabelas aba
 </table>
 
 ---
-
+#### lithostratigraphicTerms
 <table>
   <tr class="table-secondary">
     <th colspan="2">
@@ -6018,7 +6018,7 @@ Para iniciar uma discussão sobre algum termo, clique no título das tabelas aba
 </table>
 
 ---
-
+#### group
 <table>
   <tr class="table-secondary">
     <th colspan="2">
@@ -6058,7 +6058,7 @@ Para iniciar uma discussão sobre algum termo, clique no título das tabelas aba
 </table>
 
 ---
-
+#### formation
 <table>
   <tr class="table-secondary">
     <th colspan="2">
@@ -6100,7 +6100,7 @@ Para iniciar uma discussão sobre algum termo, clique no título das tabelas aba
 </table>
 
 ---
-
+#### member
 <table>
   <tr class="table-secondary">
     <th colspan="2">
@@ -6139,7 +6139,7 @@ Para iniciar uma discussão sobre algum termo, clique no título das tabelas aba
 </table>
 
 ---
-
+#### bed
 <table>
   <tr class="table-secondary">
     <th colspan="2">
@@ -6181,7 +6181,7 @@ Para iniciar uma discussão sobre algum termo, clique no título das tabelas aba
 --- 
 
 ### Identification
-
+#### identificationID
 <table>
   <tr class="table-secondary">
     <th colspan="2">
@@ -6224,7 +6224,7 @@ Para iniciar uma discussão sobre algum termo, clique no título das tabelas aba
 </table>
 
 ---
-
+#### verbatimIdentification
 <table>
   <tr class="table-secondary">
     <th colspan="2">
@@ -6271,7 +6271,7 @@ Para iniciar uma discussão sobre algum termo, clique no título das tabelas aba
 </table>
 
 ---
-
+#### identificationQualifier
 <table>
   <tr class="table-secondary">
     <th colspan="2">
@@ -6317,7 +6317,7 @@ Para iniciar uma discussão sobre algum termo, clique no título das tabelas aba
 </table>
 
 ---
-
+#### typeStatus
 <table>
   <tr class="table-secondary">
     <th colspan="2">
@@ -6366,7 +6366,7 @@ Para iniciar uma discussão sobre algum termo, clique no título das tabelas aba
 </table>
 
 ---
-
+#### identifiedBy
 <table>
   <tr class="table-secondary">
     <th colspan="2">
@@ -6434,7 +6434,7 @@ Para iniciar uma discussão sobre algum termo, clique no título das tabelas aba
 </table>
 
 ---
-
+#### identifiedByID
 <table>
   <tr class="table-secondary">
     <th colspan="2">
@@ -6476,7 +6476,7 @@ Para iniciar uma discussão sobre algum termo, clique no título das tabelas aba
 </table>
 
 ---
-
+#### dateIdentified
 <table>
   <tr class="table-secondary">
     <th colspan="2">
@@ -6516,7 +6516,7 @@ Para iniciar uma discussão sobre algum termo, clique no título das tabelas aba
 </table>
 
 ---
-
+#### identificationReferences
 <table>
   <tr class="table-secondary">
     <th colspan="2">
@@ -6557,7 +6557,7 @@ Para iniciar uma discussão sobre algum termo, clique no título das tabelas aba
 </table>
 
 ---
-
+#### identificationVerificationStatus
 <table>
   <tr class="table-secondary">
     <th colspan="2">
@@ -6598,7 +6598,7 @@ Para iniciar uma discussão sobre algum termo, clique no título das tabelas aba
 </table>
 
 ---
-
+#### identificationRemarks
 <table>
   <tr class="table-secondary">
     <th colspan="2">
@@ -6640,7 +6640,7 @@ Para iniciar uma discussão sobre algum termo, clique no título das tabelas aba
 --- 
 
 ### Taxon
-
+#### taxonID
 <table>
   <tr class="table-secondary">
     <th colspan="2">
@@ -6680,7 +6680,7 @@ Para iniciar uma discussão sobre algum termo, clique no título das tabelas aba
 </table>
 
 ---
-
+#### scientificNameID
 <table>
   <tr class="table-secondary">
     <th colspan="2">
@@ -6721,7 +6721,7 @@ Para iniciar uma discussão sobre algum termo, clique no título das tabelas aba
 </table>
 
 ---
-
+#### acceptedNameUsageID
 <table>
   <tr class="table-secondary">
     <th colspan="2">
@@ -6764,7 +6764,7 @@ Para iniciar uma discussão sobre algum termo, clique no título das tabelas aba
 </table>
 
 ---
-
+#### parentNameUsageID
 <table>
   <tr class="table-secondary">
     <th colspan="2">
@@ -6808,7 +6808,7 @@ Para iniciar uma discussão sobre algum termo, clique no título das tabelas aba
 </table>
 
 ---
-
+#### originalNameUsageID
 <table>
   <tr class="table-secondary">
     <th colspan="2">
@@ -6854,7 +6854,7 @@ Para iniciar uma discussão sobre algum termo, clique no título das tabelas aba
 </table>
 
 ---
-
+#### nameAccordingToID
 <table>
   <tr class="table-secondary">
     <th colspan="2">
@@ -6895,7 +6895,7 @@ Para iniciar uma discussão sobre algum termo, clique no título das tabelas aba
 </table>
 
 ---
-
+#### namePublishedInID
 <table>
   <tr class="table-secondary">
     <th colspan="2">
@@ -6937,7 +6937,7 @@ Para iniciar uma discussão sobre algum termo, clique no título das tabelas aba
 </table>
 
 ---
-
+#### taxonConceptID
 <table>
   <tr class="table-secondary">
     <th colspan="2">
@@ -6978,7 +6978,7 @@ Para iniciar uma discussão sobre algum termo, clique no título das tabelas aba
 </table>
 
 ---
-
+#### scientificName
 <table>
   <tr class="table-secondary">
     <th colspan="2">
@@ -7026,7 +7026,7 @@ Para iniciar uma discussão sobre algum termo, clique no título das tabelas aba
 </table>
 
 ---
-
+#### acceptedNameUsage
 <table>
   <tr class="table-secondary">
     <th colspan="2">
@@ -7071,7 +7071,7 @@ Para iniciar uma discussão sobre algum termo, clique no título das tabelas aba
 </table>
 
 ---
-
+#### parentNameUsage
 <table>
   <tr class="table-secondary">
     <th colspan="2">
@@ -7114,7 +7114,7 @@ Para iniciar uma discussão sobre algum termo, clique no título das tabelas aba
 </table>
 
 ---
-
+#### riginalNameUsage
 <table>
   <tr class="table-secondary">
     <th colspan="2">
@@ -7161,7 +7161,7 @@ Para iniciar uma discussão sobre algum termo, clique no título das tabelas aba
 </table>
 
 ---
-
+#### nameAccordingTo
 <table>
   <tr class="table-secondary">
     <th colspan="2">
@@ -7220,7 +7220,7 @@ Para iniciar uma discussão sobre algum termo, clique no título das tabelas aba
 </table>
 
 ---
-
+#### namePublishedIn
 <table>
   <tr class="table-secondary">
     <th colspan="2">
@@ -7262,7 +7262,7 @@ Para iniciar uma discussão sobre algum termo, clique no título das tabelas aba
 </table>
 
 ---
-
+#### namePublishedInYear
 <table>
   <tr class="table-secondary">
     <th colspan="2">
@@ -7303,7 +7303,7 @@ Para iniciar uma discussão sobre algum termo, clique no título das tabelas aba
 </table>
 
 ---
-
+#### higherClassification
 <table>
   <tr class="table-secondary">
     <th colspan="2">
@@ -7344,7 +7344,7 @@ Para iniciar uma discussão sobre algum termo, clique no título das tabelas aba
 </table>
 
 ---
-
+#### kingdom
 <table>
   <tr class="table-secondary">
     <th colspan="2">
@@ -7384,7 +7384,7 @@ Para iniciar uma discussão sobre algum termo, clique no título das tabelas aba
 </table>
 
 ---
-
+#### phylum
 <table>
   <tr class="table-secondary">
     <th colspan="2">
@@ -7423,7 +7423,7 @@ Para iniciar uma discussão sobre algum termo, clique no título das tabelas aba
 </table>
 
 ---
-
+#### class
 <table>
   <tr class="table-secondary">
     <th colspan="2">
@@ -7461,7 +7461,7 @@ Para iniciar uma discussão sobre algum termo, clique no título das tabelas aba
 </table>
 
 ---
-
+#### order
 <table>
   <tr class="table-secondary">
     <th colspan="2">
@@ -7499,7 +7499,7 @@ Para iniciar uma discussão sobre algum termo, clique no título das tabelas aba
 </table>
 
 ---
-
+#### family
 <table>
   <tr class="table-secondary">
     <th colspan="2">
@@ -7537,7 +7537,7 @@ Para iniciar uma discussão sobre algum termo, clique no título das tabelas aba
 </table>
 
 ---
-
+#### subfamily
 <table>
   <tr class="table-secondary">
     <th colspan="2">
@@ -7578,7 +7578,7 @@ Para iniciar uma discussão sobre algum termo, clique no título das tabelas aba
 </table>
 
 ---
-
+#### genus
 <table>
   <tr class="table-secondary">
     <th colspan="2">
@@ -7616,7 +7616,7 @@ Para iniciar uma discussão sobre algum termo, clique no título das tabelas aba
 </table>
 
 ---
-
+#### genericName
 <table>
   <tr class="table-secondary">
     <th colspan="2">
@@ -7659,7 +7659,7 @@ Para iniciar uma discussão sobre algum termo, clique no título das tabelas aba
 </table>
 
 ---
-
+#### subgenus
 <table>
   <tr class="table-secondary">
     <th colspan="2">
@@ -7702,7 +7702,7 @@ Para iniciar uma discussão sobre algum termo, clique no título das tabelas aba
 </table>
 
 ---
-
+#### infragenericEpithet
 <table>
   <tr class="table-secondary">
     <th colspan="2">
@@ -7749,7 +7749,7 @@ Para iniciar uma discussão sobre algum termo, clique no título das tabelas aba
 </table>
 
 ---
-
+#### specificEpithet
 <table>
   <tr class="table-secondary">
     <th colspan="2">
@@ -7789,7 +7789,7 @@ Para iniciar uma discussão sobre algum termo, clique no título das tabelas aba
 </table>
 
 ---
-
+#### infraspecificEpithet
 <table>
   <tr class="table-secondary">
     <th colspan="2">
@@ -7833,7 +7833,7 @@ Para iniciar uma discussão sobre algum termo, clique no título das tabelas aba
 </table>
 
 ---
-
+#### cultivarEpithet
 <table>
   <tr class="table-secondary">
     <th colspan="2">
@@ -7877,7 +7877,7 @@ Para iniciar uma discussão sobre algum termo, clique no título das tabelas aba
 </table>
 
 ---
-
+#### taxonRank
 <table>
   <tr class="table-secondary">
     <th colspan="2">
@@ -7919,7 +7919,7 @@ Para iniciar uma discussão sobre algum termo, clique no título das tabelas aba
 </table>
 
 ---
-
+#### verbatimTaxonRank
 <table>
   <tr class="table-secondary">
     <th colspan="2">
@@ -7960,7 +7960,7 @@ Para iniciar uma discussão sobre algum termo, clique no título das tabelas aba
 </table>
 
 ---
-
+#### scientificNameAuthorship
 <table>
   <tr class="table-secondary">
     <th colspan="2">
@@ -8021,7 +8021,7 @@ Para iniciar uma discussão sobre algum termo, clique no título das tabelas aba
 </table>
 
 ---
-
+#### vernacularName
 <table>
   <tr class="table-secondary">
     <th colspan="2">
@@ -8062,7 +8062,7 @@ Para iniciar uma discussão sobre algum termo, clique no título das tabelas aba
 </table>
 
 ---
-
+#### nomenclaturalCode
 <table>
   <tr class="table-secondary">
     <th colspan="2">
@@ -8111,7 +8111,7 @@ Para iniciar uma discussão sobre algum termo, clique no título das tabelas aba
 </table>
 
 ---
-
+#### taxonomicStatus
 <table>
   <tr class="table-secondary">
     <th colspan="2">
@@ -8156,7 +8156,7 @@ Para iniciar uma discussão sobre algum termo, clique no título das tabelas aba
 </table>
 
 ---
-
+#### nomenclaturalStatus
 <table>
   <tr class="table-secondary">
     <th colspan="2">
@@ -8199,7 +8199,7 @@ Para iniciar uma discussão sobre algum termo, clique no título das tabelas aba
 </table>
 
 ---
-
+#### taxonRemarks
 <table>
   <tr class="table-secondary">
     <th colspan="2">
@@ -8246,7 +8246,7 @@ Para iniciar uma discussão sobre algum termo, clique no título das tabelas aba
 --- 
 
 ### MeasurementOrFact
-
+#### measurementID
 <table>
   <tr class="table-secondary">
     <th colspan="2">
@@ -8289,7 +8289,7 @@ Para iniciar uma discussão sobre algum termo, clique no título das tabelas aba
 </table>
 
 ---
-
+#### measurementType
 <table>
   <tr class="table-secondary">
     <th colspan="2">
@@ -8350,7 +8350,7 @@ Para iniciar uma discussão sobre algum termo, clique no título das tabelas aba
 </table>
 
 ---
-
+#### measurementValue
 <table>
   <tr class="table-secondary">
     <th colspan="2">
@@ -8411,7 +8411,7 @@ Para iniciar uma discussão sobre algum termo, clique no título das tabelas aba
 </table>
 
 ---
-
+#### measurementUnit
 <table>
   <tr class="table-secondary">
     <th colspan="2">
@@ -8472,7 +8472,7 @@ Para iniciar uma discussão sobre algum termo, clique no título das tabelas aba
 </table>
 
 ---
-
+#### measurementMethod
 <table>
   <tr class="table-secondary">
     <th colspan="2">
@@ -8534,7 +8534,7 @@ Para iniciar uma discussão sobre algum termo, clique no título das tabelas aba
 </table>
 
 ---
-
+#### measurementRemarks
 <table>
   <tr class="table-secondary">
     <th colspan="2">
@@ -8574,7 +8574,7 @@ Para iniciar uma discussão sobre algum termo, clique no título das tabelas aba
 </table>
 
 ---
-
+#### measurementAccuracy
 <table>
   <tr class="table-secondary">
     <th colspan="2">
@@ -8616,7 +8616,7 @@ Para iniciar uma discussão sobre algum termo, clique no título das tabelas aba
 
 
 ---
-
+#### measurementDeterminedBy
 <table>
   <tr class="table-secondary">
     <th colspan="2">
@@ -8672,7 +8672,7 @@ Para iniciar uma discussão sobre algum termo, clique no título das tabelas aba
 </table>
 
 ---
-
+#### measurementDeterminedDate
 <table>
   <tr class="table-secondary">
     <th colspan="2">
