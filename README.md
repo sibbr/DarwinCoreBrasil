@@ -93,7 +93,7 @@ Para iniciar uma discussão sobre algum termo, clique no título das tabelas aba
 </table>
 
 ---
-
+#### type
 <table>
   <tr ="table-secondary">
     <th colspan="2">
@@ -140,7 +140,7 @@ Para iniciar uma discussão sobre algum termo, clique no título das tabelas aba
 </table>
 
 ---
-
+#### modified
 <table>
   <tr ="table-secondary">
     <th colspan="2">
@@ -179,7 +179,7 @@ Para iniciar uma discussão sobre algum termo, clique no título das tabelas aba
 </table>
 
 ---
-
+#### language
 <table>
   <tr ="table-secondary">
     <th colspan="2">
@@ -217,7 +217,7 @@ Para iniciar uma discussão sobre algum termo, clique no título das tabelas aba
 </table>
 
 ---
-
+#### license
 <table>
   <tr ="table-secondary">
     <th colspan="2">
@@ -273,7 +273,7 @@ Para iniciar uma discussão sobre algum termo, clique no título das tabelas aba
 </table>
 
 ---
-
+#### rightsHolder
 <table>
   <tr ="table-secondary">
     <th colspan="2">
@@ -330,7 +330,7 @@ Para iniciar uma discussão sobre algum termo, clique no título das tabelas aba
 </table>
 
 ---
-
+#### accessRights
 <table>
   <tr ="table-secondary">
     <th colspan="2">
@@ -389,7 +389,7 @@ Para iniciar uma discussão sobre algum termo, clique no título das tabelas aba
 </table>
 
 ---
-
+#### bibliographicCitation
 <table>
   <tr ="table-secondary">
     <th colspan="2">
@@ -437,7 +437,7 @@ Para iniciar uma discussão sobre algum termo, clique no título das tabelas aba
 </table>
 
 ---
-
+#### references
 <table>
   <tr ="table-secondary">
     <th colspan="2">
@@ -492,7 +492,7 @@ Para iniciar uma discussão sobre algum termo, clique no título das tabelas aba
 </table>
 
 ---
-
+#### institutionID
 <table>
   <tr ="table-secondary">
     <th colspan="2">
@@ -535,7 +535,7 @@ Para iniciar uma discussão sobre algum termo, clique no título das tabelas aba
 </table>
 
 ---
-
+#### collectionID
 <table>
   <tr ="table-secondary">
     <th colspan="2">
@@ -576,7 +576,7 @@ Para iniciar uma discussão sobre algum termo, clique no título das tabelas aba
 </table>
 
 ---
-
+#### datasetID
 <table>
   <tr ="table-secondary">
     <th colspan="2">
@@ -618,7 +618,7 @@ Para iniciar uma discussão sobre algum termo, clique no título das tabelas aba
 </table>
 
 ---
-
+#### institutionCode
 <table>
   <tr ="table-secondary">
     <th colspan="2">
@@ -663,7 +663,7 @@ Para iniciar uma discussão sobre algum termo, clique no título das tabelas aba
 </table>
 
 ---
-
+#### collectionCode
 <table>
   <tr ="table-secondary">
     <th colspan="2">
@@ -708,7 +708,7 @@ Para iniciar uma discussão sobre algum termo, clique no título das tabelas aba
 </table>
 
 ---
-
+#### ownerInstitutionCode
 <table>
   <tr ="table-secondary">
     <th colspan="2">
@@ -751,7 +751,7 @@ Para iniciar uma discussão sobre algum termo, clique no título das tabelas aba
 </table>
 
 ---
-
+#### basisOfRecord
 <table>
   <tr ="table-secondary">
     <th colspan="2">
