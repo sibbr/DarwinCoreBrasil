@@ -1212,7 +1212,7 @@ Para iniciar uma discussão sobre algum termo, clique no título das tabelas aba
 </table>
 
 ---
-
+#### recordedByI
 <table>
   <tr ="table-secondary">
     <th colspan="2">
@@ -1254,7 +1254,7 @@ Para iniciar uma discussão sobre algum termo, clique no título das tabelas aba
 </table>
 
 ---
-
+#### individualCount
 <table>
   <tr ="table-secondary">
     <th colspan="2">
@@ -1305,7 +1305,7 @@ Para iniciar uma discussão sobre algum termo, clique no título das tabelas aba
 </table>
 
 ---
-
+#### organismQuantity
 <table>
   <tr class="table-secondary">
     <th colspan="2">
@@ -1352,7 +1352,7 @@ Para iniciar uma discussão sobre algum termo, clique no título das tabelas aba
 </table>
 
 ---
-
+#### organismQuantityType
 <table>
   <tr class="table-secondary">
     <th colspan="2">
@@ -1400,7 +1400,7 @@ Para iniciar uma discussão sobre algum termo, clique no título das tabelas aba
 </table>
 
 ---
-
+#### sex
 <table>
   <tr class="table-secondary">
     <th colspan="2">
@@ -1453,7 +1453,7 @@ Para iniciar uma discussão sobre algum termo, clique no título das tabelas aba
 </table>
 
 ---
-
+#### lifeStage
 <table>
   <tr class="table-secondary">
     <th colspan="2">
@@ -1532,7 +1532,7 @@ Para iniciar uma discussão sobre algum termo, clique no título das tabelas aba
 </table>
 
 ---
-
+#### reproductiveCondition
 <table>
   <tr class="table-secondary">
     <th colspan="2">
@@ -1590,7 +1590,7 @@ Para iniciar uma discussão sobre algum termo, clique no título das tabelas aba
 </table>
 
 ---
-
+#### behavior
 <table>
   <tr class="table-secondary">
     <th colspan="2">
@@ -1632,7 +1632,7 @@ Para iniciar uma discussão sobre algum termo, clique no título das tabelas aba
 </table>
 
 ---
-
+#### establishmentMeans
 <table>
   <tr class="table-secondary">
     <th colspan="2">
@@ -1686,7 +1686,7 @@ Para iniciar uma discussão sobre algum termo, clique no título das tabelas aba
 </table>
 
 ---
-
+#### degreeOfEstablishment
 <table>
   <tr class="table-secondary">
     <th colspan="2">
@@ -1747,7 +1747,7 @@ Para iniciar uma discussão sobre algum termo, clique no título das tabelas aba
 </table>
 
 ---
-
+#### pathway
 <table>
   <tr class="table-secondary">
     <th colspan="2">
@@ -1789,7 +1789,7 @@ Para iniciar uma discussão sobre algum termo, clique no título das tabelas aba
 </table>
 
 ---
-
+#### georeferenceVerificationStatus
 <table>
   <tr class="table-secondary">
     <th colspan="2">
@@ -1834,7 +1834,7 @@ Para iniciar uma discussão sobre algum termo, clique no título das tabelas aba
 </table>
 
 ---
-
+#### occurrenceStatus
 <table>
   <tr class="table-secondary">
     <th colspan="2">
@@ -1899,7 +1899,7 @@ Para iniciar uma discussão sobre algum termo, clique no título das tabelas aba
 </table>
 
 ---
-
+#### preparations
 <table>
   <tr class="table-secondary">
     <th colspan="2">
@@ -1957,7 +1957,7 @@ Para iniciar uma discussão sobre algum termo, clique no título das tabelas aba
 </table>
 
 ---
-
+#### disposition
 <table>
   <tr class="table-secondary">
     <th colspan="2">
@@ -2015,7 +2015,7 @@ Para iniciar uma discussão sobre algum termo, clique no título das tabelas aba
 </table>
 
 ---
-
+#### associatedMedia
 <table>
   <tr class="table-secondary">
     <th colspan="2">
@@ -2061,7 +2061,7 @@ Para iniciar uma discussão sobre algum termo, clique no título das tabelas aba
 </table>
 
 ---
-
+#### associatedOccurrences
 <table>
   <tr class="table-secondary">
     <th colspan="2">
