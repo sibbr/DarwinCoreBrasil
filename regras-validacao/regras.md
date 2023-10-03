@@ -1,5 +1,10 @@
 # Regras por termos 
 
+Transformações/validações aplicadas a todos os termos:
+
+- remoção de espaços em branco e/ou tabulações que precedem ou sucedem o conteúdo da célula (exemplo, " Vitória" ou "Vitória ")
+- remoção de espaços em branco e/ou tabulações duplas entre palavras contidas em uma célula (exemplo, "São  Paulo")
+
 <!-- ## [type](https://github.com/sibbr/DarwinCoreBrasil#type) -->
 <!-- ## [modified](https://github.com/sibbr/DarwinCoreBrasil#modified) -->
 <!-- ## [language](https://github.com/sibbr/DarwinCoreBrasil#language) -->
