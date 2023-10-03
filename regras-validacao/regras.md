@@ -27,11 +27,23 @@
 <!-- ## [individualCount](https://github.com/sibbr/DarwinCoreBrasil#individualcount) -->
 <!-- ## [organismQuantity](https://github.com/sibbr/DarwinCoreBrasil#organismquantity) -->
 <!-- ## [organismQuantityType](https://github.com/sibbr/DarwinCoreBrasil#organismquantitytype) -->
-<!-- ## [sex](https://github.com/sibbr/DarwinCoreBrasil#sex) -->
-<!-- ## [lifeStage](https://github.com/sibbr/DarwinCoreBrasil#lifestage) -->
-<!-- ## [reproductiveCondition](https://github.com/sibbr/DarwinCoreBrasil#reproductivecondition) -->
+## [sex](https://github.com/sibbr/DarwinCoreBrasil#sex)
+
+- Valores: Macho | Fêmea | Hermafrodita | Indeterminado
+
+## [lifeStage](https://github.com/sibbr/DarwinCoreBrasil#lifestage)
+
+- Valores: Zigoto | Ovos | Larva | Pupa | Juvenil | Adulto | Semente | Muda | Frutificação | Floração
+
+## [reproductiveCondition](https://github.com/sibbr/DarwinCoreBrasil#reproductivecondition)
+
+- Valores: Grávida | Não reprodutiva | Em flor | Frutífero
+
 <!-- ## [caste](https://github.com/sibbr/DarwinCoreBrasil#caste) -->
-<!-- ## [behavior](https://github.com/sibbr/DarwinCoreBrasil#behavior) -->
+## [behavior](https://github.com/sibbr/DarwinCoreBrasil#behavior)
+
+- Valores: não pode ser nulo
+
 <!-- ## [vitality](https://github.com/sibbr/DarwinCoreBrasil#vitality) -->
 <!-- ## [establishmentMeans](https://github.com/sibbr/DarwinCoreBrasil#establishmentmeans) -->
 <!-- ## [degreeOfEstablishment](https://github.com/sibbr/DarwinCoreBrasil#degreeofestablishment) -->
@@ -57,11 +69,25 @@
 <!-- ## [associatedSequences](https://github.com/sibbr/DarwinCoreBrasil#associatedsequences) -->
 <!-- ## [materialEntityRemarks](https://github.com/sibbr/DarwinCoreBrasil#materialentityremarks) -->
 <!-- ## [materialSampleID](https://github.com/sibbr/DarwinCoreBrasil#materialsampleid) -->
-<!-- ## [eventID](https://github.com/sibbr/DarwinCoreBrasil#eventid) -->
+## [eventID](https://github.com/sibbr/DarwinCoreBrasil#eventid)
+
+- Valores: não pode ser nulo
+
 <!-- ## [parentEventID](https://github.com/sibbr/DarwinCoreBrasil#parenteventid) -->
 <!-- ## [eventType](https://github.com/sibbr/DarwinCoreBrasil#eventtype) -->
 <!-- ## [fieldNumber](https://github.com/sibbr/DarwinCoreBrasil#fieldnumber) -->
-<!-- ## [eventDate](https://github.com/sibbr/DarwinCoreBrasil#eventdate) -->
+## [eventDate](https://github.com/sibbr/DarwinCoreBrasil#eventdate)
+
+- Valores: os valores devem seguir [ISO 8601](https://pt.wikipedia.org/wiki/ISO_8601) (YYYY-MM-DD).
+  - valores apenas para o ano são permitidos: YYYY
+  - valores apenas para o ano-mês são permitidos: YYYY-MM
+  - intervalos são permitidos: YYYY-MM-DD/YYYY-MM-DD | YYYY-MM/YYYY-MM | YYYY/YYYY 
+  - o valor declarado não pode ser maior do que a data atual
+  - o valor YYYY não pode ser maior do que o ano atual
+  - o valor MM deve estar dentro da amplitude de 1 a 12
+  - o valor DD dever estar dentro da amplitude 1 a 31
+  - os seguintes valores não são permitidos (independente do ano): YYYY-02-30 | YYYY-02-31 | YYYY-04-31 | YYYY-06-31 | YYYY-09-31 | YYYY-11-31
+
 <!-- ## [eventTime](https://github.com/sibbr/DarwinCoreBrasil#eventtime) -->
 <!-- ## [startDayOfYear](https://github.com/sibbr/DarwinCoreBrasil#startdayofyear) -->
 <!-- ## [endDayOfYear](https://github.com/sibbr/DarwinCoreBrasil#enddayofyear) -->
