@@ -4630,7 +4630,7 @@ Para iniciar uma discussão sobre algum termo, clique no título das tabelas aba
         A latitude geográfica (em graus decimais, usando o sistema de referência
         espacial dado em geodésico datum) do centro geográfico de uma
         localidade. Os valores positivos estão ao norte da linha do equador, os
-        negativos estão ao sul dela. Os valores jurídicos situam-se entre -90 e
+        negativos estão ao sul dela. Os valores permitidos situam-se entre -90 e
         90.
       </td>
     </tr>
@@ -4679,7 +4679,7 @@ Para iniciar uma discussão sobre algum termo, clique no título das tabelas aba
         A longitude geográfica (em graus decimais, usando o sistema de
         referência espacial dado em geodésico datum) do centro geográfico de uma
         localidade. Os valores positivos estão a leste do meridiano de
-        greenwich, os valores negativos estão a oeste dele. Os valores jurídicos
+        greenwich, os valores negativos estão a oeste dele. Os valores permitidos
         situam-se entre -180 e 180.
       </td>
     </tr>
