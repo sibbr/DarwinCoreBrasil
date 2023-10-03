@@ -88,12 +88,32 @@
   - o valor DD dever estar dentro da amplitude 1 a 31
   - os seguintes valores não são permitidos (independente do ano): YYYY-02-30 | YYYY-02-31 | YYYY-04-31 | YYYY-06-31 | YYYY-09-31 | YYYY-11-31
 
-<!-- ## [eventTime](https://github.com/sibbr/DarwinCoreBrasil#eventtime) -->
+## [eventTime](https://github.com/sibbr/DarwinCoreBrasil#eventtime)
+
+- Valores: os valores devem seguir [ISO 8601](https://pt.wikipedia.org/wiki/ISO_8601) (exemplo: 18:15:24-03:00).
+
 <!-- ## [startDayOfYear](https://github.com/sibbr/DarwinCoreBrasil#startdayofyear) -->
 <!-- ## [endDayOfYear](https://github.com/sibbr/DarwinCoreBrasil#enddayofyear) -->
-<!-- ## [year](https://github.com/sibbr/DarwinCoreBrasil#year) -->
-<!-- ## [month](https://github.com/sibbr/DarwinCoreBrasil#month) -->
-<!-- ## [day](https://github.com/sibbr/DarwinCoreBrasil#day) -->
+## [year](https://github.com/sibbr/DarwinCoreBrasil#year)
+
+- Valores: quatros dígitos indicando o ano em que o evento ocorreu: YYYY
+  - pode ser derivado de [eventDate](https://github.com/sibbr/DarwinCoreBrasil#eventdate) quando necessário
+  - o valor não ser maior do que o ano atual
+
+## [month](https://github.com/sibbr/DarwinCoreBrasil#month)
+
+- Valores: dois dígitos indicando o mês em que o evento ocorreu: MM
+  - pode ser derivado de [eventDate](https://github.com/sibbr/DarwinCoreBrasil#eventdate) quando necessário
+  - valores de 1 a 9 devem ser precedidos por zero (zero-padded): 01, 02, 03, etc.
+  - o valor deve estar entre a amplitude de 01 a 12
+
+## [day](https://github.com/sibbr/DarwinCoreBrasil#day)
+
+- Valores: dois dígitos indicando o dia em que o evento ocorreu: DD
+  - pode ser derivado de [eventDate](https://github.com/sibbr/DarwinCoreBrasil#eventdate) quando necessário
+  - valores de 1 a 9 devem ser precedidos por zero (zero-padded): 01, 02, 03, etc.
+  - o valor deve estar entre a amplitude de 01 a 31
+
 <!-- ## [verbatimEventDate](https://github.com/sibbr/DarwinCoreBrasil#verbatimeventdate) -->
 <!-- ## [habitat](https://github.com/sibbr/DarwinCoreBrasil#habitat) -->
 <!-- ## [samplingProtocol](https://github.com/sibbr/DarwinCoreBrasil#samplingprotocol) -->
@@ -109,12 +129,26 @@
 <!-- ## [waterBody](https://github.com/sibbr/DarwinCoreBrasil#waterbody) -->
 <!-- ## [islandGroup](https://github.com/sibbr/DarwinCoreBrasil#islandgroup) -->
 <!-- ## [island](https://github.com/sibbr/DarwinCoreBrasil#island) -->
-<!-- ## [country](https://github.com/sibbr/DarwinCoreBrasil#country) -->
+## [country](https://github.com/sibbr/DarwinCoreBrasil#country)
+
+- Valores: nome do país em que o evento foi observado.
+  - a consistência pode ser verificada usando geocodificação reversa quando [decimalLatitude](https://github.com/sibbr/DarwinCoreBrasil#decimallatitude) e [decimalLongitude](https://github.com/sibbr/DarwinCoreBrasil#decimallongitude) estiverem disponíveis
+
 <!-- ## [countryCode](https://github.com/sibbr/DarwinCoreBrasil#countrycode) -->
-<!-- ## [stateProvince](https://github.com/sibbr/DarwinCoreBrasil#stateprovince) -->
-<!-- ## [county](https://github.com/sibbr/DarwinCoreBrasil#county) -->
-<!-- ## [municipality](https://github.com/sibbr/DarwinCoreBrasil#municipality) -->
-<!-- ## [locality](https://github.com/sibbr/DarwinCoreBrasil#locality) -->
+## [stateProvince](https://github.com/sibbr/DarwinCoreBrasil#stateprovince)
+
+- Valores: nome da Unidade Federativa (Estado) não abreviado em que o evento foi observado.
+  - a consistência pode ser verificada usando geocodificação reversa quando [decimalLatitude](https://github.com/sibbr/DarwinCoreBrasil#decimallatitude) e [decimalLongitude](https://github.com/sibbr/DarwinCoreBrasil#decimallongitude) estiverem disponíveis
+
+## [county](https://github.com/sibbr/DarwinCoreBrasil#county)
+
+- Valores: nome da região administrativa não abreviado menor do que o [stateProvince](https://github.com/sibbr/DarwinCoreBrasil#stateprovince), geralmente usado para município
+  - a consistência pode ser verificada usando geocodificação reversa quando [decimalLatitude](https://github.com/sibbr/DarwinCoreBrasil#decimallatitude) e [decimalLongitude](https://github.com/sibbr/DarwinCoreBrasil#decimallongitude) estiverem disponíveis
+
+## [locality](https://github.com/sibbr/DarwinCoreBrasil#locality)
+
+- Valores: não pode ser nulo
+
 <!-- ## [verbatimLocality](https://github.com/sibbr/DarwinCoreBrasil#verbatimlocality) -->
 <!-- ## [minimumElevationInMeters](https://github.com/sibbr/DarwinCoreBrasil#minimumelevationinmeters) -->
 <!-- ## [maximumElevationInMeters](https://github.com/sibbr/DarwinCoreBrasil#maximumelevationinmeters) -->
@@ -127,9 +161,28 @@
 <!-- ## [maximumDistanceAboveSurfaceInMeters](https://github.com/sibbr/DarwinCoreBrasil#maximumdistanceabovesurfaceinmeters) -->
 <!-- ## [locationAccordingTo](https://github.com/sibbr/DarwinCoreBrasil#locationaccordingto) -->
 <!-- ## [locationRemarks](https://github.com/sibbr/DarwinCoreBrasil#locationremarks) -->
-<!-- ## [decimalLatitude](https://github.com/sibbr/DarwinCoreBrasil#decimallatitude) -->
-<!-- ## [decimalLongitude](https://github.com/sibbr/DarwinCoreBrasil#decimallongitude) -->
-<!-- ## [geodeticDatum](https://github.com/sibbr/DarwinCoreBrasil#geodeticdatum) -->
+## [decimalLatitude](https://github.com/sibbr/DarwinCoreBrasil#decimallatitude)
+
+- Valores: não pode ser nulo
+  - deve estar em graus decimais
+  - os valores devem estar dentro da amplitude -90 e 90
+  - a consistência pode ser verificada por geocodificação quando country, stateProvince e ou county estiverem disponíveis
+    - se a localização de fato existe e é mesma descrita em country, stateProvince e ou county
+    - se o valor da coordenada não está transposta com decimalLongitude
+
+## [decimalLongitude](https://github.com/sibbr/DarwinCoreBrasil#decimallongitude)
+
+- Valores: não pode ser nulo
+  - deve estar em graus decimais
+  - os valores devem estar dentro da amplitude -180 e 180
+  - a consistência pode ser verificada por geocodificação quando country, stateProvince e ou county estiverem disponíveis
+    - se a localização de fato existe e é mesma descrita em country, stateProvince e ou county
+    - se o valor da coordenada não está transposta com decimalLatitude
+
+## [geodeticDatum](https://github.com/sibbr/DarwinCoreBrasil#geodeticdatum)
+
+- Valores: EPSG:4326 | WGS84 | EPSG:4674 | SIRGAS2000
+
 <!-- ## [coordinateUncertaintyInMeters](https://github.com/sibbr/DarwinCoreBrasil#coordinateuncertaintyinmeters) -->
 <!-- ## [coordinatePrecision](https://github.com/sibbr/DarwinCoreBrasil#coordinateprecision) -->
 <!-- ## [pointRadiusSpatialFit](https://github.com/sibbr/DarwinCoreBrasil#pointradiusspatialfit) -->
