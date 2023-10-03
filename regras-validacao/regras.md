@@ -170,19 +170,23 @@ Transformações/validações aplicadas a todos os termos:
 
 - Valores: não pode ser nulo
   - deve estar em graus decimais
+  - o separador do ponto flutuante deve ser o ponto (.) e não a vírgula (,)
   - os valores devem estar dentro da amplitude -90 e 90
   - a consistência pode ser verificada por geocodificação quando country, stateProvince e ou county estiverem disponíveis
     - se a localização de fato existe e é mesma descrita em country, stateProvince e ou county
     - se o valor da coordenada não está transposta com decimalLongitude
+  - se o valor estiver em outro formato que não o decimal, o valor deve ser convertido para decimal e o valor original deve ser mantido em [verbatimLatitude](https://github.com/sibbr/DarwinCoreBrasil#verbatimlatitude)
 
 ## [decimalLongitude](https://github.com/sibbr/DarwinCoreBrasil#decimallongitude)
 
 - Valores: não pode ser nulo
   - deve estar em graus decimais
+  - o separador do ponto flutuante deve ser o ponto (.) e não a vírgula (,)
   - os valores devem estar dentro da amplitude -180 e 180
   - a consistência pode ser verificada por geocodificação quando country, stateProvince e ou county estiverem disponíveis
     - se a localização de fato existe e é mesma descrita em country, stateProvince e ou county
     - se o valor da coordenada não está transposta com decimalLatitude
+  - se o valor estiver em outro formato que não o decimal, o valor deve ser convertido para decimal e o valor original deve ser mantido em [verbatimLongitude](https://github.com/sibbr/DarwinCoreBrasil#verbatimlongitude)
 
 ## [geodeticDatum](https://github.com/sibbr/DarwinCoreBrasil#geodeticdatum)
 
