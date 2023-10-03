@@ -2682,7 +2682,7 @@ Para iniciar uma discussão sobre algum termo, clique no título das tabelas aba
     </tr>
     <tr>
       <td style="text-align: left">Domínio</td>
-      <td style="text-align: left">[Cometários ou notas sobre o organismo]</td>
+      <td style="text-align: left">[Comentários ou notas sobre o organismo]</td>
     </tr>
     <tr>
       <td style="text-align: left">Exemplos</td>
