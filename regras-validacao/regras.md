@@ -18,7 +18,10 @@ Transformações/validações aplicadas a todos os termos:
 <!-- ## [datasetID](https://github.com/sibbr/DarwinCoreBrasil#datasetid) -->
 <!-- ## [institutionCode](https://github.com/sibbr/DarwinCoreBrasil#institutioncode) -->
 <!-- ## [collectionCode](https://github.com/sibbr/DarwinCoreBrasil#collectioncode) -->
-<!-- ## [datasetName](https://github.com/sibbr/DarwinCoreBrasil#datasetname) -->
+## [datasetName](https://github.com/sibbr/DarwinCoreBrasil#datasetname)
+
+- Valores: não pode ser nulo
+
 <!-- ## [ownerInstitutionCode](https://github.com/sibbr/DarwinCoreBrasil#ownerinstitutioncode) -->
 <!-- ## [basisOfRecord](https://github.com/sibbr/DarwinCoreBrasil#basisofrecord) -->
 <!-- ## [informationWithheld](https://github.com/sibbr/DarwinCoreBrasil#informationwithheld) -->
