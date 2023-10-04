@@ -6348,18 +6348,30 @@ Para iniciar uma discussão sobre algum termo, clique no título das tabelas aba
       <td style="text-align: left">Domínio</td>
       <td style="text-align: left">
         Holótipo [originalNameUsage] | Isótipo | Síntipo | Léctotipo | Parátipo
-        | Neótipo | Cótipo
+        | Neótipo
       </td>
     </tr>
     <tr>
       <td style="text-align: left">Exemplos</td>
       <td style="text-align: left">
         <ul>
+          <li>       
+      Holótipo: refere-se a um espécime único, a partir do qual é descrita uma espécie ou subespécie. Trata-se de um exemplar singular que desempenha um papel fundamental na catalogação da diversidade biológica. O holótipo é selecionado com base em características distintivas e serve como ponto de referência crucial, estabelecendo padrões para identificação futura e estudos comparativo (UFRJ)
+          </li>
           <li>
-           <a
-              href="https://ala-hub.sibbr.gov.br/ala-hub/occurrences/58811f37-1138-4db4-beeb-dd253798718e"
-              >Parátipo</a
-            >
+            Isótipo: é uma duplicata do holótipo. (USP)
+          </li>
+          <li>
+            Síntipo: é qualquer um de dois ou mais espécimens citados pelo autor da espécie, quando nenhum holótipo foi designado. (USP)
+          </li>
+          <li>
+            Lectótipo: é um espécimen ou outro elemento selecionado do material original (por ex. desenhos) e escolhido posteriormente como tipo nomenclatório, quando nenhum holótipo foi designado. Deve ser escolhido inicialmente entre os isótipos ou entre os síntipos. (USP)
+          </li>
+          <li>
+            Parátipo: são outros materiais citados pelo autor além do holótipo (e isótipos), quando da descrição de uma nova espécie. (USP)
+          </li>
+          <li>
+            Neótipo - é um espécimen escolhido como tipo nomenclatório, quando todo o material ligado ao táxon descrito foi destruído. (USP)
           </li>
         </ul>
       </td>
