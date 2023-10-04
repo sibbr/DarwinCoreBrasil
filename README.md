@@ -1712,8 +1712,7 @@ Para iniciar uma discussão sobre algum termo, clique no título das tabelas aba
     <tr>
       <td style="text-align: left">Domínio</td>
       <td style="text-align: left">
-        Cultivada | Nativa | Invasora | Naturalizada | Introduzida | Domesticada | Origem
-        incerta | Origem não conhecida
+        Cultivada | Nativa | Invasora | Naturalizada | Introduzida | Domesticada | Origem incerta | Origem não conhecida
       </td>
     </tr>
     <tr>
@@ -1721,21 +1720,22 @@ Para iniciar uma discussão sobre algum termo, clique no título das tabelas aba
       <td style="text-align: left">
         <ul>
           <li>
-            <a
-              href="http://floradobrasil.jbrj.gov.br/reflora/listaBrasil/ConsultaPublicaUC/BemVindoConsultaPublicaConsultar.do?invalidatePageControlCounter=1&idsFilhosAlgas=%5B2%5D&idsFilhosFungos=%5B1%2C11%2C10%5D&lingua=&grupo=6&familia=null&genero=&especie=&autor=&nomeVernaculo=&nomeCompleto=&formaVida=null&substrato=null&ocorreBrasil=QUALQUER&ocorrencia=OCORRE&endemismo=TODOS&origem=CULTIVADA&regiao=QUALQUER&estado=QUALQUER&ilhaOceanica=32767&domFitogeograficos=CERRADO&bacia=QUALQUER&vegetacao=TODOS&mostrarAte=SUBESP_VAR&opcoesBusca=TODOS_OS_NOMES&loginUsuario=Visitante&senhaUsuario=&contexto=consulta-publica"
-              >Cultivada</a
-            >
+            Cultivada: espécies que normalmente são semeadas ou plantadas por humanos. (EMBRAPA)
           </li>
           <li>
-            <a href="https://www.marinespecies.org/aphia.php?p=taxdetails&id=189953#distributions"
-              >Nativa</a
-            >
+            Nativa: espécie que é natural, própria do ecossistema ou região em que vive, ou seja, que cresce dentro dos seus limites naturais incluindo a sua área de dispersão. (EMBRAPA)
           </li>
           <li>
-            <a
-              href="http://fauna.jbrj.gov.br/fauna/listaBrasil/ConsultaPublicaUC/BemVindoConsultaPublicaConsultar.do?invalidatePageControlCounter=1&lingua=&jsonRank=&rankTaxon=32767&nomeTaxon=&autor=&nomeVernaculo=&nomeCompleto=&formaVida=QUALQUER&substrato=QUALQUER&ocorrencia=OCORRE&regiao=CENTRO_OESTE&estado=QUALQUER&endemismo=TODOS&origem=INTRODUZIDA&mostrarAte=SUB_ESPECIE&opcoesBusca=NOME_ACEITO"
-              >Introduzida</a
-            >
+          Invasora: espécies que, introduzidas fora da sua área de distribuição natural, ameaçam a diversidade biológica e os serviços ecossistêmicos. (IBAMA, 2022)
+          </li>
+          <li>
+            Introduzida: espécies que foram introduzidas em um local do qual não fazem parte originalmente. (EMBRAPA, 2004)
+            </li>
+          <li>
+            Domesticada: a domesticação de espécies vegetais pode ser definida como um processo de seleção para adaptar determinada espécie ao ambiente criado pelo homem, ou seja, ambiente de cultivo. (EMBRAPA, 2004) 
+          </li>
+          <li>            
+          Endêmica: espécie animal ou vegetal que é nativa de uma única área geográfica. (EMBRAPA, 2021)
           </li>
         </ul>
       </td>
