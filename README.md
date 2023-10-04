@@ -7232,7 +7232,7 @@ Para iniciar uma discussão sobre algum termo, clique no título das tabelas aba
           <li>
             Cardona-Duque (2013) em Perelleschus splendida sec. Franz &amp;amp
           </li>
-          <li>Cardona-Duque (2013))</li>
+          <li>Cardona-Duque (2013)</li>
         </ul>
       </td>
     </tr>
