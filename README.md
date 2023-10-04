@@ -1737,6 +1737,9 @@ Para iniciar uma discussão sobre algum termo, clique no título das tabelas aba
           <li>            
           Endêmica: espécie animal ou vegetal que é nativa de uma única área geográfica. (EMBRAPA, 2021)
           </li>
+          <li>
+          Naturalizada: espécie que foi introduzida intencionalmente ou não em um novo ambiente e que se adaptou e reproduziu com sucesso nesse local. Ao longo do tempo, a espécie estabeleceu-se e aclimatou-se às novas condições ambientais, passando a fazer parte integrante da flora ou fauna de uma região. (EMBRAPA, 2019)            
+          </li>
         </ul>
       </td>
     </tr>
