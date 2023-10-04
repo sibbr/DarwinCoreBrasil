@@ -514,7 +514,7 @@ Para iniciar uma discussão sobre algum termo, clique no título das tabelas aba
       <td style="text-align: left">Definição</td>
       <td style="text-align: left">
         Um identificador da instituição que detém a guarda do(s) objeto(s) ou
-        das informações referidas no registo.
+        das informações referidas no registro.
       </td>
     </tr>
     <tr>
