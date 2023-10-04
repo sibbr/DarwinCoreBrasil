@@ -86,7 +86,10 @@ Transformações/validações aplicadas a todos os termos:
 <!-- ## [fieldNumber](https://github.com/sibbr/DarwinCoreBrasil#fieldnumber) -->
 ## [eventDate](https://github.com/sibbr/DarwinCoreBrasil#eventdate)
 
-- Valores: os valores devem seguir [ISO 8601](https://pt.wikipedia.org/wiki/ISO_8601) (YYYY-MM-DD).
+- Valores: os valores devem seguir [ISO 8601](https://pt.wikipedia.org/wiki/ISO_8601) (YYYY-MM-DD)
+  - manter a data original no termo verbatimEventDate
+  - pode ser derivado de year - month - ano quando necessário
+  - se existir os termos DarwinCore year, month e day concatenar para criar o eventDate
   - valores apenas para o ano são permitidos: YYYY
   - valores apenas para o ano-mês são permitidos: YYYY-MM
   - intervalos são permitidos: YYYY-MM-DD/YYYY-MM-DD | YYYY-MM/YYYY-MM | YYYY/YYYY 
