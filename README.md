@@ -6300,17 +6300,23 @@ Para iniciar uma discussão sobre algum termo, clique no título das tabelas aba
     </tr>
     <tr>
       <td style="text-align: left">Domínio</td>
-      <td style="text-align: left">cf. aff. | sp. | spp.</td>
+      <td style="text-align: left">cf. | aff. | sp. | spp.</td>
     </tr>
     <tr>
       <td style="text-align: left">Exemplos</td>
       <td style="text-align: left">
         <ul>
           <li>
-           <a
-              href="https://ala-hub.sibbr.gov.br/ala-hub/occurrences/58811f37-1138-4db4-beeb-dd253798718e"
-              >	sp.</a
-            >
+         cf.: confronte com, compare com. (USP)
+          </li>
+          <li>
+            aff.:afim de, próximo de. (USP)
+          </li>
+          <li>
+            sp.: espécie. (USP)
+          </li>
+          <li>
+            spp.: espécies (USP)
           </li>
         </ul>
       </td>
