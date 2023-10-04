@@ -1684,7 +1684,7 @@ Para iniciar uma discussão sobre algum termo, clique no título das tabelas aba
 </table>
 
 ---
-#### degreeOfEstablishment
+#### OfEstablishment
 <table>
   <tr class="table-secondary">
     <th colspan="2">
@@ -1712,8 +1712,7 @@ Para iniciar uma discussão sobre algum termo, clique no título das tabelas aba
     <tr>
       <td style="text-align: left">Domínio</td>
       <td style="text-align: left">
-        Cultivada | Nativa | Invasora | Naturalizada | Introduzida | Domesticada |
-        Criptogênico | Nativa - endêmica | Nativa - não endêmica | Origem
+        Cultivada | Nativa | Invasora | Naturalizada | Introduzida | Domesticada | Origem
         incerta | Origem não conhecida
       </td>
     </tr>
