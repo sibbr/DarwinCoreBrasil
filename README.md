@@ -962,7 +962,7 @@ Para iniciar uma discussão sobre algum termo, clique no título das tabelas aba
     <tr>
       <td style="text-align: left">Definição</td>
       <td style="text-align: left">
-      Um identificador dado ao evento no campo. Frequentemente, serve como um link entre as Notas de Campo e o evento. Por ser utilizado também como o identificador das parcelas alocadas a campo.
+      Um identificador dado ao evento no campo. Frequentemente, serve como um link entre fieldNotes e o evento. Por ser utilizado também como o identificador das parcelas alocadas a campo.
       </td>
     </tr>
     <tr>
