@@ -3946,7 +3946,7 @@ Para iniciar uma discussão sobre algum termo, clique no título das tabelas aba
     </tr>
     <tr>
       <td style="text-align: left">Domínio</td>
-      <td style="text-align: left"></td>
+      <td style="text-align: left">[Código do país]</td>
     </tr>
     <tr>
       <td style="text-align: left">Exemplos</td>
@@ -3997,13 +3997,15 @@ Para iniciar uma discussão sobre algum termo, clique no título das tabelas aba
     <tr>
       <td style="text-align: left">Domínio</td>
       <td style="text-align: left">
-        Distrito Federal | Espírito Santo | São Paulo | Rio de Janeiro
+       [Nome da região]
       </td>
     </tr>
     <tr>
       <td style="text-align: left">Exemplos</td>
       <td style="text-align: left">
         <ul>
+          <li>
+            Distrito Federal | Espírito Santo | São Paulo | Rio de Janeiro
           <li>
             <a
               href="https://www.ibge.gov.br/geociencias/organizacao-do-territorio/malhas-territoriais/15774-malhas.html"
