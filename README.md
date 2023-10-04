@@ -3897,7 +3897,7 @@ Para iniciar uma discussão sobre algum termo, clique no título das tabelas aba
     </tr>
     <tr>
       <td style="text-align: left">Domínio</td>
-      <td style="text-align: left">Brasil | Argentina | Venezuela</td>
+      <td style="text-align: left">[Nome do país]</td>
     </tr>
     <tr>
       <td style="text-align: left">Exemplos</td>
