@@ -8109,14 +8109,14 @@ Para iniciar uma discussão sobre algum termo, clique no título das tabelas aba
       <td style="text-align: left">
         <ul>
           <li>
-            <a href="https://www.iapt-taxon.org/nomen/main.php">Herbário</a>
+            <a href="https://www.iapt-taxon.org/nomen/main.php">International Code of Botanical Nomenclature (ICBN)</a>
           </li>
           <li>
-            <a href="https://code.iczn.org/?frame=1">Coleções de zoologia</a>
+            <a href="https://code.iczn.org/?frame=1">International Code of Zoological Nomenclature (ICZN) </a>
           </li>
-          <li><a href="https://ictv.global/">Vírus</a></li>
+          <li><a href="https://ictv.global/">International Committee on Taxonomy of Viruses (ICTV)</a></li>
           <li>
-            <a href="https://www.ncbi.nlm.nih.gov/books/NBK8817/">Bactérias</a>
+            <a href="https://www.ncbi.nlm.nih.gov/books/NBK8817/">International Code of Nomenclature of Bacteria (ICNB)</a>
           </li>
         </ul>
       </td>
