@@ -7383,7 +7383,7 @@ Para iniciar uma discussão sobre algum termo, clique no título das tabelas aba
     <tr>
       <td style="text-align: left">Domínio</td>
       <td style="text-align: left">
-        Animalia | Plantae | Fungi | Archaea | Chromista | Protozoa | Viruses| Bacteria
+        Animalia | Plantae | Fungi | Archaea | Chromista | Protozoa | Viruses | Bacteria
       </td>
     </tr>
     <tr>
