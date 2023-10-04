@@ -742,7 +742,7 @@ Para iniciar uma discussão sobre algum termo, clique no título das tabelas aba
       <td style="text-align: left">
         <ul>
           <li> Universidade Federal de Minas Gerais </li>
-          <li> Universidade Federal do Espirito Santo </li>
+          <li> Universidade Federal do Espírito Santo </li>
           <!-- <li>NA</li> -->
         </ul>
       </td>
