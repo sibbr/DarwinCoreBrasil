@@ -7971,6 +7971,15 @@ Para iniciar uma discussão sobre algum termo, clique no título das tabelas aba
     <tr>
       <td style="text-align: left">Exemplos</td>
       <td style="text-align: left">
+        <li>
+          sp.: espécie. (USP)
+        </li>
+        <li>
+          subsp.: subespécie (apenas em botânica). (USP)
+        </li>
+        <li>
+          var.: variedade (apenas em botânica). (USP)
+        </li>
         <ul>
           <!-- <li>NA</li> -->
         </ul>
