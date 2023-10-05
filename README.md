@@ -1176,7 +1176,7 @@ Para iniciar uma discussão sobre algum termo, clique no título das tabelas aba
         Uma lista (concatenada e separada por barra vertical "|") de nomes de pessoas, grupos ou
         organizações responsáveis pelo registro da ocorrência original. O
         coletor ou observador primário, especialmente aquele que aplica um
-        identificador pessoal (recordnumber), deve ser listado primeiro.
+        identificador pessoal (recordNumber), deve ser listado primeiro.
       </td>
     </tr>
     <tr>
