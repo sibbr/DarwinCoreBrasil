@@ -4083,7 +4083,7 @@ Para iniciar uma discussão sobre algum termo, clique no título das tabelas aba
     </tr>
     <tr>
       <td style="text-align: left">Domínio</td>
-      <td style="text-align: left">
+      <td style="text-align: left">[Localidade original]</td>
     </tr>
     <tr>
       <td style="text-align: left">Exemplos</td>
