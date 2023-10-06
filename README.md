@@ -44,7 +44,7 @@ Para iniciar uma discussão sobre algum termo, clique no título das tabelas aba
     </tr>
     <tr>
       <td style="text-align: left">Domínio</td>
-      <td style="text-align: left">[datasetName]</td>
+      <td style="text-align: left">[Nome do dataset]</td>
     </tr>
     <tr>
       <td style="text-align: left">Exemplos</td>
