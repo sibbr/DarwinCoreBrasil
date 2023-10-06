@@ -271,7 +271,14 @@ Transformações/validações aplicadas a todos os termos:
 <!-- ## [subfamily](https://github.com/sibbr/DarwinCoreBrasil#subfamily) -->
 <!-- ## [tribe](https://github.com/sibbr/DarwinCoreBrasil#tribe) -->
 <!-- ## [subtribe](https://github.com/sibbr/DarwinCoreBrasil#subtribe) -->
-<!-- ## [genus](https://github.com/sibbr/DarwinCoreBrasil#genus) -->
+## [genus](https://github.com/sibbr/DarwinCoreBrasil#genus)
+
+- Valores: campo de texto
+  - pode estar vazio
+  - apenas uma palavra
+  - deve começar com letra minúscula
+  - não deve conter sp. spp. cf. aff.
+  - se o taxonRank for espécie e o scientificName estiver preenchido pode derivar do segundo termo do scientificName
 <!-- ## [genericName](https://github.com/sibbr/DarwinCoreBrasil#genericname) -->
 <!-- ## [subgenus](https://github.com/sibbr/DarwinCoreBrasil#subgenus) -->
 <!-- ## [infragenericEpithet](https://github.com/sibbr/DarwinCoreBrasil#infragenericepithet) -->
@@ -281,9 +288,8 @@ Transformações/validações aplicadas a todos os termos:
 - Valores: campo de texto
   - pode estar vazio
   - apenas uma palavra
-  - deve começar com letra minúscula
-  - não deve conter sp. spp. cf. aff.
-  - se o taxonRank for espécie e o scientificName estiver preenchido pode derivar do segundo termo do scientificName
+  - deve começar com letra maiúscula
+  - se o taxonRank for gênero e o scientificName estiver preenchido pode derivar do primeiro termo do scientificName
     
 <!-- ## [infraspecificEpithet](https://github.com/sibbr/DarwinCoreBrasil#infraspecificepithet) -->
 <!-- ## [cultivarEpithet](https://github.com/sibbr/DarwinCoreBrasil#cultivarepithet) -->
