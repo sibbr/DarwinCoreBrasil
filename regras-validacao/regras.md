@@ -289,7 +289,7 @@ Transformações/validações aplicadas a todos os termos:
   - pode estar vazio
   - apenas uma palavra
   - deve começar com letra minúscula
-  - não deve conter sp. spp. cf. aff.
+  - não deve conter sp., spp., sp.1, sp.2. Estes termos devem ser inseridos no termo verbatimIdentification
   - se o taxonRank for espécie e o scientificName estiver preenchido pode derivar do segundo termo do scientificName
  
 <!-- ## [infraspecificEpithet](https://github.com/sibbr/DarwinCoreBrasil#infraspecificepithet) -->
