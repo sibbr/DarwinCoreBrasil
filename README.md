@@ -1673,7 +1673,7 @@ Para iniciar uma discussão sobre algum termo, clique no título das tabelas aba
          Introduzida: espécies que foram introduzidas em um local do qual não faziam parte originalmente. (EMBRAPA, 2004)
         </li>
         <li> 
-        Nativa: espécies que são naturais, próprias do ecossistema ou região em que vivem, ou seja, que crescem dentro dos seus limites naturais incluindo a sua área de dispersão. (EMBRAPA)
+        Nativa: espécies que são naturais, próprias do ecossistema ou região em que vivem, ou seja, que crescem dentro dos seus limites naturais incluindo a sua área de dispersão. (EMBRAPA, 2004)
           </li>
         <li> Introduzida por colonização assistida: espécies que forma reintroduzidas em um local com o objetivo de restabelecer as populações que estão ameaçadas de extinção ou já extintas. (IUCN, 2013)
             <!-- <li>NA</li> -->
@@ -1720,10 +1720,10 @@ Para iniciar uma discussão sobre algum termo, clique no título das tabelas aba
       <td style="text-align: left">
         <ul>
           <li>
-            Cultivada: espécies que normalmente são semeadas ou plantadas por humanos. (EMBRAPA)
+            Cultivada: espécies que normalmente são semeadas ou plantadas por humanos. (EMBRAPA, 2004)
           </li>
           <li>
-            Nativa: espécie que é natural, própria do ecossistema ou região em que vive, ou seja, que cresce dentro dos seus limites naturais incluindo a sua área de dispersão. (EMBRAPA)
+            Nativa: espécie que é natural, própria do ecossistema ou região em que vive, ou seja, que cresce dentro dos seus limites naturais incluindo a sua área de dispersão. (EMBRAPA, 2004)
           </li>
           <li>
           Invasora: espécies que, introduzidas fora da sua área de distribuição natural, ameaçam a diversidade biológica e os serviços ecossistêmicos. (IBAMA, 2022)
