@@ -3990,14 +3990,14 @@ Para iniciar uma discussão sobre algum termo, clique no título das tabelas aba
       <td style="text-align: left">Definição</td>
       <td style="text-align: left">
         O nome da próxima região administrativa menor do que o país (estado,
-        província, cantão, departamento, região, etc.) em que a localização
+        província, departamento, região, etc.) em que a localização
         ocorre.
       </td>
     </tr>
     <tr>
       <td style="text-align: left">Domínio</td>
       <td style="text-align: left">
-       [Nome da região]
+       [Nome do estado]
       </td>
     </tr>
     <tr>
@@ -4045,7 +4045,7 @@ Para iniciar uma discussão sobre algum termo, clique no título das tabelas aba
     </tr>
     <tr>
       <td style="text-align: left">Domínio</td>
-      <td style="text-align: left"></td>
+      <td style="text-align: left">[Nome do município]</td>
     </tr>
     <tr>
       <td style="text-align: left">Exemplos</td>
@@ -6264,6 +6264,12 @@ Para iniciar uma discussão sobre algum termo, clique no título das tabelas aba
         </li>
         <li> Byrsonima coccolobifolia x B. verbascifolia
         </li>
+        <li>
+          sp1.
+        </li>
+        <li>
+          sp2.
+        </li>
         <ul>
           <!-- <li>NA</li> -->
         </ul>
@@ -6307,17 +6313,11 @@ Para iniciar uma discussão sobre algum termo, clique no título das tabelas aba
       <td style="text-align: left">
         <ul>
           <li>
-         cf.: confronte com, compare com. (USP)
+         cf.: significa que a espécie deve ser a indicada, mas que é preciso conferir, confirmar. (ICZN)
           </li>
           <li>
-            aff.:afim de, próximo de. (USP)
-          </li>
-          <li>
-            sp.: espécie. (USP)
-          </li>
-          <li>
-            spp.: espécies (USP)
-          </li>
+            aff.: é uma terminologia taxonômica utilizada em zoologia e botânica para indicar que uma espécie mencionada é relacionada mas não idêntica a espécie no binômio que é demonstrado. (ICZN)
+           </li>
         </ul>
       </td>
     </tr>
@@ -7966,19 +7966,22 @@ Para iniciar uma discussão sobre algum termo, clique no título das tabelas aba
     </tr>
     <tr>
       <td style="text-align: left">Domínio</td>
-      <td style="text-align: left">sp. | subsp. | var.</td>
+      <td style="text-align: left">sp. | spp. | subsp. | var.</td>
     </tr>
     <tr>
       <td style="text-align: left">Exemplos</td>
       <td style="text-align: left">
         <li>
-          sp.: espécie. (USP)
+          sp.: quando a espécie ainda não foi identificada, o nome do gênero é seguido de sp. (abreviatura de espécie). (ICZN)
         </li>
         <li>
-          subsp.: subespécie (apenas em botânica). (USP)
+          spp. : spp.: quando a espécie ainda não foi identificada, o nome do gênero é seguido de spp. (abreviatura de espécies). (ICZN)
+          </li>
+        <li>
+          subsp.: Abreviatura de subespécie, escrita em fonte normal, com ponto de abreviação. A subespécie é a categoria imediatamente abaixo de espécie. (ICZN)
         </li>
         <li>
-          var.: variedade (apenas em botânica). (USP)
+          var.: Abreviatura de variedade, escrita em fonte normal, com ponto de abreviação. Categoria taxonômica entre espécie (ou subespécie) e forma. (ICBN)
         </li>
         <ul>
           <!-- <li>NA</li> -->
