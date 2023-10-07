@@ -278,6 +278,7 @@ Transformações/validações aplicadas a todos os termos:
   - apenas uma palavra
   - deve começar com letra maiúscula
   - se o taxonRank for gênero e o scientificName (ou seja, o nome do gênero) estiver preenchido pode derivar do scientificName
+  - se o taxonRank for espécie e o scientificName estiver preenchido pode derivar do primeiro termo do scientificName
     
 <!-- ## [genericName](https://github.com/sibbr/DarwinCoreBrasil#genericname) -->
 <!-- ## [subgenus](https://github.com/sibbr/DarwinCoreBrasil#subgenus) -->
