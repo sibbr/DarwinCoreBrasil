@@ -87,7 +87,7 @@ Transformações/validações aplicadas a todos os termos:
 ## [eventDate](https://github.com/sibbr/DarwinCoreBrasil#eventdate)
 
 - Valores: os valores devem seguir [ISO 8601](https://pt.wikipedia.org/wiki/ISO_8601) (YYYY-MM-DD)
-  - manter a data original no termo verbatimEventDate
+  - manter a data original no termo [verbatimEventDate](https://github.com/sibbr/DarwinCoreBrasil#verbatimeventdate)
   - pode ser derivado de year - month - ano quando necessário
   - se existir os termos DarwinCore year, month e day concatenar para criar o eventDate
   - valores apenas para o ano são permitidos: YYYY
@@ -277,8 +277,8 @@ Transformações/validações aplicadas a todos os termos:
   - pode estar vazio
   - apenas uma palavra
   - deve começar com letra maiúscula
-  - se o taxonRank for gênero e o scientificName (ou seja, o nome do gênero) estiver preenchido pode derivar do scientificName
-  - se o taxonRank for espécie e o scientificName estiver preenchido pode derivar do primeiro termo do scientificName
+  - se o taxonRank for gênero e o scientificName (ou seja, o nome do gênero) estiver preenchido pode derivar do [scientificName](https://github.com/sibbr/DarwinCoreBrasil#scientificname)
+  - se o taxonRank for espécie e o scientificName estiver preenchido pode derivar do primeiro termo do [scientificName](https://github.com/sibbr/DarwinCoreBrasil#scientificname)
     
 <!-- ## [genericName](https://github.com/sibbr/DarwinCoreBrasil#genericname) -->
 <!-- ## [subgenus](https://github.com/sibbr/DarwinCoreBrasil#subgenus) -->
@@ -290,8 +290,9 @@ Transformações/validações aplicadas a todos os termos:
   - pode estar vazio
   - apenas uma palavra
   - deve começar com letra minúscula
-  - não deve conter sp., spp., sp.1, sp.2. Estes termos devem ser inseridos no termo verbatimIdentification
-  - se o taxonRank for espécie e o scientificName estiver preenchido pode derivar do segundo termo do scientificName
+  - não deve conter sp., spp., sp.1, sp.2. Estes termos devem ser inseridos no termo [verbatimIdentification](https://github.com/sibbr/DarwinCoreBrasil#verbatimidentification)
+  - se o taxonRank for espécie e o scientificName estiver preenchido pode derivar do segundo termo do [scientificName](https://github.com/sibbr/DarwinCoreBrasil#scientificname)
+    
  
 <!-- ## [infraspecificEpithet](https://github.com/sibbr/DarwinCoreBrasil#infraspecificepithet) -->
 <!-- ## [cultivarEpithet](https://github.com/sibbr/DarwinCoreBrasil#cultivarepithet) -->
