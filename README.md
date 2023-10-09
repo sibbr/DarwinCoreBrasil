@@ -3170,14 +3170,21 @@ Para iniciar uma discussão sobre algum termo, clique no título das tabelas aba
     <tr>
       <td style="text-align: left">Domínio</td>
       <td style="text-align: left">
-        Data como estava escrito na planilha original antes de padronizar em
-        DarwinCore
+        Data como estava escrito na planilha original antes de padronizar em DarwinCore.
       </td>
     </tr>
     <tr>
       <td style="text-align: left">Exemplos</td>
       <td style="text-align: left">
         <ul>
+          <li> 12-XII-2003
+          </li>
+          <li>
+            23 de out 2005
+          </li>
+          <li>
+            5-VI-1995
+          </li>            
           <!-- <li>NA</li> -->
         </ul>
       </td>
