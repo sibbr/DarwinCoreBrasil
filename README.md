@@ -3120,7 +3120,7 @@ Para iniciar uma discussão sobre algum termo, clique no título das tabelas aba
   <tbody>
     <tr>
       <td style="text-align: left">Definição</td>
-      <td style="text-align: left">O dia inteiro em que o evento ocorreu.</td>
+      <td style="text-align: left">O dia em que o evento ocorreu.</td>
     </tr>
     <tr>
       <td style="text-align: left">Domínio</td>
