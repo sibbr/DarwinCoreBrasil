@@ -1481,7 +1481,7 @@ Para iniciar uma discussão sobre algum termo, clique no título das tabelas aba
     <tr>
       <td style="text-align: left">Domínio</td>
       <td style="text-align: left">
-        Zigoto | Ovos | Larva | Pupa | Juvenil | Adulto | Semente | Muda | Plântula | Frutificação | Floração 
+        Zigoto | Ovos | Larva | Pupa | Juvenil | Adulto | Semente | Muda | Frutificação | Floração 
       </td>
     </tr>
     <tr>
@@ -1499,10 +1499,7 @@ Para iniciar uma discussão sobre algum termo, clique no título das tabelas aba
           Muda
           </li>
           <li>
-          Floração
-          </li>
-          <li>
-          Plântula
+          Floração: registro de planta observado ou coletado em fase de floração. A floração indica abertura das inflorescências, passando pela fase de expansão completa até a liberação do pólen. Nessa fase, as anteras já começam a escurecer e os estames começam a murchar (EMBRAPA, 2004).
           </li>
            </ul>
         Animal:
