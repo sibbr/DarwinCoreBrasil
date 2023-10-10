@@ -1678,6 +1678,9 @@ Para iniciar uma discussão sobre algum termo, clique no título das tabelas aba
         Nativa: espécies que são naturais, próprias do ecossistema ou região em que vivem, ou seja, que crescem dentro dos seus limites naturais incluindo a sua área de dispersão. (EMBRAPA, 2004)
           </li>
         <li> Introduzida por colonização assistida: espécies que forma reintroduzidas em um local com o objetivo de restabelecer as populações que estão ameaçadas de extinção ou já extintas. (IUCN, 2013)
+          <li>
+            Nativa reintroduzida
+          </li>
             <!-- <li>NA</li> -->
         </ul>
       </td>
