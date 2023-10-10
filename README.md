@@ -1446,6 +1446,9 @@ Para iniciar uma discussão sobre algum termo, clique no título das tabelas aba
               >BR:PPBIO:MAtaAtlantica:IlhaGrande:Modulo_LesteParcela_L1 4500_seca_2015_107</a
             >
           </li>
+          <li>
+            Hermafrodita: os hermafroditas verdadeiros são animais com intersexualidade, nos quais as gônadas masculinas e femininas se desenvolvem simultaneamente no mesmo indivíduo. (EMBRAPA, 2004)
+          </li>
         </ul>
       </td>
     </tr>
