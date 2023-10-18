@@ -1502,7 +1502,7 @@ Para iniciar uma discussão sobre algum termo, clique no título das tabelas aba
           Muda
           </li>
           <li>
-          Floração: registro de planta observado ou coletado em fase de floração. A floração indica abertura das inflorescências, passando pela fase de expansão completa até a liberação do pólen. Nessa fase, as anteras já começam a escurecer e os estames começam a murchar (EMBRAPA, 2004).
+          Floração: registro de planta observado ou coletado em fase de floração. A floração indica abertura das inflorescências, passando pela fase de expansão completa até a liberação do pólen (EMBRAPA, 2004).
           </li>
            </ul>
         Animal:
