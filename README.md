@@ -2776,7 +2776,7 @@ Para iniciar uma discussão sobre algum termo, clique no título das tabelas aba
     </tr>
     <tr>
       <td style="text-align: left">Domínio</td>
-      <td style="text-align: left"></td>
+      <td style="text-align: left">[Identificador único do evento]</td>
     </tr>
     <tr>
       <td style="text-align: left">Exemplos</td>
@@ -2822,7 +2822,7 @@ Para iniciar uma discussão sobre algum termo, clique no título das tabelas aba
     </tr>
     <tr>
       <td style="text-align: left">Domínio</td>
-      <td style="text-align: left"></td>
+      <td style="text-align: left">[Identificador do "pai" do evento]</td>
     </tr>
     <tr>
       <td style="text-align: left">Exemplos</td>
