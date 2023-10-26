@@ -410,9 +410,7 @@ Para iniciar uma discussão sobre algum termo, clique no título das tabelas aba
     <tr>
       <td style="text-align: left">Definição</td>
       <td style="text-align: left">
-        Uma referência bibliográfica para o recurso como uma declaração
-        indicando como esse registro deve ser citado (atribuído) quando
-        utilizado.
+        Uma referência bibliográfica para o registro indicando como deve ser citado quando utilizado.
       </td>
     </tr>
     <tr>
