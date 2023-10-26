@@ -3326,6 +3326,14 @@ Para iniciar uma discussão sobre algum termo, clique no título das tabelas aba
               > Método de Busca Ativa e Pitfall</a>
           </li>
         </ul>
+        Métodos de coleta em ambientes aquáticos:
+        <ul>
+          <li>
+            Artes ativas: armadilhas, redes de emalhe, covo
+          </li>
+          <li>
+            Artes passivas: espinhel, redes de arrasto, puçá, tarrafa
+          </li>
       </td>
     </tr>
   </tbody>
