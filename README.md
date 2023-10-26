@@ -3329,7 +3329,7 @@ Para iniciar uma discussão sobre algum termo, clique no título das tabelas aba
         Métodos de coleta em ambientes aquáticos:
         <ul>
           <li>
-            Artes ativas: armadilhas, redes de emalhe, covo
+            Artes ativas: armadilhas (covo), redes de emalhe
           </li>
           <li>
             Artes passivas: espinhel, redes de arrasto, puçá, tarrafa
