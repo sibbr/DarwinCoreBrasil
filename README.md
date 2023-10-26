@@ -772,7 +772,7 @@ Para iniciar uma discussão sobre algum termo, clique no título das tabelas aba
     <tr>
       <td style="text-align: left">Definição</td>
       <td style="text-align: left">
-        A natureza específica do registro de dados.
+        A natureza específica do registro.
       </td>
     </tr>
     <tr>
@@ -792,7 +792,7 @@ Para iniciar uma discussão sobre algum termo, clique no título das tabelas aba
             HumanObservation: inventário, evento de amostragem, ocorrência (observação, captura/recaptura), ciência cidadã.
           </li>
           <li>MachineObservation: fotografia, câmera trap</li>
-          <li>LivingSpecimen: Zoológico ou Jardim Botânico</li>
+          <li>LivingSpecimen: Zoológico, Jardim Botânico e coleções vivas. </li>
         </ul>
       </td>
     </tr>
