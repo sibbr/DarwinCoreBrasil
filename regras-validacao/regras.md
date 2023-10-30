@@ -7,24 +7,63 @@ Transformações/validações aplicadas a todos os termos:
 - remoção de espaços em branco e/ou tabulações que precedem ou sucedem o conteúdo da célula (exemplo, " Vitória" ou "Vitória ")
 - remoção de espaços em branco e/ou tabulações duplas entre palavras contidas em uma célula (exemplo, "São  Paulo")
 
-<!-- ## [type](https://github.com/sibbr/DarwinCoreBrasil#type) -->
-<!-- ## [modified](https://github.com/sibbr/DarwinCoreBrasil#modified) -->
-<!-- ## [language](https://github.com/sibbr/DarwinCoreBrasil#language) -->
-<!-- ## [license](https://github.com/sibbr/DarwinCoreBrasil#license) -->
-<!-- ## [rightsHolder](https://github.com/sibbr/DarwinCoreBrasil#rightsholder) -->
+## [type](https://github.com/sibbr/DarwinCoreBrasil#type)
+
+- Valores: não pode ser nulo
+  - preenchimento a partir do formulário de metadados do recurso: `Tipo de dado`
+  <!-- - quando for (sub)coleção, o tipo será: `PhysicalObject` -->
+  - vocabulário controlado: StillImage | MovingImage | Sound | PhysicalObject | Event | Text
+
+
+## [modified](https://github.com/sibbr/DarwinCoreBrasil#modified)
+
+- Valores: não pode ser nulo
+  - os valores devem seguir [ISO 8601](https://pt.wikipedia.org/wiki/ISO_8601) (YYYY-MM-DD)
+
+## [language](https://github.com/sibbr/DarwinCoreBrasil#language)
+
+- Valores: não pode ser nulo
+  - abreviação da língua utilizada (pt, es, en)
+  - preenchimento a partir do formulário de metadados do recurso: `Idioma dos dados`
+
+## [license](https://github.com/sibbr/DarwinCoreBrasil#license)
+
+- Valores: não pode ser nulo
+  - preenchimento a partir do formulário: `Licença`
+
+## [rightsHolder](https://github.com/sibbr/DarwinCoreBrasil#rightsholder)
+
+- Valores: não pode ser nulo
+  - preenchimento a partir do formulário de cadastro: `Cadastro: Instituição ou provedor de dados`
+
 <!-- ## [accessRights](https://github.com/sibbr/DarwinCoreBrasil#accessrights) -->
 <!-- ## [bibliographicCitation](https://github.com/sibbr/DarwinCoreBrasil#bibliographiccitation) -->
 <!-- ## [references](https://github.com/sibbr/DarwinCoreBrasil#references) -->
 <!-- ## [institutionID](https://github.com/sibbr/DarwinCoreBrasil#institutionid) -->
 <!-- ## [collectionID](https://github.com/sibbr/DarwinCoreBrasil#collectionid) -->
-<!-- ## [datasetID](https://github.com/sibbr/DarwinCoreBrasil#datasetid) -->
-<!-- ## [institutionCode](https://github.com/sibbr/DarwinCoreBrasil#institutioncode) -->
+## [datasetID](https://github.com/sibbr/DarwinCoreBrasil#datasetid)
+
+- Valores: não pode ser nulo
+  - UUID criado automaticamente ao final do preenchimento do formulário do recurso
+
+## [institutionCode](https://github.com/sibbr/DarwinCoreBrasil#institutioncode)
+
+- Valores: não pode ser nulo
+  - Acrônimo da instituição
+  - preenchimento a partir do formulário de cadastro: `Instituição`
+
 <!-- ## [collectionCode](https://github.com/sibbr/DarwinCoreBrasil#collectioncode) -->
 ## [datasetName](https://github.com/sibbr/DarwinCoreBrasil#datasetname)
 
 - Valores: não pode ser nulo
+  - preenchimento a partir do formulário de metadados do recurso: `Título`
+  <!-- - preenchimento a partir do formulário de metadados de coleção: `Nome da (sub)coleção` -->
 
-<!-- ## [ownerInstitutionCode](https://github.com/sibbr/DarwinCoreBrasil#ownerinstitutioncode) -->
+## [ownerInstitutionCode](https://github.com/sibbr/DarwinCoreBrasil#ownerinstitutioncode)
+
+- Valores: não pode ser nulo
+  - preenchimento a partir do formulário de cadastro: `Cadastro: Instituição ou provedor de dados`
+
 <!-- ## [basisOfRecord](https://github.com/sibbr/DarwinCoreBrasil#basisofrecord) -->
 <!-- ## [informationWithheld](https://github.com/sibbr/DarwinCoreBrasil#informationwithheld) -->
 <!-- ## [dataGeneralizations](https://github.com/sibbr/DarwinCoreBrasil#datageneralizations) -->
@@ -37,22 +76,27 @@ Transformações/validações aplicadas a todos os termos:
 <!-- ## [individualCount](https://github.com/sibbr/DarwinCoreBrasil#individualcount) -->
 <!-- ## [organismQuantity](https://github.com/sibbr/DarwinCoreBrasil#organismquantity) -->
 <!-- ## [organismQuantityType](https://github.com/sibbr/DarwinCoreBrasil#organismquantitytype) -->
-## [sex](https://github.com/sibbr/DarwinCoreBrasil#sex)
+
+<!-- ## [sex](https://github.com/sibbr/DarwinCoreBrasil#sex)
 
 - Valores: Macho | Fêmea | Hermafrodita | Indeterminado
+-->
 
-## [lifeStage](https://github.com/sibbr/DarwinCoreBrasil#lifestage)
+<!-- ## [lifeStage](https://github.com/sibbr/DarwinCoreBrasil#lifestage)
 
 - Valores: Zigoto | Ovos | Larva | Pupa | Juvenil | Adulto | Semente | Muda | Frutificação | Floração
+-->
 
-## [reproductiveCondition](https://github.com/sibbr/DarwinCoreBrasil#reproductivecondition)
+<!-- ## [reproductiveCondition](https://github.com/sibbr/DarwinCoreBrasil#reproductivecondition)
 
 - Valores: Grávida | Não reprodutiva | Em flor | Frutífero
+-->
 
 <!-- ## [caste](https://github.com/sibbr/DarwinCoreBrasil#caste) -->
-## [behavior](https://github.com/sibbr/DarwinCoreBrasil#behavior)
+<!-- ## [behavior](https://github.com/sibbr/DarwinCoreBrasil#behavior)
 
 - Valores: não pode ser nulo
+-->
 
 <!-- ## [vitality](https://github.com/sibbr/DarwinCoreBrasil#vitality) -->
 <!-- ## [establishmentMeans](https://github.com/sibbr/DarwinCoreBrasil#establishmentmeans) -->
@@ -79,10 +123,7 @@ Transformações/validações aplicadas a todos os termos:
 <!-- ## [associatedSequences](https://github.com/sibbr/DarwinCoreBrasil#associatedsequences) -->
 <!-- ## [materialEntityRemarks](https://github.com/sibbr/DarwinCoreBrasil#materialentityremarks) -->
 <!-- ## [materialSampleID](https://github.com/sibbr/DarwinCoreBrasil#materialsampleid) -->
-## [eventID](https://github.com/sibbr/DarwinCoreBrasil#eventid)
-
-- Valores: não pode ser nulo
-
+<!-- ## [eventID](https://github.com/sibbr/DarwinCoreBrasil#eventid) -->
 <!-- ## [parentEventID](https://github.com/sibbr/DarwinCoreBrasil#parenteventid) -->
 <!-- ## [eventType](https://github.com/sibbr/DarwinCoreBrasil#eventtype) -->
 <!-- ## [fieldNumber](https://github.com/sibbr/DarwinCoreBrasil#fieldnumber) -->
