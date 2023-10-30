@@ -159,7 +159,7 @@ Para iniciar uma discussão sobre algum termo, clique no título das tabelas aba
     <tr>
       <td style="text-align: left">Definição</td>
       <td style="text-align: left">
-        A data-hora mais recente em que o recurso foi alterado.
+        A data-hora mais recente em que o registro foi alterado.
       </td>
     </tr>
     <tr>
