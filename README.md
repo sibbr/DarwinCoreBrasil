@@ -1203,6 +1203,9 @@ Para iniciar uma discussão sobre algum termo, clique no título das tabelas aba
               >Zikan, J.F.</a
             <
             </li>
+              <li>
+                Clara Baringo
+              </li>
         </ul>
       </td>
     </tr>
