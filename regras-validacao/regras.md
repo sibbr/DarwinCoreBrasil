@@ -186,6 +186,7 @@ Transformações/validações aplicadas a todos os termos:
     - se a localização de fato existe e é mesma descrita em country, stateProvince e ou county
     - se o valor da coordenada não está transposta com decimalLongitude
   - se o valor estiver em outro formato que não o decimal, o valor deve ser convertido para decimal e o valor original deve ser mantido em [verbatimLatitude](https://github.com/sibbr/DarwinCoreBrasil#verbatimlatitude)
+  - se o valor informado for o par de coordenadas, esse deve ser movido para [verbatimCoordinates](https://github.com/sibbr/DarwinCoreBrasil#verbatimcoordinates); o valor mantido em decimalLatitude deve ser somente o valor referente à latitude
 
 ## [decimalLongitude](https://github.com/sibbr/DarwinCoreBrasil#decimallongitude)
 
@@ -197,6 +198,7 @@ Transformações/validações aplicadas a todos os termos:
     - se a localização de fato existe e é mesma descrita em country, stateProvince e ou county
     - se o valor da coordenada não está transposta com decimalLatitude
   - se o valor estiver em outro formato que não o decimal, o valor deve ser convertido para decimal e o valor original deve ser mantido em [verbatimLongitude](https://github.com/sibbr/DarwinCoreBrasil#verbatimlongitude)
+  - se o valor informado for o par de coordenadas, esse deve ser movido para [verbatimCoordinates](https://github.com/sibbr/DarwinCoreBrasil#verbatimcoordinates); o valor mantido em decimalLongitude deve ser somente o valor referente à longitude
 
 ## [geodeticDatum](https://github.com/sibbr/DarwinCoreBrasil#geodeticdatum)
 
