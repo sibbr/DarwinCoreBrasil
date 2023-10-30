@@ -1,5 +1,7 @@
 # Regras por termos 
 
+Regras de conformidade, melhorias e validação dos dados desenvolvidos pelo TDWG podem ser encontradas no link a seguir: https://github.com/tdwg/bdq/projects/2 
+
 Transformações/validações aplicadas a todos os termos:
 
 - remoção de espaços em branco e/ou tabulações que precedem ou sucedem o conteúdo da célula (exemplo, " Vitória" ou "Vitória ")
@@ -256,7 +258,13 @@ Transformações/validações aplicadas a todos os termos:
 <!-- ## [nameAccordingToID](https://github.com/sibbr/DarwinCoreBrasil#nameaccordingtoid) -->
 <!-- ## [namePublishedInID](https://github.com/sibbr/DarwinCoreBrasil#namepublishedinid) -->
 <!-- ## [taxonConceptID](https://github.com/sibbr/DarwinCoreBrasil#taxonconceptid) -->
-<!-- ## [scientificName](https://github.com/sibbr/DarwinCoreBrasil#scientificname) -->
+## [scientificName](https://github.com/sibbr/DarwinCoreBrasil#scientificname)
+
+- Valores: Não pode ser nulo
+  - Pode ser preenchido pela combinação das colunas [genus](https://github.com/sibbr/DarwinCoreBrasil#genus) e [specificEpithet](https://github.com/sibbr/DarwinCoreBrasil#specificepithet), quando estas estiverem preeenchidas
+
+Ver também: https://github.com/tdwg/bdq/issues/82
+
 <!-- ## [acceptedNameUsage](https://github.com/sibbr/DarwinCoreBrasil#acceptednameusage) -->
 <!-- ## [parentNameUsage](https://github.com/sibbr/DarwinCoreBrasil#parentnameusage) -->
 <!-- ## [originalNameUsage](https://github.com/sibbr/DarwinCoreBrasil#originalnameusage) -->
@@ -279,8 +287,8 @@ Transformações/validações aplicadas a todos os termos:
   - pode estar vazio
   - apenas uma palavra
   - deve começar com letra maiúscula
-  - se o taxonRank for gênero e o scientificName (ou seja, o nome do gênero) estiver preenchido pode derivar do [scientificName](https://github.com/sibbr/DarwinCoreBrasil#scientificname)
-  - se o taxonRank for espécie e o scientificName estiver preenchido pode derivar do primeiro termo do [scientificName](https://github.com/sibbr/DarwinCoreBrasil#scientificname)
+  - se o [taxonRank](https://github.com/sibbr/DarwinCoreBrasil#taxonrank) for gênero e o [scientificName](https://github.com/sibbr/DarwinCoreBrasil#scientificname) (ou seja, o nome do gênero) estiver preenchido pode derivar do [scientificName](https://github.com/sibbr/DarwinCoreBrasil#scientificname)
+  - se o [taxonRank](https://github.com/sibbr/DarwinCoreBrasil#taxonrank) for espécie e o [scientificName](https://github.com/sibbr/DarwinCoreBrasil#scientificname) estiver preenchido pode derivar da primeira palavra do [scientificName](https://github.com/sibbr/DarwinCoreBrasil#scientificname)
     
 <!-- ## [genericName](https://github.com/sibbr/DarwinCoreBrasil#genericname) -->
 <!-- ## [subgenus](https://github.com/sibbr/DarwinCoreBrasil#subgenus) -->
@@ -293,7 +301,7 @@ Transformações/validações aplicadas a todos os termos:
   - apenas uma palavra
   - deve começar com letra minúscula
   - não deve conter sp., spp., sp.1, sp.2. Estes termos devem ser inseridos no termo [verbatimIdentification](https://github.com/sibbr/DarwinCoreBrasil#verbatimidentification)
-  - se o taxonRank for espécie e o scientificName estiver preenchido pode derivar do segundo termo do [scientificName](https://github.com/sibbr/DarwinCoreBrasil#scientificname)
+  - se o [taxonRank](https://github.com/sibbr/DarwinCoreBrasil#taxonrank) for espécie e o scientificName estiver preenchido pode derivar do segundo termo do [scientificName](https://github.com/sibbr/DarwinCoreBrasil#scientificname)
     
  
 <!-- ## [infraspecificEpithet](https://github.com/sibbr/DarwinCoreBrasil#infraspecificepithet) -->
