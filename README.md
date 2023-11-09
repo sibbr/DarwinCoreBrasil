@@ -1485,7 +1485,7 @@ Para iniciar uma discussão sobre algum termo, clique no título das tabelas aba
     <tr>
       <td style="text-align: left">Domínio</td>
       <td style="text-align: left">
-        Zigoto | Ovos | Larva | Pupa | Juvenil | Adulto | Semente | Muda | Frutificação | Floração | Protoninfa | Deutoninfa
+        Ovo | Zigoto | Pupa | Ninfa | Protoninfa | Deutoninfa | Juvenil | Adulto | Semente | Muda | Frutificação | Floração
       </td>
     </tr>
     <tr>
@@ -1493,9 +1493,6 @@ Para iniciar uma discussão sobre algum termo, clique no título das tabelas aba
       <td style="text-align: left">
         Planta:
            <ul>
-           <li>
-             <a href="https://ala-hub.sibbr.gov.br/ala-hub/occurrences/66c41f5d-0943-4e92-a402-c852f20e6700"> Frutificação</a>
-          </li>
           <li>
           Semente
           </li>
@@ -1503,32 +1500,42 @@ Para iniciar uma discussão sobre algum termo, clique no título das tabelas aba
           Muda
           </li>
           <li>
+          <a href="https://ala-hub.sibbr.gov.br/ala-hub/occurrences/66c41f5d-0943-4e92-a402-c852f20e6700"> Frutificação</a>
+          </li>               
+          <li>
           Floração: registro de planta observado ou coletado em fase de floração. A floração indica abertura das inflorescências, passando pela fase de expansão completa até a liberação do pólen (EMBRAPA, 2004).
           </li>
-           </ul>
+          </ul>
         Animal:
            <ul>
            <li>
-           <a
-              href="https://ala-hub.sibbr.gov.br/ala-hub/occurrences/b1e323db-e480-489e-ac14-f13a02d2f0ca"
-              >Larva</a
-            >
-          </li>
-          <li>
+             Ovo
+           </li>
+            <li>
             Zigoto
             </li>
-          <li>
+             <a
+              href="https://ala-hub.sibbr.gov.br/ala-hub/occurrences/b1e323db-e480-489e-ac14-f13a02d2f0ca"
+              >Larva</a>
+              <li>            
+            Pupa
+             </li>
+             <li>
+               Ninfa
+             </li>
+             <li>
+               Protoninfa
+             </li>
+             <li>
+               Deutoninfa
+             </li>
+            <li>
             Juvenil
             </li>
           <li>
             Adulto
             </li>
-          <li>
-            Ovos
-            </li>
-          <li>
-            Pupa
-        </ul>
+           </ul>
       </td>
     </tr>
   </tbody>
