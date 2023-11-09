@@ -1485,7 +1485,7 @@ Para iniciar uma discussão sobre algum termo, clique no título das tabelas aba
     <tr>
       <td style="text-align: left">Domínio</td>
       <td style="text-align: left">
-        Zigoto | Ovos | Larva | Pupa | Juvenil | Adulto | Semente | Muda | Frutificação | Floração 
+        Zigoto | Ovos | Larva | Pupa | Juvenil | Adulto | Semente | Muda | Frutificação | Floração | Protoninfa | Deutoninfa
       </td>
     </tr>
     <tr>
@@ -3261,6 +3261,8 @@ Para iniciar uma discussão sobre algum termo, clique no título das tabelas aba
           <li> Manguezal            
           </li>
           <li> Floresta decidual            
+          </li>
+          <li> Cavernas
           </li>
           </ul>
       </td>
