@@ -1485,7 +1485,7 @@ Para iniciar uma discussão sobre algum termo, clique no título das tabelas aba
     <tr>
       <td style="text-align: left">Domínio</td>
       <td style="text-align: left">
-        Ovo | Zigoto | Pupa | Ninfa | Protoninfa | Deutoninfa | Juvenil | Adulto | Semente | Muda | Frutificação | Floração
+        Ovo | Zigoto | Pupa | Ninfa (Protoninfa ou Deutoninfa) | Juvenil | Adulto | Semente | Muda | Frutificação | Floração
       </td>
     </tr>
     <tr>
