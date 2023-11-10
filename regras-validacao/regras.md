@@ -9,6 +9,8 @@ Transformações/validações aplicadas a todos os termos:
 
 ## [type](https://github.com/sibbr/DarwinCoreBrasil#type)
 
+- Tipagem: `string`
+
 - Valores: não pode ser nulo
   - preenchimento a partir do formulário de metadados do recurso: `Tipo de dado`
   <!-- - quando for (sub)coleção, o tipo será: `PhysicalObject` -->
@@ -17,10 +19,14 @@ Transformações/validações aplicadas a todos os termos:
 
 ## [modified](https://github.com/sibbr/DarwinCoreBrasil#modified)
 
+- Tipagem: `string`
+
 - Valores: não pode ser nulo
   - os valores devem seguir [ISO 8601](https://pt.wikipedia.org/wiki/ISO_8601) (YYYY-MM-DD)
 
 ## [language](https://github.com/sibbr/DarwinCoreBrasil#language)
+
+- Tipagem: `string`
 
 - Valores: não pode ser nulo
   - abreviação da língua utilizada (pt, es, en)
@@ -28,10 +34,15 @@ Transformações/validações aplicadas a todos os termos:
 
 ## [license](https://github.com/sibbr/DarwinCoreBrasil#license)
 
+
+- Tipagem: `string`
+
 - Valores: não pode ser nulo
   - preenchimento a partir do formulário: `Licença`
 
 ## [rightsHolder](https://github.com/sibbr/DarwinCoreBrasil#rightsholder)
+
+- Tipagem: `string`
 
 - Valores: não pode ser nulo
   - preenchimento a partir do formulário de cadastro: `Cadastro: Instituição ou provedor de dados`
@@ -43,10 +54,14 @@ Transformações/validações aplicadas a todos os termos:
 <!-- ## [collectionID](https://github.com/sibbr/DarwinCoreBrasil#collectionid) -->
 ## [datasetID](https://github.com/sibbr/DarwinCoreBrasil#datasetid)
 
+- Tipagem: `string` | `UUID`
+
 - Valores: não pode ser nulo
   - UUID criado automaticamente ao final do preenchimento do formulário do recurso
 
 ## [institutionCode](https://github.com/sibbr/DarwinCoreBrasil#institutioncode)
+
+- Tipagem: `string`
 
 - Valores: não pode ser nulo
   - Acrônimo da instituição
@@ -55,11 +70,15 @@ Transformações/validações aplicadas a todos os termos:
 <!-- ## [collectionCode](https://github.com/sibbr/DarwinCoreBrasil#collectioncode) -->
 ## [datasetName](https://github.com/sibbr/DarwinCoreBrasil#datasetname)
 
+- Tipagem: `string`
+
 - Valores: não pode ser nulo
   - preenchimento a partir do formulário de metadados do recurso: `Título`
   <!-- - preenchimento a partir do formulário de metadados de coleção: `Nome da (sub)coleção` -->
 
 ## [ownerInstitutionCode](https://github.com/sibbr/DarwinCoreBrasil#ownerinstitutioncode)
+
+- Tipagem: `string`
 
 - Valores: não pode ser nulo
   - preenchimento a partir do formulário de cadastro: `Cadastro: Instituição ou provedor de dados`
@@ -129,6 +148,8 @@ Transformações/validações aplicadas a todos os termos:
 <!-- ## [fieldNumber](https://github.com/sibbr/DarwinCoreBrasil#fieldnumber) -->
 ## [eventDate](https://github.com/sibbr/DarwinCoreBrasil#eventdate)
 
+- Tipagem: `date`
+
 - Valores: os valores devem seguir [ISO 8601](https://pt.wikipedia.org/wiki/ISO_8601) (YYYY-MM-DD)
   - manter a data original no termo [verbatimEventDate](https://github.com/sibbr/DarwinCoreBrasil#verbatimeventdate)
   - pode ser derivado de year - month - ano quando necessário
@@ -144,17 +165,23 @@ Transformações/validações aplicadas a todos os termos:
 
 ## [eventTime](https://github.com/sibbr/DarwinCoreBrasil#eventtime)
 
+- Tipagem: `datetime`
+
 - Valores: os valores devem seguir [ISO 8601](https://pt.wikipedia.org/wiki/ISO_8601) (exemplo: 18:15:24-03:00).
 
 <!-- ## [startDayOfYear](https://github.com/sibbr/DarwinCoreBrasil#startdayofyear) -->
 <!-- ## [endDayOfYear](https://github.com/sibbr/DarwinCoreBrasil#enddayofyear) -->
 ## [year](https://github.com/sibbr/DarwinCoreBrasil#year)
 
+- Tipagem: `numeric` | `date`
+
 - Valores: quatros dígitos indicando o ano em que o evento ocorreu: YYYY
   - pode ser derivado de [eventDate](https://github.com/sibbr/DarwinCoreBrasil#eventdate) quando necessário
   - o valor não ser maior do que o ano atual
 
 ## [month](https://github.com/sibbr/DarwinCoreBrasil#month)
+
+- Tipagem: `numeric` | `date`
 
 - Valores: dois dígitos indicando o mês em que o evento ocorreu: MM
   - pode ser derivado de [eventDate](https://github.com/sibbr/DarwinCoreBrasil#eventdate) quando necessário
@@ -163,12 +190,16 @@ Transformações/validações aplicadas a todos os termos:
 
 ## [day](https://github.com/sibbr/DarwinCoreBrasil#day)
 
+- Tipagem: `numeric` | `date`
+
 - Valores: dois dígitos indicando o dia em que o evento ocorreu: DD
   - pode ser derivado de [eventDate](https://github.com/sibbr/DarwinCoreBrasil#eventdate) quando necessário
   - valores de 1 a 9 devem ser precedidos por zero (zero-padded): 01, 02, 03, etc.
   - o valor deve estar entre a amplitude de 01 a 31
 
 ## [verbatimEventDate](https://github.com/sibbr/DarwinCoreBrasil#verbatimeventdate)
+
+- Tipagem: `string`
 
 - Valores: não pode ser nulo
   - manter a data original independente do formato
@@ -189,21 +220,29 @@ Transformações/validações aplicadas a todos os termos:
 <!-- ## [island](https://github.com/sibbr/DarwinCoreBrasil#island) -->
 ## [country](https://github.com/sibbr/DarwinCoreBrasil#country)
 
+- Tipagem: `string`
+
 - Valores: nome do país em que o evento foi observado.
   - a consistência pode ser verificada usando geocodificação reversa quando [decimalLatitude](https://github.com/sibbr/DarwinCoreBrasil#decimallatitude) e [decimalLongitude](https://github.com/sibbr/DarwinCoreBrasil#decimallongitude) estiverem disponíveis
 
 <!-- ## [countryCode](https://github.com/sibbr/DarwinCoreBrasil#countrycode) -->
 ## [stateProvince](https://github.com/sibbr/DarwinCoreBrasil#stateprovince)
 
+- Tipagem: `string`
+
 - Valores: nome da Unidade Federativa (Estado) não abreviado em que o evento foi observado.
   - a consistência pode ser verificada usando geocodificação reversa quando [decimalLatitude](https://github.com/sibbr/DarwinCoreBrasil#decimallatitude) e [decimalLongitude](https://github.com/sibbr/DarwinCoreBrasil#decimallongitude) estiverem disponíveis
 
 ## [county](https://github.com/sibbr/DarwinCoreBrasil#county)
 
+- Tipagem: `string`
+
 - Valores: nome da região administrativa não abreviado menor do que o [stateProvince](https://github.com/sibbr/DarwinCoreBrasil#stateprovince), geralmente usado para município
   - a consistência pode ser verificada usando geocodificação reversa quando [decimalLatitude](https://github.com/sibbr/DarwinCoreBrasil#decimallatitude) e [decimalLongitude](https://github.com/sibbr/DarwinCoreBrasil#decimallongitude) estiverem disponíveis
 
 ## [locality](https://github.com/sibbr/DarwinCoreBrasil#locality)
+
+- Tipagem: `string`
 
 - Valores: não pode ser nulo
 
@@ -221,6 +260,8 @@ Transformações/validações aplicadas a todos os termos:
 <!-- ## [locationRemarks](https://github.com/sibbr/DarwinCoreBrasil#locationremarks) -->
 ## [decimalLatitude](https://github.com/sibbr/DarwinCoreBrasil#decimallatitude)
 
+- Tipagem: `numeric`
+
 - Valores: não pode ser nulo
   - deve estar em graus decimais
   - o separador do ponto flutuante deve ser o ponto (.) e não a vírgula (,)
@@ -233,6 +274,8 @@ Transformações/validações aplicadas a todos os termos:
 
 ## [decimalLongitude](https://github.com/sibbr/DarwinCoreBrasil#decimallongitude)
 
+- Tipagem: `numeric`
+
 - Valores: não pode ser nulo
   - deve estar em graus decimais
   - o separador do ponto flutuante deve ser o ponto (.) e não a vírgula (,)
@@ -244,6 +287,8 @@ Transformações/validações aplicadas a todos os termos:
   - se o valor informado for o par de coordenadas, esse deve ser movido para [verbatimCoordinates](https://github.com/sibbr/DarwinCoreBrasil#verbatimcoordinates); o valor mantido em decimalLongitude deve ser somente o valor referente à longitude
 
 ## [geodeticDatum](https://github.com/sibbr/DarwinCoreBrasil#geodeticdatum)
+
+- Tipagem: `string`
 
 - Valores: EPSG:4326 | WGS84 | EPSG:4674 | SIRGAS2000
 
@@ -301,6 +346,8 @@ Transformações/validações aplicadas a todos os termos:
 <!-- ## [taxonConceptID](https://github.com/sibbr/DarwinCoreBrasil#taxonconceptid) -->
 ## [scientificName](https://github.com/sibbr/DarwinCoreBrasil#scientificname)
 
+- Tipagem: `string`
+
 - Valores: Não pode ser nulo
   - Pode ser preenchido pela combinação das colunas [genus](https://github.com/sibbr/DarwinCoreBrasil#genus) e [specificEpithet](https://github.com/sibbr/DarwinCoreBrasil#specificepithet), quando estas estiverem preeenchidas
 
@@ -324,6 +371,8 @@ Ver também: https://github.com/tdwg/bdq/issues/82
 <!-- ## [subtribe](https://github.com/sibbr/DarwinCoreBrasil#subtribe) -->
 ## [genus](https://github.com/sibbr/DarwinCoreBrasil#genus)
 
+- Tipagem: `string`
+
 - Valores: campo de texto
   - pode estar vazio
   - apenas uma palavra
@@ -336,6 +385,8 @@ Ver também: https://github.com/tdwg/bdq/issues/82
 <!-- ## [infragenericEpithet](https://github.com/sibbr/DarwinCoreBrasil#infragenericepithet) -->
 
 ## [specificEpithet](https://github.com/sibbr/DarwinCoreBrasil#specificepithet)
+
+- Tipagem: `string`
 
 - Valores: campo de texto
   - pode estar vazio
