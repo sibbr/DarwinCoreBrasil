@@ -3283,6 +3283,12 @@ Para iniciar uma discussão sobre algum termo, clique no título das tabelas aba
           <li>
             Rios
           </li>
+          <li>
+            Estuários
+          </li>
+          <li>
+            Zona costeira
+          </li>
         </ul>
         Outros:
         <ul>
