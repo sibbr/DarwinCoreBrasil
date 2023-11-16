@@ -3254,46 +3254,68 @@ Para iniciar uma discussão sobre algum termo, clique no título das tabelas aba
     <tr>
       <td style="text-align: left">Exemplos</td>
       <td style="text-align: left">
+        Biomas: 
         <ul>
           <li>
-            <a
-              href= "https://ala-hub.sibbr.gov.br/ala-hub/occurrences/2b8fd447-6db2-4ac8-a0c4-4622bb1ed2b0"
-              >Mata Atlântica</a>
-            </li>
+            Cerrado
+          </li>
           <li>
-              <a
-              href= "https://ala-hub.sibbr.gov.br/ala-hub/occurrences/fecf7aed-3ed8-446c-8069-ecc59f2246f1"
-              >Cerrado</a>
-            </li>
+            Mata Atlântica
+          </li>
           <li>
-            <a
-              href="https://ala-hub.sibbr.gov.br/ala-hub/occurrences/bf050988-7ed3-4768-a699-b351767ca030"
-              >Arquipélagos</a>
-            </li>
-          <li> Sub-bosque            
+            Pantanal
           </li>
-          <li> Solo
+          <li>
+            Caatinga
           </li>
-          <li> Serrapilheira/folhiço
+          <li>
+            Pampa
           </li>
-          <li> Dossel
+          <li>
+            Amazônia
           </li>
-          <li> Área inundável
-          </li>
-          <li> Floresta Ombrófila            
-          </li>
-          <li> Pastagem            
-          </li>
-          <li> Manguezal            
-          </li>
-          <li> Floresta decidual            
-          </li>
-          <li> Cavernas
-          </li>
+          </ul>
+        Ambientes aquáticos:
+        <ul>
           <li>
             Lagoas
           </li>
-          </ul>
+          <li>
+            Rios
+          </li>
+        </ul>
+        Outros:
+        <ul>
+        <li>
+          Solo
+        </li>
+          <li>
+            Dossel
+          </li>
+          <li>
+            Serapilheira
+          </li>
+          <li>
+            Pastagem
+          </li>
+          <li>
+            Cavernas
+          </li>
+          <li>
+            Manguezal
+          </li>
+          <li>
+            Floresta ombrófila
+          </li>
+          <li>
+            Floresta decidual
+          </li>
+          <li>
+            Sub-bosque
+          </li>
+          <li>
+            Área inundável
+          </li>
       </td>
     </tr>
   </tbody>
