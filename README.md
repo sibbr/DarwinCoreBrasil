@@ -1939,8 +1939,7 @@ Para iniciar uma discussão sobre algum termo, clique no título das tabelas aba
     <tr>
       <td style="text-align: left">Domínio</td>
       <td style="text-align: left">
-        Pele | Crânio | Esqueleto | Animal inteiro | Tecido | Extração DNA |
-        Sangue
+        Pele | Crânio | Esqueleto | Animal inteiro | Tecido | Extração DNA | Sangue | Método de Castellani | Imersão em água mineral | Crioconcentrado | Criopresevação | Ultrafreezer | Liofilizado
       </td>
     </tr>
     <tr>
@@ -1962,6 +1961,9 @@ Para iniciar uma discussão sobre algum termo, clique no título das tabelas aba
             <a
               href="https://ala-hub.sibbr.gov.br/ala-hub/occurrences/8e833695-fb63-49be-af06-7371ec353990"
               >DNA</a>
+            <li>
+              Preservação de fungos: Método de Castellani, Imersão em água mineral, Crioconcentrado, Criopresevação, Ultrafreezer, Liofilizado
+            </li>
           </li>
         </ul>
       </td>
