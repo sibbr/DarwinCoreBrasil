@@ -1961,9 +1961,26 @@ Para iniciar uma discussão sobre algum termo, clique no título das tabelas aba
             <a
               href="https://ala-hub.sibbr.gov.br/ala-hub/occurrences/8e833695-fb63-49be-af06-7371ec353990"
               >DNA</a>
-            <li>
-              Preservação de fungos: Método de Castellani, Imersão em água mineral, Crioconcentrado, Criopresevação, Ultrafreezer, Liofilizado
             </li>
+           </ul>
+              Preservação de fungos: 
+        <ul>
+          <li>
+            Método de Castellani
+            </li>
+          <li>
+            Imersão em água mineral
+          </li>
+          <li>
+             Crioconcentrado
+          </li>
+          <li>
+            Criopresevação
+          <li>
+            Ultrafreezer
+          </li>
+          <li>
+            Liofilizado
           </li>
         </ul>
       </td>
