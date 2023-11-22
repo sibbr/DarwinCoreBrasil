@@ -6186,9 +6186,7 @@ Para iniciar uma discussão sobre algum termo, clique no título das tabelas aba
       <td style="text-align: left">Exemplos</td>
       <td style="text-align: left">
         <ul>
-          <li>Serra do Mar</li>
-          <li>Serra da Mantiqueira</li>
-        </ul>
+         </ul>
       </td>
     </tr>
   </tbody>
@@ -6265,8 +6263,6 @@ Para iniciar uma discussão sobre algum termo, clique no título das tabelas aba
       <td style="text-align: left">Exemplos</td>
       <td style="text-align: left">
         <ul>
-          <li>Fm. Ribeirão do Torto</li>
-          <li>Fm. Ribeirão São Miguel</li>
         </ul>
       </td>
     </tr>
