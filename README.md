@@ -784,7 +784,7 @@ Para iniciar uma discussão sobre algum termo, clique no título das tabelas aba
       <td style="text-align: left">
         <ul>
           <li>PreservedSpecimen: exsicata, espécime, cultivo.</li>
-          <li>MaterialSample: amostra de tecido, sangue, saliva ou alguma parte óssea, cabelo ou pena. </li>
+          <li>MaterialSample: amostra de tecido, sangue, saliva, partes ósseas, cabelo, pena. </li>
           <li>
             HumanObservation: registro sem coleta. Dados de inventário, evento de amostragem ou ciência cidadã.
           </li>
