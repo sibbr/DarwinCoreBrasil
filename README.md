@@ -789,7 +789,7 @@ Para iniciar uma discussão sobre algum termo, clique no título das tabelas aba
             HumanObservation: registro sem coleta. Dados de inventário, evento de amostragem ou ciência cidadã.
           </li>
           <li>MachineObservation: registro fotográfico, camera trap, gravação. </li>
-          <li>LivingSpecimen: zoológico, ardim Botânico e coleções vivas. </li>
+          <li>LivingSpecimen: zoológico, jardim Botânico e coleções vivas. </li>
           <li>
             FossilSpecimen: registro de fóssil
           </li>
