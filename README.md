@@ -783,7 +783,7 @@ Para iniciar uma discussão sobre algum termo, clique no título das tabelas aba
       <td style="text-align: left">Exemplos</td>
       <td style="text-align: left">
         <ul>
-          <li>PreservedSpecimen: exsicata, espécime, cultivo</li>
+          <li>PreservedSpecimen: exsicata, espécime, cultivo.</li>
           <li>MaterialSample: amostra de tecido, sangue, saliva ou alguma parte óssea, cabelo ou pena. </li>
           <li>
             HumanObservation: registro sem coleta. Dados de inventário, evento de amostragem ou ciência cidadã.
@@ -791,7 +791,7 @@ Para iniciar uma discussão sobre algum termo, clique no título das tabelas aba
           <li>MachineObservation: registro fotográfico, camera trap, gravação. </li>
           <li>LivingSpecimen: zoológico, jardim Botânico e coleções vivas. </li>
           <li>
-            FossilSpecimen: registro de fóssil
+            FossilSpecimen: registro de fóssil.
           </li>
         </ul>
       </td>
