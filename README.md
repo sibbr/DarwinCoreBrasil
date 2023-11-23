@@ -776,8 +776,7 @@ Para iniciar uma discussão sobre algum termo, clique no título das tabelas aba
     <tr>
       <td style="text-align: left">Domínio</td>
       <td style="text-align: left">
-        PreservedSpecimen | HumanObservation | MaterialSample | LivingSpecimen |
-        MachineObservation
+        PreservedSpecimen | HumanObservation | MaterialSample | LivingSpecimen | MachineObservation | MaterialEntity | FossilSpecimen | Event | Taxon | Occurrence | MaterialCitation
       </td>
     </tr>
     <tr>
