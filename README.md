@@ -776,7 +776,7 @@ Para iniciar uma discussão sobre algum termo, clique no título das tabelas aba
     <tr>
       <td style="text-align: left">Domínio</td>
       <td style="text-align: left">
-        PreservedSpecimen | HumanObservation | MaterialSample | LivingSpecimen | MachineObservation | MaterialEntity | FossilSpecimen | Event | Taxon | Occurrence | MaterialCitation
+        PreservedSpecimen | HumanObservation | MaterialSample | LivingSpecimen | MachineObservation | FossilSpecimen
       </td>
     </tr>
     <tr>
@@ -784,12 +784,15 @@ Para iniciar uma discussão sobre algum termo, clique no título das tabelas aba
       <td style="text-align: left">
         <ul>
           <li>PreservedSpecimen: exsicata, espécime, cultivo</li>
-          <li>MaterialSample: tecido, sangue, fêmur</li>
+          <li>MaterialSample: amostra de tecido, sangue, saliva ou alguma parte óssea, cabelo ou pena. </li>
           <li>
-            HumanObservation: inventário, evento de amostragem, ocorrência (observação, captura/recaptura), ciência cidadã.
+            HumanObservation: registro sem coleta. Dados de inventário, evento de amostragem ou ciência cidadã.
           </li>
-          <li>MachineObservation: fotografia, câmera trap</li>
-          <li>LivingSpecimen: Zoológico, Jardim Botânico e coleções vivas. </li>
+          <li>MachineObservation: registro fotográfico, camera trap, gravação. </li>
+          <li>LivingSpecimen: zoológico, ardim Botânico e coleções vivas. </li>
+          <li>
+            FossilSpecimen: registro de fóssil
+          </li>
         </ul>
       </td>
     </tr>
