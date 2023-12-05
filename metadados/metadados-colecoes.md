@@ -19,7 +19,10 @@ https://ipt.gbif.org/manual/en/ipt/latest/gbif-metadata-profile
  </thead>
 <tbody>
   <tr>
-   <td style="text-align:left;"> alternateIdentifier </td>
+   <td style="text-align:left;"> 
+    <a 
+     href="https://sbclter.msi.ucsb.edu/external/InformationManagement/EML_211_schema/docs/eml-2.1.1/eml-resource.html#alternateIdentifier"
+     >alternateIdentifier</a></td>
    <td style="text-align:left;"> It is a Universally Unique Identifier (UUID) for the EML document and not for the dataset. This term is optional. A list of different identifiers can be supplied. E.g., 619a4b95-1a82-4006-be6a-7dbe3c9b33c5. </td>
    <td style="text-align:left;"> 
  </td>
@@ -27,7 +30,10 @@ https://ipt.gbif.org/manual/en/ipt/latest/gbif-metadata-profile
  </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> title </td>
+   <td style="text-align:left;"> 
+    <a 
+     href="https://sbclter.msi.ucsb.edu/external/InformationManagement/EML_211_schema/docs/eml-2.1.1/eml-resource.html#alternateIdentifier"
+     >title </td>
    <td style="text-align:left;"> A description of the resource that is being documented that is long enough to differentiate it from other similar resources. Multiple titles may be provided, particularly when trying to express the title in more than one language (use the &quot;xml:lang&quot; attribute to indicate the language if not English/en). E.g. Vernal pool amphibian density data, Isla Vista, 1990-1996. </td>
    <td style="text-align:left;"> 
  </td>
