@@ -230,7 +230,9 @@ https://ipt.gbif.org/manual/en/ipt/latest/gbif-metadata-profile
  </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> organizationName </td>
+   <td style="text-align:left;">
+    <a
+     href="https://sbclter.msi.ucsb.edu/external/InformationManagement/EML_211_schema/docs/eml-2.1.1/eml-party.html#organizationName">organizationName</a> </td>
    <td style="text-align:left;"> The full name of the organization that is associated with the resource. This field is intended to describe which institution or overall organization is associated with the resource being described. E.g., National Center for Ecological Analysis and Synthesis </td>
    <td style="text-align:left;"> 
  </td>
@@ -238,7 +240,9 @@ https://ipt.gbif.org/manual/en/ipt/latest/gbif-metadata-profile
  </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> positionName </td>
+   <td style="text-align:left;">
+    <a
+     href="https://sbclter.msi.ucsb.edu/external/InformationManagement/EML_211_schema/docs/eml-2.1.1/eml-party.html#positionName"> positionName</a> </td>
    <td style="text-align:left;"> This field is intended to be used instead of a particular person or full organization name. If the associated person that holds the role changes frequently, then Position Name would be used for consistency. Note that this field, used in conjunction with 'organizationName' and 'individualName' make up a single logical originator. Because of this, an originator with only the individualName of 'Joe Smith' is NOT the same as an originator with the name of 'Joe Smith' and the organizationName of 'NSF'. Also, the positionName should not be used in conjunction with individualName unless only that individual at that position would be considered an originator for the data package. If a positionName is used in conjunction with an organizationName, then that implies that any person who currently occupies said positionName at organizationName is the originator of the data package. E.g., HAST herbarium data manager </td>
    <td style="text-align:left;"> 
  </td>
@@ -246,7 +250,9 @@ https://ipt.gbif.org/manual/en/ipt/latest/gbif-metadata-profile
  </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> electronicMailAddress </td>
+   <td style="text-align:left;">
+    <a
+     href="https://sbclter.msi.ucsb.edu/external/InformationManagement/EML_211_schema/docs/eml-2.1.1/eml-party.html#electronicMailAddress" >electronicMailAddress</a> </td>
    <td style="text-align:left;"> The electronic mail address is the email address for the party. It is intended to be an Internet SMTP email address, which should consist of a username followed by the @ symbol, followed by the email server domain name address. E.g. jcuadra@gbif.org </td>
    <td style="text-align:left;"> 
  </td>
@@ -254,7 +260,9 @@ https://ipt.gbif.org/manual/en/ipt/latest/gbif-metadata-profile
  </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> deliveryPoint </td>
+   <td style="text-align:left;">
+    <a
+     href="https://sbclter.msi.ucsb.edu/external/InformationManagement/EML_211_schema/docs/eml-2.1.1/eml-party.html#deliveryPoint" >deliveryPoint</a> </td>
    <td style="text-align:left;"> Subfield of the address field that describes the physical or electronic address of the responsible party for a resource. The delivery point field is used for the physical address for postal communication. E.g., GBIF Secretariat, Universitetsparken 15 </td>
    <td style="text-align:left;"> 
  </td>
@@ -262,7 +270,9 @@ https://ipt.gbif.org/manual/en/ipt/latest/gbif-metadata-profile
  </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> role </td>
+   <td style="text-align:left;">
+    <a
+     href="https://sbclter.msi.ucsb.edu/external/InformationManagement/EML_211_schema/docs/eml-2.1.1/eml-party.html#role" >role</a> </td>
    <td style="text-align:left;"> Use this field to describe the role the party played with respect to the resource. E.g. technician, reviewer, principal investigator, etc. </td>
    <td style="text-align:left;"> 
  </td>
@@ -270,7 +280,9 @@ https://ipt.gbif.org/manual/en/ipt/latest/gbif-metadata-profile
  </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> phone </td>
+   <td style="text-align:left;">
+    <a
+     href="https://sbclter.msi.ucsb.edu/external/InformationManagement/EML_211_schema/docs/eml-2.1.1/eml-party.html#phone">phone</a> </td>
    <td style="text-align:left;"> The phone field describes information about the responsible party’s telephone, be it a voice phone, fax. E.g. +4530102040 </td>
    <td style="text-align:left;"> 
  </td>
@@ -278,7 +290,9 @@ https://ipt.gbif.org/manual/en/ipt/latest/gbif-metadata-profile
  </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> postalCode </td>
+   <td style="text-align:left;">
+    <a
+     href="https://sbclter.msi.ucsb.edu/external/InformationManagement/EML_211_schema/docs/eml-2.1.1/eml-party.html#postalCode">postalCode</a> </td>
    <td style="text-align:left;"> Subfield of the address field that describes the physical or electronic address of the responsible party for a resource. The postal code is equivalent to a U.S. zip code, or the number used for routing to an international address.  E.g., 52000. </td>
    <td style="text-align:left;"> 
  </td>
@@ -286,7 +300,9 @@ https://ipt.gbif.org/manual/en/ipt/latest/gbif-metadata-profile
  </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> city </td>
+   <td style="text-align:left;">
+    <a
+     href="https://sbclter.msi.ucsb.edu/external/InformationManagement/EML_211_schema/docs/eml-2.1.1/eml-party.html#city">city</a> </td>
    <td style="text-align:left;"> Subfield of the address field that describes the physical or electronic address of the responsible party for a resource. The city field is used for the city name of the contact associated with a particular resource. E.g. San Diego. </td>
    <td style="text-align:left;"> 
  </td>
@@ -294,7 +310,9 @@ https://ipt.gbif.org/manual/en/ipt/latest/gbif-metadata-profile
  </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> administrativeArea </td>
+   <td style="text-align:left;">
+    <a
+     href="https://sbclter.msi.ucsb.edu/external/InformationManagement/EML_211_schema/docs/eml-2.1.1/eml-party.html#administrativeArea">administrativeArea</a> </td>
    <td style="text-align:left;"> Subfield of the address field that describes the physical or electronic address of the responsible party for a resource. The administrative area field is the equivalent of a 'state' in the U.S., or Province in Canada. This field is intended to accommodate the many types of international administrative areas. E.g. Colorado </td>
    <td style="text-align:left;"> 
  </td>
@@ -302,7 +320,9 @@ https://ipt.gbif.org/manual/en/ipt/latest/gbif-metadata-profile
  </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> country </td>
+   <td style="text-align:left;">
+    <a
+     href="https://sbclter.msi.ucsb.edu/external/InformationManagement/EML_211_schema/docs/eml-2.1.1/eml-party.html#country">country</a> </td>
    <td style="text-align:left;"> Subfield of the address field that describes the physical or electronic address of the responsible party for a resource. The country field is used for the name of the contact’s country. The country name is most often derived from the ISO 3166 country code list. E.g., Japan. </td>
    <td style="text-align:left;"> 
  </td>
@@ -310,7 +330,9 @@ https://ipt.gbif.org/manual/en/ipt/latest/gbif-metadata-profile
  </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> onlineUrl </td>
+   <td style="text-align:left;">
+    <a
+     href="https://sbclter.msi.ucsb.edu/external/InformationManagement/EML_211_schema/docs/eml-2.1.1/eml-party.html#onlineUrl">onlineUrl</a> </td>
    <td style="text-align:left;"> A link to associated online information, usually a web site. When the party represents an organization, this is the URL to a website or other online information about the organization. If the party is an individual, it might be their personal web site or other related online information about the party. E.g., https://www.example.edu/botany. </td>
    <td style="text-align:left;"> 
  </td>
@@ -333,7 +355,9 @@ https://ipt.gbif.org/manual/en/ipt/latest/gbif-metadata-profile
  </thead>
 <tbody>
   <tr>
-   <td style="text-align:left;"> keyword </td>
+   <td style="text-align:left;">
+    <a
+     href="https://sbclter.msi.ucsb.edu/external/InformationManagement/EML_211_schema/docs/eml-2.1.1/eml-resource.html#keyword">keyword</a> </td>
    <td style="text-align:left;"> A keyword or key phrase that concisely describes the resource or is related to the resource. Each keyword field should contain one and only one keyword (i.e., keywords should not be separated by commas or other delimiters). E.g., biodiversity. </td>
    <td style="text-align:left;"> 
  </td>
@@ -341,7 +365,9 @@ https://ipt.gbif.org/manual/en/ipt/latest/gbif-metadata-profile
  </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> keywordThesaurus </td>
+   <td style="text-align:left;">
+    <a
+     href="https://sbclter.msi.ucsb.edu/external/InformationManagement/EML_211_schema/docs/eml-2.1.1/eml-resource.html#keywordThesaurus">keywordThesaurus</a> </td>
    <td style="text-align:left;"> The name of the official keyword thesaurus from which keyword was derived. If an official thesaurus name does not exist, please keep a placeholder value such as “N/A” instead of removing this element as it is required together with the keyword element to constitute a keywordSet. E.g., IRIS keyword thesaurus. </td>
    <td style="text-align:left;"> 
  </td>
@@ -364,7 +390,9 @@ https://ipt.gbif.org/manual/en/ipt/latest/gbif-metadata-profile
  </thead>
 <tbody>
   <tr>
-   <td style="text-align:left;"> generalTaxonomicCoverage </td>
+   <td style="text-align:left;">
+    <a
+     href="https://sbclter.msi.ucsb.edu/external/InformationManagement/EML_211_schema/docs/eml-2.1.1/eml-coverage.html#generalTaxonomicCoverage">generalTaxonomicCoverage</a> </td>
    <td style="text-align:left;"> Taxonomic Coverage is a container for taxonomic information about a resource. It includes a list of species names (or higher level ranks) from one or more classification systems. A description of the range of taxa addressed in the data set or collection. Use a simple comma separated list of taxa. E.g., &quot;All vascular plants were identified to family or species, mosses and lichens were identified as moss or lichen.&quot; </td>
    <td style="text-align:left;"> 
  </td>
