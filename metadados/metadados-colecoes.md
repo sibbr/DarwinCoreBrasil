@@ -595,7 +595,9 @@ https://ipt.gbif.org/manual/en/ipt/latest/gbif-metadata-profile
  </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> studyExtent </td>
+   <td style="text-align:left;">
+    <a
+     href="https://sbclter.msi.ucsb.edu/external/InformationManagement/EML_211_schema/docs/eml-2.1.1/eml-methods.html#sampling">studyExtent</a> </td>
    <td style="text-align:left;"> Subfield of the sampling field. The coverage field allows for a textual description of the specific sampling area, the sampling frequency (temporal boundaries, frequency of occurrence), and groups of living organisms sampled (taxonomic coverage). The field studyExtent represents both a specific sampling area and the sampling frequency (temporal boundaries, frequency of occurrence). The geographic studyExtent is usually a surrogate (representative area of) for the larger area documented in the &quot;studyAreaDescription&quot;. </td>
    <td style="text-align:left;"> 
  </td>
@@ -626,7 +628,9 @@ https://ipt.gbif.org/manual/en/ipt/latest/gbif-metadata-profile
  </thead>
 <tbody>
   <tr>
-   <td style="text-align:left;"> purpose </td>
+   <td style="text-align:left;">
+    <a
+     href="https://sbclter.msi.ucsb.edu/external/InformationManagement/EML_211_schema/docs/eml-2.1.1/eml-dataset.html#purpose">purpose</a> </td>
    <td style="text-align:left;"> A description of the purpose of this dataset. </td>
    <td style="text-align:left;"> 
  </td>
@@ -634,7 +638,9 @@ https://ipt.gbif.org/manual/en/ipt/latest/gbif-metadata-profile
  </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> intellectualRights </td>
+   <td style="text-align:left;">
+    <a
+     href="https://sbclter.msi.ucsb.edu/external/InformationManagement/EML_211_schema/docs/eml-2.1.1/eml-resource.html#intellectualRights">intellectualRights</a> </td>
    <td style="text-align:left;"> A rights management statement for the resource, or reference a service providing such information. Rights information encompasses Intellectual Property Rights (IPR), Copyright, and various Property Rights. In the case of a data set, rights might include requirements for use, requirements for attribution, or other requirements the owner would like to impose. E.g., © 2001 Regents of the University of California Santa Barbara. Free for use by all individuals provided that the owners are acknowledged in any use or publication. </td>
    <td style="text-align:left;"> 
  </td>
@@ -681,7 +687,9 @@ https://ipt.gbif.org/manual/en/ipt/latest/gbif-metadata-profile
  </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> citation </td>
+   <td style="text-align:left;"> 
+    <a
+     href="https://sbclter.msi.ucsb.edu/external/InformationManagement/EML_211_schema/docs/eml-2.1.1/eml-literature.html#citation">citation</a></td>
    <td style="text-align:left;"> The citation for the work itself. See eml </td>
    <td style="text-align:left;"> 
  </td>
