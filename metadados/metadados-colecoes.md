@@ -32,7 +32,7 @@ https://ipt.gbif.org/manual/en/ipt/latest/gbif-metadata-profile
   <tr>
    <td style="text-align:left;"> 
     <a 
-     href="https://sbclter.msi.ucsb.edu/external/InformationManagement/EML_211_schema/docs/eml-2.1.1/eml-resource.html#alternateIdentifier"
+     href="https://sbclter.msi.ucsb.edu/external/InformationManagement/EML_211_schema/docs/eml-2.1.1/eml-resource.html#title"
      >title </td>
    <td style="text-align:left;"> A description of the resource that is being documented that is long enough to differentiate it from other similar resources. Multiple titles may be provided, particularly when trying to express the title in more than one language (use the &quot;xml:lang&quot; attribute to indicate the language if not English/en). E.g. Vernal pool amphibian density data, Isla Vista, 1990-1996. </td>
    <td style="text-align:left;"> 
@@ -41,7 +41,9 @@ https://ipt.gbif.org/manual/en/ipt/latest/gbif-metadata-profile
  </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> creator </td>
+   <td style="text-align:left;"> 
+    <a
+     href="https://sbclter.msi.ucsb.edu/external/InformationManagement/EML_211_schema/docs/eml-2.1.1/eml-resource.html#title" >creator</a> </td>
    <td style="text-align:left;"> The resource creator is the person or organization responsible for creating the resource itself. See section “People and Organizations” for more details. </td>
    <td style="text-align:left;"> 
  </td>
@@ -49,7 +51,9 @@ https://ipt.gbif.org/manual/en/ipt/latest/gbif-metadata-profile
  </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> metadataProvider </td>
+   <td style="text-align:left;">
+    <a 
+     href= "https://sbclter.msi.ucsb.edu/external/InformationManagement/EML_211_schema/docs/eml-2.1.1/eml-resource.html#metadataProvider" >metadataProvider</a> </td>
    <td style="text-align:left;"> The metadataProvider is the person or organization responsible for providing documentation for the resource. See section “People and Organizations” for more details. </td>
    <td style="text-align:left;"> 
  </td>
@@ -57,7 +61,9 @@ https://ipt.gbif.org/manual/en/ipt/latest/gbif-metadata-profile
  </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> associatedParty </td>
+   <td style="text-align:left;"> 
+    <a
+     href= "https://sbclter.msi.ucsb.edu/external/InformationManagement/EML_211_schema/docs/eml-2.1.1/eml-resource.html#associatedParty" >associatedParty</a> </td>
    <td style="text-align:left;"> An associatedParty is another person or organization that is associated with the resource. These parties might play various roles in the creation or maintenance of the resource, and these roles should be indicated in the &quot;role&quot; element. See section “People and Organizations” for more details. </td>
    <td style="text-align:left;"> 
  </td>
@@ -65,7 +71,9 @@ https://ipt.gbif.org/manual/en/ipt/latest/gbif-metadata-profile
  </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> contact </td>
+   <td style="text-align:left;">
+    <a
+     href="https://sbclter.msi.ucsb.edu/external/InformationManagement/EML_211_schema/docs/eml-2.1.1/eml-resource.html#contact" >contact</a> </td>
    <td style="text-align:left;"> The contact field contains contact information for this dataset. This is the person or institution to contact with questions about the use, interpretation of a data set. See section “People and Organizations” for more details. </td>
    <td style="text-align:left;"> 
  </td>
@@ -73,7 +81,9 @@ https://ipt.gbif.org/manual/en/ipt/latest/gbif-metadata-profile
  </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> pubDate </td>
+   <td style="text-align:left;"> 
+    <a
+     href="https://sbclter.msi.ucsb.edu/external/InformationManagement/EML_211_schema/docs/eml-2.1.1/eml-resource.html#pubDate" >pubDate </a> </td>
    <td style="text-align:left;"> The date that the resource was published. The format should be represented as: CCYY, which represents a 4 digit year, or as CCYY-MM-DD, which denotes the full year, month, and day. Note that month and day are optional components. Formats must conform to ISO 8601. E.g. 2010-09-20. </td>
    <td style="text-align:left;"> 
  </td>
@@ -81,7 +91,9 @@ https://ipt.gbif.org/manual/en/ipt/latest/gbif-metadata-profile
  </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> language </td>
+   <td style="text-align:left;">
+    <a
+     href="https://sbclter.msi.ucsb.edu/external/InformationManagement/EML_211_schema/docs/eml-2.1.1/eml-resource.html#language" >language </a> </td>
    <td style="text-align:left;"> The language in which the resource (not the metadata document) is written. This can be a well-known language name, or one of the ISO language codes to be more precise. GBIF recommendation is to use the ISO language code (https://api.gbif.org/v1/enumeration/language). E.g., English. </td>
    <td style="text-align:left;"> 
  </td>
@@ -89,14 +101,18 @@ https://ipt.gbif.org/manual/en/ipt/latest/gbif-metadata-profile
  </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> additionalInfo </td>
+   <td style="text-align:left;">
+    <a
+     href="https://sbclter.msi.ucsb.edu/external/InformationManagement/EML_211_schema/docs/eml-2.1.1/eml-resource.html#additionalInfo" >additionalInfo </a> </td>
    <td style="text-align:left;"> Information regarding omissions, instructions or other annotations that resource managers may wish to include with a dataset. Basically, any information that is not characterized by the other resource metadata fields. </td>
    <td style="text-align:left;">  </td>
    <td style="text-align:left;"> 
  </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> url </td>
+   <td style="text-align:left;">
+    <a
+     href="https://sbclter.msi.ucsb.edu/external/InformationManagement/EML_211_schema/docs/eml-2.1.1/eml-resource.html#url" >url </a> </td>
    <td style="text-align:left;"> The URL of the resource that is available online. </td>
    <td style="text-align:left;"> 
  </td>
@@ -104,7 +120,9 @@ https://ipt.gbif.org/manual/en/ipt/latest/gbif-metadata-profile
  </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> abstract </td>
+   <td style="text-align:left;">
+    <a
+     href= "https://sbclter.msi.ucsb.edu/external/InformationManagement/EML_211_schema/docs/eml-2.1.1/eml-resource.html#abstract" >abstract</a> </td>
    <td style="text-align:left;"> A brief overview of the resource that is being documented. </td>
    <td style="text-align:left;"> 
  </td>
@@ -127,7 +145,9 @@ https://ipt.gbif.org/manual/en/ipt/latest/gbif-metadata-profile
  </thead>
 <tbody>
   <tr>
-   <td style="text-align:left;"> title </td>
+   <td style="text-align:left;"> 
+    <a
+     href= "https://sbclter.msi.ucsb.edu/external/InformationManagement/EML_211_schema/docs/eml-2.1.1/eml-project.html#title" >title</a> </td>
    <td style="text-align:left;"> A descriptive title for the research project. E.g., Species diversity in Tennessee riparian habitats </td>
    <td style="text-align:left;"> 
  </td>
@@ -135,7 +155,9 @@ https://ipt.gbif.org/manual/en/ipt/latest/gbif-metadata-profile
  </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> personnel </td>
+   <td style="text-align:left;">
+    <a
+     href="https://sbclter.msi.ucsb.edu/external/InformationManagement/EML_211_schema/docs/eml-2.1.1/eml-project.html#personnel" >personnel</a> </td>
    <td style="text-align:left;"> The personnel field is used to document people involved in a research project by providing contact information and their role in the project. </td>
    <td style="text-align:left;"> 
  </td>
@@ -143,7 +165,9 @@ https://ipt.gbif.org/manual/en/ipt/latest/gbif-metadata-profile
  </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> funding </td>
+   <td style="text-align:left;">
+    <a
+     href="https://sbclter.msi.ucsb.edu/external/InformationManagement/EML_211_schema/docs/eml-2.1.1/eml-project.html#funding" >funding</a> </td>
    <td style="text-align:left;"> The funding field is used to provide information about funding sources for the project such as: grant and contract numbers; names and addresses of funding sources. </td>
    <td style="text-align:left;"> 
  </td>
@@ -151,7 +175,9 @@ https://ipt.gbif.org/manual/en/ipt/latest/gbif-metadata-profile
  </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> studyAreaDescription </td>
+   <td style="text-align:left;">
+    <a
+     href="https://sbclter.msi.ucsb.edu/external/InformationManagement/EML_211_schema/docs/eml-2.1.1/eml-project.html#studyAreaDescription" > studyAreaDescription</a> </td>
    <td style="text-align:left;"> The studyAreaDescription field documents the physical area associated with the research project. It can include descriptions of the geographic, temporal, and taxonomic coverage of the research location and descriptions of domains (themes) of interest such as climate, geology, soils or disturbances. </td>
    <td style="text-align:left;"> 
  </td>
@@ -159,7 +185,9 @@ https://ipt.gbif.org/manual/en/ipt/latest/gbif-metadata-profile
  </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> designDescription </td>
+   <td style="text-align:left;">
+    <a
+     href="https://sbclter.msi.ucsb.edu/external/InformationManagement/EML_211_schema/docs/eml-2.1.1/eml-project.html#designDescription" >designDescription</a> </td>
    <td style="text-align:left;"> The field designDescription contains general textual descriptions of research design. It can include detailed accounts of goals, motivations, theory, hypotheses, strategy, statistical design, and actual work. Literature citations may also be used to describe the research design. </td>
    <td style="text-align:left;"> 
  </td>
@@ -182,7 +210,9 @@ https://ipt.gbif.org/manual/en/ipt/latest/gbif-metadata-profile
  </thead>
 <tbody>
   <tr>
-   <td style="text-align:left;"> givenName </td>
+   <td style="text-align:left;">
+    <a
+     href="https://sbclter.msi.ucsb.edu/external/InformationManagement/EML_211_schema/docs/eml-2.1.1/eml-party.html#givenName"> givenName </a> </td>
    <td style="text-align:left;"> Subfield of individualName field. The given name field can be used for the first name of the individual associated with the resource, or for any other names that are not intended to be alphabetized (as appropriate). E.g., Jonny </td>
    <td style="text-align:left;"> 
  </td>
@@ -190,7 +220,9 @@ https://ipt.gbif.org/manual/en/ipt/latest/gbif-metadata-profile
  </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> surName </td>
+   <td style="text-align:left;">
+    <a
+     href="https://sbclter.msi.ucsb.edu/external/InformationManagement/EML_211_schema/docs/eml-2.1.1/eml-party.html#surName" >surName </a> </td>
    <td style="text-align:left;"> Subfield of individualName field. The surname field is used for the last name of the individual associated with the resource. This is typically the family name of an individual, for example, the name by which s/he is referred to in citations. E.g. Carson </td>
    <td style="text-align:left;"> 
  </td>
