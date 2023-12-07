@@ -687,7 +687,9 @@ https://ipt.gbif.org/manual/en/ipt/latest/gbif-metadata-profile
  </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> citation </td>
+   <td style="text-align:left;"> 
+    <a
+     href="https://sbclter.msi.ucsb.edu/external/InformationManagement/EML_211_schema/docs/eml-2.1.1/eml-literature.html#citation">citation</a> </td>
    <td style="text-align:left;"> The citation for the work itself. See eml </td>
    <td style="text-align:left;"> 
  </td>
