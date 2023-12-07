@@ -97,7 +97,7 @@ modificar os valores padrão. </td>
    <td style="text-align:left;">
     <a
      href="https://sbclter.msi.ucsb.edu/external/InformationManagement/EML_211_schema/docs/eml-2.1.1/eml-resource.html#language" >language </a> </td>
-   <td style="text-align:left;"> O idioma na que a planilha ou fonte de dados foi preenchida. </td>
+   <td style="text-align:left;"> O idioma que a planilha ou fonte de dados foi preenchida. </td>
    <td style="text-align:left;"> 
  </td>
    <td style="text-align:left;"> 
