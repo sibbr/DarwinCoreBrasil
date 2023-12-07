@@ -56,7 +56,7 @@ modificar os valores padrão. </td>
    <td style="text-align:left;">
     <a 
      href= "https://sbclter.msi.ucsb.edu/external/InformationManagement/EML_211_schema/docs/eml-2.1.1/eml-resource.html#metadataProvider" >metadataProvider</a> </td>
-   <td style="text-align:left;"> As pessoas e organizações responsáveis pela produção dos metadados do recurso. Pode acontecer que seja a mesma pessoa para os três tipos de contato ou serem pessoas diferentes, não tem problema.
+   <td style="text-align:left;"> As pessoas e organizações responsáveis pela produção dos metadados do recurso.
  </td>
    <td style="text-align:left;"> 
  </td>
