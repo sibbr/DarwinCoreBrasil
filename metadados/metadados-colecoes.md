@@ -161,7 +161,7 @@ modificar os valores padrão. </td>
    <td style="text-align:left;">
     <a
      href="https://sbclter.msi.ucsb.edu/external/InformationManagement/EML_211_schema/docs/eml-2.1.1/eml-project.html#personnel" >personnel</a> </td>
-   <td style="text-align:left;"> The personnel field is used to document people involved in a research project by providing contact information and their role in the project. </td>
+   <td style="text-align:left;"> As pessoas envolvidas no projeto. Pode ser colocado os autores, colaboradores e demais pessoas e instituições associadas ao projeto. </td>
    <td style="text-align:left;"> 
  </td>
    <td style="text-align:left;"> 
