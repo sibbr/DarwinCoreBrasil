@@ -97,7 +97,7 @@ modificar os valores padrão. </td>
    <td style="text-align:left;">
     <a
      href="https://sbclter.msi.ucsb.edu/external/InformationManagement/EML_211_schema/docs/eml-2.1.1/eml-resource.html#language" >language </a> </td>
-   <td style="text-align:left;"> The language in which the resource (not the metadata document) is written. This can be a well-known language name, or one of the ISO language codes to be more precise. GBIF recommendation is to use the ISO language code (https://api.gbif.org/v1/enumeration/language). E.g., English. </td>
+   <td style="text-align:left;"> O idioma na que a planilha ou fonte de dados foi preenchida. </td>
    <td style="text-align:left;"> 
  </td>
    <td style="text-align:left;"> 
