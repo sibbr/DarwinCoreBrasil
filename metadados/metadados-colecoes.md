@@ -46,7 +46,7 @@ modificar os valores padrão. </td>
    <td style="text-align:left;"> 
     <a
      href="https://sbclter.msi.ucsb.edu/external/InformationManagement/EML_211_schema/docs/eml-2.1.1/eml-resource.html#title" >creator</a> </td>
-   <td style="text-align:left;"> The resource creator is the person or organization responsible for creating the resource itself. See section “People and Organizations” for more details. </td>
+   <td style="text-align:left;"> As pessoas e organizações que criaram o recurso. </td>
    <td style="text-align:left;"> 
  </td>
    <td style="text-align:left;"> 
