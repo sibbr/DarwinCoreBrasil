@@ -610,7 +610,9 @@ também podem ser incluídas </td>
  </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> samplingDescription </td>
+   <td style="text-align:left;">
+    <a
+     href="https://sbclter.msi.ucsb.edu/external/InformationManagement/EML_211_schema/docs/eml-2.1.1/eml-methods.html#samplingDescription"> samplingDescription </a> </td>
    <td style="text-align:left;"> Subfield of the sampling field. The samplingDescription field allows for a text-based/human readable description of the sampling procedures used in the research project. The content of this element would be similar to a description of sampling procedures found in the methods section of a journal article. </td>
    <td style="text-align:left;"> 
  </td>
