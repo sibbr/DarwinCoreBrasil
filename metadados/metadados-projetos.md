@@ -19,7 +19,9 @@ https://ipt.gbif.org/manual/en/ipt/latest/gbif-metadata-profile
  </thead>
 <tbody>
   <tr>
-   <td style="text-align:left;"> alternateIdentifier </td>
+   <td style="text-align:left;">
+    <a
+     href="https://sbclter.msi.ucsb.edu/external/InformationManagement/EML_211_schema/docs/eml-2.1.1/eml-resource.html#alternateIdentifier" >alternateIdentifier </a> </td>
    <td style="text-align:left;"> It is a Universally Unique Identifier (UUID) for the EML document and not for the dataset. This term is optional. A list of different identifiers can be supplied. E.g., 619a4b95-1a82-4006-be6a-7dbe3c9b33c5. </td>
    <td style="text-align:left;"> 
  </td>
@@ -27,7 +29,9 @@ https://ipt.gbif.org/manual/en/ipt/latest/gbif-metadata-profile
  </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> title </td>
+   <td style="text-align:left;">
+    <a
+     href="https://sbclter.msi.ucsb.edu/external/InformationManagement/EML_211_schema/docs/eml-2.1.1/eml-resource.html#title">title</a> </td>
    <td style="text-align:left;"> A description of the resource that is being documented that is long enough to differentiate it from other similar resources. Multiple titles may be provided, particularly when trying to express the title in more than one language (use the &quot;xml:lang&quot; attribute to indicate the language if not English/en). E.g. Vernal pool amphibian density data, Isla Vista, 1990-1996. </td>
    <td style="text-align:left;"> 
  </td>
@@ -35,7 +39,9 @@ https://ipt.gbif.org/manual/en/ipt/latest/gbif-metadata-profile
  </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> creator </td>
+   <td style="text-align:left;">
+    <a
+     href="https://sbclter.msi.ucsb.edu/external/InformationManagement/EML_211_schema/docs/eml-2.1.1/eml-resource.html#creator">creator</a> </td>
    <td style="text-align:left;"> The resource creator is the person or organization responsible for creating the resource itself. See section “People and Organizations” for more details. </td>
    <td style="text-align:left;"> 
  </td>
@@ -43,7 +49,9 @@ https://ipt.gbif.org/manual/en/ipt/latest/gbif-metadata-profile
  </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> metadataProvider </td>
+   <td style="text-align:left;">
+    <a
+     href="https://sbclter.msi.ucsb.edu/external/InformationManagement/EML_211_schema/docs/eml-2.1.1/eml-resource.html#metadataProvider">metadataProvider </a> </td>
    <td style="text-align:left;"> The metadataProvider is the person or organization responsible for providing documentation for the resource. See section “People and Organizations” for more details. </td>
    <td style="text-align:left;"> 
  </td>
@@ -51,7 +59,9 @@ https://ipt.gbif.org/manual/en/ipt/latest/gbif-metadata-profile
  </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> associatedParty </td>
+   <td style="text-align:left;">
+    <a
+     href="https://sbclter.msi.ucsb.edu/external/InformationManagement/EML_211_schema/docs/eml-2.1.1/eml-resource.html#associatedParty">associatedParty</a> </td>
    <td style="text-align:left;"> An associatedParty is another person or organization that is associated with the resource. These parties might play various roles in the creation or maintenance of the resource, and these roles should be indicated in the &quot;role&quot; element. See section “People and Organizations” for more details. </td>
    <td style="text-align:left;"> 
  </td>
@@ -59,7 +69,9 @@ https://ipt.gbif.org/manual/en/ipt/latest/gbif-metadata-profile
  </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> contact </td>
+   <td style="text-align:left;">
+    <a
+     href="https://sbclter.msi.ucsb.edu/external/InformationManagement/EML_211_schema/docs/eml-2.1.1/eml-resource.html#contact">contact</a></td>
    <td style="text-align:left;"> The contact field contains contact information for this dataset. This is the person or institution to contact with questions about the use, interpretation of a data set. See section “People and Organizations” for more details. </td>
    <td style="text-align:left;"> 
  </td>
@@ -67,7 +79,9 @@ https://ipt.gbif.org/manual/en/ipt/latest/gbif-metadata-profile
  </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> pubDate </td>
+   <td style="text-align:left;">
+    <a
+     href="https://sbclter.msi.ucsb.edu/external/InformationManagement/EML_211_schema/docs/eml-2.1.1/eml-resource.html#pubDate">pubDate</a> </td>
    <td style="text-align:left;"> The date that the resource was published. The format should be represented as: CCYY, which represents a 4 digit year, or as CCYY-MM-DD, which denotes the full year, month, and day. Note that month and day are optional components. Formats must conform to ISO 8601. E.g. 2010-09-20. </td>
    <td style="text-align:left;"> 
  </td>
@@ -75,7 +89,9 @@ https://ipt.gbif.org/manual/en/ipt/latest/gbif-metadata-profile
  </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> language </td>
+   <td style="text-align:left;">
+    <a
+     href="https://sbclter.msi.ucsb.edu/external/InformationManagement/EML_211_schema/docs/eml-2.1.1/eml-resource.html#language">language </a> </td>
    <td style="text-align:left;"> The language in which the resource (not the metadata document) is written. This can be a well-known language name, or one of the ISO language codes to be more precise. GBIF recommendation is to use the ISO language code (https://api.gbif.org/v1/enumeration/language). E.g., English. </td>
    <td style="text-align:left;"> 
  </td>
@@ -83,14 +99,18 @@ https://ipt.gbif.org/manual/en/ipt/latest/gbif-metadata-profile
  </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> additionalInfo </td>
+   <td style="text-align:left;">
+    <a
+     href="https://sbclter.msi.ucsb.edu/external/InformationManagement/EML_211_schema/docs/eml-2.1.1/eml-resource.html#additionalInfo"> additionalInfo </a> </td>
    <td style="text-align:left;"> Information regarding omissions, instructions or other annotations that resource managers may wish to include with a dataset. Basically, any information that is not characterized by the other resource metadata fields. </td>
    <td style="text-align:left;">  </td>
    <td style="text-align:left;"> 
  </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> url </td>
+   <td style="text-align:left;">
+    <a
+     href="https://sbclter.msi.ucsb.edu/external/InformationManagement/EML_211_schema/docs/eml-2.1.1/eml-resource.html#url">url</a> </td>
    <td style="text-align:left;"> The URL of the resource that is available online. </td>
    <td style="text-align:left;"> 
  </td>
@@ -98,7 +118,9 @@ https://ipt.gbif.org/manual/en/ipt/latest/gbif-metadata-profile
  </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> abstract </td>
+   <td style="text-align:left;">
+    <a
+     href="https://sbclter.msi.ucsb.edu/external/InformationManagement/EML_211_schema/docs/eml-2.1.1/eml-resource.html#abstract">abstract</a> </td>
    <td style="text-align:left;"> A brief overview of the resource that is being documented. </td>
    <td style="text-align:left;"> 
  </td>
