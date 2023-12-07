@@ -34,7 +34,8 @@ https://ipt.gbif.org/manual/en/ipt/latest/gbif-metadata-profile
     <a 
      href="https://sbclter.msi.ucsb.edu/external/InformationManagement/EML_211_schema/docs/eml-2.1.1/eml-resource.html#title"
      >title </td>
-   <td style="text-align:left;"> A description of the resource that is being documented that is long enough to differentiate it from other similar resources. Multiple titles may be provided, particularly when trying to express the title in more than one language (use the &quot;xml:lang&quot; attribute to indicate the language if not English/en). E.g. Vernal pool amphibian density data, Isla Vista, 1990-1996. </td>
+   <td style="text-align:left;"> É o nome do conjunto de dados. A recomendação é que corresponda ao campo “datasetName” da planilha de dados. É o título que irá aparecer na página do IPT e será utilizado na citação do recurso.
+ </td>
    <td style="text-align:left;"> 
  </td>
    <td style="text-align:left;"> 
