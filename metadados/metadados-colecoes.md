@@ -151,7 +151,7 @@ modificar os valores padrão. </td>
    <td style="text-align:left;"> 
     <a
      href= "https://sbclter.msi.ucsb.edu/external/InformationManagement/EML_211_schema/docs/eml-2.1.1/eml-project.html#title" >title</a> </td>
-   <td style="text-align:left;"> A descriptive title for the research project. E.g., Species diversity in Tennessee riparian habitats </td>
+   <td style="text-align:left;"> Título do projeto. </td>
    <td style="text-align:left;"> 
  </td>
    <td style="text-align:left;"> 
