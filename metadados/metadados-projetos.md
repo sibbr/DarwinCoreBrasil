@@ -143,7 +143,9 @@ https://ipt.gbif.org/manual/en/ipt/latest/gbif-metadata-profile
  </thead>
 <tbody>
   <tr>
-   <td style="text-align:left;"> title </td>
+   <td style="text-align:left;">
+    <a
+     href="https://sbclter.msi.ucsb.edu/external/InformationManagement/EML_211_schema/docs/eml-2.1.1/eml-project.html#title">title</a> </td>
    <td style="text-align:left;"> A descriptive title for the research project. E.g., Species diversity in Tennessee riparian habitats </td>
    <td style="text-align:left;"> 
  </td>
@@ -151,7 +153,9 @@ https://ipt.gbif.org/manual/en/ipt/latest/gbif-metadata-profile
  </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> personnel </td>
+   <td style="text-align:left;">
+    <a
+     href="https://sbclter.msi.ucsb.edu/external/InformationManagement/EML_211_schema/docs/eml-2.1.1/eml-project.html#personnel">personnel</a> </td>
    <td style="text-align:left;"> The personnel field is used to document people involved in a research project by providing contact information and their role in the project. </td>
    <td style="text-align:left;"> 
  </td>
@@ -159,7 +163,9 @@ https://ipt.gbif.org/manual/en/ipt/latest/gbif-metadata-profile
  </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> funding </td>
+   <td style="text-align:left;">
+    <a
+     href="https://sbclter.msi.ucsb.edu/external/InformationManagement/EML_211_schema/docs/eml-2.1.1/eml-project.html#funding">funding</a> </td>
    <td style="text-align:left;"> The funding field is used to provide information about funding sources for the project such as: grant and contract numbers; names and addresses of funding sources. </td>
    <td style="text-align:left;"> 
  </td>
@@ -167,7 +173,9 @@ https://ipt.gbif.org/manual/en/ipt/latest/gbif-metadata-profile
  </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> studyAreaDescription </td>
+   <td style="text-align:left;">
+    <a
+     href="https://sbclter.msi.ucsb.edu/external/InformationManagement/EML_211_schema/docs/eml-2.1.1/eml-project.html#studyAreaDescription">studyAreaDescription </a> </td>
    <td style="text-align:left;"> The studyAreaDescription field documents the physical area associated with the research project. It can include descriptions of the geographic, temporal, and taxonomic coverage of the research location and descriptions of domains (themes) of interest such as climate, geology, soils or disturbances. </td>
    <td style="text-align:left;"> 
  </td>
@@ -175,7 +183,9 @@ https://ipt.gbif.org/manual/en/ipt/latest/gbif-metadata-profile
  </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> designDescription </td>
+   <td style="text-align:left;">
+    <a
+     href="https://sbclter.msi.ucsb.edu/external/InformationManagement/EML_211_schema/docs/eml-2.1.1/eml-project.html#designDescription">designDescription </a> </td>
    <td style="text-align:left;"> The field designDescription contains general textual descriptions of research design. It can include detailed accounts of goals, motivations, theory, hypotheses, strategy, statistical design, and actual work. Literature citations may also be used to describe the research design. </td>
    <td style="text-align:left;"> 
  </td>
