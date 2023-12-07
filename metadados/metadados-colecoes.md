@@ -107,7 +107,7 @@ modificar os valores padrão. </td>
    <td style="text-align:left;">
     <a
      href="https://sbclter.msi.ucsb.edu/external/InformationManagement/EML_211_schema/docs/eml-2.1.1/eml-resource.html#additionalInfo" >additionalInfo </a> </td>
-   <td style="text-align:left;"> Information regarding omissions, instructions or other annotations that resource managers may wish to include with a dataset. Basically, any information that is not characterized by the other resource metadata fields. </td>
+   <td style="text-align:left;"> Qualquer informação que não está descrita nos demais campos dos metadados. </td>
    <td style="text-align:left;">  </td>
    <td style="text-align:left;"> 
  </td>
