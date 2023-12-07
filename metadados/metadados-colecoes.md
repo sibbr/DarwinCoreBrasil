@@ -573,7 +573,8 @@ também podem ser incluídas </td>
    <td style="text-align:left;"> 
     <a
      href="https://sbclter.msi.ucsb.edu/external/InformationManagement/EML_211_schema/docs/eml-2.1.1/eml-methods.html#methodStep">methodStep</a> </td>
-   <td style="text-align:left;"> The methodStep field allows for repeated sets of elements that document a series of procedures followed to produce a data object. These include text descriptions of the procedures, relevant literature, software, instrumentation, source data and any quality control measures taken. </td>
+   <td style="text-align:left;"> Este campo permite um conjunto de elementos que documentam uma série de métodos e procedimentos utilizados no estudo, e as etapas de processamento que levam à produção dos 
+arquivos de dados. Eles incluem descrições de texto dos procedimentos, literatura relevante, software, instrumentação, fonte de dados e quaisquer medidas de controle de qualidade. Cada método deve ser descrito em detalhe suficiente para permitir que outros pesquisadores possam interpretar e repetir, se necessário, o estudo. </td>
    <td style="text-align:left;"> 
  </td>
    <td style="text-align:left;"> 
@@ -583,7 +584,8 @@ também podem ser incluídas </td>
    <td style="text-align:left;">
     <a
      href="https://sbclter.msi.ucsb.edu/external/InformationManagement/EML_211_schema/docs/eml-2.1.1/eml-methods.html#qualityControl">qualityControl</a> </td>
-   <td style="text-align:left;"> The qualityControl field provides a location for the description of actions taken to either control or assess the quality of data resulting from the associated method step. </td>
+   <td style="text-align:left;"> Uma descrição de ações tomadas para controlar ou avaliar a qualidade dos dados resultantes da metodologia utilizada.
+ </td>
    <td style="text-align:left;"> 
  </td>
    <td style="text-align:left;"> 
@@ -613,7 +615,8 @@ também podem ser incluídas </td>
    <td style="text-align:left;">
     <a
      href="https://sbclter.msi.ucsb.edu/external/InformationManagement/EML_211_schema/docs/eml-2.1.1/eml-methods.html#samplingDescription"> samplingDescription </a> </td>
-   <td style="text-align:left;"> Subfield of the sampling field. The samplingDescription field allows for a text-based/human readable description of the sampling procedures used in the research project. The content of this element would be similar to a description of sampling procedures found in the methods section of a journal article. </td>
+   <td style="text-align:left;"> Descrição dos protocolos utilizados durante o projeto de pesquisa. O conteúdo deste elemento pode ser similar à descrição dos métodos encontrados na seção "métodos" de artigos de revistas 
+científicas. </td>
    <td style="text-align:left;"> 
  </td>
    <td style="text-align:left;"> 
