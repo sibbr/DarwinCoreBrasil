@@ -605,7 +605,7 @@ arquivos de dados. Eles incluem descrições de texto dos procedimentos, literat
    <td style="text-align:left;">
     <a
      href="https://sbclter.msi.ucsb.edu/external/InformationManagement/EML_211_schema/docs/eml-2.1.1/eml-methods.html#sampling">studyExtent</a> </td>
-   <td style="text-align:left;"> Subfield of the sampling field. The coverage field allows for a textual description of the specific sampling area, the sampling frequency (temporal boundaries, frequency of occurrence), and groups of living organisms sampled (taxonomic coverage). The field studyExtent represents both a specific sampling area and the sampling frequency (temporal boundaries, frequency of occurrence). The geographic studyExtent is usually a surrogate (representative area of) for the larger area documented in the &quot;studyAreaDescription&quot;. </td>
+   <td style="text-align:left;"> Documenta a área física associada com o projeto de pesquisa. Pode incluir descrições da cobertura geográfica, temporal e taxonômica do local de pesquisa. </td>
    <td style="text-align:left;"> 
  </td>
    <td style="text-align:left;"> 
