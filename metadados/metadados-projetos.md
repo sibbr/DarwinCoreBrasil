@@ -428,7 +428,9 @@ https://ipt.gbif.org/manual/en/ipt/latest/gbif-metadata-profile
  </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> commonName </td>
+   <td style="text-align:left;">
+    <a
+     href="https://sbclter.msi.ucsb.edu/external/InformationManagement/EML_211_schema/docs/eml-2.1.1/eml-coverage.html#commonName">commonName </a> </td>
    <td style="text-align:left;"> Applicable common names; these common names may be general descriptions of a group of organisms if appropriate. E.g., invertebrates, waterfowl. </td>
    <td style="text-align:left;"> 
  </td>
@@ -451,7 +453,9 @@ https://ipt.gbif.org/manual/en/ipt/latest/gbif-metadata-profile
  </thead>
 <tbody>
   <tr>
-   <td style="text-align:left;"> geographicDescription </td>
+   <td style="text-align:left;">
+    <a
+     href="https://sbclter.msi.ucsb.edu/external/InformationManagement/EML_211_schema/docs/eml-2.1.1/eml-coverage.html#geographicDescription">geographicDescription</a> </td>
    <td style="text-align:left;"> A short text description of a dataset’s geographic areal domain. A text description is especially important to provide a geographic setting when the extent of the dataset cannot be well described by the &quot;boundingCoordinates&quot;. E.g., &quot;Manistee River watershed&quot;, &quot;extent of 7 1/2 minute quads containing any property belonging to Yellowstone National Park&quot; </td>
    <td style="text-align:left;"> 
  </td>
@@ -459,7 +463,9 @@ https://ipt.gbif.org/manual/en/ipt/latest/gbif-metadata-profile
  </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> westBoundingCoordinate </td>
+   <td style="text-align:left;">
+    <a
+     href="https://ipt.gbif.org/manual/en/ipt/latest/gbif-metadata-profile#additional-metadata-natural-collections-description-data-ncd-related">westBoundingCoordinate</a> </td>
    <td style="text-align:left;"> Subfield of boundingCoordinates field covering the W margin of a bounding box. The longitude in decimal degrees of the western-most point of the bounding box that is being described. E.g., -18.25, +25, 45.24755. </td>
    <td style="text-align:left;"> 
  </td>
@@ -467,7 +473,9 @@ https://ipt.gbif.org/manual/en/ipt/latest/gbif-metadata-profile
  </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> eastBoundingCoordinate </td>
+   <td style="text-align:left;">
+    <a
+     href="https://sbclter.msi.ucsb.edu/external/InformationManagement/EML_211_schema/docs/eml-2.1.1/eml-coverage.html#eastBoundingCoordinate">eastBoundingCoordinate </td>
    <td style="text-align:left;"> Subfield of boundingCoordinates field covering the E margin of a bounding box. The longitude in decimal degrees of the eastern-most point of the bounding box that is being described.   E.g., -18.25, +25, 45.24755. </td>
    <td style="text-align:left;"> 
  </td>
@@ -475,7 +483,9 @@ https://ipt.gbif.org/manual/en/ipt/latest/gbif-metadata-profile
  </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> northBoundingCoordinate </td>
+   <td style="text-align:left;">
+    <a
+     href="https://sbclter.msi.ucsb.edu/external/InformationManagement/EML_211_schema/docs/eml-2.1.1/eml-coverage.html#northBoundingCoordinate">northBoundingCoordinate</a> </td>
    <td style="text-align:left;"> Subfield of boundingCoordinates field covering the N margin of a bounding box.  The longitude in decimal degrees of the northern-most point of the bounding box that is being described. E.g., -18.25, +25, 65.24755. </td>
    <td style="text-align:left;"> 
  </td>
@@ -483,7 +493,9 @@ https://ipt.gbif.org/manual/en/ipt/latest/gbif-metadata-profile
  </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> southBoundingCoordinate </td>
+   <td style="text-align:left;">
+    <a
+     href="https://sbclter.msi.ucsb.edu/external/InformationManagement/EML_211_schema/docs/eml-2.1.1/eml-coverage.html#northBoundingCoordinate">southBoundingCoordinate </a> </td>
    <td style="text-align:left;"> Subfield of boundingCoordinates field covering the S margin of a bounding box. The longitude in decimal degrees of the southern-most point of the bounding box that is being described. E.g., -118.25, +25, 84.24755. </td>
    <td style="text-align:left;"> 
  </td>
