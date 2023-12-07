@@ -126,7 +126,7 @@ modificar os valores padrão. </td>
    <td style="text-align:left;">
     <a
      href= "https://sbclter.msi.ucsb.edu/external/InformationManagement/EML_211_schema/docs/eml-2.1.1/eml-resource.html#abstract" >abstract</a> </td>
-   <td style="text-align:left;"> A brief overview of the resource that is being documented. </td>
+   <td style="text-align:left;"> Breve resumo do projeto. </td>
    <td style="text-align:left;"> 
  </td>
    <td style="text-align:left;"> 
