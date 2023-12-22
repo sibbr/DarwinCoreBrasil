@@ -3814,9 +3814,7 @@ Para iniciar uma discussão sobre algum termo, clique no título das tabelas aba
     <tr>
       <td style="text-align: left">Domínio</td>
       <td style="text-align: left">
-        África | Antártica | Europa | América do Norte | Oceania | América do
-        Sul | Africa | Antartica | Asia | Europe | North America | Oceania |
-        South America
+        África | Antártica | Europa | América do Norte | Oceania | América do Sul | Ásia
       </td>
     </tr>
     <tr>
@@ -3824,10 +3822,6 @@ Para iniciar uma discussão sobre algum termo, clique no título das tabelas aba
       <td style="text-align: left">
         <ul>
         <li>
-          <a
-            href ="https://ala-hub.sibbr.gov.br/ala-hub/occurrences/bf050988-7ed3-4768-a699-b351767ca030"
-            >South America</a>
-        </li>
           <li>
             <a
               href="https://ala-hub.sibbr.gov.br/ala-hub/occurrences/611f05f5-fb75-4020-8865-b24e3caef0dc"
