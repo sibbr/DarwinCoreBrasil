@@ -3896,7 +3896,7 @@ Para iniciar uma discussão sobre algum termo, clique no título das tabelas aba
           <li>
             <a
               href="https://ala-hub.sibbr.gov.br/ala-hub/occurrences/bf050988-7ed3-4768-a699-b351767ca030"
-              >Abrolhos Archipelago </a>
+              >Abrolhos Arquipélago </a>
           </li>
         </ul>
       </td>
