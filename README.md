@@ -6451,7 +6451,7 @@ Para iniciar uma discussão sobre algum termo, clique no título das tabelas aba
             Parátipo: são outros materiais citados pelo autor além do holótipo (e isótipos), quando da descrição de uma nova espécie. (USP)
           </li>
           <li>
-            Neótipo - é um espécimen escolhido como tipo nomenclatório, quando todo o material ligado ao táxon descrito foi destruído. (USP)
+            Neótipo: é um espécimen escolhido como tipo nomenclatório, quando todo o material ligado ao táxon descrito foi destruído. (USP)
           </li>
         </ul>
       </td>
