@@ -1886,7 +1886,7 @@ Para iniciar uma discussão sobre algum termo, clique no título das tabelas aba
     </tr>
     <tr>
       <td style="text-align: left">Domínio</td>
-      <td style="text-align: left">Presença | Absença | Present | Absent</td>
+      <td style="text-align: left">Presença | Ausência | Present | Absent</td>
     </tr>
     <tr>
       <td style="text-align: left">Exemplos</td>
