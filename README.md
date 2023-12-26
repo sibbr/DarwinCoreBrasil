@@ -3804,7 +3804,6 @@ Para iniciar uma discussão sobre algum termo, clique no título das tabelas aba
       <td style="text-align: left">Exemplos</td>
       <td style="text-align: left">
         <ul>
-        <li>
           <li>
             <a
               href="https://ala-hub.sibbr.gov.br/ala-hub/occurrences/611f05f5-fb75-4020-8865-b24e3caef0dc"
