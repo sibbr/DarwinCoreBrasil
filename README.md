@@ -4164,12 +4164,7 @@ Para iniciar uma discussão sobre algum termo, clique no título das tabelas aba
       <td style="text-align: left">
         <ul>
           <li>
-            <a
-              href="https://ala-hub.sibbr.gov.br/ala-hub/occurrences/38464ecc-bb48-4df9-94b2-cad29389fa85"
-              >Abrolhos Marine National Park</a
-            >
-            <li>
-              Parque Nacional da Chapada dos Veadeiros
+             Parque Nacional da Chapada dos Veadeiros
             </li>
           <li>
             Parque Nacional Chapada dos Guimarães
