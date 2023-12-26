@@ -3542,19 +3542,13 @@ Para iniciar uma discussão sobre algum termo, clique no título das tabelas aba
     <tr>
       <td style="text-align: left">Domínio</td>
       <td style="text-align: left">
-       50x50m | 13 redes de 10 metros com piquetes | 10 photo-quadrats | 150 generated images
+       50x50m | 13 redes de 10 metros com piquetes 
       </td>
     </tr>
     <tr>
       <td style="text-align: left">Exemplos</td>
       <td style="text-align: left">
         <ul>
-          <li>
-          <a
-              href="https://ala-hub.sibbr.gov.br/ala-hub/occurrences/38464ecc-bb48-4df9-94b2-cad29389fa85"
-              >10 photo-quadrats | 150 generated images</a
-            >
-          </li>
           <li>
           <a
             href="https://ala-hub.sibbr.gov.br/ala-hub/occurrences/caab551d-3f85-40b8-9fde-b9df12fd113d"
