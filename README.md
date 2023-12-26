@@ -1389,10 +1389,7 @@ Para iniciar uma discussão sobre algum termo, clique no título das tabelas aba
       <td style="text-align: left">
         <ul>
           <li>
-             <a
-              href="https://ala-hub.sibbr.gov.br/ala-hub/occurrences/38464ecc-bb48-4df9-94b2-cad29389fa85"
-              >	% per meter square</a
-            >
+              % por metro quadrado </li>
             <li> % de biomassa </li>
         </ul>
       </td>
