@@ -68,10 +68,8 @@ Para iniciar uma discussão sobre algum termo, clique no título das tabelas aba
           <li>
             Programa PELD:
             <a
-              href="https://collectory.sibbr.gov.br/collectory/public/show/dr506"
-              >PELD - ELPA | Ecology of Lahille’s bottlenose dolphin Tursiops
-              truncatus gephyreus in the Patos Lagoon estuary and adjacent
-              marine coast</a
+              href="https://collectory.sibbr.gov.br/collectory/public/show/dr670"
+              >PELD - PNCA | Dados da ocorrência de Coleópteros em um gradiente de perturbação/precipitação em área de Caatinga, Parque Nacional do Catimbau, Buíque, PE, Brasil </a
             >
           </li>
           <li>
