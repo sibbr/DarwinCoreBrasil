@@ -2037,13 +2037,7 @@ Para iniciar uma discussão sobre algum termo, clique no título das tabelas aba
       <td style="text-align: left">Exemplos</td>
       <td style="text-align: left">
         <ul>
-          <li>
-            <a
-              href="https://ala-hub.sibbr.gov.br/ala-hub/occurrences/d1bff69a-7e87-4fac-bb8d-4935b8fc1277"
-              >In collection</a
-            >
-          </li>
-          <li>
+         <li>
            <a
               href="https://ala-hub.sibbr.gov.br/ala-hub/occurrences/6e4bb585-df36-4058-97a4-3238ec56bb3b"
               >	Depositado em coleção/museu</a
