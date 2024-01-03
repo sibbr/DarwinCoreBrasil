@@ -9,10 +9,10 @@ O uso do padrão DarwinCore para compartilhamento de dados e informações em bi
 
 Para iniciar uma discussão sobre algum termo, clique no título das tabelas abaixo. Assim, você será direcionado para a página específica de discussão do termo escolhido. 
 Para cada termo apresentado:
-- Identificador: acesso a descrição original do site oficial do Darwin Core (TDWG)
-- Definição: enunciado que explica o significado de um termo.
-- Domínio: termo obrigatório exatamente como deveria estar escrito. 
-- Exemplos: vários exemplos segundo o tipo de dados e/ou grupo taxonômico.
+- **Identificador:** acesso a descrição original do site oficial do Darwin Core (TDWG)
+- **Definição:** enunciado que explica o significado de um termo.
+- **Domínio:** termo obrigatório exatamente como deveria estar escrito. 
+- **Exemplos:** vários exemplos segundo o tipo de dados e/ou grupo taxonômico.
 
 ## Classes e Termos DarwinCore
 
