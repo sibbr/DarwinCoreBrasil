@@ -87,7 +87,7 @@ modificar os valores padrão. </td>
    <td style="text-align:left;"> 
     <a
      href="https://sbclter.msi.ucsb.edu/external/InformationManagement/EML_211_schema/docs/eml-2.1.1/eml-resource.html#pubDate" >pubDate </a> </td>
-   <td style="text-align:left;"> The date that the resource was published. The format should be represented as: CCYY, which represents a 4 digit year, or as CCYY-MM-DD, which denotes the full year, month, and day. Note that month and day are optional components. Formats must conform to ISO 8601. E.g. 2010-09-20. </td>
+   <td style="text-align:left;"> A data em que o recurso foi publicado. O formato deve ser representado como CCYY, que representa um ano de 4 dígitos, ou como CCYY-MM-DD, que indica o ano completo, mês e dia. O mês e o dia são componentes opcionais. Os formatos devem estar em conformidade com o padrão ISO 8601. Por exemplo, 2010-09-20. </td>
    <td style="text-align:left;"> 
  </td>
    <td style="text-align:left;"> 
@@ -116,7 +116,7 @@ modificar os valores padrão. </td>
    <td style="text-align:left;">
     <a
      href="https://sbclter.msi.ucsb.edu/external/InformationManagement/EML_211_schema/docs/eml-2.1.1/eml-resource.html#url" >url </a> </td>
-   <td style="text-align:left;"> The URL of the resource that is available online. </td>
+   <td style="text-align:left;"> A URL do recurso que está disponível online. </td>
    <td style="text-align:left;"> 
  </td>
    <td style="text-align:left;"> 
@@ -278,7 +278,7 @@ também podem ser incluídas </td>
    <td style="text-align:left;">
     <a
      href="https://sbclter.msi.ucsb.edu/external/InformationManagement/EML_211_schema/docs/eml-2.1.1/eml-party.html#role" >role</a> </td>
-   <td style="text-align:left;"> Use this field to describe the role the party played with respect to the resource. E.g. technician, reviewer, principal investigator, etc. </td>
+   <td style="text-align:left;"> Utilize este campo para descrever o papel que a parte desempenhou em relação ao recurso. Por exemplo, técnico, revisor, etc. </td>
    <td style="text-align:left;"> 
  </td>
    <td style="text-align:left;"> 
@@ -338,7 +338,7 @@ também podem ser incluídas </td>
    <td style="text-align:left;">
     <a
      href="https://sbclter.msi.ucsb.edu/external/InformationManagement/EML_211_schema/docs/eml-2.1.1/eml-party.html#onlineUrl">onlineUrl</a> </td>
-   <td style="text-align:left;"> A link to associated online information, usually a web site. When the party represents an organization, this is the URL to a website or other online information about the organization. If the party is an individual, it might be their personal web site or other related online information about the party. E.g., https://www.example.edu/botany. </td>
+   <td style="text-align:left;"> Um link para informações online associadas, geralmente um site. Quando é representada por uma organização, esta é a URL de um site ou outras informações online sobre a organização. Se for um indivíduo, pode ser o site pessoal deles ou outras informações online relacionadas. </td>
    <td style="text-align:left;"> 
  </td>
    <td style="text-align:left;"> 
@@ -363,7 +363,7 @@ também podem ser incluídas </td>
    <td style="text-align:left;">
     <a
      href="https://sbclter.msi.ucsb.edu/external/InformationManagement/EML_211_schema/docs/eml-2.1.1/eml-resource.html#keyword">keyword</a> </td>
-   <td style="text-align:left;"> A keyword or key phrase that concisely describes the resource or is related to the resource. Each keyword field should contain one and only one keyword (i.e., keywords should not be separated by commas or other delimiters). E.g., biodiversity. </td>
+   <td style="text-align:left;"> Uma palavra-chave ou expressão-chave que fornece uma descrição sucinta do recurso ou está associada a ele. Cada campo de palavra-chave deve conter uma única palavra-chave (ou seja, as palavras-chave não devem ser separadas por vírgulas ou outros delimitadores). Por exemplo: biodiversidade. </td>
    <td style="text-align:left;"> 
  </td>
    <td style="text-align:left;"> 
@@ -373,7 +373,7 @@ também podem ser incluídas </td>
    <td style="text-align:left;">
     <a
      href="https://sbclter.msi.ucsb.edu/external/InformationManagement/EML_211_schema/docs/eml-2.1.1/eml-resource.html#keywordThesaurus">keywordThesaurus</a> </td>
-   <td style="text-align:left;"> The name of the official keyword thesaurus from which keyword was derived. If an official thesaurus name does not exist, please keep a placeholder value such as “N/A” instead of removing this element as it is required together with the keyword element to constitute a keywordSet. E.g., IRIS keyword thesaurus. </td>
+   <td style="text-align:left;"> O nome do tesauro oficial de palavras-chave do qual a palavra-chave foi derivada. Se não existir um nome oficial de tesauro, mantenha um valor de espaço reservado, como "N/A" (não aplicável), em vez de remover este elemento, pois ele é necessário juntamente com o elemento de palavra-chave para constituir um conjunto de palavras-chave. </td>
    <td style="text-align:left;"> 
  </td>
    <td style="text-align:left;"> 
@@ -398,7 +398,7 @@ também podem ser incluídas </td>
    <td style="text-align:left;">
     <a
      href="https://sbclter.msi.ucsb.edu/external/InformationManagement/EML_211_schema/docs/eml-2.1.1/eml-coverage.html#generalTaxonomicCoverage">generalTaxonomicCoverage</a> </td>
-   <td style="text-align:left;"> Taxonomic Coverage is a container for taxonomic information about a resource. It includes a list of species names (or higher level ranks) from one or more classification systems. A description of the range of taxa addressed in the data set or collection. Use a simple comma separated list of taxa. E.g., &quot;All vascular plants were identified to family or species, mosses and lichens were identified as moss or lichen.&quot; </td>
+   <td style="text-align:left;"> A Cobertura Taxonômica contém informações sobre a taxonomia associada a um recurso. Isso inclui uma lista de nomes de espécies (ou níveis taxonômicos superiores) de um ou mais sistemas de classificação. Uma descrição da variedade de táxons abordados no conjunto de dados ou coleção. Utilize uma lista simples separada por vírgulas de táxons. Por exemplo, "Todas as plantas vasculares foram identificadas até a família ou espécie, musgos e liquens foram identificados como musgo ou liquen." </td>
    <td style="text-align:left;"> 
  </td>
    <td style="text-align:left;"> 
