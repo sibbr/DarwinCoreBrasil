@@ -67,7 +67,7 @@ modificar os valores padrão. </td>
    <td style="text-align:left;"> 
     <a
      href= "https://sbclter.msi.ucsb.edu/external/InformationManagement/EML_211_schema/docs/eml-2.1.1/eml-resource.html#associatedParty" >associatedParty</a> </td>
-   <td style="text-align:left;"> An associatedParty is another person or organization that is associated with the resource. These parties might play various roles in the creation or maintenance of the resource, and these roles should be indicated in the &quot;role&quot; element. See section “People and Organizations” for more details. </td>
+   <td style="text-align:left;"> Outras pessoas ou organizações associada ao recurso. Essas partes podem desempenhar vários papéis na criação ou manutenção do recurso, e esses papéis devem ser indicados em  "role". </td>
    <td style="text-align:left;"> 
  </td>
    <td style="text-align:left;"> 
