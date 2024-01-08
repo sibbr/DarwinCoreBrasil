@@ -398,7 +398,7 @@ também podem ser incluídas </td>
    <td style="text-align:left;">
     <a
      href="https://sbclter.msi.ucsb.edu/external/InformationManagement/EML_211_schema/docs/eml-2.1.1/eml-coverage.html#generalTaxonomicCoverage">generalTaxonomicCoverage</a> </td>
-   <td style="text-align:left;"> A Cobertura Taxonômica contém informações sobre a taxonomia associada a um recurso. Isso inclui uma lista de nomes de espécies (ou níveis taxonômicos superiores) de um ou mais sistemas de classificação. Uma descrição da variedade de táxons abordados no conjunto de dados ou coleção. Utilize uma lista simples separada por vírgulas de táxons. Por exemplo, "Todas as plantas vasculares foram identificadas até a família ou espécie, musgos e liquens foram identificados como musgo ou liquen." </td>
+   <td style="text-align:left;"> A Cobertura Taxonômica contém informações sobre a taxonomia associada ao recurso. Isso inclui uma lista de nomes de espécies (ou níveis taxonômicos superiores) de um ou mais sistemas de classificação. Uma descrição da variedade de táxons abordados no conjunto de dados ou coleção. Utilize uma lista simples separada por vírgulas de táxons. Por exemplo, "Todas as plantas vasculares foram identificadas até a família ou espécie, musgos e liquens foram identificados como musgo ou liquen." </td>
    <td style="text-align:left;"> 
  </td>
    <td style="text-align:left;"> 
