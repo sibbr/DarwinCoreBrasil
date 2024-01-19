@@ -8804,7 +8804,7 @@ Para cada termo apresentado:
     <tr>
       <td style="text-align: left">Definição</td>
       <td style="text-align: left">
-        A data em que o measurementorfact foi feito.
+        A data em que as medidas foram feitas.
       </td>
     </tr>
     <tr>
