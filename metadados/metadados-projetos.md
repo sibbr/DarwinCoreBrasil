@@ -431,7 +431,7 @@ https://ipt.gbif.org/manual/en/ipt/latest/gbif-metadata-profile
    <td style="text-align:left;">
     <a
      href="https://sbclter.msi.ucsb.edu/external/InformationManagement/EML_211_schema/docs/eml-2.1.1/eml-coverage.html#commonName">commonName </a> </td>
-   <td style="text-align:left;"> Nomes comuns aplicáveis. Esses nomes comuns podem ser descrições gerais de um grupo de organismos. Por exemplo, invertebrados, aves aquáticas. </td>
+   <td style="text-align:left;"> Nomes comuns. Esses nomes comuns podem ser descrições gerais de um grupo de organismos. Por exemplo, invertebrados, aves aquáticas. </td>
    <td style="text-align:left;"> 
  </td>
    <td style="text-align:left;"> 
