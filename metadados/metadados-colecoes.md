@@ -694,7 +694,7 @@ científicas. </td>
   </tr>
   <tr>
    <td style="text-align:left;"> hierarchyLevel </td>
-   <td style="text-align:left;"> Nível do conjunto de dados ao qual os metadados se aplicam; o valor padrão é "dataset". Por exemplo, dataset. </td>
+   <td style="text-align:left;"> Nível do conjunto de dados ao qual os metadados se aplicam.O valor padrão é "dataset".  </td>
    <td style="text-align:left;"> 
  </td>
    <td style="text-align:left;"> 
@@ -712,7 +712,7 @@ científicas. </td>
   </tr>
   <tr>
    <td style="text-align:left;"> bibliography </td>
-   <td style="text-align:left;"> Uma lista de citações (consulte abaixo) que formam uma bibliografia sobre literatura relacionada ou utilizada no conjunto de dados. </td>
+   <td style="text-align:left;"> Uma lista de citações que formam uma bibliografia sobre literatura relacionada ou utilizada no conjunto de dados. </td>
    <td style="text-align:left;"> 
  </td>
    <td style="text-align:left;"> 
@@ -737,7 +737,7 @@ URL do logotipo associado a um recurso. Por exemplo, http://www.gbif.org/logo.jp
   </tr>
   <tr>
    <td style="text-align:left;"> parentCollectionIdentifier </td>
-   <td style="text-align:left;"> Subcampo do campo de coleção. É um campo opcional. Identificador para a coleção principal desta subcoleção. Permite a construção de uma hierarquia de coleções e subcoleções. </td>
+   <td style="text-align:left;"> Identificador para a coleção principal desta subcoleção. Permite a construção de uma hierarquia de coleções e subcoleções. </td>
    <td style="text-align:left;"> 
  </td>
    <td style="text-align:left;"> 
@@ -745,7 +745,7 @@ URL do logotipo associado a um recurso. Por exemplo, http://www.gbif.org/logo.jp
   </tr>
   <tr>
    <td style="text-align:left;"> collectionName </td>
-   <td style="text-align:left;"> Subcampo do campo de coleção. É um campo opcional. Nome oficial da coleção no idioma local. </td>
+   <td style="text-align:left;"> Nome oficial da coleção no idioma local. </td>
    <td style="text-align:left;"> 
  </td>
    <td style="text-align:left;"> 
@@ -753,7 +753,7 @@ URL do logotipo associado a um recurso. Por exemplo, http://www.gbif.org/logo.jp
   </tr>
   <tr>
    <td style="text-align:left;"> collectionIdentifier </td>
-   <td style="text-align:left;"> Subcampo do campo de coleção. É um campo opcional. O URI (LSID ou URL) da coleção. Em RDF, utilizado como URI do recurso da coleção. </td>
+   <td style="text-align:left;"> O URI (LSID ou URL) da coleção. Em RDF, utilizado como URI do recurso da coleção. </td>
    <td style="text-align:left;"> 
  </td>
    <td style="text-align:left;"> 
@@ -777,7 +777,7 @@ URL do logotipo associado a um recurso. Por exemplo, http://www.gbif.org/logo.jp
   </tr>
   <tr>
    <td style="text-align:left;"> specimenPreservationMethod </td>
-   <td style="text-align:left;"> Palavra-chave da lista de opções indicando o processo ou técnica usado para evitar a deterioração física de coleções não vivas. Espera-se que inclua um termo do vocabulário de Tipos de Método de Preservação de Espécimes. Por exemplo, formaldeído. </td>
+   <td style="text-align:left;"> Palavra-chave da lista de opções indicando o processo ou técnica usada para evitar a deterioração física de coleções não vivas. É esperado que se inclua um termo do vocabulário de Tipos de Método de Preservação de Espécimes. Por exemplo, formaldeído. </td>
    <td style="text-align:left;"> 
  </td>
    <td style="text-align:left;"> 
@@ -785,7 +785,7 @@ URL do logotipo associado a um recurso. Por exemplo, http://www.gbif.org/logo.jp
   </tr>
   <tr>
    <td style="text-align:left;"> jgtiCuratorialUnit </td>
-   <td style="text-align:left;"> Um descritor quantitativo (número de espécimes, amostras ou lotes). A quantificação real pode ser coberta por um número exato de "unidades JGI" na coleção, mais uma medida de incerteza (± x); uma faixa de números (x a x), com o valor mais baixo representando um número exato, quando o valor mais alto é omitido. A discussão concluiu que a quantificação deve abranger todos os espécimes, não apenas aqueles que ainda não foram digitalizados. Isso é para evitar a necessidade de atualizar os números com muita frequência. O número de dados não públicos (não digitalizados ou não acessíveis) pode ser calculado a partir dos números do GBIF, ao contrário dos dados da JGTI.  </td>
+   <td style="text-align:left;"> Um descritor quantitativo (número de espécimes, amostras ou lotes). A quantificação real pode ser coberta por um número exato de "unidades JGI" na coleção, mais uma medida de incerteza (± x); uma faixa de números (x a x), com o valor mais baixo representando um número exato, quando o valor mais alto é omitido. A quantificação deve abranger todos os espécimes, não apenas aqueles que ainda não foram digitalizados. O número de dados não públicos (não digitalizados ou não acessíveis) pode ser calculado a partir dos números do GBIF.  </td>
    <td style="text-align:left;"> 
  </td>
    <td style="text-align:left;"> 
