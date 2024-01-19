@@ -694,7 +694,7 @@ científicas. </td>
   </tr>
   <tr>
    <td style="text-align:left;"> hierarchyLevel </td>
-   <td style="text-align:left;"> Nível do conjunto de dados ao qual os metadados se aplicam.O valor padrão é "dataset".  </td>
+   <td style="text-align:left;"> Nível do conjunto de dados ao qual os metadados se aplicam. O valor padrão é "dataset".  </td>
    <td style="text-align:left;"> 
  </td>
    <td style="text-align:left;"> 
