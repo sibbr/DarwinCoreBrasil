@@ -22,7 +22,7 @@ https://ipt.gbif.org/manual/en/ipt/latest/gbif-metadata-profile
    <td style="text-align:left;">
     <a
      href="https://sbclter.msi.ucsb.edu/external/InformationManagement/EML_211_schema/docs/eml-2.1.1/eml-resource.html#alternateIdentifier" >alternateIdentifier </a> </td>
-   <td style="text-align:left;"> Identificadores alternativos que são utilizados para rotular este recurso, possivelmente em diferentes sistemas de gerenciamento, podem ser listados aqui. Normalmente não é preciso modificar os valores padrão. </td>
+   <td style="text-align:left;"> Identificadores alternativos que são utilizados para rotular o recurso. Normalmente não é preciso modificar os valores padrão. </td>
    <td style="text-align:left;"> 
  </td>
    <td style="text-align:left;"> 
