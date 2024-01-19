@@ -77,7 +77,7 @@ modificar os valores padrão. </td>
    <td style="text-align:left;">
     <a
      href="https://sbclter.msi.ucsb.edu/external/InformationManagement/EML_211_schema/docs/eml-2.1.1/eml-resource.html#contact" >contact</a> </td>
-   <td style="text-align:left;"> As pessoas e organizações que devem ser contactadas para obter mais informações sobre o recurso ou a quem devem ser dirigidos problemas com o recurso ou seus dados. </td>
+   <td style="text-align:left;"> As pessoas e organizações que devem ser contatadas para obter mais informações sobre o recurso ou a quem devem ser dirigidos problemas com o recurso ou seus dados. </td>
    <td style="text-align:left;"> 
  </td>
    <td style="text-align:left;"> 
