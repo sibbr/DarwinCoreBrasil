@@ -3593,8 +3593,8 @@ Para cada termo apresentado:
     <tr>
       <td style="text-align: left">Definição</td>
       <td style="text-align: left">
-        Um de a) um indicador da existência de, b) uma referência a (publicação,
-        uri), ou c) o texto de anotações feitas no campo sobre o evento.
+        Um indicador da existência, uma referência (publicação,
+        uri), ou o texto de anotações feitas no campo sobre o evento.
       </td>
     </tr>
     <tr>
