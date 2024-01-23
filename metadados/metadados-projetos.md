@@ -6,13 +6,13 @@
 
 https://ipt.gbif.org/manual/en/ipt/latest/gbif-metadata-profile
 
-### Dataset (Resource)
+### Dataset (Recurso)
 
 <table>
  <thead>
   <tr>
-   <th style="text-align:left;"> Term name </th>
-   <th style="text-align:left;"> Description </th>
+   <th style="text-align:left;"> Nome do termo </th>
+   <th style="text-align:left;"> Descrição </th>
    <th style="text-align:left;"> Boas práticas </th>
    <th style="text-align:left;"> Exemplos </th>
   </tr>
@@ -130,13 +130,13 @@ https://ipt.gbif.org/manual/en/ipt/latest/gbif-metadata-profile
 </tbody>
 </table>
 
-### Project
+### Projeto
 
 <table>
  <thead>
   <tr>
-   <th style="text-align:left;"> Term </th>
-   <th style="text-align:left;"> Definition </th>
+   <th style="text-align:left;"> Termo </th>
+   <th style="text-align:left;"> Definição </th>
    <th style="text-align:left;"> Boas práticas </th>
    <th style="text-align:left;"> Exemplos </th>
   </tr>
