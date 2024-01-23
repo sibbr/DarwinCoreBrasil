@@ -339,7 +339,7 @@ https://ipt.gbif.org/manual/en/ipt/latest/gbif-metadata-profile
 </tbody>
 </table>
 
-### KeywordSet (General Keywords)
+### Palavras-chaves
 
 <table>
  <thead>
@@ -379,8 +379,8 @@ https://ipt.gbif.org/manual/en/ipt/latest/gbif-metadata-profile
 <table>
  <thead>
   <tr>
-   <th style="text-align:left;"> Term </th>
-   <th style="text-align:left;"> Definition </th>
+   <th style="text-align:left;"> Termo </th>
+   <th style="text-align:left;"> Definição </th>
    <th style="text-align:left;"> Boas práticas </th>
    <th style="text-align:left;"> Exemplos </th>
   </tr>
@@ -619,8 +619,8 @@ https://ipt.gbif.org/manual/en/ipt/latest/gbif-metadata-profile
 <table>
  <thead>
   <tr>
-   <th style="text-align:left;"> Term </th>
-   <th style="text-align:left;"> Definition </th>
+   <th style="text-align:left;"> Termo </th>
+   <th style="text-align:left;"> Definição </th>
    <th style="text-align:left;"> Boas práticas </th>
    <th style="text-align:left;"> Exemplos </th>
   </tr>
@@ -654,8 +654,8 @@ https://ipt.gbif.org/manual/en/ipt/latest/gbif-metadata-profile
 <table>
  <thead>
   <tr>
-   <th style="text-align:left;"> Term </th>
-   <th style="text-align:left;"> Definition </th>
+   <th style="text-align:left;"> Termo </th>
+   <th style="text-align:left;"> Definição </th>
    <th style="text-align:left;"> Boas práticas </th>
    <th style="text-align:left;"> Exemplos </th>
   </tr>
