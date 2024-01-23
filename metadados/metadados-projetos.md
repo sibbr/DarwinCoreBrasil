@@ -649,7 +649,7 @@ https://ipt.gbif.org/manual/en/ipt/latest/gbif-metadata-profile
 </tbody>
 </table>
 
-### Additional Metadata + Natural Collections Description Data (NCD) Related
+### Metadados adicionais + Natural Collections Description Data (NCD) Related
 
 <table>
  <thead>
