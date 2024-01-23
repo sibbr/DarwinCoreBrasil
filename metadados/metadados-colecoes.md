@@ -6,7 +6,7 @@
 
 https://ipt.gbif.org/manual/en/ipt/latest/gbif-metadata-profile
 
-### Dataset (Resource)
+### Dataset (Recurso)
 
 <table>
  <thead>
