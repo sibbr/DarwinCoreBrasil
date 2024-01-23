@@ -11,8 +11,8 @@ https://ipt.gbif.org/manual/en/ipt/latest/gbif-metadata-profile
 <table>
  <thead>
   <tr>
-   <th style="text-align:left;"> Term name </th>
-   <th style="text-align:left;"> Description </th>
+   <th style="text-align:left;"> Nome do termo </th>
+   <th style="text-align:left;"> Descrição </th>
    <th style="text-align:left;"> Boas práticas </th>
    <th style="text-align:left;"> Exemplos </th>
   </tr>
