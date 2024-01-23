@@ -134,13 +134,13 @@ https://ipt.gbif.org/manual/en/ipt/latest/gbif-metadata-profile
 </tbody>
 </table>
 
-### Project
+### Projeto
 
 <table>
  <thead>
   <tr>
-   <th style="text-align:left;"> Term </th>
-   <th style="text-align:left;"> Definition </th>
+   <th style="text-align:left;"> Termo </th>
+   <th style="text-align:left;"> Definição </th>
    <th style="text-align:left;"> Boas práticas </th>
    <th style="text-align:left;"> Exemplos </th>
   </tr>
@@ -201,13 +201,13 @@ também podem ser incluídas </td>
 </tbody>
 </table>
 
-### People and Organizations
+### Pessoas e Organizações
 
 <table>
  <thead>
   <tr>
-   <th style="text-align:left;"> Term </th>
-   <th style="text-align:left;"> Definition </th>
+   <th style="text-align:left;"> Termo </th>
+   <th style="text-align:left;"> Definição </th>
    <th style="text-align:left;"> Boas práticas </th>
    <th style="text-align:left;"> Exemplos </th>
   </tr>
@@ -346,13 +346,13 @@ também podem ser incluídas </td>
 </tbody>
 </table>
 
-### KeywordSet (General Keywords)
+### Palavras-chaves
 
 <table>
  <thead>
   <tr>
-   <th style="text-align:left;"> Term </th>
-   <th style="text-align:left;"> Definition </th>
+   <th style="text-align:left;"> Termo </th>
+   <th style="text-align:left;"> Definição </th>
    <th style="text-align:left;"> Boas práticas </th>
    <th style="text-align:left;"> Exemplos </th>
   </tr>
@@ -381,13 +381,13 @@ também podem ser incluídas </td>
 </tbody>
 </table>
 
-### Taxonomic Coverage
+### Cobertura Taxonômica
 
 <table>
  <thead>
   <tr>
-   <th style="text-align:left;"> Term </th>
-   <th style="text-align:left;"> Definition </th>
+   <th style="text-align:left;"> Termo </th>
+   <th style="text-align:left;"> Definição </th>
    <th style="text-align:left;"> Boas práticas </th>
    <th style="text-align:left;"> Exemplos </th>
   </tr>
@@ -448,13 +448,13 @@ também podem ser incluídas </td>
 </tbody>
 </table>
 
-### Geographic Coverage
+### Cobertura Geográfica
 
 <table>
  <thead>
   <tr>
-   <th style="text-align:left;"> Term </th>
-   <th style="text-align:left;"> Definition </th>
+   <th style="text-align:left;"> Termo </th>
+   <th style="text-align:left;"> Definição </th>
    <th style="text-align:left;"> Boas práticas </th>
    <th style="text-align:left;"> Exemplos </th>
   </tr>
@@ -513,13 +513,13 @@ também podem ser incluídas </td>
 </tbody>
 </table>
 
-## Temporal Coverage
+## Cobertura Temporal
 
 <table>
  <thead>
   <tr>
-   <th style="text-align:left;"> Term </th>
-   <th style="text-align:left;"> Definition </th>
+   <th style="text-align:left;"> Termo </th>
+   <th style="text-align:left;"> Definição </th>
    <th style="text-align:left;"> Boas práticas </th>
    <th style="text-align:left;"> Exemplos </th>
   </tr>
@@ -558,13 +558,13 @@ também podem ser incluídas </td>
 </tbody>
 </table>
 
-## Methods
+## Métodos
 
 <table>
  <thead>
   <tr>
-   <th style="text-align:left;"> Term </th>
-   <th style="text-align:left;"> Definition </th>
+   <th style="text-align:left;"> Termo </th>
+   <th style="text-align:left;"> Definição </th>
    <th style="text-align:left;"> Boas práticas </th>
    <th style="text-align:left;"> Exemplos </th>
   </tr>
@@ -632,8 +632,8 @@ científicas. </td>
 <table>
  <thead>
   <tr>
-   <th style="text-align:left;"> Term </th>
-   <th style="text-align:left;"> Definition </th>
+   <th style="text-align:left;"> Termo </th>
+   <th style="text-align:left;"> Definição </th>
    <th style="text-align:left;"> Boas práticas </th>
    <th style="text-align:left;"> Exemplos </th>
   </tr>
@@ -663,13 +663,13 @@ científicas. </td>
 </tbody>
 </table>
 
-### Additional Metadata + Natural Collections Description Data (NCD) Related
+### Metadado Adicional + Natural Collections Description Data (NCD) Related
 
 <table>
  <thead>
   <tr>
-   <th style="text-align:left;"> Term </th>
-   <th style="text-align:left;"> Definition </th>
+   <th style="text-align:left;"> Termo </th>
+   <th style="text-align:left;"> Definição </th>
    <th style="text-align:left;"> Boas práticas </th>
    <th style="text-align:left;"> Exemplos </th>
   </tr>
