@@ -627,7 +627,7 @@ científicas. </td>
 </tbody>
 </table>
 
-### Intellectual Property Rights
+### Direitos de Propriedade Intelectual
 
 <table>
  <thead>
@@ -663,7 +663,7 @@ científicas. </td>
 </tbody>
 </table>
 
-### Metadado Adicional + Natural Collections Description Data (NCD) Related
+### Metadado Adicional + Dados de Descrição de Coleções Naturais
 
 <table>
  <thead>
