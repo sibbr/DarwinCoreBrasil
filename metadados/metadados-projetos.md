@@ -504,7 +504,7 @@ https://ipt.gbif.org/manual/en/ipt/latest/gbif-metadata-profile
 </tbody>
 </table>
 
-## Cobertural temporal
+## Cobertural Temporal
 
 <table>
  <thead>
@@ -614,8 +614,7 @@ https://ipt.gbif.org/manual/en/ipt/latest/gbif-metadata-profile
 </tbody>
 </table>
 
-### Intellectual Property Rights
-
+### Direitos de Propriedade Intelectual
 <table>
  <thead>
   <tr>
@@ -649,7 +648,7 @@ https://ipt.gbif.org/manual/en/ipt/latest/gbif-metadata-profile
 </tbody>
 </table>
 
-### Metadados adicionais + Natural Collections Description Data (NCD) Related
+### Metadados adicionais + Dados de Descrição de Coleções Naturais
 
 <table>
  <thead>
