@@ -7118,8 +7118,7 @@ Para cada termo apresentado:
           <li>Sericographis macedoana var. elegans (Sericographis em genus, macedoana em specificEpithet, var. em taxonRank e elegans em infraspecificEpithet) </li>
           <li>Fabaceae</li>
           <li>Canidae</li>
-          <li></li>
-        </ul>
+         </ul>
       </td>
     </tr>
   </tbody>
