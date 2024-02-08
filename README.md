@@ -6929,7 +6929,7 @@ Para cada termo apresentado:
       <td style="text-align: left">Definição</td>
       <td style="text-align: left">
         Um identificador para o uso do nome (significado documentado do nome de
-        acordo com uma fonte) no qual o elemento terminal do scientificname foi
+        acordo com uma fonte) no qual o elemento terminal do scientificName foi
         originalmente estabelecido sob as regras do código nomenclatural
         associado.
       </td>
@@ -7015,7 +7015,7 @@ Para cada termo apresentado:
     <tr>
       <td style="text-align: left">Definição</td>
       <td style="text-align: left">
-        Um identificador para a publicação em que o scientificname foi
+        Um identificador para a publicação em que o scientificName foi
         originalmente estabelecido sob as regras do código nomenclatural
         associado.
       </td>
@@ -7099,7 +7099,7 @@ Para cada termo apresentado:
       <td style="text-align: left">Definição</td>
       <td style="text-align: left">
         O nome científico completo. Ao fazer parte de uma identificação, este deve ser o nome na classificação taxonômica de nível mais baixo que pode ser determinado.
-        Este termo não deve conter qualificações de identificação, que devem ser fornecidas no termo identificationQualifier.
+        Este termo não deve conter qualificações de identificação, que devem ser fornecidas no termo identificationQualifier e deve estar em coerência com o taxonRank. 
       </td>
     </tr>
     <tr>
