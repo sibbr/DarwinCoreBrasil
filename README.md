@@ -7098,11 +7098,8 @@ Para cada termo apresentado:
     <tr>
       <td style="text-align: left">Definição</td>
       <td style="text-align: left">
-        O nome científico completo, com informações de autoria e data, se
-        conhecidas. Ao fazer parte de uma identificação, este deve ser o nome na
-        classificação taxonômica de nível mais baixo que pode ser determinado.
-        Este termo não deve conter qualificações de identificação, que devem ser
-        fornecidas no termo identificationqualifier.
+        O nome científico completo. Ao fazer parte de uma identificação, este deve ser o nome na classificação taxonômica de nível mais baixo que pode ser determinado.
+        Este termo não deve conter qualificações de identificação, que devem ser fornecidas no termo identificationQualifier.
       </td>
     </tr>
     <tr>
@@ -7113,9 +7110,8 @@ Para cada termo apresentado:
       <td style="text-align: left">Exemplos</td>
       <td style="text-align: left">
         <ul>
-          <li> Chrysocyon brachyurus (Chrysocyon em genus e brachyurus em specificEpithet) </li>
-          <li>Kielmeyera coriacea Mart. & Zucc. (Kielmeyera em genus, coriacea em specificEpithet e Mart. & Zucc. em scientificNameAuthorship)</li>
-          <li>Sericographis macedoana var. elegans (Sericographis em genus, macedoana em specificEpithet, var. em taxonRank e elegans em infraspecificEpithet) </li>
+          <li> Chrysocyon brachyurus</li>
+          <li>Sericographis macedoana var. elegans </li>
           <li>Fabaceae</li>
           <li>Canidae</li>
          </ul>
@@ -8003,7 +7999,7 @@ Para cada termo apresentado:
     <tr>
       <td style="text-align: left">Domínio</td>
       <td style="text-align: left">
-        Espécie | Gênero | Subespécie | Família | Ordem | Reino | Classe | Filo
+        Espécie | Gênero | Subespécie | Família | Ordem | Reino | Classe | Filo | var.
       </td>
     </tr>
     <tr>
@@ -8045,7 +8041,7 @@ Para cada termo apresentado:
     </tr>
     <tr>
       <td style="text-align: left">Domínio</td>
-      <td style="text-align: left">sp. | spp. | subsp. | var.</td>
+      <td style="text-align: left">sp. | spp. | subsp.</td>
     </tr>
     <tr>
       <td style="text-align: left">Exemplos</td>
@@ -8059,10 +8055,7 @@ Para cada termo apresentado:
         <li>
           subsp.: Abreviatura de subespécie, escrita em fonte normal, com ponto de abreviação. A subespécie é a categoria imediatamente abaixo de espécie. (ICZN)
         </li>
-        <li>
-          var.: Abreviatura de variedade, escrita em fonte normal, com ponto de abreviação. Categoria taxonômica entre espécie (ou subespécie) e forma. (ICBN)
-        </li>
-        <ul>
+          <ul>
           <!-- <li>NA</li> -->
         </ul>
       </td>
