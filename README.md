@@ -7113,11 +7113,12 @@ Para cada termo apresentado:
       <td style="text-align: left">Exemplos</td>
       <td style="text-align: left">
         <ul>
-          <li>Ceiba speciosa</li>
-          <li>Eugenia uniflora</li>
-          <li>Chrysocyon brachyurus</li>
+          <li> Chrysocyon brachyurus (Chrysocyon em genus e brachyurus em specificEpithet) </li>
+          <li>Kielmeyera coriacea Mart. & Zucc. (Kielmeyera em genus, coriacea em specificEpithet e Mart. & Zucc. em scientificNameAuthorship) (</li>
+          <li>Sericographis macedoana var. elegans (Sericographis em genus, macedoana em specificEpithet, var. em taxonRank e elegans em infraspecificEpithet) </li>
           <li>Fabaceae</li>
           <li>Canidae</li>
+          <li></li>
         </ul>
       </td>
     </tr>
