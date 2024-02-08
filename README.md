@@ -7871,7 +7871,7 @@ Para cada termo apresentado:
       <td style="text-align: left">Exemplos</td>
       <td style="text-align: left">
         <ul>
-          <li> coriacea </li>
+          <li> coriacea para o scientificName Kielmeyera coriacea </li>
         </ul>
       </td>
     </tr>
@@ -7958,8 +7958,7 @@ Para cada termo apresentado:
       <td style="text-align: left">
         <ul>
           <li>
-            Atlantis (para scientificName Paphiopedilum Atlantis grex e
-            taxonRank grex)
+            Atlantis (para scientificName Paphiopedilum Atlantis grex)
           </li>
         </ul>
       </td>
