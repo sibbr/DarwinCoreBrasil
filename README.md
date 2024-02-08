@@ -7830,14 +7830,9 @@ Para cada termo apresentado:
       <td style="text-align: left">Exemplos</td>
       <td style="text-align: left">
         <ul>
-          <li>
-            Triplinervia para o scientificName Alchornea triplinervia var.
-            parvifolia
+          <li> Abacetillus para o scientificName Abacetus (Abacetillus) ambiguus   
             </li>
-          <li>
-            Tigrinus para o scientificName Leopardus tigrinus guttulus
-          </li>
-        </ul>
+            </ul>
       </td>
     </tr>
   </tbody>
@@ -7876,7 +7871,7 @@ Para cada termo apresentado:
       <td style="text-align: left">Exemplos</td>
       <td style="text-align: left">
         <ul>
-          <li>concolor</li>
+          <li> coriacea </li>
         </ul>
       </td>
     </tr>
@@ -7921,6 +7916,7 @@ Para cada termo apresentado:
             concolor (para scientificName Puma concolor concolor (Linnaeus,
             1771)
           </li>
+          <li> parvifolia para o scientificName Alchornea triplinervia var. parvifolia </li>
         </ul>
       </td>
     </tr>
