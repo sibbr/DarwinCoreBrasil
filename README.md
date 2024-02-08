@@ -8001,7 +8001,7 @@ Para cada termo apresentado:
       <td style="text-align: left">Exemplos</td>
       <td style="text-align: left">
         <ul>
-          <li>Categoria taxonômica</li>
+          <li>[Categoria taxonômica]</li>
         </ul>
       </td>
     </tr>
