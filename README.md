@@ -14,6 +14,16 @@ Para cada termo apresentado:
 - **Domínio:** termo obrigatório exatamente como deveria estar escrito. 
 - **Exemplos:** vários exemplos segundo o tipo de dados e/ou grupo taxonômico.
 
+## Sugestão/discussão de novos termos
+
+O padrão Darwin Core pode não atender às demandas dos dados de biodiversidade do Brasil. Por vezes, orgãos ambientais e outras instituições necessitam incluir, por exemplo: código de licença, orgão financiador, nome do projeto, entre outros. Aqui, sugerimos iniciarmos uma discussão sobre novos termos e, posteriormente, submeter essa sugestão ao [TDWG](https://www.tdwg.org/) (ver exemplo em https://github.com/tdwg/dwc/issues/413).
+
+Caso você queira sugerir a inclusão de um novo termo, por favor, abra uma [_issue_](https://github.com/sibbr/DarwinCoreBrasil/issues) e justifique essa inclusão. 
+
+<!-- ### Termos abertos ainda em discussão -->
+
+<!-- ### Termos submetidos ao TDWG -->
+
 ## Classes e Termos DarwinCore
 
 | [Record-level](https://github.com/sibbr/DarwinCoreBrasil#record-level) | [Occurrence](https://github.com/sibbr/DarwinCoreBrasil#occurrence) | [Organism](https://github.com/sibbr/DarwinCoreBrasil#organism) | [MaterialSample](https://github.com/sibbr/DarwinCoreBrasil#materialsample)| [Event](https://github.com/sibbr/DarwinCoreBrasil#event) | [Location](https://github.com/sibbr/DarwinCoreBrasil#location) | [GeologicalContext](https://github.com/sibbr/DarwinCoreBrasil#geologicalcontext) | [Identification](https://github.com/sibbr/DarwinCoreBrasil#identification) | [Taxon](https://github.com/sibbr/DarwinCoreBrasil#taxon) | [MeasurementOrFact](https://github.com/sibbr/DarwinCoreBrasil#measurementorfact)
