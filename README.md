@@ -1967,7 +1967,7 @@ Caso você queira sugerir a inclusão de um novo termo, por favor, abra uma [_is
     <tr>
       <td style="text-align: left">Domínio</td>
       <td style="text-align: left">
-        Pele | Crânio | Esqueleto | Animal inteiro | Tecido | Extração DNA | Sangue | Método de Castellani | Imersão em água mineral | Crioconcentrado | Criopresevação | Ultrafreezer | Liofilizado
+        Pele | Crânio | Esqueleto | Animal inteiro | Tecido | Extração DNA | Sangue | Método de Castellani | Imersão em água mineral | Crioconcentrado | Criopresevação | Ultrafreezer | Liofilizado | Imersão em álcool 70% | Meio seco - Alfinetado
       </td>
     </tr>
     <tr>
@@ -1990,6 +1990,12 @@ Caso você queira sugerir a inclusão de um novo termo, por favor, abra uma [_is
               href="https://ala-hub.sibbr.gov.br/ala-hub/occurrences/8e833695-fb63-49be-af06-7371ec353990"
               >DNA</a>
             </li>
+          <li>
+          Imersão em álcool 70%             
+          </li>
+        <li>
+          Meio seco - Alfinetado
+        </li>
            </ul>
               Preservação de fungos: 
         <ul>
