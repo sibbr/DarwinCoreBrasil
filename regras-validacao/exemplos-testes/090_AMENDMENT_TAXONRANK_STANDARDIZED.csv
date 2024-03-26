@@ -1,0 +1,6 @@
+testID,taxonRank,Response.status,Response.result,Response.comment
+090_1,,INTERNAL_PREREQUISITES_NOT_MET,,dwc:taxonRank is EMPTY
+090_2,sp.,AMENDED,"{""dwc:taxonRank"":""species""}",dwc:taxonRank contains an interpretable value according to the bdq:sourceAuthority
+090_3,sic.,NOT_AMENDED,,dwc:taxonRank does not contain an interpretable value according to the bdq:sourceAuthority
+090_4,AnyRank,EXTERNAL_PREREQUISITES_NOT_MET,,the bdq:sourceAuthority was unavailable or unreachable
+090_5,especie,AMENDED,"{""dwc:taxonRank"":""species""}",dwc:taxonRank does have an equivalent in the bdq:sourceAuthority as GBIF does currently have 4 language support

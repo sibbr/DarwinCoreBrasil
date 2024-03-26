@@ -1,0 +1,13 @@
+testID,scientificNameID,Response.status,Response.result,Response.comment
+075_1,,INTERNAL_PREREQUISITES_NOT_MET,,dwc:scientificNameID is EMPTY
+075_2,?,RUN_HAS_RESULT,NOT_COMPLIANT,dwc:scientificNameID does not contain a URI or a namespace indicator
+075_3,Wallabia bicolor,RUN_HAS_RESULT,NOT_COMPLIANT,dwc:scientificNameID does not contain a URI
+075_4,urn:lsid:marinespecies.org:taxname:208134,RUN_HAS_RESULT,COMPLIANT,dwc:scientificNameID contains a URI and a namespace indicator
+075_5,urn:lsid:zoobank.org:act:17ADF24F-027F-44F6-9543-D3D0260CE79E,RUN_HAS_RESULT,COMPLIANT,dwc:scientificNameID contains a URI and a namespace indicator
+075_6,urn:lsid:ipni.org:names:68749-2,RUN_HAS_RESULT,COMPLIANT,dwc:scientificNameID contains a URI and a namespace indicator
+075_7,"Wallabia bicolor (Desmarest, 1804)",RUN_HAS_RESULT,NOT_COMPLIANT,dwc:scientificNameID does not contain a URI
+075_8,wallaby,RUN_HAS_RESULT,NOT_COMPLIANT,dwc:scientificNameID does not contain a URI
+075_9,Hakea decurrens ssp. physocarpa,RUN_HAS_RESULT,NOT_COMPLIANT,dwc:scientificNameID does not contain a URI
+075_10,Geranium sp. Pale pink flowers (M.Gray 5847) Vic. Herbarium,RUN_HAS_RESULT,NOT_COMPLIANT,dwc:scientificNameID does not contain a URI
+075_11,dwc:scientificName,RUN_HAS_RESULT,NOT_COMPLIANT,dwc:scientificNameID does not contain a URI or a namespace indicator
+075_12,null,RUN_HAS_RESULT,NOT_COMPLIANT,dwc:scientificNameID does not contain a URI

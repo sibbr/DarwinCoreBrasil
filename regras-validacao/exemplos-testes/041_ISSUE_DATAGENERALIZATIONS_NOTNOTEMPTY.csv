@@ -1,0 +1,9 @@
+testID,dataGeneralizations,Response.status,Response.result,Response.comment
+041_1,placed on quarter degree grid,RUN_HAS_RESULT,POTENTIAL_ISSUE,dwc:dataGeneralizations is not EMPTY
+041_2,blah,RUN_HAS_RESULT,POTENTIAL_ISSUE,dwc:dataGeneralizations is not EMPTY
+041_3,anyOldTerm,RUN_HAS_RESULT,POTENTIAL_ISSUE,dwc:dataGeneralizations is not EMPTY
+041_4,?,RUN_HAS_RESULT,POTENTIAL_ISSUE,dwc:dataGeneralizations is not EMPTY
+041_5,,RUN_HAS_RESULT,NOT_ISSUE,dwc:dataGeneralizations is EMPTY
+041_6,,RUN_HAS_RESULT,NOT_ISSUE,dwc:dataGeneralizations is EMPTY or Missing
+041_7,null,RUN_HAS_RESULT,POTENTIAL_ISSUE,dwc:dataGeneralizations is not EMPTY
+041_8,dwc:dataGeneralizations,RUN_HAS_RESULT,POTENTIAL_ISSUE,dwc:dataGeneralizations is not EMPTY

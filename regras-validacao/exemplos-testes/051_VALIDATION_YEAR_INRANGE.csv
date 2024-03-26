@@ -1,0 +1,12 @@
+testID,year,Response.status,Response.result,Response.comment
+051_1,,INTERNAL_PREREQUISITES_NOT_MET,,dwc:year is EMPTY
+051_2,1949,RUN_HAS_RESULT,COMPLIANT,dwc:year is in RANGE
+051_3,194x,INTERNAL_PREREQUISITES_NOT_MET,,dwc:year is not an interpretable as an integer
+051_4,1952,RUN_HAS_RESULT,COMPLIANT,dwc:year is in RANGE
+051_5,9999,RUN_HAS_RESULT,NOT_COMPLIANT,dwc:year is not in RANGE. The value in year has not yet come to pass.
+051_6,1599,RUN_HAS_RESULT,COMPLIANT,dwc:year is in RANGE 1585-present.  This result assumes the bdq:earliestDate default value of 1585
+051_7,0,RUN_HAS_RESULT,NOT_COMPLIANT,dwc:year is not in RANGE.  This result assumes the bdq:earliestDate default value of 1600.
+051_8,XXXX,INTERNAL_PREREQUISITES_NOT_MET,,dwc:year is not an interpretable as an integer
+051_9,2000,RUN_HAS_RESULT,COMPLIANT,dwc:year is in RANGE
+051_10,1900,RUN_HAS_RESULT,COMPLIANT,dwc:year is in RANGE
+051_11,null,INTERNAL_PREREQUISITES_NOT_MET,,dwc:year is not an interpretable as an integer

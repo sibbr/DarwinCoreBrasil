@@ -1,0 +1,10 @@
+testID,occurrenceStatus,Response.status,Response.result,Response.comment
+072_1,http://arctos.database.museum/guid/MSB:Mamm:233627,RUN_HAS_RESULT,COMPLIANT,dwc:occurrenceStatus is not EMPTY
+072_2,000866d2-c177-4648-a200-ead4007051b9,RUN_HAS_RESULT,COMPLIANT,dwc:occurrenceStatus is not EMPTY
+072_3,anyOldTerm,RUN_HAS_RESULT,COMPLIANT,dwc:occurrenceStatus is not EMPTY
+072_4,?,RUN_HAS_RESULT,COMPLIANT,dwc:occurrenceStatus is not EMPTY
+072_5,,RUN_HAS_RESULT,NOT_COMPLIANT,dwc:occurrenceStatus is EMPTY
+072_6,,RUN_HAS_RESULT,NOT_COMPLIANT,dwc:occurrenceStatus is EMPTY
+072_7,null,RUN_HAS_RESULT,COMPLIANT,dwc:occurrenceStatus is not EMPTY
+072_8,present,RUN_HAS_RESULT,COMPLIANT,dwc:occurrenceStatus is not EMPTY
+072_9,abs,RUN_HAS_RESULT,COMPLIANT,dwc:occurrenceStatus is not EMPTY

@@ -1,0 +1,9 @@
+testID,decimalLatitude,Response.status,Response.result,Response.comment
+073_1,,RUN_HAS_RESULT,NOT_COMPLIANT,dwc:decimalLatiitude is EMPTY
+073_2,0,RUN_HAS_RESULT,COMPLIANT,dwc:decimalLatiitude is not EMPTY
+073_3,0.0,RUN_HAS_RESULT,COMPLIANT,dwc:decimalLatiitude is not EMPTY
+073_4,41.0554 N,RUN_HAS_RESULT,COMPLIANT,dwc:decimalLatiitude is not EMPTY
+073_5,121.0534,RUN_HAS_RESULT,COMPLIANT,dwc:decimalLatiitude is not EMPTY
+073_6,-99.2314,RUN_HAS_RESULT,COMPLIANT,dwc:decimalLatiitude is not EMPTY
+073_7,x,RUN_HAS_RESULT,COMPLIANT,dwc:decimalLatiitude is not EMPTY
+073_8,18.835941,RUN_HAS_RESULT,COMPLIANT,dwc:decimalLatiitude is not EMPTY

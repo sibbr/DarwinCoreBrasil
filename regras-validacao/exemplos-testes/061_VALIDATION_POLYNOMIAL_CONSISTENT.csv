@@ -1,0 +1,16 @@
+testID,scientificName,genericName,specificEpithet,infraspecificEpithet,Response.status,Response.result,Response.comment
+061_1,,,,,INTERNAL_PREREQUISITES_NOT_MET,,All  input terms are EMPTY
+061_2,,Hakea,decurrens,physocarpa,INTERNAL_PREREQUISITES_NOT_MET,,dwc:scientificName is EMPTY
+061_3,Hakea decurrens ssp. physocarpa,,decurrens,physocarpa,RUN_HAS_RESULT,COMPLIANT,"dwc:scientificName is consistent with atomic parts (dwc:genus, dwc:specificEpithet and dwc:infraspecificEpithet)"
+061_4,Hakea decurrens ssp. physocarpa,Hakea,decurrens,physocarpa,RUN_HAS_RESULT,COMPLIANT,"dwc:scientificName is consistent with atomic parts (dwc:genus, dwc:specificEpithet and dwc:infraspecificEpithet)"
+061_5,Hakea decurrens physocarpa,,decurrens,physocarpa,RUN_HAS_RESULT,COMPLIANT,"dwc:scientificName is consistent with atomic parts (dwc:genus, dwc:specificEpithet and dwc:infraspecificEpithet)"
+061_6,Hakea decurrens subsp. physocarpa W.R.Barker,Hakea,decurrens,physocarpa,RUN_HAS_RESULT,COMPLIANT,"dwc:scientificName is consistent with atomic parts (dwc:genus, dwc:specificEpithet and dwc:infraspecificEpithet)"
+061_7,Hakea decurrens ssp. physocarpa,Hakea,,physocarpa,RUN_HAS_RESULT,COMPLIANT,dwc:scientificName is consistent with not empty values in dwc:genus and dwc:infraspecificEpithet; dwc:specificEpithet is empty.
+061_8,Hakea decurrens ssp. ? physocarpa,Hakea,decurrens,,RUN_HAS_RESULT,COMPLIANT,dwc:scientificName is consistent with not empty values in dwc:genus and dwc:infraspecificEpithet; dwc:specificEpithet is empty.
+061_9,Hakea decurrens ssp. Aff. physocarpa,Hakea,decurrens,,RUN_HAS_RESULT,COMPLIANT,"dwc:scientificName is inconsistent with atomic parts (dwc:genus, dwc:specificEpithet and dwc:infraspecificEpithet)"
+061_10,Hakea decurrens,Hakea,decurrens,physocarpa,RUN_HAS_RESULT,NOT_COMPLIANT,"dwc:scientificName is inconsistent with atomic parts (dwc:genus, dwc:specificEpithet and dwc:infraspecificEpithet)"
+061_11,Hakea decurrens subsp. physocarpa W.R.Barker,Hakea,decurrens,,RUN_HAS_RESULT,COMPLIANT,dwc:scientificName is consistent with dwc:genus and dwc:specificEpithet; dwc:infraspecificEpithet is empty.
+061_12,Hakea decurrens,Hakea,,,RUN_HAS_RESULT,COMPLIANT,dwc:scientificName is consistent with dwc:genus; dwc:specificEpithet and dwc:infraspecificEpithet are both empty.
+061_13,Hakea decurrens ssp. physocarpa W.R.Barker,Hakea,,pyhsocarpa,RUN_HAS_RESULT,NOT_COMPLIANT,dwc:scientificName is inconsistent with dwc:infraspecificEpithet
+061_14,Hakea decurrens ssp. physocarpa,Hakea,physocarpa,,RUN_HAS_RESULT,NOT_COMPLIANT,dwc:scientificName is inconsistent with dwc:specificEpithet
+061_15,Hakea decurrens,Hakea,physocarpa,,RUN_HAS_RESULT,NOT_COMPLIANT,dwc:scientificName is inconsistent with dwc:specificEpithet

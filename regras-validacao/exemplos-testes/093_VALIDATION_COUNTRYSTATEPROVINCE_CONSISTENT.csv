@@ -1,0 +1,8 @@
+testID,country,stateProvince,Response.status,Response.result,Response.comment
+093_1,AnyCountry,AnyState,EXTERNAL_PREREQUISITES_NOT_MET,,bdq:sourceAuthority was not available or was unreachable
+093_2,,Tasmania,INTERNAL_PREREQUISITES_NOT_MET,,dwc:country is EMPTY
+093_3,Argentina,Rio Negro,RUN_HAS_RESULT,COMPLIANT,dwc:country is consistent with dwc:stateProvince
+093_4,USA,Maine,RUN_HAS_RESULT,COMPLIANT,dwc:country is consistent with dwc:stateProvince
+093_5,Australia,Florida,RUN_HAS_RESULT,NOT_COMPLIANT,dwc:country is not consistent with dwc:stateProvince
+093_6,Australia,WA,RUN_HAS_RESULT,COMPLIANT,dwc:country is consistent with dwc:stateProvince
+093_7,Argentina,Rio,RUN_HAS_RESULT,NOT_COMPLIANT,dwc:stateProvince is not consistent with dwc:country

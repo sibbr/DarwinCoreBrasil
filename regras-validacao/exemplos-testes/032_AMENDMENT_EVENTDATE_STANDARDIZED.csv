@@ -1,0 +1,8 @@
+testID,eventDate,Response.status,Response.result,Response.comment
+032_1,,INTERNAL_PREREQUISITES_NOT_MET,,dwc:eventDate is EMPTY
+032_2,null,NOT_AMENDED,,dwc:eventDate contains an uninterpretable value
+032_3,X,NOT_AMENDED,,dwc:eventDate contains an uninterpretable value
+032_4,10-28,NOT_AMENDED,,dwc:eventDate contains an ambiguous value
+032_5,2021-28-10,AMENDED,"{""dwc:eventDate"":""2021-10-28""}",dwc:eventDate contains an interpretable value. Assuming year-day-month input format
+032_6,21-10-28,NOT_AMENDED,,dwc:eventDate contains an ambiguous value for year.
+032_7,2021/10/28,AMENDED,"{""dwc:eventDate"":""2021-10-28""}",dwc:eventDate contains an interpretable value

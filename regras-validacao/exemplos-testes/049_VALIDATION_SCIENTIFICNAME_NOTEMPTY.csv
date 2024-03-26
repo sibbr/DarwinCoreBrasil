@@ -1,0 +1,11 @@
+testID,scientificName,genus,Response.status,Response.result,Response.comment
+049_1,,,RUN_HAS_RESULT,NOT_COMPLIANT,dwc:scientificName is EMPTY
+049_2,,,RUN_HAS_RESULT,NOT_COMPLIANT,dwc:scientificName is EMPTY
+049_3,null,,RUN_HAS_RESULT,COMPLIANT,dwc:scientificName is not EMPTY
+049_4,---,,RUN_HAS_RESULT,COMPLIANT,dwc:scientificName is not EMPTY
+049_5,?,,RUN_HAS_RESULT,COMPLIANT,dwc:scientificName is not EMPTY
+049_6,Hakea decurrens ssp. Physocarpa,,RUN_HAS_RESULT,COMPLIANT,dwc:scientificName is not EMPTY
+049_7,Hakea,Hakea,RUN_HAS_RESULT,COMPLIANT,dwc:scientificName is not EMPTY
+049_8,Hakea decurrens,,RUN_HAS_RESULT,COMPLIANT,dwc:scientificName is not EMPTY
+049_9,Hakea decurrens subsp. physocarpa W.R.Barker,,RUN_HAS_RESULT,COMPLIANT,dwc:scientificName is not EMPTY
+049_10,dwc:scientificName,,RUN_HAS_RESULT,COMPLIANT,dwc:scientificName is not EMPTY

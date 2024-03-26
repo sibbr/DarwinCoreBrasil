@@ -1,0 +1,17 @@
+testID,eventDate,Response.status,Response.result,Response.comment
+035_1,,INTERNAL_PREREQUISITES_NOT_MET,,dwc:eventDate is EMPTY
+035_2,1962-11-01T10:00-0600,RUN_HAS_RESULT,COMPLIANT,dwc:eventDate contains a valid ISO 8601-1:2019 date
+035_3,1949-09-15T12:34,RUN_HAS_RESULT,COMPLIANT,dwc:eventDate contains a valid ISO 8601-1:2019 date
+035_4,1949-01-15T12:34/1949-01-20T17:00,RUN_HAS_RESULT,COMPLIANT,dwc:eventDate contains a valid ISO 8601-1:2019 date
+035_5,1963-03-08T14:07-0600,RUN_HAS_RESULT,COMPLIANT,dwc:eventDate contains a valid ISO 8601-1:2019 date
+035_6,1963-03-08T14,RUN_HAS_RESULT,COMPLIANT,dwc:eventDate contains a valid ISO 8601-1:2019 date
+035_7,1963-03-08T14:67-0600,RUN_HAS_RESULT,NOT_COMPLIANT,dwc:eventDate doesnot  contain a valid ISO 8601-1:2019 date
+035_8,1963-03-08T14:07Z,RUN_HAS_RESULT,COMPLIANT,dwc:eventDate contains a valid ISO 8601-1:2019 date
+035_9,1963-03-08T4,RUN_HAS_RESULT,NOT_COMPLIANT,dwc:eventDate does not contain a valid ISO 8601-1:2019 date
+035_10,1963-03-08T14:0,RUN_HAS_RESULT,NOT_COMPLIANT,dwc:eventDate does not contain a valid ISO 8601-1:2019 date
+035_11,1963-03-08,RUN_HAS_RESULT,COMPLIANT,dwc:eventDate contains a valid ISO 8601-1:2019 date
+035_12,1963-03,RUN_HAS_RESULT,COMPLIANT,dwc:eventDate contains a valid ISO 8601-1:2019 date
+035_13,1963,RUN_HAS_RESULT,COMPLIANT,dwc:eventDate contains a valid ISO 8601-1:2019 date
+035_14,63,RUN_HAS_RESULT,NOT_COMPLIANT,dwc:eventDate does not contain a valid ISO 8601-1:2019 date
+035_15,0,RUN_HAS_RESULT,NOT_COMPLIANT,dwc:eventDate does not contain a valid ISO 8601-1:2019 date
+035_16,null,RUN_HAS_RESULT,NOT_COMPLIANT,dwc:eventDate does not contain a valid ISO 8601-1:2019 date

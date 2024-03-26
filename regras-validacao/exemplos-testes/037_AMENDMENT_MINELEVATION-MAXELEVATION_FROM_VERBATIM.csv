@@ -1,0 +1,12 @@
+testID,minimumElevationInMeters,maximumElevationInMeters,verbatimElevation,Response.status,Response.result,Response.comment
+037_1,25,100,,INTERNAL_PREREQUISITES_NOT_MET,,dwc:verbatimElevation is EMPTY
+037_2,25,100,x,INTERNAL_PREREQUISITES_NOT_MET,,dwc:minimumElevationInMeters and dwc:maximumElevationInMeters are not EMPTY
+037_3,11,,Min Elevation 10m,INTERNAL_PREREQUISITES_NOT_MET,,dwc:minimumElevationInMeters is not EMPTY
+037_4,,110,Max Elevation 100m,INTERNAL_PREREQUISITES_NOT_MET,,dwc:maximumElevationInMeters is not EMPTY
+037_5,11,,Min Elevation 10m,INTERNAL_PREREQUISITES_NOT_MET,,dwc:minimumElevationInMeters is not EMPTY
+037_6,,,10feet,FILLED_IN,"{""dwc:minimumElevationInMeters"":""3.048"",""dwc:maximumElevationInMeters"":""3.048""}",dwc:verbatimElevation contains an interpretable value
+037_7,,,250-300,NOT_AMENDED,,dwc:verbatimElevation contains ambiguous values (feet or meters or cms?)
+037_8,,,L30,NOT_AMENDED,,dwc:verbatimElevation contains ambiguous values
+037_9,,,"MinElevation 10m, maxElevation=100",FILLED_IN,"{""dwc:minimumElevationInMeters"":""10"",""dwc:maximumElevationInMeters"":""100""}",dwc:verbatimElevation contains an interpretable value
+037_10,,,356-369m,FILLED_IN,"{""dwc:minimumElevationInMeters"":""356"",""dwc:maximumElevationInMeters"":""369""}",dwc:verbatimElevation contains an interpretable value
+037_11,,,19375,FILLED_IN,"{""dwc:minimumElevationInMeters"":""5905.5"",""dwc:maximumElevationInMeters"":""5905.5""}",dwc:verbatimElevation contains an interpretable value as is assumed to be in feet

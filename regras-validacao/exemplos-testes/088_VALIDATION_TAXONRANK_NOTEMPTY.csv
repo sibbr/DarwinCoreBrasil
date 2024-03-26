@@ -1,0 +1,9 @@
+testID,taxonRank,Response.status,Response.result,Response.comment
+088_1,,RUN_HAS_RESULT,NOT_COMPLIANT,dwc:taxonRank is EMPTY or missing
+088_2,,RUN_HAS_RESULT,NOT_COMPLIANT,dwc:taxonRank is EMPTY
+088_3,?,RUN_HAS_RESULT,COMPLIANT,dwc:taxonRank is not EMPTY
+088_4,ssp.,RUN_HAS_RESULT,COMPLIANT,dwc:taxonRank is not EMPTY
+088_5,genus,RUN_HAS_RESULT,COMPLIANT,dwc:taxonRank is not EMPTY
+088_6,cultivar,RUN_HAS_RESULT,COMPLIANT,dwc:taxonRank is not EMPTY
+088_7,anyOldTerm,RUN_HAS_RESULT,COMPLIANT,dwc:taxonRank is not EMPTY
+088_8,12345,RUN_HAS_RESULT,COMPLIANT,dwc:taxonRank is not EMPTY

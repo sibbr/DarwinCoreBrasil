@@ -1,0 +1,12 @@
+testID,countryCode,decimalLatitude,decimalLongitude,Response.status,Response.result,Response.comment
+025_1,,,,INTERNAL_PREREQUISITES_NOT_MET,,"dwc:decimalLatitude, dwc:decimalLongitude and dwc:countryCode are EMPTY"
+025_2,ARB,12.5,70,AMENDED,"{""dwc:decimalLongitude"":""-70.0""}",dwc:decimalLongitude sign reversed to align with dwc:countryCode Aruba
+025_3,,25.46,135.87,INTERNAL_PREREQUISITES_NOT_MET,,dwc:countryCode is EMPTY
+025_4,AU,25.46,,INTERNAL_PREREQUISITES_NOT_MET,,dwc:decimalLongitude is EMPTY
+025_5,AU,,135.87,INTERNAL_PREREQUISITES_NOT_MET,,dwc:decimalLatitude is EMPTY
+025_6,,25.46,,INTERNAL_PREREQUISITES_NOT_MET,,dwc:decimalLongitude and dwc:countryCode are EMPTY
+025_7,AX,25.46,135.87,NOT_AMENDED,,dwc:countryCode is uninterpretable
+025_8,AU,25.46,185.87,NOT_AMENDED,,dwc:decimalLongitude is out of range
+025_9,AU,x,135.87,NOT_AMENDED,,dwc:decimalLatitude contains an uninterpretable value
+025_10,,25.46,135.87,NOT_AMENDED,,dwc:countryCode is EMPTY
+025_11,AU,25.46,135.87,AMENDED,"{""dwc:decimalLatitude"":""-25.46""}",Input fields contain interpretable values

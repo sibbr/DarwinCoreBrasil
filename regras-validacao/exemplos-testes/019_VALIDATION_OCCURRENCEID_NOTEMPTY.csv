@@ -1,0 +1,7 @@
+testID,occurrenceID,Response.status,Response.result,Response.comment
+019_1,https://www.inaturalist.org/observations/43047701,RUN_HAS_RESULT,COMPLIANT,dwc:occurrenceID conforms to GUID structure
+019_2,,RUN_HAS_RESULT,NOT_COMPLIANT,dwc:occurrenceID is EMPTY
+019_3,,RUN_HAS_RESULT,NOT_COMPLIANT,dwc:occurrenceID is EMPTY
+019_4,null,RUN_HAS_RESULT,COMPLIANT,dwc:occurrenceID is not EMPTY
+019_5,---,RUN_HAS_RESULT,COMPLIANT,dwc:occurrenceID is not EMPTY
+019_6,?,RUN_HAS_RESULT,COMPLIANT,dwc:occurrenceID is not EMPTY

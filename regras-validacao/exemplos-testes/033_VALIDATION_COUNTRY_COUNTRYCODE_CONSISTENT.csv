@@ -1,0 +1,11 @@
+testID,country,countryCode,Response.status,Response.result,Response.comment
+033_1,,,INTERNAL_PREREQUISITES_NOT_MET,,All input fields EMPTY.
+033_2,Austria,AUS,EXTERNAL_PREREQUISITES_NOT_MET,,bdq:sourceAuthority unavailable
+033_3,Eswatini,,INTERNAL_PREREQUISITES_NOT_MET,,dwc:countryCode is EMPTY
+033_4,Swaziland,,INTERNAL_PREREQUISITES_NOT_MET,,dwc:countryCode is EMPTY
+033_5,,GL,INTERNAL_PREREQUISITES_NOT_MET,,dwc:country EMPTY
+033_6,,Austria,INTERNAL_PREREQUISITES_NOT_MET,,dwc:country EMPTY
+033_7,United States Minor Outlying Islands,US,RUN_HAS_RESULT,NOT_COMPLIANT,dwc:country does not match dwc:countryCode
+033_8,Australia,USA,RUN_HAS_RESULT,NOT_COMPLIANT,dwc:country does not match dwc:countryCode
+033_9,México,MX,RUN_HAS_RESULT,COMPLIANT,dwc:country matches dwc:countryCode
+033_10,Australia,AU,RUN_HAS_RESULT,COMPLIANT,dwc:country matches dwc:countryCode

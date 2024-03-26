@@ -1,0 +1,8 @@
+testID,establishmentMeans,Response.status,Response.result,Response.comment
+057_1,native,RUN_HAS_RESULT,POTENTIAL_ISSUE,dwc:establishmentMeans is not EMPTY
+057_2,anyOldTerm,RUN_HAS_RESULT,POTENTIAL_ISSUE,dwc:establishmentMeans is not EMPTY
+057_3,?,RUN_HAS_RESULT,POTENTIAL_ISSUE,dwc:establishmentMeans is not EMPTY
+057_4,,RUN_HAS_RESULT,NOT_ISSUE,dwc:establishmentMeans is EMPTY
+057_5,,RUN_HAS_RESULT,NOT_ISSUE,dwc:establishmentMeans is EMPTY
+057_6,null,RUN_HAS_RESULT,POTENTIAL_ISSUE,dwc:establishmentMeans is not EMPTY
+057_7,cultivated specimen,RUN_HAS_RESULT,POTENTIAL_ISSUE,dwc:establishmentMeans is not EMPTY

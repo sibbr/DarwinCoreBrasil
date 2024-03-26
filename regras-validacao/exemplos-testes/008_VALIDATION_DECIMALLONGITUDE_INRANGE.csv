@@ -1,0 +1,11 @@
+testID,decimalLongitude,Response.status,Response.result,Response.comment
+008_1,,INTERNAL_PREREQUISITES_NOT_MET,,dwc:decimalLongitude is EMPTY
+008_2,,INTERNAL_PREREQUISITES_NOT_MET,,dwc:decimalLongitude is EMPTY
+008_3,X,INTERNAL_PREREQUISITES_NOT_MET,,dwc:decimalLongitude does not contain a numerical value
+008_4,0,RUN_HAS_RESULT,COMPLIANT,dwc:decimalLongitude is in range
+008_5,0.0,RUN_HAS_RESULT,COMPLIANT,dwc:decimalLongitude is in range
+008_6,121.0534 W,INTERNAL_PREREQUISITES_NOT_MET,,dwc:decimalLongitude is NOT a number
+008_7,181.0554,RUN_HAS_RESULT,NOT_COMPLIANT,dwc:decimalLongitude >180
+008_8,-189.5674,RUN_HAS_RESULT,NOT_COMPLIANT,dwc:decimalLongitude <-180
+008_9,-71.5310546742521,RUN_HAS_RESULT,COMPLIANT,dwc:decimalLongitude is in range
+008_10,-94.4805934,RUN_HAS_RESULT,COMPLIANT,dwc:decimalLongitude is in range

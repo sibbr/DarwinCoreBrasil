@@ -1,0 +1,13 @@
+testID,decimalLatitude,decimalLongitude,Response.status,Response.result,Response.comment
+053_1,,,INTERNAL_PREREQUISITES_NOT_MET,,All input fields EMPTY.
+053_2,null,140.45,INTERNAL_PREREQUISITES_NOT_MET,,dwc:decimalLatitude is not interpretable
+053_3,0,0,RUN_HAS_RESULT,NOT_COMPLIANT,dwc:decimalLatitude and dwc:decimalLongitude are zero
+053_4,0.0,0.0,RUN_HAS_RESULT,NOT_COMPLIANT,dwc:decimalLatitude and dwc:decimalLongitude are zero
+053_5,41.0554 N,121.0534 W,INTERNAL_PREREQUISITES_NOT_MET,,dwc:decimalLatitude and dwc:decimalLongitude are not numeric
+053_6,21.0534,81.0554,RUN_HAS_RESULT,COMPLIANT,dwc:decimalLatitude and dwc:decimalLongitude are not zero
+053_7,-99.2314,-189.5674,RUN_HAS_RESULT,COMPLIANT,dwc:decimalLatitude and dwc:decimalLongitude are not zero
+053_8,-41.0525925872862,-71.5310546742521,RUN_HAS_RESULT,COMPLIANT,dwc:decimalLatitude and dwc:decimalLongitude are not zero
+053_9,18.835941,-94.4805934,RUN_HAS_RESULT,COMPLIANT,dwc:decimalLatitude and dwc:decimalLongitude are not zero
+053_10,41.0525925872862,-71.5310546742521,RUN_HAS_RESULT,COMPLIANT,dwc:decimalLatitude and dwc:decimalLongitude are not zero
+053_11,0,-71.5310546742521,RUN_HAS_RESULT,COMPLIANT,dwc:decimalLongitude is not zero
+053_12,-41.0525925872862,0,RUN_HAS_RESULT,COMPLIANT,dwc:decimalLatitude is not zero

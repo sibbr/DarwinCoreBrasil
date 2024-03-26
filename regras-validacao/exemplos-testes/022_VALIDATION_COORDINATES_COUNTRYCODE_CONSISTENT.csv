@@ -1,0 +1,13 @@
+testID,countryCode,decimalLatitude,decimalLongitude,Response.status,Response.result,Response.comment
+022_1,AU,-30.0,130.0,EXTERNAL_PREREQUISITES_NOT_MET,,The bdq:sourceAuthority was not available or was unreachable
+022_2,,,,INTERNAL_PREREQUISITES_NOT_MET,,All input fields EMPTY.
+022_3,GL,,,INTERNAL_PREREQUISITES_NOT_MET,,dwc:decimalLatitude and dwc:decimalLongitude EMPTY
+022_4,GRL,,,INTERNAL_PREREQUISITES_NOT_MET,,dwc:decimalLatitude and dwc:decimalLongitude EMPTY
+022_5,,0,0,INTERNAL_PREREQUISITES_NOT_MET,,dwc:countryCode is EMPTY
+022_6,,0.0,0.0,INTERNAL_PREREQUISITES_NOT_MET,,dwc:countryCode is EMPTY
+022_7,CL,-41.0525925872862,-71.5310546742521,RUN_HAS_RESULT,NOT_COMPLIANT,"Coordinates are in Argentina, not Chile"
+022_8,AR,-41.0525925872862,-71.5310546742521,RUN_HAS_RESULT,COMPLIANT,Coordinates match dwc:countryCode
+022_9,MX,18.835941,-94.4805934,RUN_HAS_RESULT,COMPLIANT,Coordinates match dwc:countryCode
+022_10,MX,null,-94.4805934,INTERNAL_PREREQUISITES_NOT_MET,,dwc:decimalLatitude is not a valid numeric value
+022_11,MX,,-94.4805934,INTERNAL_PREREQUISITES_NOT_MET,,dwc:decimalLatitude is EMPTY
+022_12,MX,18.835941,x,INTERNAL_PREREQUISITES_NOT_MET,,dwc:decimalLongitude is not a valid numeric value

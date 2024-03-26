@@ -1,0 +1,16 @@
+testID,dateIdentified,Response.status,Response.result,Response.comment
+038_1,,INTERNAL_PREREQUISITES_NOT_MET,,bdq:dateIdentified is EMPTY
+038_2,1963-03-08X14:07-0600,RUN_HAS_RESULT,NOT_COMPLIANT,dwc:dateIdentified is not a valid ISO 8601-1:2019 date
+038_3,1963-03-08T14:07,RUN_HAS_RESULT,COMPLIANT,dwc:dateIdentified is a valid ISO 8601-1:2019 date
+038_4,1963-03-08T14,RUN_HAS_RESULT,COMPLIANT,dwc:dateIdentified is a valid ISO 8601-1:2019 date
+038_5,1963-03-08T14:67-0600,RUN_HAS_RESULT,NOT_COMPLIANT,dwc:dateIdentified is not a valid ISO 8601-1:2019 date
+038_6,1963-03-08T14:07Z,RUN_HAS_RESULT,COMPLIANT,dwc:dateIdentified is a valid ISO 8601-1:2019 date
+038_7,1963-03-08T4,RUN_HAS_RESULT,NOT_COMPLIANT,dwc:dateIdentified is not a valid ISO 8601-1:2019 date
+038_8,1963-03-08T14:0,RUN_HAS_RESULT,NOT_COMPLIANT,dwc:dateIdentified is not a valid ISO 8601-1:2019 date
+038_9,1963-03-08,RUN_HAS_RESULT,COMPLIANT,dwc:dateIdentified is a valid ISO 8601-1:2019 date
+038_10,1963-03,RUN_HAS_RESULT,COMPLIANT,dwc:dateIdentified is a valid ISO 8601-1:2019 date
+038_11,1963,RUN_HAS_RESULT,COMPLIANT,dwc:dateIdentified is a valid ISO 8601-1:2019 date
+038_12,63,RUN_HAS_RESULT,NOT_COMPLIANT,dwc:dateIdentified is not a valid ISO 8601-1:2019 date
+038_13,0,RUN_HAS_RESULT,NOT_COMPLIANT,dwc:dateIdentified is not a valid ISO 8601-1:2019 date
+038_14,2021_06_03T24:00,RUN_HAS_RESULT,NOT_COMPLIANT,dwc:dateIdentified is not a valid ISO 8601-1:2019 date. 24 no longer allowed in the hours position.
+038_15,X,RUN_HAS_RESULT,NOT_COMPLIANT,dwc:dateIdentified is not a valid ISO 8601-1:2019 date

@@ -1,0 +1,13 @@
+testID,countryCode,decimalLatitude,decimalLongitude,Response.status,Response.result,Response.comment
+042_1,,-25.23,135.43,EXTERNAL_PREREQUISITES_NOT_MET,,bdq:sourceAuthority not available
+042_2,,,,INTERNAL_PREREQUISITES_NOT_MET,,dwc:decimalLatitude and dwc:decimalLongitude are EMPTY
+042_3,AX,-25.23,135.43,INTERNAL_PREREQUISITES_NOT_MET,,dwc:countryCode is not EMPTY
+042_4,,-25.23,,INTERNAL_PREREQUISITES_NOT_MET,,dwc:decimalLatitude is EMPTY
+042_5,,,145.0,INTERNAL_PREREQUISITES_NOT_MET,,dwc:decimalLatitude is EMPTY
+042_6,,-25.23,185.43,NOT_AMENDED,,dwc:decimalLongitude is out of range
+042_7,,-38.280937,72.047790,NOT_AMENDED,,Coordinates do not fall in the boundary of any country
+042_8,null,-42.280937,145.047790,INTERNAL_PREREQUISITES_NOT_MET,,dwc:countryCode is not EMPTY
+042_9,,x,135.87,INTERNAL_PREREQUISITES_NOT_MET,,dwc:decimalLatitude contains an uninterpretable value
+042_10,,-25.23,x,INTERNAL_PREREQUISITES_NOT_MET,,dwc:decimalLongitude contains an uninterpretable value
+042_11,,-25.23,135.43,FILLED_IN,"{""dwc:countryCode"":""AU""}",dwc:decimalLatitude and dwc:decimalLongitude contain interpretable values
+042_12,,-41.195924,-71.253562,FILLED_IN,"{""dwc:countryCode"":""AR""}",dwc:decimalLatitude and dwc:decimalLongitude contain interpretable values

@@ -1,0 +1,11 @@
+testID,country,stateProvince,Response.status,Response.result,Response.comment
+094_1,AnyCountry,AnyState,EXTERNAL_PREREQUISITES_NOT_MET,,bdq:sourceAuthority was not available or was unreachable
+094_2,Australia,,RUN_HAS_RESULT,COMPLIANT,dwc:country and dwc:stateProvince are unambiguous
+094_3,Argentina,,RUN_HAS_RESULT,COMPLIANT,dwc:country and dwc:stateProvince are unambiguous
+094_4,,Tasmania,RUN_HAS_RESULT,COMPLIANT,dwc:country and dwc:stateProvince are unambiguous
+094_5,Australia,Tasmania,RUN_HAS_RESULT,COMPLIANT,dwc:country and dwc:stateProvince are unambiguous
+094_6,Argentina,Rio Negro,RUN_HAS_RESULT,COMPLIANT,dwc:country and dwc:stateProvince are unambiguous
+094_7,,WA,RUN_HAS_RESULT,NOT_COMPLIANT,"dwc:country and dwc:stateProvince are ambiguous. Matches Western Australia, Washington State (US)"
+094_8,Australia,Florida,RUN_HAS_RESULT,NOT_COMPLIANT,dwc:country and dwc:stateProvince are ambiguous
+094_9,Fred,,RUN_HAS_RESULT,NOT_COMPLIANT,dwc:country and dwc:stateProvince are ambiguous
+094_10,X,Y,RUN_HAS_RESULT,NOT_COMPLIANT,dwc:country and dwc:stateProvince are ambiguous

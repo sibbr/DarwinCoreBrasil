@@ -1,0 +1,7 @@
+testID,scientificName,Response.status,Response.result,Response.comment
+018_1,Eucalyptus gunnii,EXTERNAL_PREREQUISITES_NOT_MET,,The bdq:sourceAuthority was not available or was unreachable
+018_2,,INTERNAL_PREREQUISITES_NOT_MET,,dwc:scientificName is EMPTY
+018_3,null,RUN_HAS_RESULT,NOT_COMPLIANT,dwc:scientificName was not found in bdq:sourceAuthority
+018_4,Eucalyptus camaldulensis,RUN_HAS_RESULT,COMPLIANT,dwc:scientificName found in bdq:sourceAuthority
+018_5,Capulus intort,RUN_HAS_RESULT,NOT_COMPLIANT,dwc:scientificName was not found in bdq:sourceAuthority
+018_6,x,RUN_HAS_RESULT,NOT_COMPLIANT,dwc:scientificName was not found in bdq:sourceAuthority

@@ -1,0 +1,12 @@
+testID,genus,Response.status,Response.result,Response.comment
+076_1,,INTERNAL_PREREQUISITES_NOT_MET,,dwc:genus is EMPTY
+076_2,null,RUN_HAS_RESULT,NOT_COMPLIANT,dwc:genus does not have an equivalent at the rank of Genus in the bdq:sourceAuthority
+076_3,?,RUN_HAS_RESULT,NOT_COMPLIANT,dwc:genus does not have an equivalent at the rank of Genus in the bdq:sourceAuthority
+076_4,Egernia,RUN_HAS_RESULT,COMPLIANT,dwc:genus has an equivalent at the rank of Genus in the Parameterized Source Authority
+076_5,Egernea,RUN_HAS_RESULT,NOT_COMPLIANT,dwc:genus does not have an equivalent at the rank of Genus in the bdq:sourceAuthority. This may be fixed using fuzzy matching at the AMENDMENT stage
+076_6,Scincidae,RUN_HAS_RESULT,NOT_COMPLIANT,dwc:genus does not have an equivalent at the rank of Genus in the bdq:sourceAuthority. Scincidae is an family not a genus
+076_7,Wallabia,RUN_HAS_RESULT,COMPLIANT,dwc:genus has an equivalent at the rank of Genus in the bdq:sourceAuthority
+076_8,skink,RUN_HAS_RESULT,NOT_COMPLIANT,dwc:genus does not have an equivalent at the rank of Genus in the bdq:sourceAuthority
+076_9,Lizard,RUN_HAS_RESULT,NOT_COMPLIANT,dwc:genus does not have an equivalent at the rank of Genus in the Parameterized Source Authority
+076_10,dwc:genus,RUN_HAS_RESULT,NOT_COMPLIANT,dwc:genus not found in the bdq:sourceAuthority
+076_11,AnyGenus,EXTERNAL_PREREQUISITES_NOT_MET,,the bdq:sourceAuthority was not Available or was unreachable

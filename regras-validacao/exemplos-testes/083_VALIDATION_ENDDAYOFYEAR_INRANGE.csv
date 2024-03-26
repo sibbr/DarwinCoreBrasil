@@ -1,0 +1,9 @@
+testID,eventDate,endDayOfYear,Response.status,Response.result,Response.comment
+083_1,,,INTERNAL_PREREQUISITES_NOT_MET,,All input fields EMPTY
+083_2,1962-11-01T10:00-0600,,INTERNAL_PREREQUISITES_NOT_MET,,dwc:endDayOfYear is EMPTY
+083_3,,20,RUN_HAS_RESULT,COMPLIANT,dwc:endDayOfYear is in range
+083_4,1949-01-15T12:34/1949-01-20T17:00,20,RUN_HAS_RESULT,COMPLIANT,dwc:endDayOfYear is in range
+083_5,,x,RUN_HAS_RESULT,NOT_COMPLIANT,"dwc:endDayOfYear is ambiguous, either ""X"" or ""No data"" or ""10"""
+083_6,,367,RUN_HAS_RESULT,NOT_COMPLIANT,dwc:endDayOfYear is not in range
+083_7,,1,RUN_HAS_RESULT,COMPLIANT,dwc:endDayOfYear is in range
+083_8,,366,INTERNAL_PREREQUISITES_NOT_MET,,dwc:endDayOfYear is 366 and dwc:eventDate is EMPTY

@@ -1,0 +1,7 @@
+testID,scientificNameID,Response.status,Response.result,Response.comment
+074_1,,RUN_HAS_RESULT,NOT_COMPLIANT,dwc:scientificNameID is EMPTY
+074_2,null,RUN_HAS_RESULT,COMPLIANT,dwc:scientificNameID is not EMPTY
+074_3,123,RUN_HAS_RESULT,COMPLIANT,dwc:scientificNameID is not EMPTY
+074_4,8fa58e08-08de-4ac1-b69c-1235340b7001,RUN_HAS_RESULT,COMPLIANT,dwc:scientificNameID is not EMPTY
+074_5,https://www.gbif.org/species/212,RUN_HAS_RESULT,COMPLIANT,dwc:scientificNameID is not EMPTY
+074_6,?,RUN_HAS_RESULT,COMPLIANT,dwc:scientificNameID is not EMPTY

@@ -1,0 +1,10 @@
+testID,eventDate,year,month,day,Response.status,Response.result,Response.comment
+024_1,,,,,INTERNAL_PREREQUISITES_NOT_MET,,dwc:eventDate is EMPTY
+024_2,X,,,,INTERNAL_PREREQUISITES_NOT_MET,,eventDate contains an uninterpretable value
+024_3,2023,2023,,,NOT_AMENDED,,No amendments possible
+024_4,2023-01-26,2023,,,FILLED_IN,"{""dwc:startDayOfYear"":""26"",""dwc:month"":""1"",""dwc:day"":""26"",""dwc:endDayOfYear"":""26""}","dwc:month, dwc:day, dwc:startDayOfyear and dwc:endDayOfYear filled in from dwc:eventDate"
+024_5,2023-01-26,2023,1,26,FILLED_IN,"{""dwc:startDayOfYear"":""26"",""dwc:endDayOfYear"":""26""}",dwc:startDayOfyear and dwc:endDayOfYear filled in from dwc:eventDate
+024_6,2007-03-01T13:00:00Z/2008-05-11T15:30:00Z,,,,FILLED_IN,"{""dwc:startDayOfYear"":""60"",""dwc:endDayOfYear"":""132""}","filled in dwc:startDayOfYear and endDayOfYear. Dwc:eventDate spans more than one day, month and year"
+024_7,2007-03,,,,FILLED_IN,"{""dwc:year"":""2007"",""dwc:month"":""3""}","dwc:eventDate contains interpretable values, assuming we treat dwc:eventDate as year-month"
+024_8,2021-10-29,2021,,,FILLED_IN,"{""dwc:startDayOfYear"":""302"",""dwc:month"":""10"",""dwc:day"":""29"",""dwc:endDayOfYear"":""302""}",dwc:eventDate contains an interpretable value
+024_9,2021-01-15/2021-02-02,,,,FILLED_IN,"{""dwc:startDayOfYear"":""15"",""dwc:year"":""2021"",""dwc:endDayOfYear"":""33""}","Provided dwc:eventDate [2021-01-15/2021-02-02] represents a range of more than one day or has precision coarser than a day, can't fill in day.|Provided dwc:eventDate [2021-01-15/2021-02-02] spans more than one month, can't fill in dwc:month.|Added year [2021] from start month of eventDate [2021-01-15/2021-02-02].|Added startDayOfYear [15] from start day of eventDate [2021-01-15/2021-02-02].|Added endDayOfYear [33] from end day of eventDate [2021-01-15/2021-02-02]."

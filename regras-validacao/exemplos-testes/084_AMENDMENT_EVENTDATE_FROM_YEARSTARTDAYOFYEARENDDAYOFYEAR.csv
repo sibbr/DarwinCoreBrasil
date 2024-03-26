@@ -1,0 +1,10 @@
+testID,eventDate,startDayOfYear,endDayOfYear,year,Response.status,Response.result,Response.comment
+084_1,2021-10-29,,,,INTERNAL_PREREQUISITES_NOT_MET,,dwc:eventDate is not EMPTY
+084_2,,,,,INTERNAL_PREREQUISITES_NOT_MET,,all inpuit fields are EMPTY
+084_3,,X,,,INTERNAL_PREREQUISITES_NOT_MET,,dwc:year is EMPTY
+084_4,,15,,,INTERNAL_PREREQUISITES_NOT_MET,,dwc:year is EMPTY
+084_5,,5,15,X,INTERNAL_PREREQUISITES_NOT_MET,,dwc:year is not interpretable as a valid year
+084_6,,5,,1949,INTERNAL_PREREQUISITES_NOT_MET,,dwc:endDayOfYear is EMPTY
+084_7,,5,15,2021,FILLED_IN,"{""dwc:eventDate"":""2021-01-05/2021-01-15""}","dwc:eventDate was interpreted from dwc:year, dwc:startDayOfYear and dwc:endDayOfYear"
+084_8,,15,25,1901,FILLED_IN,"{""dwc:eventDate"":""1901-01-15/1901-01-25""}","dwc:eventDate was interpreted from dwc:year, dwc:startDayOfYear and dwc:endDayOfYear"
+084_9,,25,15,1901,NOT_AMENDED,,dwc:startDayOfYear > dwc:endDayOfyear

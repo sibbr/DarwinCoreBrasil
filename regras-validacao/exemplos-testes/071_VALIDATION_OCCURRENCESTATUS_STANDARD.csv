@@ -1,0 +1,8 @@
+testID,occurrenceStatus,Response.status,Response.result,Response.comment
+071_1,present,RUN_HAS_RESULT,COMPLIANT,dwc:occurrenceStatus matches a term in the bdq:sourceAuthority
+071_2,sighted,RUN_HAS_RESULT,NOT_COMPLIANT,dwc:occurrenceStatus does not match a term in the bdq:sourceAuthority
+071_3,anyOldTerm,RUN_HAS_RESULT,NOT_COMPLIANT,dwc:occurrenceStatus does not match a term in the bdq:sourceAuthority
+071_4,?,RUN_HAS_RESULT,NOT_COMPLIANT,dwc:occurrenceStatus does not match a term in the bdq:sourceAuthority
+071_5,null,RUN_HAS_RESULT,NOT_COMPLIANT,dwc:occurrenceStatus does not match a term in the bdq:sourceAuthority
+071_6,,INTERNAL_PREREQUISITES_NOT_MET,,dwc:occurrenceStatus is EMPTY
+071_7,Sighted,EXTERNAL_PREREQUISITES_NOT_MET,,bdq:sourceAuthority not available or unreachable

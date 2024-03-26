@@ -1,0 +1,8 @@
+testID,decimalLongitude,Response.status,Response.result,Response.comment
+058_1,,RUN_HAS_RESULT,NOT_COMPLIANT,dwc:decimalLongitude is EMPTY
+058_2,,RUN_HAS_RESULT,NOT_COMPLIANT,dwc:decimalLongitude is EMPTY
+058_3,0.0,RUN_HAS_RESULT,COMPLIANT,dwc:decimalLongitude is not EMPTY
+058_4,null,RUN_HAS_RESULT,COMPLIANT,dwc:decimalLongitude is not EMPTY
+058_5,121.0534 W,RUN_HAS_RESULT,COMPLIANT,dwc:decimalLongitude is not EMPTY
+058_6,181.0554,RUN_HAS_RESULT,COMPLIANT,dwc:decimalLongitude is not EMPTY
+058_7,-189.5674,RUN_HAS_RESULT,COMPLIANT,dwc:decimalLongitude is not EMPTY

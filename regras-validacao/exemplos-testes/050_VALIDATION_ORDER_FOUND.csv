@@ -1,0 +1,11 @@
+testID,order,Response.status,Response.result,Response.comment
+050_1,,INTERNAL_PREREQUISITES_NOT_MET,,dwc:order is EMPTY
+050_2,,INTERNAL_PREREQUISITES_NOT_MET,,dwc:order is EMPTY
+050_3,null,RUN_HAS_RESULT,NOT_COMPLIANT,dwc:order does not have an equivalent at the rank of Order in the bdq:sourceAuthority
+050_4,?,RUN_HAS_RESULT,NOT_COMPLIANT,dwc:order does not have an equivalent at the rank of Order in the bdq:sourceAuthority
+050_5,Myrtales,RUN_HAS_RESULT,COMPLIANT,dwc:order has an equivalent at the rank of Order in the bdq:sourceAuthority
+050_6,Lepidoptera,RUN_HAS_RESULT,COMPLIANT,dwc:order has an equivalent at the rank of Order in the bdq:sourceAuthority
+050_7,Nymphalidae,RUN_HAS_RESULT,NOT_COMPLIANT,"dwc:order does not have an equivalent at the rank of Order in the bdq:sourceAuthority. Nymphalidae is a family, not an order"
+050_8,butterflies,RUN_HAS_RESULT,NOT_COMPLIANT,dwc:order does not have an equivalent at the rank of Order in the bdq:sourceAuthority
+050_9,dwc:order,RUN_HAS_RESULT,NOT_COMPLIANT,dwc:order does not have an equivalent at the rank of Order in the bdq:sourceAuthority
+050_10,AnyOrder,EXTERNAL_PREREQUISITES_NOT_MET,,the bdq:sourceAuthority was not available or unreachable

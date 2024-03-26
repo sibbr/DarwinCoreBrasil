@@ -1,0 +1,14 @@
+testID,geodeticDatum,Response.status,Response.result,Response.comment
+030_1,GDA94,EXTERNAL_PREREQUISITES_NOT_MET,,bdq:sourceAuthority is unavailable
+030_2,,INTERNAL_PREREQUISITES_NOT_MET,,dwc:geodeticDatum is EMPTY.
+030_3,x,RUN_HAS_RESULT,NOT_COMPLIANT,dwc:geodeticDatum doesn't match values in bdq:sourceAuthority
+030_4,null,RUN_HAS_RESULT,NOT_COMPLIANT,dwc:geodeticDatum doesn't match values in bdq:sourceAuthority
+030_5,UTM,RUN_HAS_RESULT,NOT_COMPLIANT,dwc:geodeticDatum doesn't match values in bdq:sourceAuthority
+030_6,WGS84,RUN_HAS_RESULT,COMPLIANT,dwc:geodeticDatum matches an unambiguous alphanumeric CRS or datum code value in bdq:sourceAuthority
+030_7,EPSG:4326,RUN_HAS_RESULT,COMPLIANT,dwc:geodeticDatum matches an unambiguous alphanumeric CRS or datum code value in bdq:sourceAuthority
+030_8,6326,RUN_HAS_RESULT,COMPLIANT,dwc:geodeticDatum matches an unambiguous alphanumeric CRS or datum code value in bdq:sourceAuthority
+030_9,7030,RUN_HAS_RESULT,NOT_COMPLIANT,"dwc:geodeticDatum doesn't match values in bdq:sourceAuthority, 1730 (EPSG:1730) is an ellipsoid not a datum"
+030_10,EPSG:23032,RUN_HAS_RESULT,COMPLIANT,dwc:geodeticDatum matches an unambiguous alphanumeric CRS or datum code value in bdq:sourceAuthority
+030_11,ED50,RUN_HAS_RESULT,COMPLIANT,dwc:geodeticDatum matches an unambiguous alphanumeric CRS or datum code value in bdq:sourceAuthority
+030_12,International 1924,RUN_HAS_RESULT,NOT_COMPLIANT,dwc:geodeticDatum doesn't match values in bdq:sourceAuthority. International 1924 is an Ellipsoid not a Datum
+030_13,4326,RUN_HAS_RESULT,COMPLIANT,dwc:geodeticDatum matches an unambiguous alphanumeric CRS or datum code value in bdq:sourceAuthority

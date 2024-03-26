@@ -1,0 +1,9 @@
+testID,countryCode,Response.status,Response.result,Response.comment
+059_1,,RUN_HAS_RESULT,NOT_COMPLIANT,dwc:countryCode is EMPTY
+059_2,GL,RUN_HAS_RESULT,COMPLIANT,dwc:countryCode is not EMPTY
+059_3,GRL,RUN_HAS_RESULT,COMPLIANT,dwc:countryCode is not EMPTY
+059_4,XX,RUN_HAS_RESULT,COMPLIANT,dwc:countryCode is not EMPTY
+059_5,Australia,RUN_HAS_RESULT,COMPLIANT,dwc:countryCode is not EMPTY
+059_6,US,RUN_HAS_RESULT,COMPLIANT,dwc:countryCode is not EMPTY
+059_7,MX,RUN_HAS_RESULT,COMPLIANT,dwc:countryCode is not EMPTY
+059_8,null,RUN_HAS_RESULT,COMPLIANT,dwc:countryCode is not EMPTY

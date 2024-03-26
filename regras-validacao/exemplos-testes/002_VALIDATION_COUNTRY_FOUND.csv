@@ -1,0 +1,10 @@
+testID,country,Response.status,Response.result,Response.comment
+002_1,,INTERNAL_PREREQUISITES_NOT_MET,,dwc:country is EMPTY
+002_2,,INTERNAL_PREREQUISITES_NOT_MET,,dwc:country is EMPTY
+002_3,Eswatini,RUN_HAS_RESULT,COMPLIANT,dwc:country is a valid country name according to The Getty Thesaurus of Geographic Names (2021-03-30).
+002_4,Swaziland,RUN_HAS_RESULT,NOT_COMPLIANT,Eswatini is the preferred name according to The Getty Thesaurus of Geographic Names (2021-03-30).
+002_5,Yugoslavia,RUN_HAS_RESULT,COMPLIANT,Yugoslavia is the preferred name according to The Getty Thesaurus of Geographic Names (2021-03-30).
+002_6,Congo,RUN_HAS_RESULT,NOT_COMPLIANT,Congo could be Republic of the Congo or Democratic Republic of the Congo.
+002_7,United States Minor Outlying Islands,RUN_HAS_RESULT,NOT_COMPLIANT,"""United States Minor Outlying Islands"" is not a valid COUNTRY in The Getty Thesaurus of Geographic Names (2021-03-30)."
+002_8,México,RUN_HAS_RESULT,COMPLIANT,dwc:country is a valid country name according to The Getty Thesaurus of Geographic Names (2021-03-30).
+002_9,México,EXTERNAL_PREREQUISITES_NOT_MET,,The bdq:sourceAuthority was not available or unreachable

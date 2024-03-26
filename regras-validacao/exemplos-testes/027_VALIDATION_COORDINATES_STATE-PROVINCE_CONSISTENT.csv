@@ -1,0 +1,14 @@
+testID,stateProvince,decimalLatitude,decimalLongitude,geodeticDatum,Response.status,Response.result,Response.comment
+027_1,,,,,EXTERNAL_PREREQUISITES_NOT_MET,,bdq:sourceAuthority was not available or was unreachable
+027_2,,,,,INTERNAL_PREREQUISITES_NOT_MET,,All input fields EMPTY.
+027_3,San Isidro,,,,INTERNAL_PREREQUISITES_NOT_MET,,"dwc:decimalLatitude, dwc:decimalLongitude and dwc:geodeticDatum are EMPTY"
+027_4,,0,0,,INTERNAL_PREREQUISITES_NOT_MET,,dwc:stateProvince is EMPTY
+027_5,X,0,0,,INTERNAL_PREREQUISITES_NOT_MET,,dwc:stateProvince is EMPTY
+027_6,,0,0,,INTERNAL_PREREQUISITES_NOT_MET,,dwc:stateProvince is EMPTY
+027_7,,0,0,,INTERNAL_PREREQUISITES_NOT_MET,,dwc:stateProvince is EMPTY
+027_8,,0.0,0.0,,INTERNAL_PREREQUISITES_NOT_MET,,dwc:stateProvince is EMPTY
+027_9,Tasmania,-42.85,x,,INTERNAL_PREREQUISITES_NOT_MET,,dwc:decimalLongitude is not an interpretable
+027_10,Tasmania,-42.85,-147.645,GDA94,RUN_HAS_RESULT,COMPLIANT,Input fields contain interpretable values
+027_11,Rio Negro,-41.0525925872862,-71.5310546742521,,RUN_HAS_RESULT,COMPLIANT,Input fields contain interpretable values
+027_12,Taswegion,-42.85,-147.645,,RUN_HAS_RESULT,NOT_COMPLIANT,dwc:stateProvince is not a valid value
+027_13,Neuquén,-41.0525925872862,-71.5310546742521,,RUN_HAS_RESULT,NOT_COMPLIANT,Input fields contain interpretable values but coordinates don't match dwc:stateProvince

@@ -1,0 +1,15 @@
+testID,taxonRank,Response.status,Response.result,Response.comment
+089_1,,INTERNAL_PREREQUISITES_NOT_MET,,dwc:taxonRank is EMPTY or missing
+089_2,,INTERNAL_PREREQUISITES_NOT_MET,,dwc:taxonRank is EMPTY
+089_3,kingdom,RUN_HAS_RESULT,COMPLIANT,dwc:taxonRank has an equivalent in the bdq:sourceAuthority
+089_4,subkingdom,RUN_HAS_RESULT,COMPLIANT,dwc:taxonRank has an equivalent in the bdq:sourceAuthority
+089_5,superfamily,RUN_HAS_RESULT,COMPLIANT,dwc:taxonRank has an equivalent in the bdq:sourceAuthority
+089_6,species,RUN_HAS_RESULT,COMPLIANT,dwc:taxonRank has an equivalent in the bdq:sourceAuthority
+089_7,especie,RUN_HAS_RESULT,COMPLIANT,dwc:taxonRank does not have an equivalent in the bdq:sourceAuthority
+089_8,sp.,RUN_HAS_RESULT,NOT_COMPLIANT,dwc:taxonRank does not have an equivalent in the bdq:sourceAuthority
+089_9,subspecies,RUN_HAS_RESULT,COMPLIANT,dwc:taxonRank has an equivalent in the bdq:sourceAuthority
+089_10,ssp.,RUN_HAS_RESULT,NOT_COMPLIANT,dwc:taxonRank does not have an equivalent  in the bdq:sourceAuthority
+089_11,subsp.,RUN_HAS_RESULT,NOT_COMPLIANT,dwc:taxonRank does not have an equivalent in the bdq:sourceAuthority
+089_12,cultivar,RUN_HAS_RESULT,COMPLIANT,dwc:taxonRank has an equivalent in the bdq:sourceAuthority
+089_13,?,RUN_HAS_RESULT,NOT_COMPLIANT,dwc:taxonRank does not have an equivalent  in the bdq:sourceAuthority
+089_14,AnyRank,EXTERNAL_PREREQUISITES_NOT_MET,,the bdq:sourceAuthority was unavailable or unreachable

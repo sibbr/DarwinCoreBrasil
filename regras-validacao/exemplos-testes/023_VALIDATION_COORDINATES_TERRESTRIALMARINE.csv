@@ -1,0 +1,13 @@
+testID,decimalLatitude,decimalLongitude,scientificName,Response.status,Response.result,Response.comment
+023_1,,,,EXTERNAL_PREREQUISITES_NOT_MET,,The bdq:sourceAuthority was not available or was unreachable
+023_2,,,,INTERNAL_PREREQUISITES_NOT_MET,,All input fields EMPTY.
+023_3,0,0,,INTERNAL_PREREQUISITES_NOT_MET,,dwc:scientificName is EMPTY
+023_4,0.0,0.0,,INTERNAL_PREREQUISITES_NOT_MET,,dwc:scientificName is EMPTY
+023_5,0.0,0.0,,INTERNAL_PREREQUISITES_NOT_MET,,dwc:scientificName is EMPTY
+023_6,0.0,0.0,null,INTERNAL_PREREQUISITES_NOT_MET,,The terrestrial/marine status of the value of dwc:scientificName is not intrerpretable from bdq:sourceAuthority[taxonomyismarine]
+023_7,0.0,0.0,Brown ant,INTERNAL_PREREQUISITES_NOT_MET,,The terrestrial/marine status of the value of dwc:scientificName is not intrerpretable from bdq:sourceAuthority[taxonomyismarine]
+023_8,-42.8747,147.6489,Choerocoris paganus,RUN_HAS_RESULT,COMPLIANT,dwc:scientificName is terrestrial and coordinates are on land
+023_9,41.0554 N,121.0534 W,,INTERNAL_PREREQUISITES_NOT_MET,,dwc:decimalLatitude cannot be interpreted as a number
+023_10,-41.0525925872862,-71.5310546742521,Orcinus orca,RUN_HAS_RESULT,NOT_COMPLIANT,The species is marine and the location is an inland lake.
+023_11,41.0525925872862,-71.5310546742521,Puma concolor,RUN_HAS_RESULT,NOT_COMPLIANT,dwc:scientificName is terrestrial but coordinates are marine
+023_12,-41.0525925872862,-71.5310546742521,Aegla neuquensis,RUN_HAS_RESULT,COMPLIANT,The species is freshwater aquatic and the coordinates fall in a lake and thus COMPLIANT

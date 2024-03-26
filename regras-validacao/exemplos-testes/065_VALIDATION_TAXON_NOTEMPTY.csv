@@ -1,0 +1,8 @@
+testID,taxonID,scientificNameID,acceptedNameUsageID,scientificName,Response.status,Response.result,Response.comment
+065_1,,,,,RUN_HAS_RESULT,NOT_COMPLIANT,All input fields are empty or missing
+065_2,,,,Eucalyptus gunnii,RUN_HAS_RESULT,COMPLIANT,at least enough terms exist that identify that an entity exists
+065_3,,,?,,RUN_HAS_RESULT,COMPLIANT,at least enough terms exist that identify that an entity exists
+065_4,,XVF456,,,RUN_HAS_RESULT,COMPLIANT,at least enough terms exist that identify that an entity exists
+065_5,,,,Fred,RUN_HAS_RESULT,COMPLIANT,at least enough terms exist that identify that an entity exists
+065_6,taxonID,,,,RUN_HAS_RESULT,COMPLIANT,at least enough terms exist that identify that an entity exists
+065_7,taxonID,,,,RUN_HAS_RESULT,COMPLIANT,at least enough terms exist that identify that an entity exists

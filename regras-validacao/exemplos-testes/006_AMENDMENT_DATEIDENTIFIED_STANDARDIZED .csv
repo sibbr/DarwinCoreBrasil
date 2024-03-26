@@ -1,0 +1,9 @@
+testID,dateIdentified,Response.status,Response.result,Response.comment
+006_1,,INTERNAL_PREREQUISITES_NOT_MET,,dwc:dateIdentified is EMPTY
+006_2,,INTERNAL_PREREQUISITES_NOT_MET,,dwc:dateIdentified is EMPTY
+006_3,X,NOT_AMENDED,,dwc:dateIdentified contains an uninterpretable value
+006_4,10-28,NOT_AMENDED,,dwc:dateIdentified contains an ambiguous value
+006_5,2021-28-10,AMENDED,"{""dwc:dateIdentified"":""2021-10-28""}","dwc:dateIdentified assuming dwc:year, dwc:day and dwc:month"
+006_6,21-10-28,NOT_AMENDED,,dwc:dateIdentified contains ambiguous values. It could be dd-mm-yy or yy-mm-dd
+006_7,2021/10/28,AMENDED,"{""dwc:dateIdentified"":""2021-10-28""}",dwc:dateIdentified contains an interpretable value
+006_8,2021/04/03,AMENDED,"{""dwc:dateIdentified"":""2021-04-03""}",dwc:dateIdentified contains an unambiguous values (at least by Paul :)

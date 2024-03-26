@@ -1,0 +1,12 @@
+testID,decimalLatitude,decimalLongitude,geodeticDatum,coordinateUncertaintyInMeters,Response.status,Response.result,Response.comment
+017_1,,,,,INTERNAL_PREREQUISITES_NOT_MET,,"dwc:decimalLatitude, dwc:decimalLongitude, dwc:geodeticDatum are EMPTY"
+017_2,,139.923,GDA94,,INTERNAL_PREREQUISITES_NOT_MET,,dwc:decimalLatitude is EMPTY
+017_3,-23.721,,GDA94,,INTERNAL_PREREQUISITES_NOT_MET,,dwc:decimalLongitude is EMPTY
+017_4,-23.712,139.923,,,INTERNAL_PREREQUISITES_NOT_MET,,dwc:geodeticDatum is EMPTY
+017_5,-23.712,139.923,GDX93,,NOT_AMENDED,,dwc:geodeticDatum does not have a match in bdq:sourceAuthority
+017_6,-23.712,139.923,AGD66,,AMENDED,"{""dwc:decimalLatitude"":""-23.7105001"",""dwc:decimalLongitude"":""139.924185"",""dwc:coordinateUncertaintyInMeters"":"""",""dwc:geodeticDatum"":""EPSG:4326"",""dwc:coordinatePrecision"":""6""}","Input fields contain interpretable values: xform using ""https://epsg.io/transform#s_srs=4202&t_srs=4326&x=139.9230000&y=-23.7120000"""
+017_7,-93.712,139.923,GDA94,,NOT_AMENDED,,dwc:decimalLatitude was out of range
+017_8,x,139.923,GDA94,,INTERNAL_PREREQUISITES_NOT_MET,,dwc:decimalLatitide contains uninterpretable value
+017_9,-23.712,139.923,GDA94,50,AMENDED,"{""dwc:decimalLatitude"":""--23.7119864"",""dwc:decimalLongitude"":""139.9230077"",""dwc:coordinateUncertaintyInMeters"":""50"",""dwc:geodeticDatum"":""EPSG:4326"",""dwc:coordinatePrecision"":""7""}",Input fields contain interpretable values: Xform from https://epsg.io/transform#s_srs=4939&t_srs=4326&x=139.9230000&y=-23.7120000
+017_10,null,139.923,GDA94,,INTERNAL_PREREQUISITES_NOT_MET,,Input fields contain interpretable values
+017_11,-10.671867,150.207555,EPSG:5546,,AMENDED,"{""dwc:decimalLatitude"":""-10.671867"",""dwc:decimalLongitude"":""150.207555"",""dwc:coordinateUncertaintyInMeters"":"""",""dwc:geodeticDatum"":""EPSG:4326"",""dwc:coordinatePrecision"":""""}",Input fields contain interpretable values: Xform from https://epsg.io/transform#s_srs=5546&t_srs=4326&x=150.2075550&y=-10.6718670

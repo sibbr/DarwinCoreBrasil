@@ -1,0 +1,9 @@
+testID,minimumElevationInMeters,Response.status,Response.result,Response.comment
+013_1,,INTERNAL_PREREQUISITES_NOT_MET,,"dwc:minimumElevationInMeters is EMPTY"""
+013_2,0,RUN_HAS_RESULT,COMPLIANT,dwc:minimumElevationInMeters is IN_RANGE
+013_3,1,RUN_HAS_RESULT,COMPLIANT,dwc:minimumElevationInMeters is IN_RANGE
+013_4,-500,RUN_HAS_RESULT,NOT_COMPLIANT,dwc:minimumElevationInMeters is NOT_IN_RANGE (<-430)
+013_5,8860,RUN_HAS_RESULT,NOT_COMPLIANT,dwc:minimumElevationInMeters is NOT_IN_RANGE (>8850)
+013_6,,INTERNAL_PREREQUISITES_NOT_MET,,"dwc:minimumElevationInMeters is EMPTY"""
+013_7,null,INTERNAL_PREREQUISITES_NOT_MET,,dwc:minimumElevationInMeters is not a NUMBER
+013_8,[non-prininting characters],INTERNAL_PREREQUISITES_NOT_MET,,dwc:minimumElevationInMeters is not a NUMBER

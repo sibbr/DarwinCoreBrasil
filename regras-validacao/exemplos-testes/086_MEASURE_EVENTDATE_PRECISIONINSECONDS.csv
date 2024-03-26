@@ -1,0 +1,9 @@
+testID,eventDate,Response.status,Response.result,Response.comment
+086_1,1880-05-08,RUN_HAS_RESULT,86400,dwc:eventDate duration is the number of seconds in a day
+086_2,1880-05-08/10,RUN_HAS_RESULT,259200,"dwc:eventDate duration is 3 days = 259,200 seconds"""
+086_3,,INTERNAL_PREREQUISITES_NOT_MET,NOT_REPORTED,dwc:eventDate is EMPTY
+086_4,95,INTERNAL_PREREQUISITES_NOT_MET,NOT_REPORTED,dwc:eventDate does not contain a valid ISO 8601-1:2019 date
+086_5,X,INTERNAL_PREREQUISITES_NOT_MET,NOT_REPORTED,dwc:eventDate does not contain a valid ISO 8601-1:2019 date
+086_6,2007-03-01T13:00:00Z/2008-05-11T15:30:00Z,RUN_HAS_RESULT,37765800,dwc:eventDate precision is 37765800 seconds
+086_7,2007,RUN_HAS_RESULT,31536000,dwc:eventDate represents an interval of 365 days (365 days * 86400 seconds per day = 31536000  seconds).
+086_8,1980,RUN_HAS_RESULT,31622400,1980 is a leap year.  dwc:eventDate represents an interval of 366 days (366 days * 86400 seconds per day = 31622400 seconds).

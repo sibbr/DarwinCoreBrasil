@@ -1,0 +1,8 @@
+testID,geodeticDatum,Response.status,Response.result,Response.comment
+031_1,AnyDatum,EXTERNAL_PREREQUISITES_NOT_MET,,bdq:sourceAuthority unavailable
+031_2,,INTERNAL_PREREQUISITES_NOT_MET,,dwc:geodeticDatum is EMPTY
+031_3,null,NOT_AMENDED,,dwc:geodeticDatum contains an uninterpretable value
+031_4,x,NOT_AMENDED,,dwc:geodeticDatum contains an uninterpretable value
+031_5,WGS8,NOT_AMENDED,,dwc:geodeticDatum contains an ambiguous value
+031_6,WGS84,AMENDED,"{""dwc:geodeticDatum"":""EPSG:4326""}",dwc:geodeticDatum contains a valid code in the bdq:sourceAuthority
+031_7,EPSG:4326,NOT_AMENDED,,dwc:geodeticDatum contains a valid code in the bdq:sourceAuthority

@@ -1,0 +1,8 @@
+testID,stateProvince,Response.status,Response.result,Response.comment
+092_1,AnyState,EXTERNAL_PREREQUISITES_NOT_MET,,bdq:sourceAuthority is unavailable
+092_2,,INTERNAL_PREREQUISITES_NOT_MET,,dwc:stateProvince is EMPTY
+092_3,Moscow Oblast,RUN_HAS_RESULT,COMPLIANT,dwc:stateProvince found in bdq:sourceAuthority
+092_4,WA,RUN_HAS_RESULT,COMPLIANT,"dwc:stateProvince found in bdq:sourceAuthority. Matches Western Australia, Washington State (US)"
+092_5,Florida,RUN_HAS_RESULT,COMPLIANT,dwc:stateProvince found in bdq:sourceAuthority
+092_6,Tasmanian,RUN_HAS_RESULT,NOT_COMPLIANT,dwc:stateProvince not found in bdq:sourceAuthority
+092_7,X,RUN_HAS_RESULT,NOT_COMPLIANT,dwc:stateProvince not found in bdq:sourceAuthority

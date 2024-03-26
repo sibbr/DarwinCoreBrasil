@@ -1,0 +1,9 @@
+testID,basisOfRecord,Response.status,Response.result,Response.comment
+029_1,PreservedSpecimen,RUN_HAS_RESULT,COMPLIANT,dwc:basisOfRecord is not EMPTY
+029_2,PreservedSpec,RUN_HAS_RESULT,COMPLIANT,dwc:basisOfRecord is not EMPTY
+029_3,anyOldTerm,RUN_HAS_RESULT,COMPLIANT,dwc:basisOfRecord is not EMPTY
+029_4,?,RUN_HAS_RESULT,COMPLIANT,dwc:basisOfRecord is not EMPTY
+029_5,,RUN_HAS_RESULT,NOT_COMPLIANT,dwc:basisOfRecord is EMPTY
+029_6,null,RUN_HAS_RESULT,COMPLIANT,dwc:basisOfRecord is not EMPTY
+029_7,,RUN_HAS_RESULT,NOT_COMPLIANT,dwc:basisOfRecord is EMPTY or Missing
+029_8,dwc:basisOfRecord,RUN_HAS_RESULT,COMPLIANT,dwc:basisOfRecord is not EMPTY

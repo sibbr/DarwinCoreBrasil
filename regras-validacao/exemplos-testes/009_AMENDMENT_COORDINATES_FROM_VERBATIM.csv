@@ -1,0 +1,16 @@
+testID,decimalLatitude,decimalLongitude,verbatimCoordinates,verbatimLatitude,verbatimLongitude,verbatimCoordinateSystem,verbatimSRS,Response.status,Response.result,Response.comment
+009_1,,,,,,,,INTERNAL_PREREQUISITES_NOT_MET,,All input fields are EMPTY
+009_2,-23.712,,,,,,,INTERNAL_PREREQUISITES_NOT_MET,,dwc:decimalLatutide is not EMPTY
+009_3,,139.923,,,,,,INTERNAL_PREREQUISITES_NOT_MET,,dwc:decimalLongitude is not EMPTY
+009_4,-23.712,139.923,,,,,,INTERNAL_PREREQUISITES_NOT_MET,,dwc:decimalLatutide and dwc:decimalLongitude are not EMPTY
+009_5,,,23 degrees 42.72 minutes south,-23.712,,,,INTERNAL_PREREQUISITES_NOT_MET,,dwc:verbatimLatitude and dwc:verbatimLongitude and dwc:verbatimCoordinates were not interpretable into coordinates as decimal degrees
+009_6,,,,-23.712,x,,,INTERNAL_PREREQUISITES_NOT_MET,,dwc:verbatimLatitude and dwc:verbatimLongitude were not interpretable into coordinates as decimal degrees
+009_7,,,23 degrees south 185 degrees east,,,,,INTERNAL_PREREQUISITES_NOT_MET,,dwc:verbatimCoordinates were not interpretable into coordinates as decimal degrees
+009_8,,,x,,,,,INTERNAL_PREREQUISITES_NOT_MET,,dwc:verbatimCoordinates were not interpretable into coordinates as decimal degrees
+009_9,,,139 degrees 55.38 minutes east,-23.712,,,EPSG:4326,NOT_AMENDED,,dwc:verbatimCoordinateSystem is EMPTY
+009_10,,,139 degrees 55.38 minutes east,-23.712,,decimal degrees,,NOT_AMENDED,,dwc:verbatimCoordinateSRS is EMPTY
+009_11,,,139 degrees 55.38 minutes east,-23.712,,decimal degrees,WDGB21,NOT_AMENDED,,dwc:verbatimSRS contains an uninterpretable value
+009_12,,,,-23.712,,decimal degrees,EPSG:4326,NOT_AMENDED,,dwc:verbatimLongitude is EMPTY
+009_13,,,139.92,-23.712,,decimal degrees,EPSG:4326,FILLED_IN,"{""dwc:decimalLatitude"":""-23.712"",""dwc:decimalLongitude"":""139.923"",""dwc:geodeticDatum"":""EPSG:4326""}",Input fields contain interpretable values
+009_14,,,139.92. -23.712,,,decimal degrees,EPSG:4326,FILLED_IN,"{""dwc:decimalLatitude"":""-23.712"",""dwc:decimalLongitude"":""139.923"",""dwc:geodeticDatum"":""EPSG:4326""}",Input fields contain interpretable values
+009_15,,,,-23.712,139.92,decimal degrees,EPSG:4326,FILLED_IN,"{""dwc:decimalLatitude"":""-23.712"",""dwc:decimalLongitude"":""139.923"",""dwc:geodeticDatum"":""EPSG:4326""}",Input fields contain interpretable values

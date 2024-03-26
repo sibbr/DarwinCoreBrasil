@@ -1,0 +1,11 @@
+testID,eventDate,year,month,day,Response.status,Response.result,Response.comment
+056_1,2021-10-29,,,,INTERNAL_PREREQUISITES_NOT_MET,,dwc:eventDate is not EMPTY
+056_2,,,,,INTERNAL_PREREQUISITES_NOT_MET,,dwc:year EMPTY
+056_3,,X,,,INTERNAL_PREREQUISITES_NOT_MET,,dwc:year is an uninterpretable value
+056_4,,2021,10,,FILLED_IN,"{""dwc:eventDate"":""2021-10""}",dwc:year and dwc:month are interpretable values
+056_5,,2021,10,29,FILLED_IN,"{""dwc:eventDate"":""2021-10-29""}","dwc:year, dwc:month and dwc:day are interpretable values"
+056_6,,2021,,29,FILLED_IN,"{""dwc:eventDate"":""2021""}",dwc:year and dwc:day are interpretable values but as dwc:month is missing we resolve only to dwc:year
+056_7,,2021,X,29,FILLED_IN,"{""dwc:eventDate"":""2021-10-29""}",dwc:year and dwc:day in range and dwc:month is interpretable as an integer between 1-12.
+056_8,,x,10,,INTERNAL_PREREQUISITES_NOT_MET,,dwc:year is uninterpretable
+056_9,,197,10,,NOT_AMENDED,,dwc:year is uninterpretable
+056_10,,2021,,,FILLED_IN,"{""dwc:eventDate"":""2021""}",dwc:year is an interpretable value

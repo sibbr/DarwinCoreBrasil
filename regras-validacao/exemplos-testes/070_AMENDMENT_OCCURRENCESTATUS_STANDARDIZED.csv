@@ -1,0 +1,5 @@
+testID,occurrenceStatus,Response.status,Response.result,Response.comment
+070_1,Sighted,EXTERNAL_PREREQUISITES_NOT_MET,,bdq:sourceAuthority not available or unreachable
+070_2,,INTERNAL_PREREQUISITES_NOT_MET,,dwc:occurrenceStatus is EMPTY
+070_3,X,NOT_AMENDED,,Input field contains uninterpretable value
+070_4,1,AMENDED,"{""dwc:occurrenceStatus"":""present""}","Input field contains interpretable value. This may be pushing it a little, but I would have interpreted 1/0 as present/absent"

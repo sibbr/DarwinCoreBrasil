@@ -1,0 +1,7 @@
+testID,license,Response.status,Response.result,Response.comment
+060_1,CC0 1.0,RUN_HAS_RESULT,COMPLIANT,dcterms:license is not EMPTY
+060_2,corrosive commons,RUN_HAS_RESULT,COMPLIANT,dcterms:license is not EMPTY
+060_3,?,RUN_HAS_RESULT,COMPLIANT,dcterms:license is not EMPTY
+060_4,,RUN_HAS_RESULT,NOT_COMPLIANT,dcterms:license is EMPTY
+060_5,,RUN_HAS_RESULT,NOT_COMPLIANT,dcterms:license is EMPTY or missing
+060_6,null,RUN_HAS_RESULT,COMPLIANT,dcterms:license is not EMPTY

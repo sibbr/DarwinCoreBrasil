@@ -1,0 +1,7 @@
+testID,minimumDepthInMeters,Response.status,Response.result,Response.comment
+066_1,,INTERNAL_PREREQUISITES_NOT_MET,,dwc:minimumDepthInMeters is EMPTY
+066_2,0,RUN_HAS_RESULT,COMPLIANT,dwc:minimumDepthInMeters is in range
+066_3,1,RUN_HAS_RESULT,COMPLIANT,dwc:minimumDepthInMeters is in range
+066_4,12000,RUN_HAS_RESULT,NOT_COMPLIANT,dwc:minimumDepthInMeters is not in range
+066_5,null,INTERNAL_PREREQUISITES_NOT_MET,,dwc:minimumDepthInMeters is not interpretable as zero or positive value
+066_6,-100,INTERNAL_PREREQUISITES_NOT_MET,,dwc:minimumDepthInMeters is not interpretable as zero or positive value

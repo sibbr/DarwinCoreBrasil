@@ -1,0 +1,14 @@
+testID,basisOfRecord,Response.status,Response.result,Response.comment
+064_1,Preserved Specimen,EXTERNAL_PREREQUISITES_NOT_MET,,bdq:sourceAuthority is not available
+064_2,Preserved Specimen,RUN_HAS_RESULT,COMPLIANT,dwc:basisOfRecord matches a standard label of one of the Darwin Core classes
+064_3,Fossil Specimen,RUN_HAS_RESULT,COMPLIANT,dwc:basisOfRecord matches a standard label of one of the Darwin Core classes
+064_4,Human Observation,RUN_HAS_RESULT,COMPLIANT,dwc:basisOfRecord matches a standard label of one of the Darwin Core classes
+064_5,Taxon,RUN_HAS_RESULT,COMPLIANT,dwc:basisOfRecord matches a standard label of one of the Darwin Core classes
+064_6,Specimen,RUN_HAS_RESULT,NOT_COMPLIANT,dwc:basisOfRecord does not exactly match a standard label of one of the Darwin Core classes
+064_7,preserved specimen,RUN_HAS_RESULT,NOT_COMPLIANT,dwc:basisOfRecord does not match a standard label of one of the Darwin Core classes. Incorrect capitalization
+064_8,anyOldTerm,RUN_HAS_RESULT,NOT_COMPLIANT,dwc:basisOfRecord does not match a standard label of one of the Darwin Core classes
+064_9,?,RUN_HAS_RESULT,NOT_COMPLIANT,dwc:basisOfRecord does not match a standard label of one of the Darwin Core classes
+064_10,present,RUN_HAS_RESULT,NOT_COMPLIANT,"bdq:sourceAuthority service is not available, try again later"
+064_11,,INTERNAL_PREREQUISITES_NOT_MET,,dwc:basisOfRecord is EMPTY
+064_12,,INTERNAL_PREREQUISITES_NOT_MET,,dwc:basisOfRecord is EMPTY
+064_13,null,RUN_HAS_RESULT,NOT_COMPLIANT,dwc:basisOfRecord does not match a standard label of one of the Darwin Core classes

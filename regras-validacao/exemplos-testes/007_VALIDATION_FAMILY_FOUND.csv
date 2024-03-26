@@ -1,0 +1,12 @@
+testID,family,Response.status,Response.result,Response.comment
+007_1,anyfamily,EXTERNAL_PREREQUISITES_NOT_MET,,The bdq:sourceAuthority was unavailable or unreachable
+007_2,,INTERNAL_PREREQUISITES_NOT_MET,,bdq:family is EMPTY or MISSING
+007_3,,INTERNAL_PREREQUISITES_NOT_MET,,bdq:family is EMPTY or white space
+007_4,null,RUN_HAS_RESULT,NOT_COMPLIANT,"bdq:family does not have an equivalent at the rank of Family in the bdq:sourceAuthority, string serializations of null are not empty."
+007_5,?,RUN_HAS_RESULT,NOT_COMPLIANT,bdq:family does not have an equivalent at the rank of Family in the bdq:sourceAuthority
+007_6,Agaricaceae,RUN_HAS_RESULT,COMPLIANT,bdq:family has an equivalent at the rank of Family in the bdq:sourceAuthority
+007_7,Agaricacae,RUN_HAS_RESULT,NOT_COMPLIANT,bdq:family does not have an equivalent at the rank of Family in the Parameterized Source Authority
+007_8,Macropodidae,RUN_HAS_RESULT,COMPLIANT,bdq:family has an equivalent at the rank of Family in the bdq:sourceAuthority
+007_9,kangaroos,RUN_HAS_RESULT,NOT_COMPLIANT,bdq:family does not have an equivalent at the rank of Family in the Parameterized Source Authority
+007_10,Macropods,RUN_HAS_RESULT,NOT_COMPLIANT,bdq:family does not have an equivalent at the rank of Family in the Parameterized Source Authority
+007_11,dwc:family,RUN_HAS_RESULT,NOT_COMPLIANT,bdq:family does not have an equivalent at the rank of Family in the bdq:sourceAuthority

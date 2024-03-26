@@ -1,0 +1,32 @@
+testID,locationID,higherGeographyID,continent,waterBody,islandGroup,island,country,countryCode,stateProvince,decimalLatitude,decimalLongitude,geodeticDatum,footprintWKT,Response.status,Response.result,Response.comment
+014_1,,,,,,,,,,,,,,RUN_HAS_RESULT,NOT_COMPLIANT,All location fields are EMPTY.
+014_2,null,,null,,,,null,,,,,,,RUN_HAS_RESULT,COMPLIANT,Some location field have content
+014_3,https://opencontext.org/subjects/768A875F-E205-4D0B-DE55-BAB7598D0FD19,,,,,,,,,,,,,RUN_HAS_RESULT,COMPLIANT,Location not EMPTY as there is a value in dwc:locationID
+014_4,,http://vocab.getty.edu/tgn/1002020,,,,,,,,,,,,RUN_HAS_RESULT,COMPLIANT,Location not EMPTY
+014_5,,,Africa,,,,,,,,,,,RUN_HAS_RESULT,COMPLIANT,Location not EMPTY
+014_6,,,,Southern Ocean,,,,,,,,,,RUN_HAS_RESULT,COMPLIANT,Location not EMPTY
+014_7,,,,,Antipodes Islands,,,,,,,,,RUN_HAS_RESULT,COMPLIANT,Location not EMPTY
+014_8,,,,,,Robinson Crusoe Island,,,,,,,,RUN_HAS_RESULT,COMPLIANT,Location not EMPTY
+014_9,,,,,,,Eswatini,,,,,,,RUN_HAS_RESULT,COMPLIANT,Location not EMPTY
+014_10,,,,,,,Swaziland,,,,,,,RUN_HAS_RESULT,COMPLIANT,Location not EMPTY
+014_11,,,,,,,Yugoslavia,,,,,,,RUN_HAS_RESULT,COMPLIANT,Location not EMPTY
+014_12,,,,,,,Congo,,,,,,,RUN_HAS_RESULT,COMPLIANT,Location not EMPTY
+014_13,,,,,,,,GL,,,,,,RUN_HAS_RESULT,COMPLIANT,Location not EMPTY
+014_14,,,,,,,,GRL,,,,,,RUN_HAS_RESULT,COMPLIANT,Location not EMPTY
+014_15,,,,,,,,XX,,,,,,RUN_HAS_RESULT,COMPLIANT,Location not EMPTY
+014_16,,,,,,,,Austria,,,,,,RUN_HAS_RESULT,COMPLIANT,Location not EMPTY
+014_17,,,,,,,,,,,,,"POLYGON ((10 20, 11 20, 11 21, 10 21, 10 20))",RUN_HAS_RESULT,COMPLIANT,"Location not EMPTY: the one-degree bounding box with opposite corners at longitude=10, latitude=20 and longitude=11, latitude=21"
+014_18,,,,,,,,,San Isidro,,,,X,RUN_HAS_RESULT,COMPLIANT,Location not EMPTY
+014_19,,,,,,,,,,0,0,,,RUN_HAS_RESULT,COMPLIANT,Location not EMPTY
+014_20,,,,,,,,,,0.0,0.0,,,RUN_HAS_RESULT,COMPLIANT,Location not EMPTY
+014_21,,,,,,,,,,41.0554 N,121.0534 W,,,RUN_HAS_RESULT,COMPLIANT,Location not EMPTY
+014_22,,,,,,,,,,121.0534,181.0554,,,RUN_HAS_RESULT,COMPLIANT,Location not EMPTY
+014_23,,,,,,,,,,-99.2314,-189.5674,,,RUN_HAS_RESULT,COMPLIANT,Location not EMPTY
+014_24,,,,,,,,,,-41.0525925872862,-71.5310546742521,,,RUN_HAS_RESULT,COMPLIANT,Location not EMPTY
+014_25,,,,,,,,CL,,-41.0525925872862,-71.5310546742521,,,RUN_HAS_RESULT,COMPLIANT,Location not EMPTY
+014_26,,,,,,,,AR,Rio Negro,-41.0525925872862,-71.5310546742521,,,RUN_HAS_RESULT,COMPLIANT,Location not EMPTY
+014_27,,,,,,,,AR,Neuquén,-41.0525925872862,-71.5310546742521,,,RUN_HAS_RESULT,COMPLIANT,Location not EMPTY
+014_28,,,,,,,México,MX,,18.835941,-94.4805934,,,RUN_HAS_RESULT,COMPLIANT,Location not EMPTY
+014_29,,,,,,,,,,-41.0525925872862,-71.5310546742521,4326,,RUN_HAS_RESULT,COMPLIANT,Location not EMPTY
+014_30,,,,,,,,,,41.0525925872862,-71.5310546742521,4326,,RUN_HAS_RESULT,COMPLIANT,Location not EMPTY
+014_31,,,,,,,,,,-41.0525925872862,-71.5310546742521,4326,,RUN_HAS_RESULT,COMPLIANT,Location not EMPTY

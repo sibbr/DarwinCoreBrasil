@@ -1,0 +1,11 @@
+testID,year,Response.status,Response.result,Response.comment
+021_1,,RUN_HAS_RESULT,NOT_COMPLIANT,dwc:year is EMPTY
+021_2,,RUN_HAS_RESULT,NOT_COMPLIANT,dwc:year is EMPTY
+021_3,1949,RUN_HAS_RESULT,COMPLIANT,dwc:year is not EMPTY
+021_4,194x,RUN_HAS_RESULT,COMPLIANT,dwc:year is not EMPTY
+021_5,1952,RUN_HAS_RESULT,COMPLIANT,dwc:year is not EMPTY
+021_6,9999,RUN_HAS_RESULT,COMPLIANT,dwc:year is not EMPTY
+021_7,1599,RUN_HAS_RESULT,COMPLIANT,dwc:year is not EMPTY
+021_8,0,RUN_HAS_RESULT,COMPLIANT,dwc:year is not EMPTY
+021_9,XXXX,RUN_HAS_RESULT,COMPLIANT,dwc:year is not EMPTY
+021_10,null,RUN_HAS_RESULT,COMPLIANT,"dwc:year is not EMPTY, string serializations of null are not empty"

@@ -1,0 +1,9 @@
+testID,geodeticDatum,Response.status,Response.result,Response.comment
+046_1,,RUN_HAS_RESULT,NOT_COMPLIANT,dwc:geodeticDatum is EMPTY.
+046_2,UTM,RUN_HAS_RESULT,COMPLIANT,dwc:geodeticDatum is NOT EMPTY
+046_3,null,RUN_HAS_RESULT,COMPLIANT,dwc:geodeticDatum is NOT EMPTY
+046_4,WGS84,RUN_HAS_RESULT,COMPLIANT,dwc:geodeticDatum is NOT EMPTY
+046_5,ED50,RUN_HAS_RESULT,COMPLIANT,dwc:geodeticDatum is NOT EMPTY
+046_6,International 1924,RUN_HAS_RESULT,COMPLIANT,dwc:geodeticDatum is NOT EMPTY
+046_7,4326,RUN_HAS_RESULT,COMPLIANT,dwc:geodeticDatum is NOT EMPTY
+046_8,X,RUN_HAS_RESULT,COMPLIANT,dwc:geodeticDatum is NOT EMPTY

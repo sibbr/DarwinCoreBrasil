@@ -1,0 +1,29 @@
+testID,eventDate,startDayOfYear,endDayOfYear,year,month,day,verbatimEventDate,Response.status,Response.result,Response.comment
+054_1,,,,,,,,RUN_HAS_RESULT,NOT_COMPLIANT,All input fields EMPTY
+054_2,1962-11-01T10:00-0600,,,,,,,RUN_HAS_RESULT,COMPLIANT,dwc:eventDate is not EMPTY
+054_3,1964-11-01T10:00-0600,,,,,,,RUN_HAS_RESULT,COMPLIANT,dwc:eventDate is not EMPTY
+054_4,,,,,,15,,RUN_HAS_RESULT,COMPLIANT,dwc:day is not EMPTY
+054_5,,,,,,32,,RUN_HAS_RESULT,COMPLIANT,dwc:day is not EMPTY
+054_6,,,,,,x,,RUN_HAS_RESULT,COMPLIANT,dwc:day is not EMPTY
+054_7,,,,1949,,,,RUN_HAS_RESULT,COMPLIANT,dwc:year is not EMPTY
+054_8,,,,194x,,,,RUN_HAS_RESULT,COMPLIANT,dwc:year is not EMPTY
+054_9,,,,1949,,15,,RUN_HAS_RESULT,COMPLIANT,dwc:day and dwc:year are not EMPTY
+054_10,,,,1952,2,30,,RUN_HAS_RESULT,COMPLIANT,"dwc:day, dwc:month and dwc:year are not EMPTY"
+054_11,,,,1952,2,x,,RUN_HAS_RESULT,COMPLIANT,"dwc:day, dwc:month and dwc:year are not EMPTY"
+054_12,1949-09-15T12:34,,,1949,9,15,,RUN_HAS_RESULT,COMPLIANT,"dwc:day, dwc:month, dwc:year and dwc:evendate are not EMPTY"
+054_13,1949-09-16T12:34,,,1949,9,15,,RUN_HAS_RESULT,COMPLIANT,"dwc:day, dwc:month, dwc:year and dwc:evendate are not EMPTY"
+054_14,1949-09-15T12:34,,,1949,9,,,RUN_HAS_RESULT,COMPLIANT,"dwc:month, dwc:year and dwc:evendate are not EMPTY"
+054_15,1949-12-09T12:34,,,,,,9/12/1949,RUN_HAS_RESULT,COMPLIANT,dwc:evendate and dwc:verbatimEventDate are not EMPTY
+054_16,,,,,,,9/15/1949,RUN_HAS_RESULT,COMPLIANT,dwc:verbatimEventDate is not EMPTY
+054_17,,15,20,,,,,RUN_HAS_RESULT,COMPLIANT,dwc:startDayOfYear and dwc:endDayOfYear are not EMPTY
+054_18,,0,20,,,,,RUN_HAS_RESULT,COMPLIANT,dwc:startDayOfYear and dwc:endDayOfYear are not EMPTY
+054_19,,x,20,,,,,RUN_HAS_RESULT,COMPLIANT,dwc:startDayOfYear and dwc:endDayOfYear are not EMPTY
+054_20,1949-01-15T12:34/1949-01-20T17:00,15,20,,,,,RUN_HAS_RESULT,COMPLIANT,"dwc:eventDate, dwc:startDayOfYear and dwc:endDayOfYear are not EMPTY"
+054_21,,15,20,1949,1,15,,RUN_HAS_RESULT,COMPLIANT,"dwc:day, dwc:month, dwc:year, dwc:startDayOfYear and dwc:endDayOfYear are not EMPTY"
+054_22,,15,20,1949,9,15,,RUN_HAS_RESULT,COMPLIANT,"dwc:day, dwc:month, dwc:year, dwc:startDayOfYear and dwc:endDayOfYear are not EMPTY"
+054_23,,,,,10,15,,RUN_HAS_RESULT,COMPLIANT,dwc:day and dwc:month are not EMPTY
+054_24,,,,,10,,,RUN_HAS_RESULT,COMPLIANT,dwc:month is not EMPTY
+054_25,,,,,v,,,RUN_HAS_RESULT,COMPLIANT,dwc:month is not EMPTY
+054_26,,366,366,2004,,,,RUN_HAS_RESULT,COMPLIANT,"dwc:year, dwc:startDayOfYear and dwc:endDayOfYear are not EMPTY"
+054_27,,,,,,,2021-06-03T24:00,RUN_HAS_RESULT,COMPLIANT,dwc:verbatimEventDate is not EMPTY
+054_28,,,,,,,1949-01-15T12:34/,RUN_HAS_RESULT,COMPLIANT,dwc:verbatimEventDate is not EMPTY

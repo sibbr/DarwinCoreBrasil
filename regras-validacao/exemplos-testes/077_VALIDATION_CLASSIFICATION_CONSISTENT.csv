@@ -1,0 +1,20 @@
+testID,kingdom,phylum,class,order,family,genus,Response.status,Response.result,Response.comment
+077_1,,,,,,,INTERNAL_PREREQUISITES_NOT_MET,,All input fields are EMPTY
+077_2,Plantae,Magnoliophyta,,,,,RUN_HAS_RESULT,COMPLIANT,The combination of values of higher classification taxonomic terms can be unambiguously resolved by the bdq:sourceAuthority
+077_3,Plantae,,Magnoliopsida,,,,RUN_HAS_RESULT,COMPLIANT,The combination of values of higher classification taxonomic terms can be unambiguously resolved by the bdq:sourceAuthority
+077_4,Plantae,,,Myrtales,,,RUN_HAS_RESULT,COMPLIANT,The combination of values of higher classification taxonomic terms can be unambiguously resolved by the bdq:sourceAuthority
+077_5,Plantae,,,,Myrtaceae,,RUN_HAS_RESULT,COMPLIANT,The combination of values of higher classification taxonomic terms can be unambiguously resolved by the bdq:sourceAuthority
+077_6,,Magnoliophyta,Magnoliopsida,,,,RUN_HAS_RESULT,COMPLIANT,The combination of values of higher classification taxonomic terms can be unambiguously resolved by the bdq:sourceAuthority
+077_7,,Magnoliophyta,,Myrtales,,,RUN_HAS_RESULT,COMPLIANT,The combination of values of higher classification taxonomic terms can be unambiguously resolved by the bdq:sourceAuthority
+077_8,,Magnoliophyta,,,Myrtaceae,,RUN_HAS_RESULT,COMPLIANT,The combination of values of higher classification taxonomic terms can be unambiguously resolved by the bdq:sourceAuthority
+077_9,,,Magnoliopsida,Myrtales,,,RUN_HAS_RESULT,COMPLIANT,The combination of values of higher classification taxonomic terms can be unambiguously resolved by the bdq:sourceAuthority
+077_10,,,Magnoliopsida,,Myrtaceae,,RUN_HAS_RESULT,COMPLIANT,The combination of values of higher classification taxonomic terms can be unambiguously resolved by the bdq:sourceAuthority
+077_11,,,,Myrtales,,Punica,RUN_HAS_RESULT,COMPLIANT,The combination of values of higher classification taxonomic terms can be unambiguously resolved by the bdq:sourceAuthority
+077_12,,Chordata,,Rhopalocera,Muricidae,,RUN_HAS_RESULT,NOT_COMPLIANT,The combination of values of higher classification taxonomic terms cannot be unambiguously resolved by the bdq:sourceAuthority
+077_13,Animalia,Arthropoda,Insecta,Coleoptera,Curculionidae,,RUN_HAS_RESULT,COMPLIANT,The combination of values of higher classification taxonomic terms can be unambiguously resolved by the bdq:sourceAuthority
+077_14,Plantae,Arthropoda,Insecta,Coleoptera,Curculionidae,,RUN_HAS_RESULT,NOT_COMPLIANT,The combination of values of higher classification taxonomic terms cannot be unambiguously resolved by the bdq:sourceAuthority
+077_15,Animalia,Magnoliophyta,Insecta,Coleoptera,Curculionidae,,RUN_HAS_RESULT,NOT_COMPLIANT,The combination of values of higher classification taxonomic terms cannot be unambiguously resolved by the bdq:sourceAuthority
+077_16,Animalia,Arthropoda,Magnoliopsida,Coleoptera,Curculionidae,,RUN_HAS_RESULT,NOT_COMPLIANT,The combination of values of higher classification taxonomic terms cannot be unambiguously resolved by the bdq:sourceAuthority
+077_17,Animalia,Arthropoda,Insecta,Myrtales,Curculionidae,,RUN_HAS_RESULT,NOT_COMPLIANT,The combination of values of higher classification taxonomic terms cannot be unambiguously resolved by the bdq:sourceAuthority
+077_18,Animalia,Arthropoda,Insecta,Coleoptera,Myrtaceae,,RUN_HAS_RESULT,NOT_COMPLIANT,The combination of values of higher classification taxonomic terms cannot be unambiguously resolved by the bdq:sourceAuthority
+077_19,Animalia,Arthropoda,Insecta,Coleoptera,Curculionidae,,EXTERNAL_PREREQUISITES_NOT_MET,,the bdq:sourceAuthority was unavailable or unreachable

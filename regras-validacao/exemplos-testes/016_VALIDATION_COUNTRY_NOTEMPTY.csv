@@ -1,0 +1,8 @@
+testID,country,Response.status,Response.result,Response.comment
+016_1,,RUN_HAS_RESULT,NOT_COMPLIANT,dwc:country is EMPTY
+016_2,Eswatini,RUN_HAS_RESULT,COMPLIANT,dwc:country is not EMPTY
+016_3,Swaziland,RUN_HAS_RESULT,COMPLIANT,dwc:country is not EMPTY
+016_4,Yugoslavia,RUN_HAS_RESULT,COMPLIANT,dwc:country is not EMPTY
+016_5,Congo,RUN_HAS_RESULT,COMPLIANT,dwc:country is not EMPTY
+016_6,United States Minor Outlying Islands,RUN_HAS_RESULT,COMPLIANT,dwc:country is not EMPTY
+016_7,null,RUN_HAS_RESULT,COMPLIANT,"dwc:country is not EMPTY, string serializations of null are not empty."

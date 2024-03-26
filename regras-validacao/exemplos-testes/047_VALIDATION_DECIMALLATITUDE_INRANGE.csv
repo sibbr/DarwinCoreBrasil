@@ -1,0 +1,10 @@
+testID,decimalLatitude,Response.status,Response.result,Response.comment
+047_1,,INTERNAL_PREREQUISITES_NOT_MET,,dwc:decimalLatitude is EMPTY
+047_2,null,INTERNAL_PREREQUISITES_NOT_MET,,dwc:decimalLatitude is not interpretable as a number
+047_3,0.0,RUN_HAS_RESULT,COMPLIANT,dwc:decimalLatitude is in RANGE
+047_4,41.0554 N,INTERNAL_PREREQUISITES_NOT_MET,,dwc:decimalLatitude is not interpretable as a number
+047_5,121.0534,RUN_HAS_RESULT,NOT_COMPLIANT,dwc:decimalLatitude is in not in RANGE
+047_6,-99.2314,RUN_HAS_RESULT,NOT_COMPLIANT,dwc:decimalLatitude is in not in RANGE
+047_7,-41.0525925872862,RUN_HAS_RESULT,COMPLIANT,dwc:decimalLatitude is in RANGE
+047_8,18.835941,RUN_HAS_RESULT,COMPLIANT,dwc:decimalLatitude is in RANGE
+047_9,41.0525925872862,RUN_HAS_RESULT,COMPLIANT,dwc:decimalLatitude is in RANGE

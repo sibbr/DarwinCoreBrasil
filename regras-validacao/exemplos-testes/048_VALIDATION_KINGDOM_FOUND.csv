@@ -1,0 +1,13 @@
+testID,kingdom,Response.status,Response.result,Response.comment
+048_1,,INTERNAL_PREREQUISITES_NOT_MET,,dwc:kingdom is EMPTY
+048_2,null,RUN_HAS_RESULT,NOT_COMPLIANT,dwc:kingdom does not have an equivalent at the rank of Kingdom in the bdq:sourceAuthority
+048_3,?,RUN_HAS_RESULT,NOT_COMPLIANT,dwc:kingdom does not have an equivalent at the rank of Kingdom in the bdq:sourceAuthority
+048_4,,INTERNAL_PREREQUISITES_NOT_MET,,dwc:kingdom is EMPTY
+048_5,Animalia,RUN_HAS_RESULT,COMPLIANT,dwc:kingdom has an equivalent at the rank of Kingdom in the bdq:sourceAuthority
+048_6,Metazoa,RUN_HAS_RESULT,NOT_COMPLIANT,dwc:kingdom does not strictly have an equivalent at the rank of Kingdom in the Parameterized Source Authority (Metazoa is synonym of Animalia)
+048_7,Metazoo,RUN_HAS_RESULT,NOT_COMPLIANT,dwc:kingdom does not have an equivalent at the rank of Kingdom in the bdq:sourceAuthority
+048_8,animals,RUN_HAS_RESULT,NOT_COMPLIANT,dwc:kingdom does not have an equivalent at the rank of Kingdom in the bdq:sourceAuthority. This may be fixed using fuzzy matching at the AMENDMENT stage
+048_9,Fungi,RUN_HAS_RESULT,COMPLIANT,dwc:kingdom has an equivalent at the rank of Kingdom in the bdq:sourceAuthority
+048_10,fungus,RUN_HAS_RESULT,NOT_COMPLIANT,dwc:kingdom does not have an equivalent at the rank of Kingdom in the bdq:sourceAuthority
+048_11,dwc:kingdom,RUN_HAS_RESULT,NOT_COMPLIANT,dwc:kingdom does not have an equivalent at the rank of Kingdom in the bdq:sourceAuthority
+048_12,AnyKindom,EXTERNAL_PREREQUISITES_NOT_MET,,the bdq:sourceAuthority was unavailable or unreachable

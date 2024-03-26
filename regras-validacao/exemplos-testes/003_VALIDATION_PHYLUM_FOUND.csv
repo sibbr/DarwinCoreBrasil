@@ -1,0 +1,13 @@
+testID,phylum,Response.status,Response.result,Response.comment
+003_1,,INTERNAL_PREREQUISITES_NOT_MET,,dwc:phylum is EMPTY
+003_2,,INTERNAL_PREREQUISITES_NOT_MET,,dwc:phylum consists of white space
+003_3,null,RUN_HAS_RESULT,NOT_COMPLIANT,dwc:phylum does not have an equivalent at the rank of Phylum in the bdq:sourceAuthority
+003_4,?,RUN_HAS_RESULT,NOT_COMPLIANT,dwc:phylum does not have an equivalent at the rank of Phylum in the bdq:sourceAuthority
+003_5,Tracheophyta,RUN_HAS_RESULT,COMPLIANT,dwc:phylum has an equivalent at the rank of Phylum in the bdq:sourceAuthority. GBIF.org uses Trachyophyta for the Phylum including ferns
+003_6,Trachyophyta,RUN_HAS_RESULT,NOT_COMPLIANT,dwc:phylum does not have an equivalent at the rank of Phylum in the bdq:sourceAuthority.
+003_7,Chareophyta,RUN_HAS_RESULT,NOT_COMPLIANT,dwc:phylum does not have an equivalent at the rank of Phylum in the bdq:sourceAuthority.
+003_8,Charophyta,RUN_HAS_RESULT,COMPLIANT,dwc:phylum has an equivalent at the rank of Phylum in the bdq:sourceAuthority.
+003_9,Chordata,RUN_HAS_RESULT,COMPLIANT,dwc:phylum has an equivalent at the rank of Phylum in the bdq:sourceAuthority
+003_10,chordate,RUN_HAS_RESULT,NOT_COMPLIANT,dwc:phylumdoes not have an equivalent at the rank of Phylum in the bdq:sourceAuthority.
+003_11,dwc:phylum,RUN_HAS_RESULT,NOT_COMPLIANT,dwc:phylumdoes not have an equivalent at the rank of Phylum in the bdq:sourceAuthority.
+003_12,AnyPhylum,EXTERNAL_PREREQUISITES_NOT_MET,,The bdq:sourceAuthority was not available or unreachable

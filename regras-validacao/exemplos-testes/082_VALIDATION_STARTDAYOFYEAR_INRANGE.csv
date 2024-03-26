@@ -1,0 +1,10 @@
+testID,eventDate,startDayOfYear,Response.status,Response.result,Response.comment
+082_1,,,INTERNAL_PREREQUISITES_NOT_MET,,dwc:startDayOfYear is EMPTY
+082_2,1964-11-01T10:00-0600,,INTERNAL_PREREQUISITES_NOT_MET,,dwc:startDayOfYear is EMPTY
+082_3,1949-09-15T12:34,,INTERNAL_PREREQUISITES_NOT_MET,,dwc:startDayOfYear is EMPTY
+082_4,,15,RUN_HAS_RESULT,COMPLIANT,dwc:startDayOfYear is in range
+082_5,,x,RUN_HAS_RESULT,NOT_COMPLIANT,"dwc:startDayOfYear is ambiguous, either ""No data"" or ""10"""
+082_6,1949-01-15T12:34/1949-01-20T17:00,15,RUN_HAS_RESULT,COMPLIANT,dwc:startDayOfYear is in range
+082_7,1963-03-08T14:07-0600,,INTERNAL_PREREQUISITES_NOT_MET,,dwc:startDayOfYear is EMPTY
+082_8,,1,RUN_HAS_RESULT,COMPLIANT,dwc:startDayOfYear is in range
+082_9,,366,INTERNAL_PREREQUISITES_NOT_MET,,dwc:startDayOfYear is 366 and dwc:year is EMPTY

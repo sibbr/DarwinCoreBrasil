@@ -1,0 +1,10 @@
+testID,type,Response.status,Response.result,Response.comment
+055_1,Event,RUN_HAS_RESULT,COMPLIANT,dc:type matches a term in DCMI Vocabulary
+055_2,StillerImage,RUN_HAS_RESULT,NOT_COMPLIANT,dc:type does not match terms in DCMI Vocabulary
+055_3,anyOldTerm,RUN_HAS_RESULT,NOT_COMPLIANT,dc:type does not match terms in DCMI Vocabulary
+055_4,?,RUN_HAS_RESULT,NOT_COMPLIANT,dc:type does not match terms in DCMI Vocabulary
+055_5,,INTERNAL_PREREQUISITES_NOT_MET,,dc:type is EMPTY
+055_6,,INTERNAL_PREREQUISITES_NOT_MET,,dc:type is EMPTY
+055_7,null,RUN_HAS_RESULT,NOT_COMPLIANT,dc:type does not match terms in DCMI Vocabulary
+055_8,AnyType,EXTERNAL_PREREQUISITES_NOT_MET,,bdq:sourceAuthority not available or unreachable
+055_9,dc:type,RUN_HAS_RESULT,NOT_COMPLIANT,dc:type does not match terms in DCMI Vocabulary

@@ -1,0 +1,9 @@
+testID,month,Response.status,Response.result,Response.comment
+079_1,,INTERNAL_PREREQUISITES_NOT_MET,,dwc:month is EMPTY
+079_2,null,RUN_HAS_RESULT,NOT_COMPLIANT,dwc:month is in range
+079_3,1,RUN_HAS_RESULT,COMPLIANT,dwc:month is in range
+079_4,10,RUN_HAS_RESULT,COMPLIANT,dwc:month is in range
+079_5,v,RUN_HAS_RESULT,NOT_COMPLIANT,"dwc:month is ambiguous as ""v"" or ""5"""
+079_6,0,RUN_HAS_RESULT,NOT_COMPLIANT,dwc:month is not in range
+079_7,13,RUN_HAS_RESULT,NOT_COMPLIANT,dwc:month is not in range
+079_8,99,RUN_HAS_RESULT,NOT_COMPLIANT,dwc:month is not in range

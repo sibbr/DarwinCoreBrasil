@@ -1,0 +1,8 @@
+testID,countryCode,Response.status,Response.result,Response.comment
+020_1,004,EXTERNAL_PREREQUISITES_NOT_MET,,The bdq:sourceAuthority was not available or was unreachable
+020_2,,INTERNAL_PREREQUISITES_NOT_MET,,dwc:countryCode is EMPTY
+020_3,Australia,AMENDED,"{""dwc:countryCode"":""AU""}",dwc:countryCode contains an interpretable value
+020_4,Aust.,NOT_AMENDED,,dwc:countryCode contains an ambiguous value
+020_5,x,NOT_AMENDED,,dwc:countryCode contains an uninterpretable value
+020_6,,INTERNAL_PREREQUISITES_NOT_MET,,dwc:countryCode is EMPTY
+020_7,null,NOT_AMENDED,,dwc:countryCode contains an uninterpretable value

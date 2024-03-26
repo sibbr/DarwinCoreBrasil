@@ -1,0 +1,10 @@
+testID,scientificNameID,scientificName,Response.status,Response.result,Response.comment
+040_1,gbif:8102122,,FILLED_IN,"{""dwc:scientificName"":""Harpullia pendula F.Muell.""}",dwc:scientificNameID contains an interpretable value
+040_2,gbif:8a,,NOT_AMENDED,,dwc:scientificNameID does not contain an interpretable value
+040_3,http://api.gbif.org/v1/species/8102122,,EXTERNAL_PREREQUISITES_NOT_MET,,bdq:sourceAuthority is unavailable
+040_4,http://api.gbif.org/v1/species/,,NOT_AMENDED,,dwc:scientificNameID does not contain an interpretable value
+040_5,,Harpullia pendula F.Muell.,INTERNAL_PREREQUISITES_NOT_MET,,dwc:scientificNameID is EMPTY
+040_6,null,,NOT_AMENDED,,dwc:scientificNameID is uninterpretable
+040_7,https://id.biodiversity.org.au/112570,Eucalyptus citriodora,INTERNAL_PREREQUISITES_NOT_MET,,dwc:scientificName is not EMPTY
+040_8,https://id.biodiversity.org.au/112570,Eucalyptus,INTERNAL_PREREQUISITES_NOT_MET,,dwc:scientificName is not EMPTY
+040_9,https://data.aad.gov.au/aadc/biodiversity/taxon_profile.cfm?taxon_id=62947,null,INTERNAL_PREREQUISITES_NOT_MET,,dwc:scientificName is not EMPTY

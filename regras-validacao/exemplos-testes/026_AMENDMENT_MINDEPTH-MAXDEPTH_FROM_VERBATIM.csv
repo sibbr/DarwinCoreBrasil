@@ -1,0 +1,11 @@
+testID,minimumDepthInMeters,maximumDepthInMeters,verbatimDepth,Response.status,Response.result,Response.comment
+026_1,,,,INTERNAL_PREREQUISITES_NOT_MET,,dwc:verbatimDepth is EMPTY
+026_2,,,null,INTERNAL_PREREQUISITES_NOT_MET,,dwc:verbatimDepth does not conatin an interpretable value
+026_3,,,x,INTERNAL_PREREQUISITES_NOT_MET,,"dwc:verbatimDepth contains an uninterpretable value. ""x"" is ambiguous as either ""10"" or ""No"" or ""unknown"""
+026_4,25,100,,INTERNAL_PREREQUISITES_NOT_MET,,Output fields are not EMPTY
+026_5,11,,Min depth 10m,NOT_AMENDED,,Input and output fields are conflicting
+026_6,,11,Max depth 100m,NOT_AMENDED,,Input and output fields are conflicting
+026_7,,11,Min depth 10m,FILLED_IN,"{""dwc:minimumDepthInMeters"":""10""}",dwc:verbatimDepth contains an interpretable value
+026_8,,,10feet,FILLED_IN,"{""dwc:maximumDepthInMeters"":""3.048"",""dwc:minimumDepthInMeters"":""3.048""}",dwc:verbatimDepth contains interpretable value
+026_9,,,"Mindepth 10m, maxdepth=100",FILLED_IN,"{""dwc:maximumDepthInMeters"":""100"",""dwc:minimumDepthInMeters"":""10""}",dwc:verbatimDepth contains interpretable value
+026_10,,,25.8-34.9m,FILLED_IN,"{""dwc:maximumDepthInMeters"":""34.9"",""dwc:minimumDepthInMeters"":""25.8""}",dwc:verbatimDepth contains interpretable values

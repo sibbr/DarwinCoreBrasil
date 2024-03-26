@@ -1,0 +1,7 @@
+testID,maximumDepthInMeters,Response.status,Response.result,Response.comment
+091_1,,INTERNAL_PREREQUISITES_NOT_MET,,dwc:maximumDepthInMeters is EMPTY.
+091_2,0,RUN_HAS_RESULT,COMPLIANT,dwc:maximumDepthInMeters is in range
+091_3,-1,INTERNAL_PREREQUISITES_NOT_MET,,dwc:maximumDepthInMeters is not in range
+091_4,1200,RUN_HAS_RESULT,COMPLIANT,"dwc:maximumDepthInMeters is in range (<11,000)"
+091_5,99999,RUN_HAS_RESULT,NOT_COMPLIANT,"dwc:maximumDepthInMeters is not in range (>11,000)"
+091_6,x,INTERNAL_PREREQUISITES_NOT_MET,,dwc:maximumDepthInMeters is not interpretable as a number

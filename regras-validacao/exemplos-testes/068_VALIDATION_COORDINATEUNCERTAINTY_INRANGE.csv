@@ -1,0 +1,9 @@
+testID,coordinateUncertaintyInMeters,Response.status,Response.result,Response.comment
+068_1,,INTERNAL_PREREQUISITES_NOT_MET,,dwc:coordinateUncertaintyInMeters is EMPTY
+068_2,x,INTERNAL_PREREQUISITES_NOT_MET,,dwc:coordinateUncertaintyInMeters is a positive integer value
+068_3,0,RUN_HAS_RESULT,NOT_COMPLIANT,dwc:coordinateUncertaintyInMeters is out of range
+068_4,-1,RUN_HAS_RESULT,NOT_COMPLIANT,dwc:coordinateUncertaintyInMeters is out of range
+068_5,20037510,RUN_HAS_RESULT,NOT_COMPLIANT,dwc:coordinateUncertaintyInMeters is out of range
+068_6,1,RUN_HAS_RESULT,COMPLIANT,dwc:coordinateUncertaintyInMeters is in range
+068_7,20037509,RUN_HAS_RESULT,COMPLIANT,dwc:coordinateUncertaintyInMeters is in range
+068_8,999999999,RUN_HAS_RESULT,NOT_COMPLIANT,dwc:coordinateUncertaintyInMeters is greater than allowable range

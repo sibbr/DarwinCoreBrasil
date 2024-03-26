@@ -1,0 +1,22 @@
+testID,year,month,day,Response.status,Response.result,Response.comment
+078_1,,,,INTERNAL_PREREQUISITES_NOT_MET,,bdq:day is EMPTY or Missing
+078_2,,,15,RUN_HAS_RESULT,COMPLIANT,dwc:day is in range
+078_3,,,32,RUN_HAS_RESULT,NOT_COMPLIANT,dwc:day is not in range
+078_4,,,x,INTERNAL_PREREQUISITES_NOT_MET,,dwc:day is not interpretable as an integer
+078_5,1949,,,INTERNAL_PREREQUISITES_NOT_MET,,dwc:day is EMPTY
+078_6,1949-10-20,,,INTERNAL_PREREQUISITES_NOT_MET,,dwc:day is EMPTY
+078_7,1949,,15,RUN_HAS_RESULT,COMPLIANT,dwc:day is in range
+078_8,1952,2,30,RUN_HAS_RESULT,NOT_COMPLIANT,dwc:day is not in range
+078_9,1952,2,x,INTERNAL_PREREQUISITES_NOT_MET,,dwc:day is ambiguous
+078_10,1949,9,15,RUN_HAS_RESULT,COMPLIANT,dwc:day is in range
+078_11,1949,9,,INTERNAL_PREREQUISITES_NOT_MET,,dwc:day is EMPTY
+078_12,1949,1,15,RUN_HAS_RESULT,COMPLIANT,dwc:day is in range
+078_13,,10,15,RUN_HAS_RESULT,COMPLIANT,dwc:day is in range
+078_14,,10,,INTERNAL_PREREQUISITES_NOT_MET,,dwc:day is EMPTY
+078_15,1599,,,INTERNAL_PREREQUISITES_NOT_MET,,dwc:day is EMPTY
+078_16,,13,,INTERNAL_PREREQUISITES_NOT_MET,,dwc:day is EMPTY
+078_17,,,99,RUN_HAS_RESULT,NOT_COMPLIANT,dwc:day is not in range
+078_18,1952,2,29,RUN_HAS_RESULT,COMPLIANT,dwc:day is in range. Leap year
+078_19,2000,2,29,RUN_HAS_RESULT,COMPLIANT,dwc:day is in range. Leap year
+078_20,1900,2,29,RUN_HAS_RESULT,NOT_COMPLIANT,dwc:day is not in range. Not a leap year
+078_21,1948,9,16,RUN_HAS_RESULT,COMPLIANT,dwc:day is in range

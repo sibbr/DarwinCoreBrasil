@@ -1,0 +1,7 @@
+testID,type,Response.status,Response.result,Response.comment
+015_1,,INTERNAL_PREREQUISITES_NOT_MET,,dc:type is EMPTY
+015_2,Event,EXTERNAL_PREREQUISITES_NOT_MET,,The bdq:sourceAuthority was not available or was unreachable
+015_3,null,NOT_AMENDED,,dc:type contains an uninterpretable value
+015_4,X,NOT_AMENDED,,dc:type contains an uninterpretable value
+015_5,evnt,AMENDED,"{""dc:type"":""Event""}",dc:type contains an interpretable value
+015_6,image,AMENDED,"{""dc:type"":""StillImage""}",dc:type contains an interpretable value

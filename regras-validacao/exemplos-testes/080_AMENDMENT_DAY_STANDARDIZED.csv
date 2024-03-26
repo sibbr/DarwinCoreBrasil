@@ -1,0 +1,7 @@
+testID,day,Response.status,Response.result,Response.comment
+080_1,,INTERNAL_PREREQUISITES_NOT_MET,,dwc:day is EMPTY
+080_2,?,NOT_AMENDED,,dwc:day is not a valid interpretable value
+080_3,x,NOT_AMENDED,,"dwc:day is ambiguous, either a ""X"", ""No data"" or ""10"""
+080_4,23rd,AMENDED,"{""dwc:day"":""23""}","dwc:day is interpretable as ""23"""
+080_5,IV,NOT_AMENDED,,"dwc:day is ambiguous, either ""IV"" or ""4"""
+080_6,5th,AMENDED,"{""dwc:day"":""5""}","dwc:day is interpretable as ""5"""

@@ -1,0 +1,6 @@
+testID,license,Response.status,Response.result,Response.comment
+085_1,,NOT_AMENDED,,dcterms:license EMPTY
+085_2,x,NOT_AMENDED,,"dcterms:license contains uninterpretable value ""x"""
+085_3,no license,NOT_AMENDED,,dcterms:license contains uninterpretable value
+085_4,CC0,AMENDED,"{""dcterms:license"":""http://creativecommons.org/publicdomain/zero/1.0/legalcode""}",Input field contains interpretable value
+085_5,AnyLicense,EXTERNAL_PREREQUISITES_NOT_MET,,the bdq:sourceAuthority was unavailable or unreachable

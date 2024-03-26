@@ -1,0 +1,11 @@
+testID,minimumDepthInMeters,maximumDepthInMeters,Response.status,Response.result,Response.comment
+005_1,,,INTERNAL_PREREQUISITES_NOT_MET,,Input fields are EMPTY.
+005_2,0,0,RUN_HAS_RESULT,COMPLIANT,dwc:minimumDepthInMeters = dwc:maximumDepthInMeters
+005_3,1,0,RUN_HAS_RESULT,NOT_COMPLIANT,dwc:minimumDepthInMeters > dwc:maximumDepthInMeters
+005_4,-1,-1,INTERNAL_PREREQUISITES_NOT_MET,,The values of dwc:minimumDepthInMeters or dwc:maximumDepthInMeters are not zero or a positive number
+005_5,1200,1200,RUN_HAS_RESULT,COMPLIANT,dwc:minimumDepthInMeters = dwc:maximumDepthInMeters
+005_6,100,,INTERNAL_PREREQUISITES_NOT_MET,,dwc:maximumDepthInMeters is EMPTY
+005_7,x,1200,INTERNAL_PREREQUISITES_NOT_MET,,dwc:minimumDepthInMeters is EMPTY
+005_8,,1200,INTERNAL_PREREQUISITES_NOT_MET,,dwc:minimumDepthInMeters is EMPTY
+005_9,,1200,INTERNAL_PREREQUISITES_NOT_MET,,dwc:minimumDepthInMeters is EMPTY
+005_10,100,50,RUN_HAS_RESULT,NOT_COMPLIANT,dwc:minimumDepthInMeters > maximumDepthInMeters

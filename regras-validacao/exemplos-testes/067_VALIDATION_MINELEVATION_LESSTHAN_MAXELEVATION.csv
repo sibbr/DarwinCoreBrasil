@@ -1,0 +1,8 @@
+testID,minimumElevationInMeters,maximumElevationInMeters,Response.status,Response.result,Response.comment
+067_1,,,INTERNAL_PREREQUISITES_NOT_MET,,All input fields EMPTY.
+067_2,x,,INTERNAL_PREREQUISITES_NOT_MET,,dwc:minimumElevationInMeters is not a numeric value
+067_3,0,0,RUN_HAS_RESULT,COMPLIANT,dwc:minimumElevationInMeters is equal to dwc: maximumElevationInMeters
+067_4,1,0,RUN_HAS_RESULT,NOT_COMPLIANT,dwc:minimumElevationInMeters is greater than dwc: maximumElevationInMeters
+067_5,-500,-500,RUN_HAS_RESULT,COMPLIANT,dwc:minimumElevationInMeters is equal to dwc: maximumElevationInMeters
+067_6,8860,8860,RUN_HAS_RESULT,COMPLIANT,dwc:minimumElevationInMeters is equal to dwc: maximumElevationInMeters
+067_7,-500,500,RUN_HAS_RESULT,COMPLIANT,dwc:minimumElevationInMeters is less than dwc: maximumElevationInMeters

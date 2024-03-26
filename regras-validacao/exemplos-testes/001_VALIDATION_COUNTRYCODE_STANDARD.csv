@@ -1,0 +1,12 @@
+testID,countryCode,Response.status,Response.result,Response.comment
+001_1,,INTERNAL_PREREQUISITES_NOT_MET,,dwc:countryCode is EMPTY
+001_2,,INTERNAL_PREREQUISITES_NOT_MET,,dwc countryCode is EMPTY
+001_3,GL,RUN_HAS_RESULT,COMPLIANT,dwc:countryCode is a valid ISO (ISO 3166-1-alpha-2 country codes) value
+001_4,GRL,RUN_HAS_RESULT,NOT_COMPLIANT,dwc:countryCode is NOT a valid ISO (ISO 3166-1-alpha-2 country codes) value
+001_5,XX,RUN_HAS_RESULT,NOT_COMPLIANT,dwc:countryCode is NOT a valid ISO (ISO 3166-1-alpha-2 country codes) value
+001_6,Austria,RUN_HAS_RESULT,NOT_COMPLIANT,dwc:countryCode is NOT a valid ISO (ISO 3166-1-alpha-2 country codes) value
+001_7,US,RUN_HAS_RESULT,COMPLIANT,dwc countryCode is a valid ISO (ISO 3166-1-alpha-2 country codes) value
+001_8,CL,RUN_HAS_RESULT,COMPLIANT,dwc countryCode is a valid ISO (ISO 3166-1-alpha-2 country codes) value
+001_9,AR,RUN_HAS_RESULT,COMPLIANT,dwc countryCode is a valid ISO (ISO 3166-1-alpha-2 country codes) value
+001_10,MX,RUN_HAS_RESULT,COMPLIANT,dwc countryCode is a valid ISO (ISO 3166-1-alpha-2 country codes) value
+001_11,MX,EXTERNAL_PREREQUISITES_NOT_MET,,The bdq:sourceAuthority was not available or unreachable

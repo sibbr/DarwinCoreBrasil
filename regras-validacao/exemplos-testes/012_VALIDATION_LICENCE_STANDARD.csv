@@ -1,0 +1,9 @@
+testID,license,Response.status,Response.result,Response.comment
+012_1,CC BY,RUN_HAS_RESULT,COMPLIANT,dcterms:license matches a term in bdq:sourceAuthority
+012_2,GPL,RUN_HAS_RESULT,NOT_COMPLIANT,dcterms:license does not match a term in the bdq:sourceAuthority
+012_3,anyOldTerm,RUN_HAS_RESULT,NOT_COMPLIANT,dcterms:license does not match a term in the bdq:sourceAuthority
+012_4,?,RUN_HAS_RESULT,NOT_COMPLIANT,dcterms:license does not match a term in the bdq:sourceAuthority
+012_5,,INTERNAL_PREREQUISITES_NOT_MET,,dcterms:license is EMPTY or missing
+012_6,,INTERNAL_PREREQUISITES_NOT_MET,,dcterms:license is EMPTY or missing
+012_7,null,RUN_HAS_RESULT,NOT_COMPLIANT,dcterms:license does not match a term in the bdq:sourceAuthority
+012_8,Anylicence,EXTERNAL_PREREQUISITES_NOT_MET,,bdq:sourceAuthority was not available or was unreachable

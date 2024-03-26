@@ -1,0 +1,6 @@
+testID,maximumElevationInMeters,Response.status,Response.result,Response.comment
+069_1,,INTERNAL_PREREQUISITES_NOT_MET,,dwc:maximumElevation is EMPTY
+069_2,0,RUN_HAS_RESULT,COMPLIANT,dwc:maximumElevation is in is range
+069_3,-500,RUN_HAS_RESULT,NOT_COMPLIANT,"dwc:maximumElevation is not in range, i.e. is <-430"
+069_4,8860,RUN_HAS_RESULT,NOT_COMPLIANT,"dwc:maximumElevation is not in range, i.e. is >8850"
+069_5,x,INTERNAL_PREREQUISITES_NOT_MET,,dwc:maxElevation is not interpretable as a number

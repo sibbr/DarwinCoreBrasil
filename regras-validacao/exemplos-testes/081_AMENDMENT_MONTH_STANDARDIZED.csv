@@ -1,0 +1,6 @@
+testID,month,Response.status,Response.result,Response.comment
+081_1,,INTERNAL_PREREQUISITES_NOT_MET,,dwc:month is EMPTY
+081_2,?,NOT_AMENDED,,dwc:month contains an uninterpretable value
+081_3,X,AMENDED,"{""dwc:month"":""10""}",dwc:month interpreted as roman numerals
+081_4,IV,AMENDED,"{""dwc:month"":""4""}",dwc:month interpreted as roman numerals
+081_5,October,NOT_AMENDED,,dwc:month contains an uninterpretable value

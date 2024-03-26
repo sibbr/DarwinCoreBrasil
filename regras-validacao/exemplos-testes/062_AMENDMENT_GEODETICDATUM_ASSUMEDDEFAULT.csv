@@ -1,0 +1,7 @@
+testID,decimalLatitude,decimalLongitude,geodeticDatum,coordinateUncertaintyInMeters,Response.status,Response.result,Response.comment
+062_1,,,,,FILLED_IN,"{""dwc:geodeticDatum"":""EPSG:4326""}",dwc:geodeticDatum is EMPTY so FILLED_IN with the default value
+062_2,,,WGS84,,NOT_AMENDED,,dwc:geodeticDatum contains and interpretable value
+062_3,,,x,,NOT_AMENDED,,dwc:geodeticDatum contains an uninterpretable value
+062_4,,,null,,NOT_AMENDED,,dwc:geodeticDatum contains an uninterpretable value
+062_5,-30.123,130.321,GDA,50,NOT_AMENDED,,dwc:geodeticDatum is not EMPTY
+062_6,-30.00,130.00,,,FILLED_IN,"{""dwc:geodeticDatum"":""EPSG:4326""}",dwc:godeticDatum is EMPTY so filled with default

@@ -1,0 +1,33 @@
+testID,eventDate,startDayOfYear,endDayOfYear,year,month,day,Response.status,Response.result,Response.comment
+036_1,,,,,,,INTERNAL_PREREQUISITES_NOT_MET,,All input fields EMPTY
+036_2,1962-11-01T10:00-0600,,,,,,INTERNAL_PREREQUISITES_NOT_MET,,"dwc:day, dwc:month, dwc:year, dwc:startDayOfYear and dwc:endDayOfYear are EMPTY"
+036_3,1964-11-01T10:00-0600,,,,,,INTERNAL_PREREQUISITES_NOT_MET,,"dwc:day, dwc:month, dwc:year, dwc:startDayOfYear and dwc:endDayOfYear are EMPTY"
+036_4,,,,,,15,INTERNAL_PREREQUISITES_NOT_MET,,dwc:eventDate is EMPTY
+036_5,,,,,1,,INTERNAL_PREREQUISITES_NOT_MET,,dwc:eventDate is EMPTY
+036_6,1949-09-15T12:34,,,1949,9,15,RUN_HAS_RESULT,COMPLIANT,"dwc:day, dwc:month and dwc:year match dwc:eventDate"
+036_7,1949-09-16T12:34,,,1949,9,15,RUN_HAS_RESULT,NOT_COMPLIANT,dwc:day does not match dwc:eventDate
+036_8,1949-09-15T12:34,,,1949,9,,RUN_HAS_RESULT,COMPLIANT,dwc:month and dwc:year match dwc:eventDate
+036_9,1949-12-09T12:34,,,1948,12,9,RUN_HAS_RESULT,NOT_COMPLIANT,dwc:year does not match dwc:eventDate
+036_10,1949-01-15T12:34/1949-01-20T17:00,15,20,,,,RUN_HAS_RESULT,COMPLIANT,dwc:startDayOfYear and dwc:endDayOfYear match dwc:eventDate
+036_11,1949-01-15T12:34/1949-01-20T17:00,15,21,,,,RUN_HAS_RESULT,NOT_COMPLIANT,dwc:endDayOfYear does not match dwc:eventDate
+036_12,1949-09-15T12:34,,,1949,,,RUN_HAS_RESULT,COMPLIANT,dwc:year matches dwc:eventDate
+036_13,1949-09-16T12:34,,,1949,8,16,RUN_HAS_RESULT,NOT_COMPLIANT,dwc:month does not match dwc:eventDate
+036_14,1949-09-16T12:34,,,1948,9,16,RUN_HAS_RESULT,NOT_COMPLIANT,dwc:year does not match dwc:eventDate
+036_15,1981-01-03,3,3,1981,1,3,RUN_HAS_RESULT,COMPLIANT,"dwc:eventDate, dwc:day, dwc:month, dwc:year, dwc:startDayOfYear and dwc:endDayOfYear are consistent"
+036_16,1981-01,,,1981,1,,RUN_HAS_RESULT,COMPLIANT,"dwc:eventDate, dwc:day, dwc:month, dwc:year, dwc:startDayOfYear and dwc:endDayOfYear are consistent"
+036_17,1981-01,,,1981,,,RUN_HAS_RESULT,COMPLIANT,"dwc:eventDate, dwc:day, dwc:month, dwc:year, dwc:startDayOfYear and dwc:endDayOfYear are consistent"
+036_18,1981-01/1981-12,,,1981,,,RUN_HAS_RESULT,COMPLIANT,"dwc:eventDate, dwc:day, dwc:month, dwc:year, dwc:startDayOfYear and dwc:endDayOfYear are consistent"
+036_19,1981-01-01/1981-12-31,1,365,1981,,,RUN_HAS_RESULT,COMPLIANT,"dwc:eventDate, dwc:day, dwc:month, dwc:year, dwc:startDayOfYear and dwc:endDayOfYear are consistent"
+036_20,1980/1981,,,,,,INTERNAL_PREREQUISITES_NOT_MET,,"dwc:day, dwc:month, dwc:year, dwc:startDayOfYear and dwc:endDayOfYear are EMPTY"
+036_21,1981-01-10/1981-01-15,10,15,1980,1,,RUN_HAS_RESULT,NOT_COMPLIANT,dwc:eventDate doesn't match dwc:year
+036_22,1981-12-30/1982-01-03,364,3,,,,RUN_HAS_RESULT,COMPLIANT,"dwc:eventDate, dwc:day, dwc:month, dwc:year, dwc:startDayOfYear and dwc:endDayOfYear are consistent"
+036_23,1981-01,1,31,1981,1,,RUN_HAS_RESULT,NOT_COMPLIANT,dwc:endDayOfYear is populated for a date with a precision less than a day
+036_24,1981-01,,,1980,2,,RUN_HAS_RESULT,NOT_COMPLIANT,dwc:month is inconsistent with dwc:eventDate
+036_25,1981,1,365,1981,1,1,RUN_HAS_RESULT,NOT_COMPLIANT,dwc:day and dwc:month do not match dwc:startDayOfYear and dwc:endDayOfYear
+036_26,1981-01/1981-12,,,1981,,,RUN_HAS_RESULT,COMPLIANT,dwc:year is consistent with dwc:eventDate
+036_27,1981-01-01/1981-12-31,1,365,1981,1,1,RUN_HAS_RESULT,NOT_COMPLIANT,dwc:day and dwc:month do not match dwc:startDayOfYear and dwc:endDayOfYear
+036_28,1981-01-01/1981-12-31,1,366,1981,,,RUN_HAS_RESULT,NOT_COMPLIANT,"dwc:endDayOfYear does not match dwc:eventDate. 1981 is not a leap year, so ""366"" is not compliant."
+036_29,1980/1981,,,1980,,,RUN_HAS_RESULT,NOT_COMPLIANT,dwc:year does not match dwc:eventDate
+036_30,1980-01-10/1980-01-15,10,15,1980,1,10,RUN_HAS_RESULT,NOT_COMPLIANT,dwc:day does not match dwc:eventDate
+036_31,1981-12-30/1982-01-03,364,3,1981,,,RUN_HAS_RESULT,NOT_COMPLIANT,dwc:year does not match dwc:eventDate
+036_32,1981-12-30/1982-01-03,3,364,1981,,,RUN_HAS_RESULT,NOT_COMPLIANT,dwc:startDayOfYear and dwc:endDayOfYear do not match dwc:eventDate

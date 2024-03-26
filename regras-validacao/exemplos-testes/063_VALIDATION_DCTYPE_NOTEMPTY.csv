@@ -1,0 +1,8 @@
+testID,type,Response.status,Response.result,Response.comment
+063_1,StillImage,RUN_HAS_RESULT,COMPLIANT,dc:type is not EMPTY
+063_2,StillerImage,RUN_HAS_RESULT,COMPLIANT,dc:type is not EMPTY
+063_3,anyOldTerm,RUN_HAS_RESULT,COMPLIANT,dc:type is not EMPTY
+063_4,?,RUN_HAS_RESULT,COMPLIANT,dc:type is not EMPTY
+063_5,,RUN_HAS_RESULT,NOT_COMPLIANT,dc:type is EMPTY
+063_6,,RUN_HAS_RESULT,NOT_COMPLIANT,dc:type is EMPTY or missing
+063_7,null,RUN_HAS_RESULT,COMPLIANT,dc:type is not EMPTY

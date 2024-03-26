@@ -1,0 +1,13 @@
+testID,class,Response.status,Response.result,Response.comment
+045_1,,INTERNAL_PREREQUISITES_NOT_MET,,dwc:class is EMPTY
+045_2,null,RUN_HAS_RESULT,NOT_COMPLIANT,dwc:class does not have an equivalent at the rank of Class in the bdq:sourceAuthority
+045_3,?,RUN_HAS_RESULT,NOT_COMPLIANT,dwc:class does not have an equivalent at the rank of Class in the bdq:sourceAuthority
+045_4,Insecta,RUN_HAS_RESULT,COMPLIANT,dwc:class has an equivalent at the rank of Class in the bdq:sourceAuthority
+045_5,Insetca,RUN_HAS_RESULT,NOT_COMPLIANT,dwc:class does not have an equivalent at the rank of Class in the paramaterized bdq:sourceAuthority
+045_6,Magnoliopsida,RUN_HAS_RESULT,COMPLIANT,dwc:class has an equivalent at the rank of Class in the parameterized bdq:sourceAuthority
+045_7,Magnoleopsida,RUN_HAS_RESULT,NOT_COMPLIANT,dwc:class does not have an equivalent at the rank of Class in the parameterized bdq:sourceAuthority.
+045_8,Magnoliophyta,RUN_HAS_RESULT,NOT_COMPLIANT,dwc:class does not have an equivalent at the rank of Class in the bdq:sourceAuthority. Magnoliophyta is a Phylum - not a Class
+045_9,herps,RUN_HAS_RESULT,NOT_COMPLIANT,dwc:class does not have an equivalent at the rank of Class in the bdq:sourceAuthority
+045_10,Dicotyledoneae,RUN_HAS_RESULT,NOT_COMPLIANT,dwc:class does not have an equivalent at the rank of Class in the bdq:sourceAuthority. Parameterized Source Authority has Dicotyledonae instead of Magnoliopsida
+045_11,Dicotyledonae,RUN_HAS_RESULT,NOT_COMPLIANT,dwc:class not have an equivalent at the rank of Class in the bdq:sourceAuthority
+045_12,AnyClass,EXTERNAL_PREREQUISITES_NOT_MET,,the bdq:sourceAuthority was not available or was unreachable

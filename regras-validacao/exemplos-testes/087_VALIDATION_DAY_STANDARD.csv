@@ -1,0 +1,10 @@
+testID,day,Response.status,Response.result,Response.comment
+087_1,,INTERNAL_PREREQUISITES_NOT_MET,,bdq:day is EMPTY or Missing
+087_2,5,RUN_HAS_RESULT,COMPLIANT,dwc:day is in range
+087_3,32,RUN_HAS_RESULT,NOT_COMPLIANT,dwc:day is not in range
+087_4,x,RUN_HAS_RESULT,NOT_COMPLIANT,"dwc:day is ambiguous, either ""No"" or ""10"""
+087_5,30,RUN_HAS_RESULT,COMPLIANT,dwc:day is in range
+087_6,99,RUN_HAS_RESULT,NOT_COMPLIANT,dwc:day is not in range
+087_7,29,RUN_HAS_RESULT,COMPLIANT,dwc:day is in range
+087_8,2,RUN_HAS_RESULT,COMPLIANT,dwc:day is in range
+087_9,-1,RUN_HAS_RESULT,NOT_COMPLIANT,dwc:day is not in range

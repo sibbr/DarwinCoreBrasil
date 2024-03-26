@@ -1,0 +1,5 @@
+testID,individualCount,occurrenceStatus,Response.status,Response.result,Response.comment
+043_1,,,FILLED_IN,"{""dwc:occurrenceStatus"":""present""}","dwc:occurrenceStatus is EMPTY; assumed ""present"""
+043_2,10,X,NOT_AMENDED,,dwc:occurrenceStatus is not EMPTY
+043_3,1,null,NOT_AMENDED,,dwc:occurrenceStatus is not EMPTY
+043_4,,absent,NOT_AMENDED,,dwc:occurrenceStatus is not EMPTY

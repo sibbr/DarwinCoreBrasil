@@ -1,0 +1,8 @@
+testID,basisOfRecord,Response.status,Response.result,Response.comment
+034_1,,INTERNAL_PREREQUISITES_NOT_MET,,dwc:basisOfRecord is EMPTY
+034_2,,INTERNAL_PREREQUISITES_NOT_MET,,dwc:basisOfRecord is EMPTY
+034_3,X,NOT_AMENDED,,dwc:basisOfRecord contains uninterpretable value
+034_4,Pres.spec,AMENDED,"{""dwc:basisOfRecord"":""PreservedSpecimen""}",dwc:basisOfRecord contains interpretable value
+034_5,Human obs,AMENDED,"{""dwc:basisOfRecord"":""HumanObservation""}",dwc:basisOfRecord contains interpretable value
+034_6,FossilSpecimen,NOT_AMENDED,,dwc:basisOfRecord contains match in bdq:sourceAuthority so NOT_AMENDED
+034_7,Machine,EXTERNAL_PREREQUISITES_NOT_MET,,bdq:sourceAuthority unavailable
