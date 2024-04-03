@@ -3383,18 +3383,13 @@ Caso você queira sugerir a inclusão de um novo termo, por favor, abra uma [_is
     </tr>
     <tr>
       <td style="text-align: left">Domínio</td>
-      <td style="text-align: left">RAPELD | Parcelas | TSBF | Transectos lineares | Grades de amostragem | Pitfall | Busca ativa | Armadilha fotográfica | Encontros ocasionais | Registro Auditivo em Transectos | Observação interativa em ponto amostral | Armadilha de captura </td>
+      <td style="text-align: left">[Método de amostragem] </td>
     </tr>
     <tr>
       <td style="text-align: left">Exemplos</td>
       <td style="text-align: left">
         <ul>
-          <li>
-            <a
-              href="https://ainfo.cnptia.embrapa.br/digital/bitstream/item/66834/1/2012-George-FERTBIO-Avaliacao.pdf"
-              >Métodos TSBF para coleta no solo</a>
-          </li>
-          <li>
+            <li>
           <a
               href="https://www.researchgate.net/publication/267833419_MANUAL_PARA_O_MONITORAMENTO_DE_PARCELAS_PERMANENTES_NOS_BIOMAS_CERRADO_E_PANTANAL"
               >Amostragem da vegetação por Parcelas Permanentes</a
@@ -3405,17 +3400,7 @@ Caso você queira sugerir a inclusão de um novo termo, por favor, abra uma [_is
               href="https://ppbio.inpa.gov.br/metodos/rapeld"
               >Método RAPELD</a>
           </li>
-          <li>
-            <a
-              href="https://www.gov.br/icmbio/pt-br/assuntos/monitoramento/gestao-da-informacao/biblioteca/programas-de-monitoramento-de-ambientes-continentais/protocolo_mamiferos-caatinga.pdf"
-              > Método de Armadilha Fotográfica e Transectos</a>
-            </li>
-          <li>
-            <a
-              href="http://ppbio.museu-goeldi.br/?q=pt-br/protocolo-10-herpetofauna"
-              > Método de Busca Ativa e Pitfall</a>
-          </li>
-        </ul>
+          </ul>
         Métodos de coleta em ambientes aquáticos:
         <ul>
           <li>
