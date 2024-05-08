@@ -129,7 +129,7 @@ Caso você queira sugerir a inclusão de um novo termo, por favor, abra uma [_is
     <tr>
       <td style="text-align: left">Domínio</td>
       <td style="text-align: left">
-        StillImage | MovingImage | Sound | PhysicalObject | Event | Text
+        Collection | Dataset | Event | Image | InteractiveResource | MovingImage | PhysicalObject | Service | Software | Sound | StillImage | Text
       </td>
     </tr>
     <tr>
