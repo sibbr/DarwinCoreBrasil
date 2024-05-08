@@ -789,7 +789,7 @@ Caso você queira sugerir a inclusão de um novo termo, por favor, abra uma [_is
     <tr>
       <td style="text-align: left">Domínio</td>
       <td style="text-align: left">
-        PreservedSpecimen | HumanObservation | MaterialSample | LivingSpecimen | MachineObservation | FossilSpecimen | MaterialEntity | Event | Taxon | Occurrence | MaterialCitation
+        PreservedSpecimen | HumanObservation | MaterialSample | LivingSpecimen | MachineObservation | FossilSpecimen | MaterialEntity | Occurrence | MaterialCitation
       </td>
     </tr>
     <tr>
