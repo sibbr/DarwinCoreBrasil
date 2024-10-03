@@ -69,7 +69,7 @@ Caso você queira sugerir a inclusão de um novo termo, por favor, abra uma [_is
             Coleções de Zoologia:
             <a
               href="https://collectory.sibbr.gov.br/collectory/public/show/dr797"
-              >Coleção de Mamíferos do Museu Nacional / UFRJ</a
+              >Coleção de Mamíferos do Museu Nacional da UFRJ</a
           </li>
           <li>
             Herbários:
@@ -88,7 +88,7 @@ Caso você queira sugerir a inclusão de um novo termo, por favor, abra uma [_is
             >
           </li>
           <li>
-            Programa PPBio: <a href="https://collectory.sibbr.gov.br/collectory/public/show/dr651">PPBioMA | PPBio: Morcegos no Parque Nacional da
+            Programa PPBio: <a href="https://collectory.sibbr.gov.br/collectory/public/show/dr651">PPBioMA | Morcegos no Parque Nacional da
             Chapada dos Guimarães</a>
           </li>
           <li>
@@ -129,7 +129,7 @@ Caso você queira sugerir a inclusão de um novo termo, por favor, abra uma [_is
     <tr>
       <td style="text-align: left">Domínio</td>
       <td style="text-align: left">
-        Collection | Dataset | Event | Image | InteractiveResource | MovingImage | PhysicalObject | Service | Software | Sound | StillImage | Text
+        StillImage | MovingImage | PhysicalObject | Sound | Text | Event
       </td>
     </tr>
     <tr>
