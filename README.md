@@ -530,15 +530,13 @@ Caso você queira sugerir a inclusão de um novo termo, por favor, abra uma [_is
     </tr>
     <tr>
       <td style="text-align: left">Domínio</td>
-      <td style="text-align: left"> [CNPJ da instituição] </td>
+      <td style="text-align: left">  </td>
     </tr>
     <tr>
       <td style="text-align: left">Exemplos</td>
       <td style="text-align: left">
         <ul>
-          <li> Fiocruz: 33.781.055/0001-35
-          <li> Universidade Federal do Rio de Janeiro: 33.663.683/0029-17
-          <!-- <li>NA</li> -->
+        <!-- <li>NA</li> -->
         </ul>
       </td>
     </tr>
