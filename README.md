@@ -986,9 +986,6 @@ Caso você queira sugerir a inclusão de um novo termo, por favor, abra uma [_is
       <td style="text-align: left">Exemplos</td>
       <td style="text-align: left">
         <ul>
-          <li>
-          Parcela_01
-          </li>
         </ul>
       </td>
     </tr>
@@ -1019,18 +1016,14 @@ Caso você queira sugerir a inclusão de um novo termo, por favor, abra uma [_is
     <tr>
       <td style="text-align: left">Definição</td>
       <td style="text-align: left">
-        Um identificador para a ocorrência (em oposição a um registro digital
-        específico da ocorrência). Na ausência de um identificador exclusivo
-        global persistente, construa um a partir de uma combinação de
-        identificadores no registro que tornará o id de ocorrência globalmente
-        exclusivo.
+       Identificador único universal para a ocorrência <a href="https://www.uuidgenerator.net/" > gerados aleatoriamente </a> ou a partir de combinações de identificadores do registro que o tornam único.
       </td>
     </tr>
     <tr>
       <td style="text-align: left">Domínio</td>
       <td style="text-align: left">
         <ul>
-        <li>Coleção: [BR]:[InstitutionCode]:[CollectionCode]:[CatalogNumber]</li>
+        <li>Identificador único universal</li>
         <li>Evento amostragem: [EventID]_[id] | [EventID]_[Placa árvore ou anel captura]</li>
         </ul>
       </td>
@@ -1040,9 +1033,7 @@ Caso você queira sugerir a inclusão de um novo termo, por favor, abra uma [_is
       <td style="text-align: left">
         <ul>
           <li>
-          <a
-              href="https://ala-hub.sibbr.gov.br/ala-hub/occurrences/afb3750d-ccbd-4f4f-b895-a7ffd35636e8"
-              >BR:UFPR:Palotina:CESP010043</a>
+        8e5a0312-a067-442a-856f-d960933ac0f6
           </li>
           <li>
             <a
@@ -2938,12 +2929,7 @@ Caso você queira sugerir a inclusão de um novo termo, por favor, abra uma [_is
               href="https://ala-hub.sibbr.gov.br/ala-hub/occurrences/4da67201-14cb-4e13-8fe0-e891e20abb1f"
             >Data completa: 2022-04-21</a>
           </li>
-          <li>
-            <a
-              href="https://ala-hub.sibbr.gov.br/ala-hub/occurrences/39d9fa40-8619-4963-b5d3-84dd15b27977"
-              > Intervalo de coleta: 2004-05/2005-04 | AAAA-MM-DD/AAAA-MM-DD | AAAA-MM/AAAA-MM | AAAA/AAAA</a>
-            </li>
-               </ul>
+              </ul>
       </td>
     </tr>
   </tbody>
@@ -3398,16 +3384,10 @@ Caso você queira sugerir a inclusão de um novo termo, por favor, abra uma [_is
               href="https://ppbio.inpa.gov.br/metodos/rapeld"
               >Método RAPELD</a>
           </li>
+          <li> Busca ativa</li>
+          <li> Rede Entomológica</li>
           </ul>
-        Métodos de coleta em ambientes aquáticos:
-        <ul>
-          <li>
-            Artes ativas: armadilhas (covo), redes de emalhe
-          </li>
-          <li>
-            Artes passivas: espinhel, redes de arrasto, puçá, tarrafa
-          </li>
-      </td>
+          </td>
     </tr>
   </tbody>
 </table>
@@ -3651,7 +3631,7 @@ Caso você queira sugerir a inclusão de um novo termo, por favor, abra uma [_is
     </tr>
     <tr>
       <td style="text-align: left">Domínio</td>
-      <td style="text-align: left">[Comentários sobre o evento da coleta]</td>
+      <td style="text-align: left">[Comentários sobre o evento da coleta ou intervalo de data da campanha de coleta]</td>
     </tr>
     <tr>
       <td style="text-align: left">Exemplos</td>
@@ -3678,7 +3658,7 @@ Caso você queira sugerir a inclusão de um novo termo, por favor, abra uma [_is
               >Época seca<a/>
             </li>
           <li>
-              Estação A12 | Campo 1 <a/>
+              Campanha 1 (03-08-2024 | 03-09-2024) <a/>
             </li>
         </ul>
       </td>
@@ -4670,7 +4650,7 @@ Caso você queira sugerir a inclusão de um novo termo, por favor, abra uma [_is
     </tr>
     <tr>
       <td style="text-align: left">Domínio</td>
-      <td style="text-align: left">[Comentários ou notas sobre o local da coleta]</td>
+      <td style="text-align: left">[Comentários ou notas sobre as condições ambientais do local de amostragem; podem também, quando necessário, indicar níveis de tratamentos utilizados no estudo]</td>
     </tr>
     <tr>
       <td style="text-align: left">Exemplos</td>
@@ -4678,11 +4658,10 @@ Caso você queira sugerir a inclusão de um novo termo, por favor, abra uma [_is
         <ul>
           </li>
           <li>
-           <a
-              href="https://ala-hub.sibbr.gov.br/ala-hub/occurrences/0fbb4244-a111-42d9-b52a-269c92529d31"
-              >MIG FLORA FME 1</a
-            >
+           Tratamento 1: controle
           </li>
+          <li>Condição do local da amostragem: afetado </li>
+          <li>Condição do local da amostragem: não afetado </li>
         </ul>
       </td>
     </tr>
@@ -5527,19 +5506,21 @@ Caso você queira sugerir a inclusão de um novo termo, por favor, abra uma [_is
     <tr>
       <td style="text-align: left">Definição</td>
       <td style="text-align: left">
-        Coordenadas generalizadas a partir do centroide de uma malha de 15 km.
+        Notas ou comentários sobre a determinação da descrição espacial, explicando suposições feitas em adição ou oposição àquelas formalizadas no método referido em georeferenceProtocol.
+      <br><b>NOTA</b>: Este termo está sendo utilizado <b>temporariamente</b> para designar quaisquer códigos ou identificadores referentes a parcelas, transectos e similares.
       </td>
     </tr>
     <tr>
       <td style="text-align: left">Domínio</td>
-      <td style="text-align: left">[Comentários ou notas sobre a georeferenciação]</td>
+      <td style="text-align: left">[Comentários, notas sobre a georeferenciamento ou identificação do número de parcelas/transectos]</td>
     </tr>
     <tr>
       <td style="text-align: left">Exemplos</td>
       <td style="text-align: left">
         <ul>
-          <li>Distância estimada pela estrada (Rodovia 101)</li>
-        </ul>
+          <li>Número da Parcela: FRR04</li>
+          <li>Transectos: T1</li>
+          </ul>
       </td>
     </tr>
   </tbody>
