@@ -4004,15 +4004,13 @@ Caso você queira sugerir a inclusão de um novo termo, por favor, abra uma [_is
         <li>
           BR | AU | US | FR
         </li>
-        <ul>
-          <li>
+         <li>
             <a
               href="https://www.ibge.gov.br/geociencias/organizacao-do-territorio/malhas-territoriais/15774-malhas.html"
               >IBGE</a
             >
           </li>
-        </ul>
-      </td>
+         </td>
     </tr>
   </tbody>
 </table>
