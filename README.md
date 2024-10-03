@@ -1436,18 +1436,10 @@ Caso você queira sugerir a inclusão de um novo termo, por favor, abra uma [_is
         <ul>
           <li>
             Macho:
-            <a
-              href="https://ala-hub.sibbr.gov.br/ala-hub/occurrences/013b8c62-05b2-47f0-85f7-9cd3be752193"
-              >BR:UENF:UENFMZ:00156</a
-            >
-          </li>
+           </li>
           <li>
             Fêmea:
-            <a
-              href="https://ala-hub.sibbr.gov.br/ala-hub/occurrences/9879690f-86c7-4887-9d77-e068aacaff14"
-              >BR:PPBIO:MAtaAtlantica:IlhaGrande:Modulo_LesteParcela_L1 4500_seca_2015_107</a
-            >
-          </li>
+           </li>
           <li>
             Hermafrodita: os hermafroditas verdadeiros são animais com intersexualidade, nos quais as gônadas masculinas e femininas se desenvolvem simultaneamente no mesmo indivíduo. (EMBRAPA, 2004)
           </li>
