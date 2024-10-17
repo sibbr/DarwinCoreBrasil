@@ -92,11 +92,10 @@ Caso você queira sugerir a inclusão de um novo termo, por favor, abra uma [_is
             Chapada dos Guimarães</a>
           </li>
           <li>
-            Projeto de pesquisa: PREVIR:
+            Projeto de pesquisa:
             <a
               href="https://collectory.sibbr.gov.br/collectory/public/show/dr642"
-              >Monitoramento de Fauna do Projeto Rede de Vigilância de Vírus
-              (Previr). Observatório Pantanal AVES MT-2</a
+              >PREVIR | Monitoramento de Fauna do Projeto Rede de Vigilância de Vírus. Observatório Pantanal AVES MT-2</a
             >
           </li>
         </ul>
