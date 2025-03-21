@@ -1671,16 +1671,13 @@ Caso você queira sugerir a inclusão de um novo termo, por favor, abra uma [_is
     <tr>
       <td style="text-align: left">Definição</td>
       <td style="text-align: left">
-        Declaração sobre se um organismo ou organismos foram introduzidos em um
-        determinado lugar e tempo através da atividade direta ou indireta dos
-        humanos modernos.
+        Declaração sobre se um organismo ou organismos foram introduzidos no Brasil através da atividade direta ou indireta dos humanos.
       </td>
     </tr>
     <tr>
       <td style="text-align: left">Domínio</td>
       <td style="text-align: left">
-        Introduzida | Nativa | Incerto | Nativa reintroduzida | Introduzida por
-        colonização assistida
+        Introduzida | Nativa | Incerto 
       </td>
     </tr>
     <tr>
