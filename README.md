@@ -1685,7 +1685,7 @@ Caso você queira sugerir a inclusão de um novo termo, por favor, abra uma [_is
       <td style="text-align: left">
         <ul>
         <li> 
-         Introduzida: espécies que foram introduzidas em um local do qual não faziam parte originalmente.
+         Introduzida: Organismo ou grupo de organismos introduzidos no Brasil, onde não ocorriam originalmente.
         </li>
         <li> 
         Nativa: organismo ou grupo de organismos que ocorrem e crescem dentro dos limites territoriais do Brasil incluindo a sua área de dispersão.
