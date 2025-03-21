@@ -1685,10 +1685,10 @@ Caso você queira sugerir a inclusão de um novo termo, por favor, abra uma [_is
       <td style="text-align: left">
         <ul>
         <li> 
-         Introduzida: espécies que foram introduzidas em um local do qual não faziam parte originalmente. (EMBRAPA, 2004)
+         Introduzida: espécies que foram introduzidas em um local do qual não faziam parte originalmente.
         </li>
         <li> 
-        Nativa: espécies que são naturais, próprias do ecossistema ou região em que vivem, ou seja, que crescem dentro dos seus limites naturais incluindo a sua área de dispersão. (EMBRAPA, 2004)
+        Nativa: organismo ou grupo de organismos que ocorrem e crescem dentro dos limites territoriais do Brasil incluindo a sua área de dispersão.
           </li>
             <!-- <li>NA</li> -->
         </ul>
