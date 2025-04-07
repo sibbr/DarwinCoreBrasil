@@ -1737,22 +1737,16 @@ Caso você queira sugerir a inclusão de um novo termo, por favor, abra uma [_is
             Cultivada: espécies que normalmente são semeadas ou plantadas por humanos. (EMBRAPA, 2004)
           </li>
           <li>
-            Nativa: espécie que é natural, própria do ecossistema ou região em que vive, ou seja, que cresce dentro dos seus limites naturais incluindo a sua área de dispersão. (EMBRAPA, 2004)
+            Invasora: espécies que, introduzidas fora da sua área de distribuição natural, ameaçam a diversidade biológica e os serviços ecossistêmicos. (IBAMA, 2022)
           </li>
-          <li>
-          Invasora: espécies que, introduzidas fora da sua área de distribuição natural, ameaçam a diversidade biológica e os serviços ecossistêmicos. (IBAMA, 2022)
-          </li>
-          <li>
-            Introduzida: espécies que foram introduzidas em um local do qual não fazem parte originalmente. (EMBRAPA, 2004)
-            </li>
           <li>
             Domesticada: a domesticação de espécies vegetais pode ser definida como um processo de seleção para adaptar determinada espécie ao ambiente criado pelo homem, ou seja, ambiente de cultivo. (EMBRAPA, 2004) 
           </li>
           <li>            
-          Endêmica: espécie animal ou vegetal que é nativa de uma única área geográfica. (EMBRAPA, 2021)
+            Endêmica: espécie animal ou vegetal que é nativa de uma única área geográfica. (EMBRAPA, 2021)
           </li>
           <li>
-          Naturalizada: espécie que foi introduzida intencionalmente ou não em um novo ambiente e que se adaptou e reproduziu com sucesso nesse local. Ao longo do tempo, a espécie estabeleceu-se e aclimatou-se às novas condições ambientais, passando a fazer parte integrante da flora ou fauna de uma região. (EMBRAPA, 2019)            
+            Naturalizada: espécie que foi introduzida intencionalmente ou não em um novo ambiente e que se adaptou e reproduziu com sucesso nesse local. Ao longo do tempo, a espécie estabeleceu-se e aclimatou-se às novas condições ambientais, passando a fazer parte integrante da flora ou fauna de uma região. (EMBRAPA, 2019)            
           </li>
         </ul>
       </td>
