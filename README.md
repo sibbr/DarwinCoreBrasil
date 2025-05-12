@@ -1726,7 +1726,7 @@ Caso você queira sugerir a inclusão de um novo termo, por favor, abra uma [_is
     <tr>
       <td style="text-align: left">Domínio</td>
       <td style="text-align: left">
-        Cultivada | Nativa | Invasora | Naturalizada | Introduzida | Domesticada | Origem incerta | Origem não conhecida
+        Cultivada | Domesticada | Criptogênica | Naturalizada 
       </td>
     </tr>
     <tr>
@@ -1737,13 +1737,10 @@ Caso você queira sugerir a inclusão de um novo termo, por favor, abra uma [_is
             Cultivada: espécies que normalmente são semeadas ou plantadas por humanos. (EMBRAPA, 2004)
           </li>
           <li>
-            Invasora: espécies que, introduzidas fora da sua área de distribuição natural, ameaçam a diversidade biológica e os serviços ecossistêmicos. (IBAMA, 2022)
-          </li>
-          <li>
             Domesticada: a domesticação de espécies vegetais pode ser definida como um processo de seleção para adaptar determinada espécie ao ambiente criado pelo homem, ou seja, ambiente de cultivo. (EMBRAPA, 2004) 
           </li>
           <li>            
-            Endêmica: espécie animal ou vegetal que é nativa de uma única área geográfica. (EMBRAPA, 2021)
+            Criptogênica: Uma espécie criptogênica é aquela cuja origem, se nativa ou introduzida, é desconhecida ou incerta, ou seja, não há evidências claras para confirmar a sua origem biogeográfica.
           </li>
           <li>
             Naturalizada: espécie que foi introduzida intencionalmente ou não em um novo ambiente e que se adaptou e reproduziu com sucesso nesse local. Ao longo do tempo, a espécie estabeleceu-se e aclimatou-se às novas condições ambientais, passando a fazer parte integrante da flora ou fauna de uma região. (EMBRAPA, 2019)            
