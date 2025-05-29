@@ -1671,7 +1671,7 @@ Caso você queira sugerir a inclusão de um novo termo, por favor, abra uma [_is
     <tr>
       <td style="text-align: left">Definição</td>
       <td style="text-align: left">
-        Declaração sobre se um organismo ou organismos foram introduzidos no Brasil através da atividade direta ou indireta dos humanos.
+        Declaração sobre se um organismo ou organismos ocorrem naturalmente no Brasil ou foram introduzidos por meio de atividade direta ou indireta dos humanos.
       </td>
     </tr>
     <tr>
