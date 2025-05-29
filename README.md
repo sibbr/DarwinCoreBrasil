@@ -1691,7 +1691,7 @@ Caso você queira sugerir a inclusão de um novo termo, por favor, abra uma [_is
          Exótica: espécie, subespécie ou táxon de hierarquia inferior ocorrendo fora de sua área de distribuição natural, incluindo qualquer parte do indivíduo que possa sobreviver e reproduzir-se, como gametas, sementes, ovos ou propágulos (Definição da Convenção sobre Diversidade Biológica).
         </li>
         <li> 
-        Incerto: não é certo, definido ou garantido; duvidoso e/ou inseguro.
+        Incerto: sem definição clara, origem duvidosa.
           </li>
             <!-- <li>NA</li> -->
         </ul>
