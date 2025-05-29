@@ -1685,7 +1685,7 @@ Caso você queira sugerir a inclusão de um novo termo, por favor, abra uma [_is
       <td style="text-align: left">
         <ul>
         <li> 
-         Nativa: organismo ou grupo de organismos que ocorrem e crescem dentro dos limites territoriais do Brasil incluindo a sua área de dispersão.
+         Nativa: organismo ou grupo de organismos que ocorrem e crescem dentro dos limites territoriais incluindo a sua área de dispersão.
         </li>
         <li> 
          Exótica: espécie, subespécie ou táxon de hierarquia inferior ocorrendo fora de sua área de distribuição natural, incluindo qualquer parte do indivíduo que possa sobreviver e reproduzir-se, como gametas, sementes, ovos ou propágulos (Definição da Convenção sobre Diversidade Biológica).
