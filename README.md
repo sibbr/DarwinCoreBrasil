@@ -1677,7 +1677,7 @@ Caso você queira sugerir a inclusão de um novo termo, por favor, abra uma [_is
     <tr>
       <td style="text-align: left">Domínio</td>
       <td style="text-align: left">
-        Introduzida | Nativa | Incerto 
+        Exotica | Nativa | Incerto 
       </td>
     </tr>
     <tr>
@@ -1685,7 +1685,7 @@ Caso você queira sugerir a inclusão de um novo termo, por favor, abra uma [_is
       <td style="text-align: left">
         <ul>
         <li> 
-         Introduzida: Organismo ou grupo de organismos introduzidos no Brasil, onde não ocorriam originalmente.
+         Exotica: espécie, subespécie ou táxon de hierarquia inferior ocorrendo fora de sua área de distribuição natural, incluindo qualquer parte do indivíduo que possa sobreviver e reproduzir-se, como gametas, sementes, ovos ou propágulos (Definição da Convenção sobre Diversidade Biológica)
         </li>
         <li> 
         Nativa: organismo ou grupo de organismos que ocorrem e crescem dentro dos limites territoriais do Brasil incluindo a sua área de dispersão.
