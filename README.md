@@ -1677,7 +1677,7 @@ Caso você queira sugerir a inclusão de um novo termo, por favor, abra uma [_is
     <tr>
       <td style="text-align: left">Domínio</td>
       <td style="text-align: left">
-        Exotica | Nativa | Incerto 
+        Nativa | Exotica | Incerto 
       </td>
     </tr>
     <tr>
@@ -1685,10 +1685,13 @@ Caso você queira sugerir a inclusão de um novo termo, por favor, abra uma [_is
       <td style="text-align: left">
         <ul>
         <li> 
-         Exotica: espécie, subespécie ou táxon de hierarquia inferior ocorrendo fora de sua área de distribuição natural, incluindo qualquer parte do indivíduo que possa sobreviver e reproduzir-se, como gametas, sementes, ovos ou propágulos (Definição da Convenção sobre Diversidade Biológica)
+         Nativa: organismo ou grupo de organismos que ocorrem e crescem dentro dos limites territoriais do Brasil incluindo a sua área de dispersão.
         </li>
         <li> 
-        Nativa: organismo ou grupo de organismos que ocorrem e crescem dentro dos limites territoriais do Brasil incluindo a sua área de dispersão.
+         Exotica: espécie, subespécie ou táxon de hierarquia inferior ocorrendo fora de sua área de distribuição natural, incluindo qualquer parte do indivíduo que possa sobreviver e reproduzir-se, como gametas, sementes, ovos ou propágulos (Definição da Convenção sobre Diversidade Biológica).
+        </li>
+        <li> 
+        Incerto: não é certo, definido ou garantido; duvidoso e/ou inseguro.
           </li>
             <!-- <li>NA</li> -->
         </ul>
