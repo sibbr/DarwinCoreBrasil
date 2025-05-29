@@ -1736,18 +1736,6 @@ Caso você queira sugerir a inclusão de um novo termo, por favor, abra uma [_is
       <td style="text-align: left">Exemplos</td>
       <td style="text-align: left">
         <ul>
-          <li>
-            Cultivada: espécies que normalmente são semeadas ou plantadas por humanos. (EMBRAPA, 2004)
-          </li>
-          <li>
-            Domesticada: a domesticação de espécies vegetais pode ser definida como um processo de seleção para adaptar determinada espécie ao ambiente criado pelo homem, ou seja, ambiente de cultivo. (EMBRAPA, 2004) 
-          </li>
-          <li>            
-            Criptogênica: Uma espécie criptogênica é aquela cuja origem, se nativa ou introduzida, é desconhecida ou incerta, ou seja, não há evidências claras para confirmar a sua origem biogeográfica.
-          </li>
-          <li>
-            Naturalizada: espécie que foi introduzida intencionalmente ou não em um novo ambiente e que se adaptou e reproduziu com sucesso nesse local. Ao longo do tempo, a espécie estabeleceu-se e aclimatou-se às novas condições ambientais, passando a fazer parte integrante da flora ou fauna de uma região. (EMBRAPA, 2019)            
-          </li>
         </ul>
       </td>
     </tr>
