@@ -502,6 +502,45 @@ Caso você queira sugerir a inclusão de um novo termo, por favor, abra uma [_is
 </table>
 
 ---
+#### feedbackURL
+<table>
+  <tr ="table-secondary">
+    <th colspan="2">
+      <a href="https://github.com/sibbr/DarwinCoreBrasil/issues/9"
+        >feedbackURL</a
+      >
+    </th>
+  </tr>
+  <tr>
+    <td style="text-align: left">Identificador</td>
+    <td style="text-align: left">
+      <a href="https://dwc.tdwg.org/terms/#dwc:feedbackURL"
+        >https://dwc.tdwg.org/terms/#dwc:feedbackURL</a
+      >
+    </td>
+  </tr>
+  <tbody>
+    <tr>
+      <td style="text-align: left">Definição</td>
+      <td style="text-align: left">
+        Um localizador uniforme de recursos (URL) que aponta para uma página da web na qual um formulário pode ser enviado para coletar feedback sobre o registro.
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Domínio</td>
+      <td style="text-align: left">[Link]</td>
+    </tr>
+    <tr>
+       <td style="text-align: left">Exemplos</td>
+      <td style="text-align: left">
+        <ul>https://example.com/new?title=New+issue&body=This+comment+is+about+CAN12345</li>
+        </ul>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+---
 #### institutionID
 <table>
   <tr ="table-secondary">
