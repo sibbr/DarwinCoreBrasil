@@ -1,24 +1,24 @@
 # DarwinCoreBrasil
-Avaliação dos Termos DarwinCore com o objetivo de identificar aqueles termos com vocabulário controlado e definir um conjunto de boas práticas no uso do padrão no Brasil, junto com as instituições e organizações que produzem dados. 
+Avaliação dos Termos DarwinCore com o objetivo de identificar aqueles termos com vocabulário controlado e definir um conjunto de boas práticas no uso do padrão no Brasil, junto com as instituições e organizações que produzem dados.
 https://dwc.tdwg.org/terms/
 
 ## Justificativa
-O uso do padrão DarwinCore para compartilhamento de dados e informações em biodiversidade tem aumentado no Brasil, sendo que as instituições, organizações, fundações, programas e projetos de pesquisa em biodiversidade, cada vez mais, publicam seus dados em alguma plataforma digital, nacional ou internacional. Devido a grande heterogeneidade de tipos de dados, coleções e grupos taxonômicos, existem dúvidas relativas ao preenchimento de cada campo da planilha de dados. A discussão do significado dos termos com a adoção de melhores práticas contribuirá para a padronização dos dados corretamente no Brasil, considerando o conjunto de instituições, suas respectivas demandas e diversidade de termos utilizados. 
+O uso do padrão DarwinCore para compartilhamento de dados e informações em biodiversidade tem aumentado no Brasil, sendo que as instituições, organizações, fundações, programas e projetos de pesquisa em biodiversidade, cada vez mais, publicam seus dados em alguma plataforma digital, nacional ou internacional. Devido a grande heterogeneidade de tipos de dados, coleções e grupos taxonômicos, existem dúvidas relativas ao preenchimento de cada campo da planilha de dados. A discussão do significado dos termos com a adoção de melhores práticas contribuirá para a padronização dos dados corretamente no Brasil, considerando o conjunto de instituições, suas respectivas demandas e diversidade de termos utilizados.
 
 ## Como discutir um termo
 
-Para iniciar uma discussão sobre algum termo, clique no título das tabelas abaixo. Assim, você será direcionado para a página específica de discussão do termo escolhido. 
+Para iniciar uma discussão sobre algum termo, clique no título das tabelas abaixo. Assim, você será direcionado para a página específica de discussão do termo escolhido.
 Para cada termo apresentado:
 - **Identificador:** acesso a descrição original do site oficial do Darwin Core (TDWG).
 - **Definição:** enunciado que explica o significado de um termo.
-- **Domínio:** termo obrigatório exatamente como deveria estar escrito. 
+- **Domínio:** termo obrigatório exatamente como deveria estar escrito.
 - **Exemplos:** vários exemplos segundo o tipo de dados e/ou grupo taxonômico.
 
 ## Sugestão/discussão de novos termos
 
 O padrão Darwin Core pode não atender às demandas dos dados de biodiversidade do Brasil. Por vezes, orgãos ambientais e outras instituições necessitam incluir, por exemplo: código de licença, orgão financiador, nome do projeto, entre outros. Aqui, sugerimos iniciarmos uma discussão sobre novos termos e, posteriormente, submeter essa sugestão ao [TDWG](https://www.tdwg.org/) (ver exemplo em https://github.com/tdwg/dwc/issues/413).
 
-Caso você queira sugerir a inclusão de um novo termo, por favor, abra uma [_issue_](https://github.com/sibbr/DarwinCoreBrasil/issues) e justifique essa inclusão. 
+Caso você queira sugerir a inclusão de um novo termo, por favor, abra uma [_issue_](https://github.com/sibbr/DarwinCoreBrasil/issues) e justifique essa inclusão.
 
 <!-- ### Termos abertos ainda em discussão -->
 
@@ -26,8 +26,8 @@ Caso você queira sugerir a inclusão de um novo termo, por favor, abra uma [_is
 
 ## Classes e Termos DarwinCore
 
-| [Record-level](https://github.com/sibbr/DarwinCoreBrasil#record-level) | [Occurrence](https://github.com/sibbr/DarwinCoreBrasil#occurrence) | [Organism](https://github.com/sibbr/DarwinCoreBrasil#organism) | [MaterialSample](https://github.com/sibbr/DarwinCoreBrasil#materialsample)| [Event](https://github.com/sibbr/DarwinCoreBrasil#event) | [Location](https://github.com/sibbr/DarwinCoreBrasil#location) | [GeologicalContext](https://github.com/sibbr/DarwinCoreBrasil#geologicalcontext) | [Identification](https://github.com/sibbr/DarwinCoreBrasil#identification) | [Taxon](https://github.com/sibbr/DarwinCoreBrasil#taxon) | [MeasurementOrFact](https://github.com/sibbr/DarwinCoreBrasil#measurementorfact)
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| [Record-level](https://github.com/sibbr/DarwinCoreBrasil#record-level) | [Occurrence](https://github.com/sibbr/DarwinCoreBrasil#occurrence) | [Organism](https://github.com/sibbr/DarwinCoreBrasil#organism) | [Material Entity](https://github.com/sibbr/DarwinCoreBrasil#materialentity) | [MaterialSample](https://github.com/sibbr/DarwinCoreBrasil#materialsample)| [Event](https://github.com/sibbr/DarwinCoreBrasil#event) | [Location](https://github.com/sibbr/DarwinCoreBrasil#location) | [GeologicalContext](https://github.com/sibbr/DarwinCoreBrasil#geologicalcontext) | [Identification](https://github.com/sibbr/DarwinCoreBrasil#identification) | [Taxon](https://github.com/sibbr/DarwinCoreBrasil#taxon) | [MeasurementOrFact](https://github.com/sibbr/DarwinCoreBrasil#measurementorfact)
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 
 ### Record-level
 
@@ -490,7 +490,7 @@ Caso você queira sugerir a inclusão de um novo termo, por favor, abra uma [_is
         Catalogue of Life (CoL): <a href="https://www.catalogueoflife.org/data/taxon/3DR25"> https://www.catalogueoflife.org/data/taxon/3DR25 </a>
         </li>
         <li>
-        WoRMS: <a href="https://www.marinespecies.org/aphia.php?p=taxdetails&id=105847"> https://www.marinespecies.org/aphia.php?p=taxdetails&id=105847 </a> 
+        WoRMS: <a href="https://www.marinespecies.org/aphia.php?p=taxdetails&id=105847"> https://www.marinespecies.org/aphia.php?p=taxdetails&id=105847 </a>
         </li>
         <li>
         Vírus: <a href="https://www.ncbi.nlm.nih.gov/labs/virus/vssi/#/"> https://www.ncbi.nlm.nih.gov/labs/virus/vssi/#/ </a>
@@ -613,7 +613,7 @@ Caso você queira sugerir a inclusão de um novo termo, por favor, abra uma [_is
     </tr>
     <tr>
       <td style="text-align: left">Exemplos</td>
-      <td style="text-align: left"> 
+      <td style="text-align: left">
         <ul>
           <!-- <li>NA</li> -->
         </ul>
@@ -989,7 +989,7 @@ Caso você queira sugerir a inclusão de um novo termo, por favor, abra uma [_is
   </tbody>
 </table>
 
---- 
+---
 #### fieldNumber
 <table>
   <tr ="table-secondary">
@@ -1131,7 +1131,7 @@ Caso você queira sugerir a inclusão de um novo termo, por favor, abra uma [_is
           <li>
            <a
           href="https://ala-hub.sibbr.gov.br/ala-hub/occurrences/4e22d9bb-fab9-4d69-ab65-6c789f7175c8"
-          >INPA-AMB 000038</a>       
+          >INPA-AMB 000038</a>
         </ul>
       </td>
     </tr>
@@ -1183,7 +1183,7 @@ Caso você queira sugerir a inclusão de um novo termo, por favor, abra uma [_is
               <a
               href="https://ala-hub.sibbr.gov.br/ala-hub/occurrences/28542092-5804-4de0-a9bb-9991cfc1786d"
               >21469</a
-            >          
+            >
             </li>
         </ul>
       </td>
@@ -1192,7 +1192,7 @@ Caso você queira sugerir a inclusão de um novo termo, por favor, abra uma [_is
 </table>
 
 ---
-#### 
+####
 <table>
   <tr ="table-secondary">
     <th colspan="2">
@@ -1532,7 +1532,7 @@ Caso você queira sugerir a inclusão de um novo termo, por favor, abra uma [_is
           </li>
           <li>
           <a href="https://ala-hub.sibbr.gov.br/ala-hub/occurrences/66c41f5d-0943-4e92-a402-c852f20e6700"> Frutificação</a>
-          </li>               
+          </li>
           <li>
           Floração: registro de planta observado ou coletado em fase de floração. A floração indica abertura das inflorescências, passando pela fase de expansão completa até a liberação do pólen (EMBRAPA, 2004).
           </li>
@@ -1549,7 +1549,7 @@ Caso você queira sugerir a inclusão de um novo termo, por favor, abra uma [_is
              <a
               href="https://ala-hub.sibbr.gov.br/ala-hub/occurrences/b1e323db-e480-489e-ac14-f13a02d2f0ca"
               >Larva</a>
-              <li>            
+              <li>
             Pupa
              </li>
              <li>
@@ -1626,19 +1626,19 @@ Caso você queira sugerir a inclusão de um novo termo, por favor, abra uma [_is
           <a
             href="https://ala-hub.sibbr.gov.br/ala-hub/occurrences/66c41f5d-0943-4e92-a402-c852f20e6700"
             >urn:catalog:JBRJ:RB:205066</a
-            >           
+            >
         <li> Floração
           <a
-            >   
+            >
         <li> Não reprodutiva
           <a
-            >   
+            >
              </ul>
        Animal:
         <ul>
         <li> Grávida
           <a
-            >           
+            >
           <!-- <li>NA</li> -->
         </ul>
       </td>
@@ -1679,8 +1679,8 @@ Caso você queira sugerir a inclusão de um novo termo, por favor, abra uma [_is
       <td style="text-align: left">Exemplos</td>
       <td style="text-align: left">
         <ul>
-        <li> 
-         Forrageando, correndo, descansando 
+        <li>
+         Forrageando, correndo, descansando
              <!-- <li>NA</li> -->
         </ul>
       </td>
@@ -1716,20 +1716,20 @@ Caso você queira sugerir a inclusão de um novo termo, por favor, abra uma [_is
     <tr>
       <td style="text-align: left">Domínio</td>
       <td style="text-align: left">
-        Nativa | Exótica | Incerto 
+        Nativa | Exótica | Incerto
       </td>
     </tr>
     <tr>
       <td style="text-align: left">Exemplos</td>
       <td style="text-align: left">
         <ul>
-        <li> 
+        <li>
          Nativa: organismo ou grupo de organismos que ocorrem e crescem dentro dos limites territoriais incluindo a sua área de dispersão.
         </li>
-        <li> 
+        <li>
          Exótica: espécie, subespécie ou táxon de hierarquia inferior ocorrendo fora de sua área de distribuição natural, incluindo qualquer parte do indivíduo que possa sobreviver e reproduzir-se, como gametas, sementes, ovos ou propágulos (Definição da Convenção sobre Diversidade Biológica).
         </li>
-        <li> 
+        <li>
         Incerto: sem definição clara, origem duvidosa.
           </li>
             <!-- <li>NA</li> -->
@@ -1768,7 +1768,7 @@ Caso você queira sugerir a inclusão de um novo termo, por favor, abra uma [_is
     <tr>
       <td style="text-align: left">Domínio</td>
       <td style="text-align: left">
-        Cultivada | Domesticada | Criptogênica | Naturalizada 
+        Cultivada | Domesticada | Criptogênica | Naturalizada
       </td>
     </tr>
     <tr>
@@ -1927,141 +1927,6 @@ Caso você queira sugerir a inclusão de um novo termo, por favor, abra uma [_is
                 href="https://ala-hub.sibbr.gov.br/ala-hub/occurrences/e2463fb0-0ae8-4bf9-89d6-741c7506da0b"
                 >Present</a>
             </li>
-        </ul>
-      </td>
-    </tr>
-  </tbody>
-</table>
-
----
-#### preparations
-<table>
-  <tr class="table-secondary">
-    <th colspan="2">
-      <a href="https://github.com/sibbr/DarwinCoreBrasil/issues/37"
-        >preparations</a
-      >
-    </th>
-  </tr>
-  <tr>
-    <td style="text-align: left">Identificador</td>
-    <td style="text-align: left">
-      <a href="https://dwc.tdwg.org/terms/#dwc:preparations"
-        >https://dwc.tdwg.org/terms/#dwc:preparations</a
-      >
-    </td>
-  </tr>
-  <tbody>
-    <tr>
-      <td style="text-align: left">Definição</td>
-      <td style="text-align: left">
-        Uma lista de preparações e métodos de conservação de um espécime.
-      </td>
-    </tr>
-    <tr>
-      <td style="text-align: left">Domínio</td>
-      <td style="text-align: left">
-        Pele | Crânio | Esqueleto | Animal inteiro | Tecido | Extração DNA | Sangue | Método de Castellani | Imersão em água mineral | Crioconcentrado | Criopresevação | Ultrafreezer | Liofilizado | Imersão em álcool 70% | Meio seco - Alfinetado
-      </td>
-    </tr>
-    <tr>
-      <td style="text-align: left">Exemplos</td>
-      <td style="text-align: left">
-        <ul>
-          <li>
-              <a
-              href="https://ala-hub.sibbr.gov.br/ala-hub/occurrences/1dc6ebe2-f43f-4e74-8b5d-bbd3e8a40147"
-              >Pele taxidermizada | Preparação: Taxidermização | Tecido Poluentes: NÃO | Tecido DNA: SIM</a
-            >
-          </li>
-          <li>
-            <a
-              href="https://ala-hub.sibbr.gov.br/ala-hub/occurrences/ea8ec403-27ad-4b6a-a633-ab1b92a21ce4"
-              >Crânio | Pele</a>
-          </li>
-          <li>
-            <a
-              href="https://ala-hub.sibbr.gov.br/ala-hub/occurrences/8e833695-fb63-49be-af06-7371ec353990"
-              >DNA</a>
-            </li>
-          <li>
-          Imersão em álcool 70%             
-          </li>
-        <li>
-          Meio seco - Alfinetado
-        </li>
-           </ul>
-              Preservação de fungos: 
-        <ul>
-          <li>
-            Método de Castellani
-            </li>
-          <li>
-            Imersão em água mineral
-          </li>
-          <li>
-             Crioconcentrado
-          </li>
-          <li>
-            Criopresevação
-          <li>
-            Ultrafreezer
-          </li>
-          <li>
-            Liofilizado
-          </li>
-        </ul>
-      </td>
-    </tr>
-  </tbody>
-</table>
-
----
-#### disposition
-<table>
-  <tr class="table-secondary">
-    <th colspan="2">
-      <a href="https://github.com/sibbr/DarwinCoreBrasil/issues/38"
-        >disposition</a
-      >
-    </th>
-  </tr>
-  <tr>
-    <td style="text-align: left">Identificador</td>
-    <td style="text-align: left">
-      <a href="https://dwc.tdwg.org/terms/#dwc:disposition"
-        >https://dwc.tdwg.org/terms/#dwc:disposition</a
-      >
-    </td>
-  </tr>
-  <tbody>
-    <tr>
-      <td style="text-align: left">Definição</td>
-      <td style="text-align: left">
-        O estado atual de um espécime em relação à coleção identificada em
-        collectioncode ou collectionid.
-      </td>
-    </tr>
-    <tr>
-      <td style="text-align: left">Domínio</td>
-      <td style="text-align: left">
-        Em coleção | Ausente | Voucher em outro local | Duplicatas em outro local
-      </td>
-    </tr>
-    <tr>
-      <td style="text-align: left">Exemplos</td>
-      <td style="text-align: left">
-        <ul>
-         <li>
-           <a
-              href="https://ala-hub.sibbr.gov.br/ala-hub/occurrences/6e4bb585-df36-4058-97a4-3238ec56bb3b"
-              >	Depositado em coleção/museu</a
-            >
-          </li>
-          <li>
-            <a
-              href="https://ala-hub.sibbr.gov.br/ala-hub/occurrences/8e833695-fb63-49be-af06-7371ec353990"
-              >Em coleção</a>
         </ul>
       </td>
     </tr>
@@ -2341,7 +2206,7 @@ Caso você queira sugerir a inclusão de um novo termo, por favor, abra uma [_is
               href="https://ala-hub.sibbr.gov.br/ala-hub/occurrences/8e833695-fb63-49be-af06-7371ec353990"
               >OP150146</a>
           </li>
-          <li> SISGEN_AAE11DC         
+          <li> SISGEN_AAE11DC
           </li>
         </ul>
       </td>
@@ -2389,7 +2254,7 @@ Caso você queira sugerir a inclusão de um novo termo, por favor, abra uma [_is
   </tbody>
 </table>
 
---- 
+---
 #### caste
 <table>
   <tr class="table-secondary">
@@ -2792,7 +2657,466 @@ Caso você queira sugerir a inclusão de um novo termo, por favor, abra uma [_is
   </tbody>
 </table>
 
---- 
+---
+
+### MaterialEntity
+
+#### materialEntityID
+
+<table>
+  <tr class="table-secondary">
+    <th colspan="2">
+      <a href="https://github.com/sibbr/DarwinCoreBrasil/issues/195">materialEntityID</a>
+    </th>
+  </tr>
+  <tr>
+    <td style="text-align: left">Identificador</td>
+    <td style="text-align: left">
+      <a href="https://dwc.tdwg.org/list/#dwc_materialEntityID"
+        >https://dwc.tdwg.org/list/#dwc_materialEntityID</a
+      >
+    </td>
+  </tr>
+  <tbody>
+    <tr>
+      <td style="text-align: left">Definição</td>
+      <td style="text-align: left">
+Os valores de dwc:materialEntityID são destinados a identificar de forma única e persistente uma dwc:MaterialEntity particular dentro de algum contexto. Exemplos de contexto incluem uma coleção de amostras específica, uma organização, ou escala mundial. A melhor prática recomendada é usar um identificador persistente e globalmente único. O identificador está vinculado a um objeto físico (a dwc:MaterialEntity) em oposição a um registro digital específico (representação) desse objeto físico.
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Domínio</td>
+      <td style="text-align: left">[Identificador único de objeto físico]</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Exemplos</td>
+      <td style="text-align: left">
+        <ul>
+          <li>
+            06809dc5-f143-459a-be1a-6f03e63fc083
+          </li>
+        </ul>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+<!-- #### digitalSpecimenID
+
+<table>
+  <tr class="table-secondary">
+    <th colspan="2">
+      <a href="https://github.com/sibbr/DarwinCoreBrasil/issues/53">eventID</a>
+    </th>
+  </tr>
+  <tr>
+    <td style="text-align: left">Identificador</td>
+    <td style="text-align: left">
+      <a href="https://dwc.tdwg.org/terms/#dwc:eventID"
+        >https://dwc.tdwg.org/terms/#dwc:eventID</a
+      >
+    </td>
+  </tr>
+  <tbody>
+    <tr>
+      <td style="text-align: left">Definição</td>
+      <td style="text-align: left">
+        Um identificador para o conjunto de informações associadas a um evento
+        (algo que ocorre em um local e horário). Pode ser um identificador
+        exclusivo global ou um identificador específico para o conjunto de
+        dados.
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Domínio</td>
+      <td style="text-align: left">[Identificador único do evento]</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Exemplos</td>
+      <td style="text-align: left">
+        <ul>
+          <li>
+            <a
+              href="https://ala-hub.sibbr.gov.br/ala-hub/occurrences/f8bd0b2d-39be-471f-b299-d4d3184c5963"
+              >BR:PELD-ELPA:FURG:patos:cetaceans:2005-08-04:E2</a
+            >
+          </li>
+        </ul>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+#### materialEntityType
+
+<table>
+  <tr class="table-secondary">
+    <th colspan="2">
+      <a href="https://github.com/sibbr/DarwinCoreBrasil/issues/53">eventID</a>
+    </th>
+  </tr>
+  <tr>
+    <td style="text-align: left">Identificador</td>
+    <td style="text-align: left">
+      <a href="https://dwc.tdwg.org/terms/#dwc:eventID"
+        >https://dwc.tdwg.org/terms/#dwc:eventID</a
+      >
+    </td>
+  </tr>
+  <tbody>
+    <tr>
+      <td style="text-align: left">Definição</td>
+      <td style="text-align: left">
+        Um identificador para o conjunto de informações associadas a um evento
+        (algo que ocorre em um local e horário). Pode ser um identificador
+        exclusivo global ou um identificador específico para o conjunto de
+        dados.
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Domínio</td>
+      <td style="text-align: left">[Identificador único do evento]</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Exemplos</td>
+      <td style="text-align: left">
+        <ul>
+          <li>
+            <a
+              href="https://ala-hub.sibbr.gov.br/ala-hub/occurrences/f8bd0b2d-39be-471f-b299-d4d3184c5963"
+              >BR:PELD-ELPA:FURG:patos:cetaceans:2005-08-04:E2</a
+            >
+          </li>
+        </ul>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+#### discipline
+
+<table>
+  <tr class="table-secondary">
+    <th colspan="2">
+      <a href="https://github.com/sibbr/DarwinCoreBrasil/issues/53">eventID</a>
+    </th>
+  </tr>
+  <tr>
+    <td style="text-align: left">Identificador</td>
+    <td style="text-align: left">
+      <a href="https://dwc.tdwg.org/terms/#dwc:eventID"
+        >https://dwc.tdwg.org/terms/#dwc:eventID</a
+      >
+    </td>
+  </tr>
+  <tbody>
+    <tr>
+      <td style="text-align: left">Definição</td>
+      <td style="text-align: left">
+        Um identificador para o conjunto de informações associadas a um evento
+        (algo que ocorre em um local e horário). Pode ser um identificador
+        exclusivo global ou um identificador específico para o conjunto de
+        dados.
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Domínio</td>
+      <td style="text-align: left">[Identificador único do evento]</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Exemplos</td>
+      <td style="text-align: left">
+        <ul>
+          <li>
+            <a
+              href="https://ala-hub.sibbr.gov.br/ala-hub/occurrences/f8bd0b2d-39be-471f-b299-d4d3184c5963"
+              >BR:PELD-ELPA:FURG:patos:cetaceans:2005-08-04:E2</a
+            >
+          </li>
+        </ul>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+-->
+
+#### preparations
+<table>
+  <tr class="table-secondary">
+    <th colspan="2">
+      <a href="https://github.com/sibbr/DarwinCoreBrasil/issues/37"
+        >preparations</a
+      >
+    </th>
+  </tr>
+  <tr>
+    <td style="text-align: left">Identificador</td>
+    <td style="text-align: left">
+      <a href="https://dwc.tdwg.org/terms/#dwc:preparations"
+        >https://dwc.tdwg.org/terms/#dwc:preparations</a
+      >
+    </td>
+  </tr>
+  <tbody>
+    <tr>
+      <td style="text-align: left">Definição</td>
+      <td style="text-align: left">
+        Uma lista de preparações e métodos de conservação de um espécime.
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Domínio</td>
+      <td style="text-align: left">
+        Pele | Crânio | Esqueleto | Animal inteiro | Tecido | Extração DNA | Sangue | Método de Castellani | Imersão em água mineral | Crioconcentrado | Criopresevação | Ultrafreezer | Liofilizado | Imersão em álcool 70% | Meio seco - Alfinetado
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Exemplos</td>
+      <td style="text-align: left">
+        <ul>
+          <li>
+              <a
+              href="https://ala-hub.sibbr.gov.br/ala-hub/occurrences/1dc6ebe2-f43f-4e74-8b5d-bbd3e8a40147"
+              >Pele taxidermizada | Preparação: Taxidermização | Tecido Poluentes: NÃO | Tecido DNA: SIM</a
+            >
+          </li>
+          <li>
+            <a
+              href="https://ala-hub.sibbr.gov.br/ala-hub/occurrences/ea8ec403-27ad-4b6a-a633-ab1b92a21ce4"
+              >Crânio | Pele</a>
+          </li>
+          <li>
+            <a
+              href="https://ala-hub.sibbr.gov.br/ala-hub/occurrences/8e833695-fb63-49be-af06-7371ec353990"
+              >DNA</a>
+            </li>
+          <li>
+          Imersão em álcool 70%
+          </li>
+        <li>
+          Meio seco - Alfinetado
+        </li>
+           </ul>
+              Preservação de fungos:
+        <ul>
+          <li>
+            Método de Castellani
+            </li>
+          <li>
+            Imersão em água mineral
+          </li>
+          <li>
+             Crioconcentrado
+          </li>
+          <li>
+            Criopresevação
+          <li>
+            Ultrafreezer
+          </li>
+          <li>
+            Liofilizado
+          </li>
+        </ul>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+---
+
+#### disposition
+<table>
+  <tr class="table-secondary">
+    <th colspan="2">
+      <a href="https://github.com/sibbr/DarwinCoreBrasil/issues/38"
+        >disposition</a
+      >
+    </th>
+  </tr>
+  <tr>
+    <td style="text-align: left">Identificador</td>
+    <td style="text-align: left">
+      <a href="https://dwc.tdwg.org/terms/#dwc:disposition"
+        >https://dwc.tdwg.org/terms/#dwc:disposition</a
+      >
+    </td>
+  </tr>
+  <tbody>
+    <tr>
+      <td style="text-align: left">Definição</td>
+      <td style="text-align: left">
+        O estado atual de um espécime em relação à coleção identificada em
+        collectioncode ou collectionid.
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Domínio</td>
+      <td style="text-align: left">
+        Em coleção | Ausente | Voucher em outro local | Duplicatas em outro local
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Exemplos</td>
+      <td style="text-align: left">
+        <ul>
+         <li>
+           <a
+              href="https://ala-hub.sibbr.gov.br/ala-hub/occurrences/6e4bb585-df36-4058-97a4-3238ec56bb3b"
+              >	Depositado em coleção/museu</a
+            >
+          </li>
+          <li>
+            <a
+              href="https://ala-hub.sibbr.gov.br/ala-hub/occurrences/8e833695-fb63-49be-af06-7371ec353990"
+              >Em coleção</a>
+        </ul>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+---
+
+<!-- #### verbatimLabel
+
+<table>
+  <tr class="table-secondary">
+    <th colspan="2">
+      <a href="https://github.com/sibbr/DarwinCoreBrasil/issues/53">eventID</a>
+    </th>
+  </tr>
+  <tr>
+    <td style="text-align: left">Identificador</td>
+    <td style="text-align: left">
+      <a href="https://dwc.tdwg.org/terms/#dwc:eventID"
+        >https://dwc.tdwg.org/terms/#dwc:eventID</a
+      >
+    </td>
+  </tr>
+  <tbody>
+    <tr>
+      <td style="text-align: left">Definição</td>
+      <td style="text-align: left">
+        Um identificador para o conjunto de informações associadas a um evento
+        (algo que ocorre em um local e horário). Pode ser um identificador
+        exclusivo global ou um identificador específico para o conjunto de
+        dados.
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Domínio</td>
+      <td style="text-align: left">[Identificador único do evento]</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Exemplos</td>
+      <td style="text-align: left">
+        <ul>
+          <li>
+            <a
+              href="https://ala-hub.sibbr.gov.br/ala-hub/occurrences/f8bd0b2d-39be-471f-b299-d4d3184c5963"
+              >BR:PELD-ELPA:FURG:patos:cetaceans:2005-08-04:E2</a
+            >
+          </li>
+        </ul>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+#### associatedSequences
+
+<table>
+  <tr class="table-secondary">
+    <th colspan="2">
+      <a href="https://github.com/sibbr/DarwinCoreBrasil/issues/53">eventID</a>
+    </th>
+  </tr>
+  <tr>
+    <td style="text-align: left">Identificador</td>
+    <td style="text-align: left">
+      <a href="https://dwc.tdwg.org/terms/#dwc:eventID"
+        >https://dwc.tdwg.org/terms/#dwc:eventID</a
+      >
+    </td>
+  </tr>
+  <tbody>
+    <tr>
+      <td style="text-align: left">Definição</td>
+      <td style="text-align: left">
+        Um identificador para o conjunto de informações associadas a um evento
+        (algo que ocorre em um local e horário). Pode ser um identificador
+        exclusivo global ou um identificador específico para o conjunto de
+        dados.
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Domínio</td>
+      <td style="text-align: left">[Identificador único do evento]</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Exemplos</td>
+      <td style="text-align: left">
+        <ul>
+          <li>
+            <a
+              href="https://ala-hub.sibbr.gov.br/ala-hub/occurrences/f8bd0b2d-39be-471f-b299-d4d3184c5963"
+              >BR:PELD-ELPA:FURG:patos:cetaceans:2005-08-04:E2</a
+            >
+          </li>
+        </ul>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+#### materialEntityRemarks
+
+<table>
+  <tr class="table-secondary">
+    <th colspan="2">
+      <a href="https://github.com/sibbr/DarwinCoreBrasil/issues/53">eventID</a>
+    </th>
+  </tr>
+  <tr>
+    <td style="text-align: left">Identificador</td>
+    <td style="text-align: left">
+      <a href="https://dwc.tdwg.org/terms/#dwc:eventID"
+        >https://dwc.tdwg.org/terms/#dwc:eventID</a
+      >
+    </td>
+  </tr>
+  <tbody>
+    <tr>
+      <td style="text-align: left">Definição</td>
+      <td style="text-align: left">
+        Um identificador para o conjunto de informações associadas a um evento
+        (algo que ocorre em um local e horário). Pode ser um identificador
+        exclusivo global ou um identificador específico para o conjunto de
+        dados.
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Domínio</td>
+      <td style="text-align: left">[Identificador único do evento]</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Exemplos</td>
+      <td style="text-align: left">
+        <ul>
+          <li>
+            <a
+              href="https://ala-hub.sibbr.gov.br/ala-hub/occurrences/f8bd0b2d-39be-471f-b299-d4d3184c5963"
+              >BR:PELD-ELPA:FURG:patos:cetaceans:2005-08-04:E2</a
+            >
+          </li>
+        </ul>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+-->
 
 ### MaterialSample
 #### MaterialSampleID
@@ -2836,7 +3160,7 @@ Caso você queira sugerir a inclusão de um novo termo, por favor, abra uma [_is
   </tbody>
 </table>
 
---- 
+---
 
 ### Event
 #### eventID
@@ -2971,7 +3295,7 @@ Caso você queira sugerir a inclusão de um novo termo, por favor, abra uma [_is
               > Data com ano e mês: 2006-04 </a>
             </li>
           <li>
-            <a 
+            <a
               href="https://ala-hub.sibbr.gov.br/ala-hub/occurrences/4da67201-14cb-4e13-8fe0-e891e20abb1f"
             >Data completa: 2022-04-21</a>
           </li>
@@ -3141,7 +3465,7 @@ Caso você queira sugerir a inclusão de um novo termo, por favor, abra uma [_is
       <td style="text-align: left">
         <ul>
           <li>
-            <a 
+            <a
               href ="https://ala-hub.sibbr.gov.br/ala-hub/occurrences/4da67201-14cb-4e13-8fe0-e891e20abb1f"
               >2022</a>
             </li>
@@ -3181,7 +3505,7 @@ Caso você queira sugerir a inclusão de um novo termo, por favor, abra uma [_is
       <td style="text-align: left">
         <ul>
           <li>
-            <a 
+            <a
               href ="https://ala-hub.sibbr.gov.br/ala-hub/occurrences/4da67201-14cb-4e13-8fe0-e891e20abb1f"
             >04 <a/>
             </li>
@@ -3221,7 +3545,7 @@ Caso você queira sugerir a inclusão de um novo termo, por favor, abra uma [_is
       <td style="text-align: left">
         <ul>
           <li>
-            <a 
+            <a
               href ="https://ala-hub.sibbr.gov.br/ala-hub/occurrences/4da67201-14cb-4e13-8fe0-e891e20abb1f"
           >21</a>
             </li>
@@ -3274,7 +3598,7 @@ Caso você queira sugerir a inclusão de um novo termo, por favor, abra uma [_is
           </li>
           <li>
             5-VI-1995
-          </li>            
+          </li>
           <!-- <li>NA</li> -->
         </ul>
       </td>
@@ -3312,7 +3636,7 @@ Caso você queira sugerir a inclusão de um novo termo, por favor, abra uma [_is
     <tr>
       <td style="text-align: left">Exemplos</td>
       <td style="text-align: left">
-        Biomas: 
+        Biomas:
         <ul>
           <li>
             Cerrado
@@ -3572,7 +3896,7 @@ Caso você queira sugerir a inclusão de um novo termo, por favor, abra uma [_is
     <tr>
       <td style="text-align: left">Domínio</td>
       <td style="text-align: left">
-       50x50m | 13 redes de 10 metros com piquetes 
+       50x50m | 13 redes de 10 metros com piquetes
       </td>
     </tr>
     <tr>
@@ -3639,7 +3963,7 @@ Caso você queira sugerir a inclusão de um novo termo, por favor, abra uma [_is
             <li>
               <a
                 href="https://ala-hub.sibbr.gov.br/ala-hub/occurrences/5912bcf9-8048-494a-b758-20b1379bc49e"
-                >Solo com textura argiloso amarelado pedregoso. Morro. Relevo inclinado.</a>              
+                >Solo com textura argiloso amarelado pedregoso. Morro. Relevo inclinado.</a>
           </li>
           <li>
             <a
@@ -3712,7 +4036,7 @@ Caso você queira sugerir a inclusão de um novo termo, por favor, abra uma [_is
   </tbody>
 </table>
 
---- 
+---
 
 ### Location
 #### locationID
@@ -3966,7 +4290,7 @@ Caso você queira sugerir a inclusão de um novo termo, por favor, abra uma [_is
       <td style="text-align: left">
       <li>
         Fernando de Noronha | Ilha de Marajó | Ilha de Boipeba | Ilha de Itamaracá | Ilha Grande
-      </li>        
+      </li>
         <ul>
           <!-- <li>NA</li> -->
         </ul>
@@ -5570,7 +5894,7 @@ Caso você queira sugerir a inclusão de um novo termo, por favor, abra uma [_is
   </tbody>
 </table>
 
---- 
+---
 
 ### GeologicalContext
 #### geologicalContextID
@@ -6283,7 +6607,7 @@ Caso você queira sugerir a inclusão de um novo termo, por favor, abra uma [_is
   </tbody>
 </table>
 
---- 
+---
 
 ### Identification
 #### identificationID
@@ -6361,9 +6685,9 @@ Caso você queira sugerir a inclusão de um novo termo, por favor, abra uma [_is
     <tr>
       <td style="text-align: left">Exemplos</td>
       <td style="text-align: left">
-        <li> Micrurus corallinus x Erythrolamprus aesculapii 
+        <li> Micrurus corallinus x Erythrolamprus aesculapii
         </li>
-        <li> Fabaceae?          
+        <li> Fabaceae?
         </li>
         <li> Byrsonima coccolobifolia x B. verbascifolia
         </li>
@@ -6464,7 +6788,7 @@ Caso você queira sugerir a inclusão de um novo termo, por favor, abra uma [_is
       <td style="text-align: left">Exemplos</td>
       <td style="text-align: left">
         <ul>
-          <li>       
+          <li>
       Holótipo: refere-se a um espécime único, a partir do qual é descrita uma espécie ou subespécie. Trata-se de um exemplar singular que desempenha um papel fundamental na catalogação da diversidade biológica. O holótipo é selecionado com base em características distintivas e serve como ponto de referência crucial, estabelecendo padrões para identificação futura e estudos comparativo (UFRJ)
           </li>
           <li>
@@ -6760,7 +7084,7 @@ Caso você queira sugerir a inclusão de um novo termo, por favor, abra uma [_is
   </tbody>
 </table>
 
---- 
+---
 
 ### Taxon
 #### taxonID
@@ -7123,7 +7447,7 @@ Caso você queira sugerir a inclusão de um novo termo, por favor, abra uma [_is
       <td style="text-align: left">Definição</td>
       <td style="text-align: left">
         O nome científico completo. Ao fazer parte de uma identificação, este deve ser o nome na classificação taxonômica de nível mais baixo que pode ser determinado.
-        Este termo não deve conter qualificações de identificação, que devem ser fornecidas no termo identificationQualifier e deve estar em coerência com o taxonRank. 
+        Este termo não deve conter qualificações de identificação, que devem ser fornecidas no termo identificationQualifier e deve estar em coerência com o taxonRank.
       </td>
     </tr>
     <tr>
@@ -7854,7 +8178,7 @@ Caso você queira sugerir a inclusão de um novo termo, por favor, abra uma [_is
       <td style="text-align: left">Exemplos</td>
       <td style="text-align: left">
         <ul>
-          <li> Abacetillus para o scientificName Abacetus (Abacetillus) ambiguus   
+          <li> Abacetillus para o scientificName Abacetus (Abacetillus) ambiguus
             </li>
             </ul>
       </td>
@@ -8366,7 +8690,7 @@ Caso você queira sugerir a inclusão de um novo termo, por favor, abra uma [_is
   </tbody>
 </table>
 
---- 
+---
 
 ### MeasurementOrFact
 #### measurementID
@@ -8443,7 +8767,7 @@ Caso você queira sugerir a inclusão de um novo termo, por favor, abra uma [_is
     <tr>
       <td style="text-align: left">Exemplos</td>
       <td style="text-align: left">
-        Medidas associadas ao evento de amostragem (eventID): 
+        Medidas associadas ao evento de amostragem (eventID):
       <ul>
       <li>
         Temperatura
@@ -8455,16 +8779,16 @@ Caso você queira sugerir a inclusão de um novo termo, por favor, abra uma [_is
         Condutividade da água
       </li>
       </ul>
-        Medidas associadas à ocorrência (occurrenceID): 
+        Medidas associadas à ocorrência (occurrenceID):
         <ul>
       <li>
       Comprimento da cauda
       </li>
       <li>
-        DAP 
+        DAP
       </li>
       <li>
-        Concentração de mercúrio 
+        Concentração de mercúrio
       </li>
         </ul>
       </td>
@@ -8504,7 +8828,7 @@ Caso você queira sugerir a inclusão de um novo termo, por favor, abra uma [_is
     <tr>
       <td style="text-align: left">Exemplos</td>
       <td style="text-align: left">
-        Medidas associadas ao evento de amostragem (eventID): 
+        Medidas associadas ao evento de amostragem (eventID):
       <ul>
       <li>
         30
@@ -8516,7 +8840,7 @@ Caso você queira sugerir a inclusão de um novo termo, por favor, abra uma [_is
        52.329
       </li>
       </ul>
-        Medidas associadas à ocorrência (occurrenceID): 
+        Medidas associadas à ocorrência (occurrenceID):
         <ul>
       <li>
       20
@@ -8565,10 +8889,10 @@ Caso você queira sugerir a inclusão de um novo termo, por favor, abra uma [_is
     <tr>
       <td style="text-align: left">Exemplos</td>
       <td style="text-align: left">
-        Medidas associadas ao evento de amostragem (eventID): 
+        Medidas associadas ao evento de amostragem (eventID):
       <ul>
       <li>
-      °C        
+      °C
       </li>
       <li>
        ppm
@@ -8577,7 +8901,7 @@ Caso você queira sugerir a inclusão de um novo termo, por favor, abra uma [_is
        mS/cm
       </li>
       </ul>
-        Medidas associadas à ocorrência (occurrenceID): 
+        Medidas associadas à ocorrência (occurrenceID):
         <ul>
       <li>
       cm
@@ -8627,7 +8951,7 @@ Caso você queira sugerir a inclusão de um novo termo, por favor, abra uma [_is
     <tr>
       <td style="text-align: left">Exemplos</td>
       <td style="text-align: left">
-        Medidas associadas ao evento de amostragem (eventID): 
+        Medidas associadas ao evento de amostragem (eventID):
       <ul>
       <li>
       Termômetro
@@ -8639,10 +8963,10 @@ Caso você queira sugerir a inclusão de um novo termo, por favor, abra uma [_is
       Condutivímetro
       </li>
       </ul>
-        Medidas associadas à ocorrência (occurrenceID): 
+        Medidas associadas à ocorrência (occurrenceID):
       <ul>
       <li>
-      Trena 
+      Trena
       </li>
       <li>
       Fita métrica
@@ -8771,7 +9095,7 @@ Caso você queira sugerir a inclusão de um novo termo, por favor, abra uma [_is
     <tr>
       <td style="text-align: left">Exemplos</td>
       <td style="text-align: left">
-        Medidas associadas ao evento de amostragem (eventID): 
+        Medidas associadas ao evento de amostragem (eventID):
       <ul>
       <li>
       Laboratório de análise ambiental X
@@ -8783,7 +9107,7 @@ Caso você queira sugerir a inclusão de um novo termo, por favor, abra uma [_is
       Moonphase 3.3
       </li>
       </ul>
-        Medidas associadas à ocorrência (occurrenceID): 
+        Medidas associadas à ocorrência (occurrenceID):
       <ul>
       <li>
       Yohana Ditzel | Clara Fonseca
@@ -8834,4 +9158,3 @@ Caso você queira sugerir a inclusão de um novo termo, por favor, abra uma [_is
     </tr>
   </tbody>
 </table>
-
