@@ -3054,19 +3054,20 @@ discipline
   </tbody>
 </table>
 
+--> 
 #### materialEntityRemarks
 
 <table>
   <tr class="table-secondary">
     <th colspan="2">
-      <a href="https://github.com/sibbr/DarwinCoreBrasil/issues/53">eventID</a>
+      <a href="https://github.com/sibbr/DarwinCoreBrasil/issues/199">materialEntityRemarks</a>
     </th>
   </tr>
   <tr>
     <td style="text-align: left">Identificador</td>
     <td style="text-align: left">
-      <a href="https://dwc.tdwg.org/terms/#dwc:eventID"
-        >https://dwc.tdwg.org/terms/#dwc:eventID</a
+      <a href="https://dwc.tdwg.org/terms/#dwc:materialEntityRemarks"
+        >https://dwc.tdwg.org/terms/#dwc:materialEntityRemarks</a
       >
     </td>
   </tr>
@@ -3074,25 +3075,22 @@ discipline
     <tr>
       <td style="text-align: left">Definição</td>
       <td style="text-align: left">
-        Um identificador para o conjunto de informações associadas a um evento
-        (algo que ocorre em um local e horário). Pode ser um identificador
-        exclusivo global ou um identificador específico para o conjunto de
-        dados.
+        Comentários ou observações sobre o MaterialEntity.
       </td>
     </tr>
     <tr>
       <td style="text-align: left">Domínio</td>
-      <td style="text-align: left">[Identificador único do evento]</td>
+      <td style="text-align: left">[Comentários]</td>
     </tr>
     <tr>
       <td style="text-align: left">Exemplos</td>
       <td style="text-align: left">
         <ul>
           <li>
-            <a
-              href="https://ala-hub.sibbr.gov.br/ala-hub/occurrences/f8bd0b2d-39be-471f-b299-d4d3184c5963"
-              >BR:PELD-ELPA:FURG:patos:cetaceans:2005-08-04:E2</a
-            >
+            Encontrado em associação com restos carbonizados.
+          </li>
+          <li>
+          Alguns fragmentos originais estão ausentes.
           </li>
         </ul>
       </td>
@@ -3100,7 +3098,6 @@ discipline
   </tbody>
 </table>
 
--->
 
 ### MaterialSample
 #### MaterialSampleID
@@ -3227,6 +3224,88 @@ discipline
       <td style="text-align: left">
         <ul>
           <!-- <li>NA</li> -->
+        </ul>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+---
+#### eventType
+<table>
+  <tr class="table-secondary">
+    <th colspan="2">
+      <a href="https://github.com/sibbr/DarwinCoreBrasil/issues/200"
+        >eventType</a
+      >
+    </th>
+  </tr>
+  <tr>
+    <td style="text-align: left">Identificador</td>
+    <td style="text-align: left">
+      <a href="https://dwc.tdwg.org/terms/#dwc:eventType"
+        >https://dwc.tdwg.org/terms/#dwc:eventType</a
+      >
+    </td>
+  </tr>
+  <tbody>
+    <tr>
+      <td style="text-align: left">Definição</td>
+      <td style="text-align: left">
+        A natureza do evento.
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Domínio</td>
+      <td style="text-align: left">Amostra | Observação | Interação biótica | Levantamento | Projeto | Expedição | Inventário </td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Exemplos</td>
+      <td style="text-align: left">
+        <ul>
+          <li>
+          Inventário
+          </li>
+        </ul>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+---
+#### projectTitle
+<table>
+  <tr class="table-secondary">
+    <th colspan="2">
+      <a href="https://github.com/sibbr/DarwinCoreBrasil/issues/201"
+        >projectTitle</a
+      >
+    </th>
+  </tr>
+  <tr>
+    <td style="text-align: left">Identificador</td>
+    <td style="text-align: left">
+      <a href="https://dwc.tdwg.org/terms/#dwc:projectTitle"
+        >https://dwc.tdwg.org/terms/#dwc:projectTitle</a
+      >
+    </td>
+  </tr>
+  <tbody>
+    <tr>
+      <td style="text-align: left">Definição</td>
+      <td style="text-align: left">
+        Uma lista (concatenada e separada) de títulos ou nomes de projetos que contribuíram para um evento.
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Domínio</td>
+      <td style="text-align: left">[Título ou nome do projeto]</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Exemplos</td>
+      <td style="text-align: left">
+        <ul>
+          <li>Amostragem da vegetação no Parque Nacional da Chapada dos Veadeiros</li>
         </ul>
       </td>
     </tr>
