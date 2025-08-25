@@ -2701,19 +2701,19 @@ Os valores de dwc:materialEntityID são destinados a identificar de forma única
   </tbody>
 </table>
 
-#### digitalSpecimenID
+digitalSpecimenID
 
 <table>
   <tr class="table-secondary">
     <th colspan="2">
-      <a href="https://github.com/sibbr/DarwinCoreBrasil/issues/53">eventID</a>
+      <a href="https://github.com/sibbr/DarwinCoreBrasil/issues/196">digitalSpecimenID</a>
     </th>
   </tr>
   <tr>
     <td style="text-align: left">Identificador</td>
     <td style="text-align: left">
-      <a href="https://dwc.tdwg.org/terms/#dwc:eventID"
-        >https://dwc.tdwg.org/terms/#dwc:eventID</a
+      <a href="https://dwc.tdwg.org/terms/#dwc:digitalSpecimenID"
+        >https://dwc.tdwg.org/terms/#dwc:digitalSpecimenID</a
       >
     </td>
   </tr>
@@ -2721,25 +2721,19 @@ Os valores de dwc:materialEntityID são destinados a identificar de forma única
     <tr>
       <td style="text-align: left">Definição</td>
       <td style="text-align: left">
-        Um identificador para o conjunto de informações associadas a um evento
-        (algo que ocorre em um local e horário). Pode ser um identificador
-        exclusivo global ou um identificador específico para o conjunto de
-        dados.
+        Destina-se a identificar de forma única e persistente um Espécime Digital.A prática recomendada é usar um DOI (Identificador de Objeto Digital) com metadados legíveis por máquina no registro do DOI.
       </td>
     </tr>
     <tr>
       <td style="text-align: left">Domínio</td>
-      <td style="text-align: left">[Identificador único do evento]</td>
+      <td style="text-align: left">[Identificador único]</td>
     </tr>
     <tr>
       <td style="text-align: left">Exemplos</td>
       <td style="text-align: left">
         <ul>
-          <li>
-            <a
-              href="https://ala-hub.sibbr.gov.br/ala-hub/occurrences/f8bd0b2d-39be-471f-b299-d4d3184c5963"
-              >BR:PELD-ELPA:FURG:patos:cetaceans:2005-08-04:E2</a
-            >
+          <li>           
+              https://doi.org/10.3535/M42-Z4P-DRD
           </li>
         </ul>
       </td>
