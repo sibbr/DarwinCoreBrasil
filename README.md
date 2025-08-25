@@ -2741,19 +2741,19 @@ digitalSpecimenID
   </tbody>
 </table>
 
-<!-- #### materialEntityType
+materialEntityType
 
 <table>
   <tr class="table-secondary">
     <th colspan="2">
-      <a href="https://github.com/sibbr/DarwinCoreBrasil/issues/53">eventID</a>
+      <a href="https://github.com/sibbr/DarwinCoreBrasil/issues/197">materialEntityType</a>
     </th>
   </tr>
   <tr>
     <td style="text-align: left">Identificador</td>
     <td style="text-align: left">
-      <a href="https://dwc.tdwg.org/terms/#dwc:eventID"
-        >https://dwc.tdwg.org/terms/#dwc:eventID</a
+      <a href="https://dwc.tdwg.org/terms/#dwc:materialEntityType"
+        >https://dwc.tdwg.org/terms/#dwc:materialEntityType</a
       >
     </td>
   </tr>
@@ -2761,25 +2761,21 @@ digitalSpecimenID
     <tr>
       <td style="text-align: left">Definição</td>
       <td style="text-align: left">
-        Um identificador para o conjunto de informações associadas a um evento
-        (algo que ocorre em um local e horário). Pode ser um identificador
-        exclusivo global ou um identificador específico para o conjunto de
-        dados.
+       Uma classificação mais genérica de um MaterialEntity do que em utilizado em preparations.
       </td>
     </tr>
     <tr>
       <td style="text-align: left">Domínio</td>
-      <td style="text-align: left">[Identificador único do evento]</td>
+      <td style="text-align: left">Amostra ambiental | Macrofóssil | Mesofóssil | Microfóssil | Montagem taxidérmica | Testemunho | Objeto/espécime alfinetado </td>
     </tr>
     <tr>
       <td style="text-align: left">Exemplos</td>
       <td style="text-align: left">
         <ul>
           <li>
-            <a
-              href="https://ala-hub.sibbr.gov.br/ala-hub/occurrences/f8bd0b2d-39be-471f-b299-d4d3184c5963"
-              >BR:PELD-ELPA:FURG:patos:cetaceans:2005-08-04:E2</a
-            >
+            Testemunho
+          </li>
+          <li> Amostra ambiental
           </li>
         </ul>
       </td>
@@ -2787,7 +2783,7 @@ digitalSpecimenID
   </tbody>
 </table>
 
-#### discipline
+<!-- #### discipline
 
 <table>
   <tr class="table-secondary">
