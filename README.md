@@ -3354,6 +3354,46 @@ discipline
 </table>
 
 ---
+#### fundingAttribution
+<table>
+  <tr class="table-secondary">
+    <th colspan="2">
+      <a href="https://github.com/sibbr/DarwinCoreBrasil/issues/203"
+        >fundingAttribution</a
+      >
+    </th>
+  </tr>
+  <tr>
+    <td style="text-align: left">Identificador</td>
+    <td style="text-align: left">
+      <a href="https://dwc.tdwg.org/terms/#ac:fundingAttribution"
+        >https://dwc.tdwg.org/terms/#ac:fundingAttribution</a
+      >
+    </td>
+  </tr>
+  <tbody>
+    <tr>
+      <td style="text-align: left">Definição</td>
+      <td style="text-align: left">
+        Descrição textual das organizações ou indivíduos que financiaram a criação do recurso.
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Domínio</td>
+      <td style="text-align: left">[Descrição]</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Exemplos</td>
+      <td style="text-align: left">
+        <ul>
+          <li>CNPQ</li>
+          </ul>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+---
 #### eventDate
 <table>
   <tr class="table-secondary">
