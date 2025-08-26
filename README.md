@@ -2933,7 +2933,7 @@ Os valores de dwc:materialEntityID são destinados a identificar de forma única
       <td style="text-align: left">Definição</td>
       <td style="text-align: left">
         O estado atual de um espécime em relação à coleção identificada em
-        collectioncode ou collectionid.
+        collectionCode ou collectionID.
       </td>
     </tr>
     <tr>
@@ -2964,19 +2964,19 @@ Os valores de dwc:materialEntityID são destinados a identificar de forma única
 
 ---
 
-<!-- #### verbatimLabel
+#### verbatimLabel
 
 <table>
   <tr class="table-secondary">
     <th colspan="2">
-      <a href="https://github.com/sibbr/DarwinCoreBrasil/issues/53">eventID</a>
+      <a href="https://github.com/sibbr/DarwinCoreBrasil/issues/215">verbatimLabel</a>
     </th>
   </tr>
   <tr>
     <td style="text-align: left">Identificador</td>
     <td style="text-align: left">
-      <a href="https://dwc.tdwg.org/terms/#dwc:eventID"
-        >https://dwc.tdwg.org/terms/#dwc:eventID</a
+      <a href="https://dwc.tdwg.org/terms/#dwc:verbatimLabel"
+        >https://dwc.tdwg.org/terms/#dwc:verbatimLabel</a
       >
     </td>
   </tr>
@@ -2984,79 +2984,24 @@ Os valores de dwc:materialEntityID são destinados a identificar de forma única
     <tr>
       <td style="text-align: left">Definição</td>
       <td style="text-align: left">
-        Um identificador para o conjunto de informações associadas a um evento
-        (algo que ocorre em um local e horário). Pode ser um identificador
-        exclusivo global ou um identificador específico para o conjunto de
-        dados.
+        O conteúdo deste termo não deve incluir enfeites, prefixos, cabeçalhos ou quaisquer outras adições feitas ao texto. Abreviações não devem ser expandidas e supostos erros de ortografia não devem ser corrigidos. Linhas ou quebras entre blocos de texto que possam ser verificadas por meio das etiquetas originais ou imagens delas podem ser utilizadas. Exemplos de entidades materiais incluem espécimes preservados, fósseis e amostras de material.
       </td>
     </tr>
     <tr>
       <td style="text-align: left">Domínio</td>
-      <td style="text-align: left">[Identificador único do evento]</td>
+      <td style="text-align: left"></td>
     </tr>
     <tr>
       <td style="text-align: left">Exemplos</td>
       <td style="text-align: left">
         <ul>
-          <li>
-            <a
-              href="https://ala-hub.sibbr.gov.br/ala-hub/occurrences/f8bd0b2d-39be-471f-b299-d4d3184c5963"
-              >BR:PELD-ELPA:FURG:patos:cetaceans:2005-08-04:E2</a
-            >
-          </li>
         </ul>
       </td>
     </tr>
   </tbody>
 </table>
 
-#### associatedSequences
 
-<table>
-  <tr class="table-secondary">
-    <th colspan="2">
-      <a href="https://github.com/sibbr/DarwinCoreBrasil/issues/53">eventID</a>
-    </th>
-  </tr>
-  <tr>
-    <td style="text-align: left">Identificador</td>
-    <td style="text-align: left">
-      <a href="https://dwc.tdwg.org/terms/#dwc:eventID"
-        >https://dwc.tdwg.org/terms/#dwc:eventID</a
-      >
-    </td>
-  </tr>
-  <tbody>
-    <tr>
-      <td style="text-align: left">Definição</td>
-      <td style="text-align: left">
-        Um identificador para o conjunto de informações associadas a um evento
-        (algo que ocorre em um local e horário). Pode ser um identificador
-        exclusivo global ou um identificador específico para o conjunto de
-        dados.
-      </td>
-    </tr>
-    <tr>
-      <td style="text-align: left">Domínio</td>
-      <td style="text-align: left">[Identificador único do evento]</td>
-    </tr>
-    <tr>
-      <td style="text-align: left">Exemplos</td>
-      <td style="text-align: left">
-        <ul>
-          <li>
-            <a
-              href="https://ala-hub.sibbr.gov.br/ala-hub/occurrences/f8bd0b2d-39be-471f-b299-d4d3184c5963"
-              >BR:PELD-ELPA:FURG:patos:cetaceans:2005-08-04:E2</a
-            >
-          </li>
-        </ul>
-      </td>
-    </tr>
-  </tbody>
-</table>
-
---> 
 #### materialEntityRemarks
 
 <table>
