@@ -2762,7 +2762,7 @@ Os valores de dwc:materialEntityID são destinados a identificar de forma única
     <tr>
       <td style="text-align: left">Definição</td>
       <td style="text-align: left">
-       Uma classificação mais genérica de um MaterialEntity do que em utilizado em preparations.
+       Uma categoria que melhor corresponde à natureza de uma dwc:MaterialEntity.
       </td>
     </tr>
     <tr>
@@ -2805,7 +2805,7 @@ Os valores de dwc:materialEntityID são destinados a identificar de forma única
     <tr>
       <td style="text-align: left">Definição</td>
       <td style="text-align: left">
-        Este termo pode ser usado para classificar registros de acordo com ramos do conhecimento. A prática recomendada é usar um vocabulário controlado e separar os valores em uma lista com espaço, barra vertical, espaço ( | ).
+        O(s) ramo(s) principal(is) do conhecimento representado(s) pelo registro.
       </td>
     </tr>
     <tr>
