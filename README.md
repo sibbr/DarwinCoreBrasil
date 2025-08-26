@@ -26,7 +26,7 @@ Caso você queira sugerir a inclusão de um novo termo, por favor, abra uma [_is
 
 ## Classes e Termos DarwinCore
 
-| [Record-level](https://github.com/sibbr/DarwinCoreBrasil#record-level) | [Occurrence](https://github.com/sibbr/DarwinCoreBrasil#occurrence) | [Organism](https://github.com/sibbr/DarwinCoreBrasil#organism) | [MaterialEntity](https://github.com/sibbr/DarwinCoreBrasil#materialentity) | [MaterialSample](https://github.com/sibbr/DarwinCoreBrasil#materialsample)| [Event](https://github.com/sibbr/DarwinCoreBrasil#event) | [Location](https://github.com/sibbr/DarwinCoreBrasil#location) | [GeologicalContext](https://github.com/sibbr/DarwinCoreBrasil#geologicalcontext) | [Identification](https://github.com/sibbr/DarwinCoreBrasil#identification) | [Taxon](https://github.com/sibbr/DarwinCoreBrasil#taxon) | [MeasurementOrFact](https://github.com/sibbr/DarwinCoreBrasil#measurementorfact) | [ResourceRelationship](https://github.com/sibbr/DarwinCoreBrasil#resourcerelationship)
+| [Record-level](https://github.com/sibbr/DarwinCoreBrasil#record-level) | [Occurrence](https://github.com/sibbr/DarwinCoreBrasil#occurrence) | [Organism](https://github.com/sibbr/DarwinCoreBrasil#organism) | [MaterialEntity](https://github.com/sibbr/DarwinCoreBrasil#materialentity) | [MaterialSample](https://github.com/sibbr/DarwinCoreBrasil#materialsample)| [Event](https://github.com/sibbr/DarwinCoreBrasil#event) | [Location](https://github.com/sibbr/DarwinCoreBrasil#location) | [GeologicalContext](https://github.com/sibbr/DarwinCoreBrasil#geologicalcontext) | [Identification](https://github.com/sibbr/DarwinCoreBrasil#identification) | [Taxon](https://github.com/sibbr/DarwinCoreBrasil#taxon) | [MeasurementOrFact](https://github.com/sibbr/DarwinCoreBrasil#measurementorfact)
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 
 ### Record-level
@@ -9719,7 +9719,7 @@ discipline
 <table>
   <tr class="table-secondary">
     <th colspan="2">
-      <a href="https://github.com/sibbr/DarwinCoreBrasil/issues/241"
+      <a href="https://github.com/sibbr/DarwinCoreBrasil/issues/214"
         >relationshipRemarks</a
       >
     </th>
