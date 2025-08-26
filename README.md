@@ -3313,6 +3313,47 @@ discipline
 </table>
 
 ---
+#### projectID
+<table>
+  <tr class="table-secondary">
+    <th colspan="2">
+      <a href="https://github.com/sibbr/DarwinCoreBrasil/issues/202"
+        >projectID</a
+      >
+    </th>
+  </tr>
+  <tr>
+    <td style="text-align: left">Identificador</td>
+    <td style="text-align: left">
+      <a href="https://dwc.tdwg.org/terms/#dwc:projectID"
+        >https://dwc.tdwg.org/terms/#dwc:projectID</a
+      >
+    </td>
+  </tr>
+  <tbody>
+    <tr>
+      <td style="text-align: left">Definição</td>
+      <td style="text-align: left">
+        Uma lista (concatenada e separada) de identificadores de projetos que contribuíram para um evento.
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Domínio</td>
+      <td style="text-align: left">[Identificador do projeto]</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Exemplos</td>
+      <td style="text-align: left">
+        <ul>
+          <li>RCN276730</li>
+          <li> RCN276730 | Artsproject_7-24 </li>
+        </ul>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+---
 #### eventDate
 <table>
   <tr class="table-secondary">
