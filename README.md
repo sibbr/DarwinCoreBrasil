@@ -1473,10 +1473,10 @@ Caso você queira sugerir a inclusão de um novo termo, por favor, abra uma [_is
       <td style="text-align: left">
         <ul>
           <li>
-            Macho:
+            Macho
            </li>
           <li>
-            Fêmea:
+            Fêmea
            </li>
           <li>
             Hermafrodita: os hermafroditas verdadeiros são animais com intersexualidade, nos quais as gônadas masculinas e femininas se desenvolvem simultaneamente no mesmo indivíduo. (EMBRAPA, 2004)
@@ -1802,7 +1802,7 @@ Caso você queira sugerir a inclusão de um novo termo, por favor, abra uma [_is
       <td style="text-align: left">Definição</td>
       <td style="text-align: left">
         O processo pelo qual um organismo chegou em um determinado lugar
-        em um determinado tempo
+        em um determinado tempo.
       </td>
     </tr>
     <tr>
@@ -2701,7 +2701,7 @@ Os valores de dwc:materialEntityID são destinados a identificar de forma única
   </tbody>
 </table>
 
-digitalSpecimenID
+####digitalSpecimenID
 
 <table>
   <tr class="table-secondary">
@@ -2721,7 +2721,7 @@ digitalSpecimenID
     <tr>
       <td style="text-align: left">Definição</td>
       <td style="text-align: left">
-        Destina-se a identificar de forma única e persistente um Espécime Digital.A prática recomendada é usar um DOI (Identificador de Objeto Digital) com metadados legíveis por máquina no registro do DOI.
+        Destina-se a identificar de forma única e persistente um Espécime Digital. A prática recomendada é usar um DOI (Identificador de Objeto Digital) com metadados legíveis por máquina no registro do DOI.
       </td>
     </tr>
     <tr>
@@ -2741,7 +2741,8 @@ digitalSpecimenID
   </tbody>
 </table>
 
-materialEntityType
+
+####materialEntityType
 
 <table>
   <tr class="table-secondary">
@@ -2783,7 +2784,8 @@ materialEntityType
   </tbody>
 </table>
 
-discipline
+---
+####discipline
 
 <table>
   <tr class="table-secondary">
