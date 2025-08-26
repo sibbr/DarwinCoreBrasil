@@ -3394,6 +3394,46 @@ discipline
 </table>
 
 ---
+#### fundingAttributionID
+<table>
+  <tr class="table-secondary">
+    <th colspan="2">
+      <a href="https://github.com/sibbr/DarwinCoreBrasil/issues/204"
+        >fundingAttributionID</a
+      >
+    </th>
+  </tr>
+  <tr>
+    <td style="text-align: left">Identificador</td>
+    <td style="text-align: left">
+      <a href="https://dwc.tdwg.org/terms/#ac:fundingAttributionID"
+        >https://dwc.tdwg.org/terms/#ac:fundingAttributionID</a
+      >
+    </td>
+  </tr>
+  <tbody>
+    <tr>
+      <td style="text-align: left">Definição</td>
+      <td style="text-align: left">
+        Uma lista (concatenada e separada) dos identificadores globalmente únicos das organizações ou agências de financiamento que apoiaram o projeto.
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Domínio</td>
+      <td style="text-align: left">[Identificador único]</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Exemplos</td>
+      <td style="text-align: left">
+        <ul>
+          <li>https://ror.org/00epmv149</li>
+          </ul>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+---
 #### eventDate
 <table>
   <tr class="table-secondary">
@@ -6957,6 +6997,46 @@ discipline
 </table>
 
 ---
+#### typifiedName
+<table>
+  <tr class="table-secondary">
+    <th colspan="2">
+      <a href="https://github.com/sibbr/DarwinCoreBrasil/issues/205"
+        >typifiedName</a
+      >
+    </th>
+  </tr>
+  <tr>
+    <td style="text-align: left">Identificador</td>
+    <td style="text-align: left">
+      <a href=https://dwc.tdwg.org/terms/#dwc:typifiedName"
+        >https://dwc.tdwg.org/terms/#dwc:typifiedName</a
+      >
+    </td>
+  </tr>
+  <tbody>
+    <tr>
+      <td style="text-align: left">Definição</td>
+      <td style="text-align: left">
+        Um nome científico baseado em um espécime-tipo.
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Domínio</td>
+      <td style="text-align: left"></td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Exemplos</td>
+      <td style="text-align: left">
+        <ul>
+          <li>Polysiphonia amphibolis Womersley </li>
+        </ul>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+---
 #### identifiedBy
 <table>
   <tr class="table-secondary">
@@ -8941,6 +9021,55 @@ discipline
 </table>
 
 ---
+#### verbatimMeasurementType
+<table>
+  <tr class="table-secondary">
+    <th colspan="2">
+      <a href="https://github.com/sibbr/DarwinCoreBrasil/issues/206"
+        >verbatimMeasurementType</a
+      >
+    </th>
+  </tr>
+  <tr>
+    <td style="text-align: left">Identificador</td>
+    <td style="text-align: left">
+      <a href="https://dwc.tdwg.org/terms/#dwc:verbatimMeasurementType"
+        >https://dwc.tdwg.org/terms/#dwc:verbatimMeasurementType</a
+      >
+    </td>
+  </tr>
+  <tbody>
+    <tr>
+      <td style="text-align: left">Definição</td>
+      <td style="text-align: left">
+        Representa o tipo de medição ou dado conforme apareceu no registro original.
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Domínio</td>
+      <td style="text-align: left">[Medidção original realizada]</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Exemplos</td>
+      <td style="text-align: left">
+        <ul>
+      <li>
+        Temp_agua
+      </li>
+      <li>
+        Biomassa de peixes
+      </li>
+      <li>
+        tamanho da malha da rede de amostragem
+      </li>
+        </ul>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+
+---
 #### measurementValue
 <table>
   <tr class="table-secondary">
@@ -9297,6 +9426,329 @@ discipline
         <li> 2018-08-29T15:19 (15:19 horário local no dia 29 de Agosto de 2018)
         <ul>
           <!-- <li>NA</li> -->
+        </ul>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+---
+
+### ResourceRelationship
+#### resourceRelationshipID
+<table>
+  <tr class="table-secondary">
+    <th colspan="2">
+      <a href="https://github.com/sibbr/DarwinCoreBrasil/issues/207"
+        >resourceRelationshipID</a
+      >
+    </th>
+  </tr>
+  <tr>
+    <td style="text-align: left">Identificador</td>
+    <td style="text-align: left">
+      <a href="https://dwc.tdwg.org/terms/#dwc:resourceRelationshipID"
+        >https://dwc.tdwg.org/terms/#dwc:resourceRelationshipID</a
+      >
+    </td>
+  </tr>
+  <tbody>
+    <tr>
+      <td style="text-align: left">Definição</td>
+      <td style="text-align: left">
+        Um identificador para uma instância de relacionamento entre um recurso (o sujeito) e outro (dwc:relatedResource, o objeto).
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Domínio</td>
+      <td style="text-align: left">[Identificador]</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Exemplos</td>
+      <td style="text-align: left">
+        <ul>
+          <!-- <li>NA</li> -->
+        </ul>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+---
+#### resourceID
+<table>
+  <tr class="table-secondary">
+    <th colspan="2">
+      <a href="https://github.com/sibbr/DarwinCoreBrasil/issues/208"
+        >resourceID</a
+      >
+    </th>
+  </tr>
+  <tr>
+    <td style="text-align: left">Identificador</td>
+    <td style="text-align: left">
+      <a href="https://dwc.tdwg.org/terms/#dwc:resourceID"
+        >https://dwc.tdwg.org/terms/#dwc:resourceID</a
+      >
+    </td>
+  </tr>
+  <tbody>
+    <tr>
+      <td style="text-align: left">Definição</td>
+      <td style="text-align: left">
+        Um identificador para o recurso que é o sujeito do relacionamento.
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Domínio</td>
+      <td style="text-align: left">[Identificador]</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Exemplos</td>
+      <td style="text-align: left">
+        <ul>
+          <!-- <li>NA</li> -->
+        </ul>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+---
+#### relationshipOfResourceID
+<table>
+  <tr class="table-secondary">
+    <th colspan="2">
+      <a href="https://github.com/sibbr/DarwinCoreBrasil/issues/209"
+        >relationshipOfResourceID</a
+      >
+    </th>
+  </tr>
+  <tr>
+    <td style="text-align: left">Identificador</td>
+    <td style="text-align: left">
+      <a href="https://dwc.tdwg.org/terms/#dwc:relationshipOfResourceID"
+        >https://dwc.tdwg.org/terms/#dwc:relationshipOfResourceID</a
+      >
+    </td>
+  </tr>
+  <tbody>
+    <tr>
+      <td style="text-align: left">Definição</td>
+      <td style="text-align: left">
+        Um identificador para o tipo de relacionamento (predicado) que conecta o sujeito identificado por dwc:resourceID ao seu objeto identificado por dwc:relatedResourceID.
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Domínio</td>
+      <td style="text-align: left">[Identificador]</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Exemplos</td>
+      <td style="text-align: left">
+        <ul>
+          <!-- <li>NA</li> -->
+        </ul>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+---
+#### relatedResourceID
+<table>
+  <tr class="table-secondary">
+    <th colspan="2">
+      <a href="https://github.com/sibbr/DarwinCoreBrasil/issues/210"
+        >relatedResourceID</a
+      >
+    </th>
+  </tr>
+  <tr>
+    <td style="text-align: left">Identificador</td>
+    <td style="text-align: left">
+      <a href="https://dwc.tdwg.org/terms/#dwc:relatedResourceID"
+        >https://dwc.tdwg.org/terms/#dwc:relatedResourceID</a
+      >
+    </td>
+  </tr>
+  <tbody>
+    <tr>
+      <td style="text-align: left">Definição</td>
+      <td style="text-align: left">
+        Um identificador para um recurso relacionado (o objeto, e não o sujeito do relacionamento).
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Domínio</td>
+      <td style="text-align: left">[Identificador]</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Exemplos</td>
+      <td style="text-align: left">
+        <ul>
+          <!-- <li>NA</li> -->
+        </ul>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+---
+#### relationshipOfResource
+<table>
+  <tr class="table-secondary">
+    <th colspan="2">
+      <a href="https://github.com/sibbr/DarwinCoreBrasil/issues/211"
+        >relationshipOfResource</a
+      >
+    </th>
+  </tr>
+  <tr>
+    <td style="text-align: left">Identificador</td>
+    <td style="text-align: left">
+      <a href="https://dwc.tdwg.org/terms/#dwc:relationshipOfResource"
+        >https://dwc.tdwg.org/terms/#dwc:relationshipOfResource</a
+      >
+    </td>
+  </tr>
+  <tbody>
+    <tr>
+      <td style="text-align: left">Definição</td>
+      <td style="text-align: left">
+        A relação do sujeito (identificado por dwc:resourceID) com o objeto (identificado por dwc:relatedResourceID).
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Domínio</td>
+      <td style="text-align: left">Igual a | Duplicata de | Mãe de | Parasita de | Sinônimo válido de | Localizado dentro de | Polinizou planta específica | Hospedeiro de  </td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Exemplos</td>
+      <td style="text-align: left">
+        <ul>
+          <!-- <li>NA</li> -->
+        </ul>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+---
+#### relationshipAccordingTo
+<table>
+  <tr class="table-secondary">
+    <th colspan="2">
+      <a href="https://github.com/sibbr/DarwinCoreBrasil/issues/212"
+        >relationshipAccordingTo</a
+      >
+    </th>
+  </tr>
+  <tr>
+    <td style="text-align: left">Identificador</td>
+    <td style="text-align: left">
+      <a href="https://dwc.tdwg.org/terms/#dwc:relationshipAccordingTo"
+        >https://dwc.tdwg.org/terms/#dwc:relationshipAccordingTo</a
+      >
+    </td>
+  </tr>
+  <tbody>
+    <tr>
+      <td style="text-align: left">Definição</td>
+      <td style="text-align: left">
+        A fonte (pessoa, organização, publicação, referência) que estabelece o relacionamento entre os dois recursos.
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Domínio</td>
+      <td style="text-align: left">[Fonte]</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Exemplos</td>
+      <td style="text-align: left">
+        <ul>
+          <!-- <li>NA</li> -->
+        </ul>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+---
+#### relationshipEstablishedDate
+<table>
+  <tr class="table-secondary">
+    <th colspan="2">
+      <a href="https://github.com/sibbr/DarwinCoreBrasil/issues/213"
+        >relationshipEstablishedDate</a
+      >
+    </th>
+  </tr>
+  <tr>
+    <td style="text-align: left">Identificador</td>
+    <td style="text-align: left">
+      <a href="https://dwc.tdwg.org/terms/#dwc:relationshipEstablishedDate"
+        >https://dwc.tdwg.org/terms/#dwc:relationshipEstablishedDate</a
+      >
+    </td>
+  </tr>
+  <tbody>
+    <tr>
+      <td style="text-align: left">Definição</td>
+      <td style="text-align: left">
+      A data e hora em que o relacionamento entre os dois recursos foi estabelecido.
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Domínio</td>
+      <td style="text-align: left">[Data no formato estabelecido na ISO 8601-1:2019]</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Exemplos</td>
+      <td style="text-align: left">
+        <ul>
+          <!-- <li>NA</li> -->
+        </ul>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+---
+#### relationshipRemarks
+<table>
+  <tr class="table-secondary">
+    <th colspan="2">
+      <a href="https://github.com/sibbr/DarwinCoreBrasil/issues/241"
+        >relationshipRemarks</a
+      >
+    </th>
+  </tr>
+  <tr>
+    <td style="text-align: left">Identificador</td>
+    <td style="text-align: left">
+      <a href="https://dwc.tdwg.org/terms/#dwc:relationshipRemarks"
+        >https://dwc.tdwg.org/terms/#dwc:relationshipRemarks</a
+      >
+    </td>
+  </tr>
+  <tbody>
+    <tr>
+      <td style="text-align: left">Definição</td>
+      <td style="text-align: left">
+      Comentários ou observações sobre o relacionamento entre os dois recursos.
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Domínio</td>
+      <td style="text-align: left">[Comentários]</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Exemplos</td>
+      <td style="text-align: left">
+        <ul>
+          <li>Mãe e descendente coletados do mesmo ninho</li>
+          <li> Polinizador capturado em flagrante</li>
         </ul>
       </td>
     </tr>
