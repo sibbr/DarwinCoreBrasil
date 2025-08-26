@@ -2701,7 +2701,7 @@ Os valores de dwc:materialEntityID são destinados a identificar de forma única
   </tbody>
 </table>
 
-####digitalSpecimenID
+#### digitalSpecimenID
 
 <table>
   <tr class="table-secondary">
@@ -2742,7 +2742,7 @@ Os valores de dwc:materialEntityID são destinados a identificar de forma única
 </table>
 
 
-####materialEntityType
+#### materialEntityType
 
 <table>
   <tr class="table-secondary">
@@ -2785,7 +2785,7 @@ Os valores de dwc:materialEntityID são destinados a identificar de forma única
 </table>
 
 ---
-####discipline
+#### discipline
 
 <table>
   <tr class="table-secondary">
