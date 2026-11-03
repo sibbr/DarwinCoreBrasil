@@ -1735,6 +1735,13 @@ Caso você queira sugerir a inclusão de um novo termo, por favor, abra uma [_is
             <!-- <li>NA</li> -->
         </ul>
       </td>
+     <tr>
+      <td style="text-align: left">Comentários</td>
+      <td style="text-align: left">
+        Com o objetivo de harmonizar os termos utilizados nos diferentes catálogos taxonômicos, as categorias “cultivada” e “naturalizada” foram padronizadas e exportadas para o IPT sob a denominação “exótica”, entendida como espécie não nativa, abrangendo ambas as categorias.
+      </td>
+    </tr>
+    <tr>
     </tr>
   </tbody>
 </table>
