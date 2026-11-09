@@ -53,8 +53,7 @@ Caso você queira sugerir a inclusão de um novo termo, por favor, abra uma [_is
     <tr>
       <td style="text-align: left">Definição</td>
       <td style="text-align: left">
-        O nome que identifica o conjunto de dados do qual o registro foi
-        derivado.
+        O nome que identifica o conjunto de dados.
       </td>
     </tr>
     <tr>
